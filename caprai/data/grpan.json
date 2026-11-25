@@ -1,0 +1,556 @@
+{
+ "n": "Letti il 25/11/2026 con Firecrawl i siti ufficiali di 8 realtà: Arnaldo Caprai (più il portale capraiexperience.com), Bertani, Val di Suga, Tenuta Trerose, San Leonino, Fazi Battaglia, Cantina Puiatti e il sito del gruppo Angelini Wines & Estates. Per ogni sito: homepage con menu e footer, più al massimo 2 pagine interne (storia, visite, una scheda vino); per Trerose, San Leonino e Angelini anche un controllo dell'HTML di header e footer per i link social. Crediti usati: 27 su 30. Mancano: schede tecniche di Bertani, Trerose, Fazi Battaglia e Puiatti (non è stata aperta una pagina vino singola); piattaforma degli shop esterni (shop.bertani.net, shop.valdisuga.it, shop.puiatti.com) e del sito Puiatti; prezzi e pagamento delle visite Bertani (pagine prodotto non aperte); contenuto dei menu a tendina del sito Caprai (Identità, Vini, Esperienze) e dell'area riservata Bertani. Nessuna certificazione (Equalitas, biologico, B Corp) è risultata nelle pagine lette: per questo cert è vuoto ovunque, non perché sia stato verificato che non esistono. Nota: il sito del gruppo elenca 7 tenute (Bertani, Val di Suga, Trerose, San Leonino, Fazi Battaglia, Tenute San Sisto, Puiatti) e non nomina Arnaldo Caprai.",
+ "az": {
+  "caprai": {
+   "u": "https://www.arnaldocaprai.it/",
+   "claim": [
+    "Il Sagrantino di Montefalco",
+    "https://www.arnaldocaprai.it/"
+   ],
+   "lingue": [
+    [
+     "it",
+     "en"
+    ],
+    "https://www.arnaldocaprai.it/"
+   ],
+   "shop": [
+    false,
+    "Nessun e-commerce di vino visto: né nel menu principale né nel footer né nella barra sotto il menu (News, Premi, Diventa rivenditore, Press Kit). capraiexperience.com è un negozio WooCommerce ma vende solo esperienze e gift card, non vino. I menu a tendina Identità/Vini/Esperienze non sono stati aperti.",
+    "https://www.arnaldocaprai.it/"
+   ],
+   "prenota": [
+    true,
+    "Prenotazione online con pagamento: capraiexperience.com ha carrello e prezzi (Tour&Food 35 €, Montefalco Land 70 €, PicNic in Vigna 80 €, Sfumature di Montefalco 90 €, Sagrantino Lovers 125 €, 25 Anni in Verticale 180 €, Signature Collection 200 €), eventi (Calici di Stelle, Cantine Aperte) e gift card 25-200 €.",
+    "https://www.capraiexperience.com/"
+   ],
+   "newsletter": [
+    true,
+    "Modulo nel footer: «Resta sempre aggiornato sulle novità della Cantina Arnaldo Caprai» con pulsante Iscriviti.",
+    "https://www.arnaldocaprai.it/"
+   ],
+   "club": [
+    false,
+    "Nessun wine club o membership nei menu, nel footer o nel portale esperienze.",
+    "https://www.arnaldocaprai.it/"
+   ],
+   "trade": [
+    true,
+    "Pagina Press Kit con 10 PDF scaricabili (azienda, riconoscimenti, Sagrantino, ricerca e sperimentazione, innovazione e sostenibilità, Caprai4love, vini bianchi, linea Signature, Michel Rolland, 25 Anni) e pagina «Diventa rivenditore».",
+    "https://www.arnaldocaprai.it/press-kit/"
+   ],
+   "schede": [
+    true,
+    "Nella pagina del vino c'è il pulsante «Scarica scheda tecnica» (PDF) oltre alla scheda a schermo e ai premi per annata.",
+    "https://www.arnaldocaprai.it/vino/25-anni/"
+   ],
+   "cita_gruppo": [
+    false,
+    "Footer controllato: «© 2026 Arnaldo Caprai - Tutti i diritti riservati», nessuna menzione di Angelini Wines & Estates; neanche nel footer di capraiexperience («© ARNALDO CAPRAI Società Agricola s.r.l.»).",
+    "https://www.arnaldocaprai.it/"
+   ],
+   "social": {
+    "ig": "https://www.instagram.com/arnaldocaprai/",
+    "fb": "https://www.facebook.com/CantinaArnaldoCaprai",
+    "li": null,
+    "yt": null,
+    "tt": null
+   },
+   "temi": [
+    "territorio",
+    "famiglia e storia",
+    "ricerca e innovazione",
+    "premi",
+    "ospitalità"
+   ],
+   "temi_u": "https://www.arnaldocaprai.it/",
+   "cert": [],
+   "tech": [
+    "Next.js con contenuti su Sanity (percorsi /_next/ e cdn.sanity.io); il portale esperienze è WordPress + WooCommerce",
+    "https://www.arnaldocaprai.it/"
+   ],
+   "nota": "Il sito è il più completo del gruppo: claim chiaro sul Sagrantino, esperienze vendibili online con prezzi, area stampa ricca e schede tecniche in PDF. Punta su tradizione, ricerca e territorio di Montefalco, con premi in homepage e un video su Vimeo. Nel footer ci sono anche X e Vimeo (non in elenco), manca uno shop di vino e il gruppo Angelini non è mai nominato."
+  },
+  "bertani": {
+   "u": "https://www.bertani.net/",
+   "claim": [
+    "Our history is our style",
+    "https://www.bertani.net/"
+   ],
+   "lingue": [
+    [
+     "it",
+     "en"
+    ],
+    "https://www.bertani.net/"
+   ],
+   "shop": [
+    true,
+    "Voce E-Shop nel menu verso un negozio separato su sottodominio (shop.bertani.net); piattaforma non verificata.",
+    "https://www.bertani.net/"
+   ],
+   "prenota": [
+    true,
+    "Pagina Experiences con 4 esperienze e pulsante «Book now» (Original Vintage Edition, Valpolicella Classica, BertaniON, The Library Experience) più «Tailor made» su richiesta; le pagine sono di tipo prodotto (/product/), prezzi e pagamento non verificati.",
+    "https://www.bertani.net/experiences/"
+   ],
+   "newsletter": [
+    false,
+    "Nessun modulo o link newsletter nel menu, nel footer o nella homepage letta.",
+    "https://www.bertani.net/"
+   ],
+   "club": [
+    true,
+    "«Join our Wine club» verso library.bertani.net: accesso esclusivo alle annate storiche di Amarone e a esperienze speciali.",
+    "https://www.bertani.net/"
+   ],
+   "trade": [
+    true,
+    "Voce «Reserved area» nel menu secondario e sezione News & Press; non si sa a chi sia destinata l'area riservata (non aperta).",
+    "https://www.bertani.net/"
+   ],
+   "schede": [
+    null,
+    "Non verificato: nessuna pagina vino singola aperta.",
+    "https://www.bertani.net/"
+   ],
+   "cita_gruppo": [
+    false,
+    "Menu, footer e pagina About us controllati: nessuna menzione di Angelini Wines & Estates nel testo letto.",
+    "https://www.bertani.net/about-us/"
+   ],
+   "social": {
+    "ig": "https://www.instagram.com/cantine_bertani/",
+    "fb": "https://www.facebook.com/cantine.bertani",
+    "li": null,
+    "yt": null,
+    "tt": null
+   },
+   "temi": [
+    "famiglia e storia",
+    "territorio",
+    "ricerca e innovazione",
+    "sostenibilità",
+    "ospitalità"
+   ],
+   "temi_u": "https://www.bertani.net/about-us/",
+   "cert": [],
+   "tech": [
+    "WordPress (percorsi /wp-content/)",
+    "https://www.bertani.net/"
+   ],
+   "nota": "Sito di forte impatto visivo, a scorrimento orizzontale, con tono iconico («since 1857», «An Iconic style») e una lunga timeline storica. È l'unico con un wine club (The Library) e una verifica di autenticità delle bottiglie. Le notizie in homepage sono ferme a ottobre 2024 e il gruppo non è citato."
+  },
+  "valdisuga": {
+   "u": "https://www.valdisuga.com/en/",
+   "claim": [
+    "Three unique vineyards",
+    "https://www.valdisuga.com/en/"
+   ],
+   "lingue": [
+    [
+     "en",
+     "it"
+    ],
+    "https://www.valdisuga.com/en/"
+   ],
+   "shop": [
+    true,
+    "Voce Shop nel menu verso negozio separato su shop.valdisuga.it; piattaforma non verificata.",
+    "https://www.valdisuga.com/en/"
+   ],
+   "prenota": [
+    true,
+    "Modulo «Book a visit» con scelta esperienza e data, senza pagamento online: Premium 35 €, Super-premium 40 €, Cru 55 €. In alternativa email e telefono dell'enoteca.",
+    "https://www.valdisuga.com/en/hospitality/"
+   ],
+   "newsletter": [
+    true,
+    "Box «Subscribe to the newsletter» nel footer, con pagina di iscrizione su angeliniwinestates.ac-page.com.",
+    "https://www.valdisuga.com/en/"
+   ],
+   "club": [
+    false,
+    "Nessun club nei menu o nel footer.",
+    "https://www.valdisuga.com/en/"
+   ],
+   "trade": [
+    false,
+    "Nessuna area per professionisti, stampa o importatori nel menu o nel footer.",
+    "https://www.valdisuga.com/en/"
+   ],
+   "schede": [
+    true,
+    "Nella pagina vino: «Discover the data sheet» con PDF scaricabile.",
+    "https://www.valdisuga.com/en/wines/brunello-di-montalcino-vigna-spuntali/"
+   ],
+   "cita_gruppo": [
+    true,
+    "Footer: «Angelini Wines & Estates – VAT n. IT02555110424»; la pagina Hospitality dice che l'enoteca vende anche vini delle altre cantine di Angelini Wines & Estates.",
+    "https://www.valdisuga.com/en/"
+   ],
+   "social": {
+    "ig": "https://www.instagram.com/valdisugawines/",
+    "fb": "https://www.facebook.com/valdisugawines/",
+    "li": null,
+    "yt": null,
+    "tt": null
+   },
+   "temi": [
+    "territorio",
+    "ospitalità"
+   ],
+   "temi_u": "https://www.valdisuga.com/en/",
+   "cert": [],
+   "tech": [
+    "WordPress con WPML (percorsi /wp-content/)",
+    "https://www.valdisuga.com/en/"
+   ],
+   "nota": "Il sito ruota tutto sull'idea dei tre vigneti e tre versanti di Montalcino, con mappa e schede per ogni cru. Ospitalità chiara con prezzi e modulo, shop e newsletter presenti. Si apre in inglese, cita il gruppo nel footer e linka anche TripAdvisor e recensioni Google."
+  },
+  "trerose": {
+   "u": "https://tenutatrerose.it/it",
+   "claim": [
+    "È qui dove si incontrano argille e sabbie",
+    "https://tenutatrerose.it/it"
+   ],
+   "lingue": [
+    [
+     "it",
+     "en"
+    ],
+    "https://tenutatrerose.it/it"
+   ],
+   "shop": [
+    false,
+    "Menu (La Tenuta, Il Territorio, Il Progetto, I Vini, Contatti) e footer controllati: nessuno shop.",
+    "https://tenutatrerose.it/it"
+   ],
+   "prenota": [
+    false,
+    "Nessuna voce visite o prenotazione nel menu o nel footer.",
+    "https://tenutatrerose.it/it"
+   ],
+   "newsletter": [
+    false,
+    "Nessuna newsletter nel footer (controllato anche nell'HTML).",
+    "https://tenutatrerose.it/it"
+   ],
+   "club": [
+    false,
+    "Nessun club nel menu o nel footer.",
+    "https://tenutatrerose.it/it"
+   ],
+   "trade": [
+    false,
+    "Nessuna area stampa o professionisti nel menu o nel footer.",
+    "https://tenutatrerose.it/it"
+   ],
+   "schede": [
+    null,
+    "Non verificato: aperta solo la lista vini, non una pagina vino singola.",
+    "https://tenutatrerose.it/it/vini"
+   ],
+   "cita_gruppo": [
+    true,
+    "Footer: «Angelini Wines & Estates Società Agricola a r.l.» con logo che porta al sito del gruppo.",
+    "https://tenutatrerose.it/it"
+   ],
+   "social": {
+    "ig": null,
+    "fb": null,
+    "li": null,
+    "yt": null,
+    "tt": null
+   },
+   "temi": [
+    "territorio",
+    "famiglia e storia",
+    "arte e cultura"
+   ],
+   "temi_u": "https://tenutatrerose.it/it/tenuta",
+   "cert": [],
+   "tech": [
+    "Drupal (percorsi /sites/all/themes/, stesso schema del sito Fazi Battaglia che dichiara Drupal 7), agenzia IM*MEDIA",
+    "https://tenutatrerose.it/it"
+   ],
+   "nota": "Sito vetrina sobrio, con testi lunghi su storia romana, villa del 1521 e Sangiovese Prugnolo. Non ha shop, visite, newsletter né social (header e footer controllati anche nell'HTML). Le pagine lette risultano aggiornate l'ultima volta tra il 2016 e il 2019."
+  },
+  "sanleonino": {
+   "u": "https://sanleonino.it/it",
+   "claim": [
+    "La migliore tradizione chiantigiana reinterpretata attraverso il nostro credo assoluto nel sangiovese",
+    "https://sanleonino.it/it"
+   ],
+   "lingue": [
+    [
+     "it",
+     "en"
+    ],
+    "https://sanleonino.it/it"
+   ],
+   "shop": [
+    false,
+    "Menu (La Fattoria, Il Territorio, Il Progetto, I Vini, Contatti) e footer controllati: nessuno shop.",
+    "https://sanleonino.it/it"
+   ],
+   "prenota": [
+    false,
+    "Nessuna voce visite o prenotazione nel menu o nel footer.",
+    "https://sanleonino.it/it"
+   ],
+   "newsletter": [
+    false,
+    "Nessuna newsletter nel footer (controllato anche nell'HTML).",
+    "https://sanleonino.it/it"
+   ],
+   "club": [
+    false,
+    "Nessun club nel menu o nel footer.",
+    "https://sanleonino.it/it"
+   ],
+   "trade": [
+    false,
+    "Nessuna area stampa o professionisti nel menu o nel footer.",
+    "https://sanleonino.it/it"
+   ],
+   "schede": [
+    true,
+    "Nella pagina vino c'è la scheda a schermo e un link «Download» al PDF.",
+    "https://sanleonino.it/it/vini/al-limite"
+   ],
+   "cita_gruppo": [
+    true,
+    "Footer: «Angelini Wines & Estates Società Agricola a r.l.» con logo del gruppo. La pagina Il Progetto usa ancora il vecchio nome: «per il gruppo di cantine di Bertani Domains».",
+    "https://sanleonino.it/it/progetto"
+   ],
+   "social": {
+    "ig": null,
+    "fb": null,
+    "li": null,
+    "yt": null,
+    "tt": null
+   },
+   "temi": [
+    "territorio",
+    "famiglia e storia",
+    "ricerca e innovazione"
+   ],
+   "temi_u": "https://sanleonino.it/it/progetto",
+   "cert": [],
+   "tech": [
+    "Drupal (percorsi /sites/default/files/ e /sites/all/themes/, stesso template IM*MEDIA di Trerose)",
+    "https://sanleonino.it/it"
+   ],
+   "nota": "Stesso modello di Trerose: sito vetrina su storia della fattoria, Sangiovese in purezza e Chianti Classico, con schede tecniche scaricabili. Mancano shop, visite, newsletter e social. Il testo del progetto cita ancora «Bertani Domains», nome del gruppo prima del 2022."
+  },
+  "fazibattaglia": {
+   "u": "https://fazibattaglia.com/it",
+   "claim": [
+    "Un’icona del vino italiano dal 1949",
+    "https://fazibattaglia.com/it"
+   ],
+   "lingue": [
+    [
+     "it",
+     "en"
+    ],
+    "https://fazibattaglia.com/it"
+   ],
+   "shop": [
+    false,
+    "Nessuno shop online nel menu o nel footer; la voce «L'Enoteca» rimanda a una pagina del sito (non aperta), senza link a un negozio.",
+    "https://fazibattaglia.com/it"
+   ],
+   "prenota": [
+    true,
+    "Solo modulo di richiesta informazioni, email e telefono per prenotare tour e degustazioni; nessun prezzo né pagamento online.",
+    "https://fazibattaglia.com/it/visite-cantina"
+   ],
+   "newsletter": [
+    false,
+    "Nessuna newsletter nel menu o nel footer.",
+    "https://fazibattaglia.com/it"
+   ],
+   "club": [
+    false,
+    "Nessun club nel menu o nel footer.",
+    "https://fazibattaglia.com/it"
+   ],
+   "trade": [
+    false,
+    "Nessuna area stampa o professionisti nel menu o nel footer.",
+    "https://fazibattaglia.com/it"
+   ],
+   "schede": [
+    null,
+    "Non verificato: aperta solo la lista vini, non una pagina vino singola.",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "cita_gruppo": [
+    true,
+    "Footer: «Angelini Wines & Estates Società Agricola a r.l.» con logo del gruppo; il modulo visite richiama l'informativa privacy di Angelini Wines & Estates.",
+    "https://fazibattaglia.com/it"
+   ],
+   "social": {
+    "ig": "https://www.instagram.com/fazibattagliawines",
+    "fb": "https://www.facebook.com/fazibattagliawines/",
+    "li": null,
+    "yt": null,
+    "tt": null
+   },
+   "temi": [
+    "famiglia e storia",
+    "territorio",
+    "ricerca e innovazione",
+    "ospitalità",
+    "arte e cultura"
+   ],
+   "temi_u": "https://fazibattaglia.com/it",
+   "cert": [],
+   "tech": [
+    "Drupal 7 (dichiarato nel meta generator), agenzia IM*MEDIA",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "nota": "Racconta Fazi Battaglia come icona del Made in Italy e del Verdicchio, con l'anfora Titulus al centro e la Galleria della Comunicazione come richiamo per le visite. Visite solo su richiesta, niente shop né newsletter. Nell'header c'è anche Twitter; le pagine lette risultano aggiornate l'ultima volta nel 2018."
+  },
+  "puiatti": {
+   "u": "https://puiatti.com/it/",
+   "claim": [
+    "Siamo un metodo.",
+    "https://puiatti.com/it/"
+   ],
+   "lingue": [
+    [
+     "it",
+     "en"
+    ],
+    "https://puiatti.com/it/"
+   ],
+   "shop": [
+    true,
+    "Voce Shop nel menu verso negozio separato su shop.puiatti.com; piattaforma non verificata.",
+    "https://puiatti.com/it/"
+   ],
+   "prenota": [
+    false,
+    "La pagina Visite dice che si possono prenotare visite guidate e degustazioni, ma non c'è modulo né sistema online: restano email e telefono del footer.",
+    "https://puiatti.com/it/visite"
+   ],
+   "newsletter": [
+    false,
+    "Nessuna newsletter nel menu o nel footer.",
+    "https://puiatti.com/it/"
+   ],
+   "club": [
+    false,
+    "Nessun club nel menu o nel footer.",
+    "https://puiatti.com/it/"
+   ],
+   "trade": [
+    false,
+    "Nessuna area stampa o professionisti nel menu o nel footer.",
+    "https://puiatti.com/it/"
+   ],
+   "schede": [
+    null,
+    "Non verificato: nessuna pagina vino aperta.",
+    "https://puiatti.com/it/"
+   ],
+   "cita_gruppo": [
+    false,
+    "Footer controllato (indirizzo Romans d'Isonzo, contatti, social, cookie e privacy): nessuna menzione di Angelini Wines & Estates.",
+    "https://puiatti.com/it/"
+   ],
+   "social": {
+    "ig": "https://www.instagram.com/cantinapuiatti/",
+    "fb": "https://www.facebook.com/puiattiwines",
+    "li": null,
+    "yt": null,
+    "tt": null
+   },
+   "temi": [
+    "ricerca e innovazione",
+    "territorio"
+   ],
+   "temi_u": "https://puiatti.com/it/chi-siamo",
+   "cert": [],
+   "tech": null,
+   "nota": "Sito dal design moderno e minimale, con tono assertivo («Siamo un metodo») centrato sul metodo di vinificazione e sul clima dell'Isonzo. Ha uno shop separato e i social, ma visite solo a voce e nessuna newsletter. Usa solo cookie tecnici e non cita il gruppo."
+  },
+  "angelini": {
+   "u": "https://www.angeliniwinesandestates.com/",
+   "claim": [
+    "Elevating Territories",
+    "https://www.angeliniwinesandestates.com/"
+   ],
+   "lingue": [
+    [
+     "it",
+     "en"
+    ],
+    "https://www.angeliniwinesandestates.com/"
+   ],
+   "shop": [
+    false,
+    "Menu (Il gruppo, Le tenute, Press releases, Lavora con noi, Contatti) e footer controllati: nessuno shop.",
+    "https://www.angeliniwinesandestates.com/"
+   ],
+   "prenota": [
+    false,
+    "Nessuna prenotazione visite nel menu o nel footer del sito di gruppo.",
+    "https://www.angeliniwinesandestates.com/"
+   ],
+   "newsletter": [
+    false,
+    "Nessuna newsletter nel menu o nel footer (controllato anche nell'HTML).",
+    "https://www.angeliniwinesandestates.com/"
+   ],
+   "club": [
+    false,
+    "Nessun club nel menu o nel footer.",
+    "https://www.angeliniwinesandestates.com/"
+   ],
+   "trade": [
+    true,
+    "Sezione «Press releases» nel menu; nella pagina Il Gruppo due report di sostenibilità in PDF (2023 e 2024).",
+    "https://www.angeliniwinesandestates.com/"
+   ],
+   "schede": [
+    null,
+    "Non verificato: il sito di gruppo non è stato letto a livello di singolo vino.",
+    "https://www.angeliniwinesandestates.com/"
+   ],
+   "cita_gruppo": [
+    true,
+    "È il sito del gruppo; il footer dice «Part of Angelini Industries». Le tenute elencate sono 7 e Arnaldo Caprai non compare.",
+    "https://www.angeliniwinesandestates.com/"
+   ],
+   "social": {
+    "ig": null,
+    "fb": null,
+    "li": "https://www.linkedin.com/company/angelini-industries/",
+    "yt": null,
+    "tt": null
+   },
+   "temi": [
+    "territorio",
+    "sostenibilità",
+    "famiglia e storia"
+   ],
+   "temi_u": "https://www.angeliniwinesandestates.com/il-gruppo/",
+   "cert": [],
+   "tech": [
+    "WordPress con WPML e WPBakery Page Builder",
+    "https://www.angeliniwinesandestates.com/"
+   ],
+   "nota": "Sito istituzionale breve: claim «Elevating Territories», mappa dei territori e storia del gruppo da Tenimenti Angelini a Bertani Domains fino al nome attuale (2022). Punta su sostenibilità con report scaricabili. Non ha social propri: l'unico link è il LinkedIn della holding Angelini Industries, nel testo della pagina Il Gruppo."
+  }
+ },
+ "an": [
+  "Le sette tenute hanno in comune solo due cose: il sito anche in inglese e il racconto del territorio. Per il resto il gruppo va a due velocità. Caprai, Bertani e Val di Suga hanno siti completi (prenotazione delle visite, schede tecniche o shop, newsletter o wine club) e quasi tutto il peso dei premi: Val di Suga 18,4 punti, Caprai 9,9, Bertani 8,0. Trerose, San Leonino e Fazi Battaglia hanno siti vetrina senza shop né newsletter e, con Puiatti, quasi nessun premio pesato (Trerose 0,4, da due 90-91 di Wine Enthusiast).",
+  "Le coppie più simili sono Caprai e Bertani (18 punti in comune), poi Caprai e Val di Suga (14) e Bertani e Val di Suga (13): sono le tenute con lo stesso modello, cioè vino premiato, visite vendute online e un sito che fa da negozio o da sala stampa. Trerose è la più isolata: 3 punti in comune con Val di Suga e 4 con Puiatti, nessun account Instagram ufficiale, nessuna visita pubblicata e nessun link ai social sul sito.",
+  "Il gruppo si racconta poco e in modo disuguale. Il sito di Angelini Wines & Estates elenca le tenute ma non ancora Caprai; Caprai, Bertani e Puiatti non nominano mai il gruppo; San Leonino usa ancora il vecchio nome «Bertani Domains» nella pagina del progetto. Val di Suga, Trerose, San Leonino e Fazi Battaglia lo citano nel piè di pagina.",
+  "Cosa passare da una tenuta all'altra: da Caprai il portale con prenotazione e pagamento delle visite e l'area stampa con le schede; da Bertani il wine club, l'unico del gruppo, e il racconto della sostenibilità; da Puiatti i reel, l'unica che li usa almeno in un post su quattro; da Val di Suga il metodo sui premi (Tre Bicchieri e 5 Grappoli 2027 al Poggio al Granchio 2021). Ai siti vetrina di Trerose, San Leonino e Fazi Battaglia servono prima di tutto visite prenotabili e un account Instagram."
+ ]
+}

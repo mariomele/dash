@@ -1,6 +1,6 @@
 {
  "s": "val",
- "n": "Letture scritte il 25/11/2026 mettendosi nei panni di nove pubblici diversi, usando solo i numeri di questa dashboard (Premi e prezzi, Gamma, Ospitalità, Social, Storico, Confronto, Export). Il voto da 1 a 5 è una valutazione di quanto Caprai oggi risponde a ciò che quel pubblico cerca, non un sondaggio. Due dati presi fuori dalle altre pagine hanno la fonte accanto: prezzo del Montefalco Rosso online e presenza a Systembolaget.",
+ "n": "Letture scritte il 25/11/2026 mettendosi nei panni di undici pubblici diversi, usando solo i numeri di questa dashboard (Premi e prezzi, Gamma, Ospitalità, Social, Storico, Confronto, Export). Il voto da 1 a 5 è una valutazione di quanto Caprai oggi risponde a ciò che quel pubblico cerca, non un sondaggio. Due dati presi fuori dalle altre pagine hanno la fonte accanto: prezzo del Montefalco Rosso online e presenza a Systembolaget.",
  "sintesi": "Caprai convince chi giudica il vino da vicino (critici, ristoratori italiani, turisti in cantina) e convince meno chi la incontra da lontano o da giovane (consumatore medio, estero, under 35, scaffale). Il motivo è lo stesso: premi, esperienze e voto Google sono forti ma si vedono solo da chi li cerca, mentre Instagram è fermo, mancano video e TikTok, i premi stanno su tre vini e la gamma d'ingresso non è raccontata.",
  "fonti": [
   [
@@ -252,6 +252,60 @@
    "sez": [
     "storico",
     "agruppo"
+   ]
+  },
+  {
+   "id": "giornalista",
+   "chi": "Il giornalista",
+   "ico": "📰",
+   "dom": "C'è una storia da scrivere, e la cantina me la rende facile?",
+   "voto": 4,
+   "sint": "Sì: nel 2026 Caprai è stata in 42 delle 69 notizie raccolte, con storie forti (l'arrivo di Angelini, l'omaggio a Michel Rolland, i 50 cofanetti Spinning Beauty, il quarto premio UNHCR Welcome) e un press kit pronto. Il giornalista però non trova le stesse storie sui social della cantina, che sono fermi.",
+   "forza": [
+    "42 notizie su 69 parlano di Caprai: Gambero Rosso, WineNews, Pambianco, Falstaff, Corriere dell'Umbria (nastro delle notizie)",
+    "Storie dell'anno: maggioranza ad Angelini Wines & Estates (1/4/2026), omaggio a Michel Rolland (aprile), quarto premio UNHCR Welcome (giugno), Spinning Beauty in 50 cofanetti (ottobre) (nastro delle notizie)",
+    "Press kit con 10 PDF: azienda, premi, Sagrantino, ricerca, sostenibilità, Michel Rolland, 25 Anni (Analisi del gruppo)",
+    "Tre Bicchieri 2026 e 2027: notizia da dare ogni ottobre (Premi e prezzi)"
+   ],
+   "debol": [
+    "Le storie non passano sui social della cantina: nessun post su Instagram dal 26 agosto, quindi niente su Spinning Beauty (Social)",
+    "Premi tutti sui due Sagrantino di punta: poco da raccontare sul resto della gamma (Premi e prezzi)"
+   ],
+   "fare": [
+    "Ogni notizia che esce sulla stampa diventa un post e una storia Instagram lo stesso giorno",
+    "Un calendario stampa annuale: Tre Bicchieri in ottobre, vendemmia, verticale del 25 Anni, ricerca in vigna"
+   ],
+   "sez": [
+    "regia",
+    "premi",
+    "social"
+   ]
+  },
+  {
+   "id": "azionista",
+   "chi": "L'azionista: il gruppo Angelini",
+   "ico": "🏛️",
+   "dom": "L'acquisto della maggioranza sta rendendo, e cosa porta Caprai al gruppo?",
+   "voto": 3.5,
+   "sint": "Caprai porta al gruppo il marchio più premiato dell'Umbria e il portale di visite più avanti fra le tenute. Ma i ricavi scendono da tre anni e Instagram è fermo dal 26 agosto, mentre Bertani e Puiatti nel gruppo mostrano che si può fare molto meglio.",
+   "forza": [
+    "Secondo peso dei premi su 17, primo in Umbria; con Val di Suga e Bertani la tenuta più premiata del gruppo (Premi e prezzi, Analisi del gruppo)",
+    "Portale di prenotazione con pagamento online, il più avanti fra le tenute del gruppo (Ospitalità)",
+    "Caprai, Val di Suga e Bertani hanno lo stesso modello (vino premiato, visite vendute online, sito da sala stampa): 16 punti in comune fra Caprai e Val di Suga, 19 con Bertani (Analisi del gruppo)"
+   ],
+   "debol": [
+    "Ricavi: 7,44 M€ nel 2022, 7,25 nel 2023, 6,99 nel 2024, 6,08 nel 2025 (Storico)",
+    "Instagram: 0,6 post al mese e nessun reel, contro Bertani con 35.532 follower ed engagement 1,74% e Puiatti con il 75% di reel (Social)",
+    "Nessuno shop online del vino sul sito (Analisi del gruppo)"
+   ],
+   "fare": [
+    "Portare in Caprai il metodo social di Bertani e Puiatti, e in cambio il portale delle visite alle altre tenute",
+    "Usare la rete di vendita del gruppo per spingere l'export oltre il 20%"
+   ],
+   "sez": [
+    "storico",
+    "agruppo",
+    "social"
    ]
   }
  ]

@@ -1,7 +1,7 @@
 {
  "s": "val",
- "n": "Letture scritte il 25/11/2026 mettendosi nei panni di sette pubblici diversi, usando solo i numeri di questa dashboard (Premi e prezzi, Gamma, Ospitalità, Social, Storico, Confronto, Export). Il voto da 1 a 5 è una valutazione di quanto Caprai oggi risponde a ciò che quel pubblico cerca, non un sondaggio. Due dati presi fuori dalle altre pagine hanno la fonte accanto: prezzo del Montefalco Rosso online e presenza a Systembolaget.",
- "sintesi": "Caprai convince chi giudica il vino da vicino (critici, ristoratori, turisti in cantina) e convince meno chi la incontra da lontano (consumatore medio, estero, scaffale). Il motivo è lo stesso: premi, esperienze e voto Google sono forti ma si vedono solo da chi li cerca, mentre Instagram è fermo, i premi stanno su tre vini e la gamma d'ingresso non è raccontata.",
+ "n": "Letture scritte il 25/11/2026 mettendosi nei panni di nove pubblici diversi, usando solo i numeri di questa dashboard (Premi e prezzi, Gamma, Ospitalità, Social, Storico, Confronto, Export). Il voto da 1 a 5 è una valutazione di quanto Caprai oggi risponde a ciò che quel pubblico cerca, non un sondaggio. Due dati presi fuori dalle altre pagine hanno la fonte accanto: prezzo del Montefalco Rosso online e presenza a Systembolaget.",
+ "sintesi": "Caprai convince chi giudica il vino da vicino (critici, ristoratori italiani, turisti in cantina) e convince meno chi la incontra da lontano o da giovane (consumatore medio, estero, under 35, scaffale). Il motivo è lo stesso: premi, esperienze e voto Google sono forti ma si vedono solo da chi li cerca, mentre Instagram è fermo, mancano video e TikTok, i premi stanno su tre vini e la gamma d'ingresso non è raccontata.",
  "fonti": [
   [
    "Montefalco Rosso 2023 online da 13,20 €",
@@ -42,7 +42,7 @@
   },
   {
    "id": "ristoratore",
-   "chi": "Il ristoratore",
+   "chi": "Il ristoratore italiano",
    "ico": "🍽️",
    "dom": "Posso fare una carta umbra completa con un solo fornitore?",
    "voto": 4,
@@ -65,6 +65,34 @@
    "sez": [
     "gamma",
     "premi",
+    "agruppo"
+   ]
+  },
+  {
+   "id": "ristestero",
+   "chi": "Il ristoratore estero",
+   "ico": "🍝",
+   "dom": "Ho un ristorante italiano a Londra o New York: è il Sagrantino da mettere in carta?",
+   "voto": 3.5,
+   "sint": "Ha le carte giuste per una carta italiana all'estero: un nome storico, punteggi internazionali da 95 e materiale tecnico scaricabile. Ma il Sagrantino va spiegato al cliente straniero, e nel 2026 Caprai non ha voti su Wine Enthusiast, la rivista che i ristoratori americani leggono.",
+   "forza": [
+    "95 James Suckling e 95 Vinous sul 25 Anni: punteggi da scrivere in carta (Premi e prezzi)",
+    "Vini in 24 Paesi: c'è già un importatore in molti mercati (Confronto)",
+    "Press kit con 10 PDF e schede tecniche scaricabili per formare il personale (Analisi del gruppo)",
+    "Gamma con bianchi autoctoni (Trebbiano Spoletino, Grechetto) oltre ai rossi (Gamma)"
+   ],
+   "debol": [
+    "Nessun voto Wine Enthusiast nel 2026, che ha premiato Antonelli, Lungarotti e Scacciadiavoli (Premi e prezzi)",
+    "Export al 20%: presenza larga ma sottile, il ristoratore non sempre trova il vino dal suo distributore (Confronto)",
+    "Pochi contenuti in inglese sul Sagrantino da girare al personale di sala (Social)"
+   ],
+   "fare": [
+    "Una scheda in inglese per il personale di sala: cos'è il Sagrantino, come servirlo, con cosa abbinarlo",
+    "Mandare i campioni a Wine Enthusiast e farsi trovare dagli importatori del gruppo Angelini"
+   ],
+   "sez": [
+    "premi",
+    "export",
     "agruppo"
    ]
   },
@@ -117,6 +145,33 @@
    ],
    "sez": [
     "social",
+    "igclass"
+   ]
+  },
+  {
+   "id": "giovane",
+   "chi": "Il consumatore giovane",
+   "ico": "📱",
+   "dom": "Questo vino parla a me, e lo scopro dove passo il tempo?",
+   "voto": 2,
+   "sint": "Quasi no: il pubblico sotto i 35 anni scopre il vino su Instagram e TikTok, a prezzi bassi e con contenuti video, e Caprai non pubblica dal 26 agosto, non fa reel e dal sito non porta a nessun TikTok. Il marchio ha però le cose che piacciono a questo pubblico (pic nic in vigna, Calici di Stelle, un Montefalco Rosso intorno ai 13 €): non sono raccontate.",
+   "forza": [
+    "Esperienze adatte a un pubblico giovane: pic nic in vigna (80 €, da aprile a settembre), Calici di Stelle (da 15 €) (Ospitalità)",
+    "Montefalco Rosso intorno ai 13 € online, metodo classico e rosato in gamma (Gamma, fonte in fondo alla pagina)",
+    "Voto 4,3 su Vivino, l'app che molti giovani usano per scegliere (Confronto)"
+   ],
+   "debol": [
+    "0% di reel e nessun post dal 26 agosto; Puiatti, nello stesso gruppo, ha il 75% di reel ed engagement 5,06% (Social)",
+    "Il sito non linka nessun account TikTok, come quelli delle altre cantine del panel (Social)",
+    "Il post più forte dell'anno è un saluto a un enologo: racconto per appassionati, non per chi inizia (Social)"
+   ],
+   "fare": [
+    "Reel brevi su pic nic, vendemmia ed eventi, con il prezzo del Montefalco Rosso in chiaro",
+    "Una proposta d'ingresso in cantina sotto i 40 € pensata per gruppi di amici, raccontata sui social"
+   ],
+   "sez": [
+    "social",
+    "ospitalita",
     "igclass"
    ]
   },

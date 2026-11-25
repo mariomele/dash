@@ -1,0 +1,203 @@
+{
+ "s": "val",
+ "n": "Letture scritte il 25/11/2026 mettendosi nei panni di sette pubblici diversi, usando solo i numeri di questa dashboard (Premi e prezzi, Gamma, Ospitalità, Social, Storico, Confronto, Export). Il voto da 1 a 5 è una valutazione di quanto Caprai oggi risponde a ciò che quel pubblico cerca, non un sondaggio. Due dati presi fuori dalle altre pagine hanno la fonte accanto: prezzo del Montefalco Rosso online e presenza a Systembolaget.",
+ "sintesi": "Caprai convince chi giudica il vino da vicino (critici, ristoratori, turisti in cantina) e convince meno chi la incontra da lontano (consumatore medio, estero, scaffale). Il motivo è lo stesso: premi, esperienze e voto Google sono forti ma si vedono solo da chi li cerca, mentre Instagram è fermo, i premi stanno su tre vini e la gamma d'ingresso non è raccontata.",
+ "fonti": [
+  [
+   "Montefalco Rosso 2023 online da 13,20 €",
+   "https://www.vino.com/dettaglio/montefalco-rosso-doc-arnaldo-caprai-2023.html"
+  ],
+  [
+   "Montefalco Rosso 2023 a catalogo Systembolaget (Svezia)",
+   "https://www.systembolaget.se/produkt/vin/x-9231901/"
+  ]
+ ],
+ "pov": [
+  {
+   "id": "esperto",
+   "chi": "L'esperto di vino",
+   "ico": "🍷",
+   "dom": "È un produttore di riferimento per il Sagrantino?",
+   "voto": 4.5,
+   "sint": "Sì: è la cantina umbra con il peso dei premi più alto e ha il Tre Bicchieri sia nel 2026 sia nel 2027. Il critico però nota che i premi cadono quasi tutti su due Sagrantino e che sul vino di punta Tabarrini e Bea prendono voti più alti.",
+   "forza": [
+    "Secondo peso dei premi su 17 cantine, primo in Umbria, premiata da 9 testate (Premi e prezzi)",
+    "Tre Bicchieri 2026 al 25 Anni 2021 e Tre Bicchieri 2027 al Collepiano 2022 (Premi e prezzi)",
+    "Nel 2026: 5 Grappoli Bibenda a due vini, Vitae «I 100 Grandi Vini», Tre Stelle Oro Veronelli, 96 Doctor Wine, 95 Suckling (Premi e prezzi)",
+    "25 Anni con 4,3 su Vivino su 6.913 voti (Confronto)"
+   ],
+   "debol": [
+    "7 premi del 2026 tutti su 3 vini, tutti Sagrantino; Antonelli ne ha 12 su 10 vini (Premi e prezzi)",
+    "Sul Sagrantino di punta Tabarrini e Bea hanno 97 e 96 Vinous e la Chiocciola Slow Wine 2027 (Premi e prezzi)",
+    "Nessun voto Wine Enthusiast nel 2026, che ha dato 98 ad Antonelli e 94 a Lungarotti (Premi e prezzi)"
+   ],
+   "fare": [
+    "Mandare alle guide anche Montefalco Rosso, Trebbiano Spoletino (Le Molacce) e Grecante",
+    "Mandare i campioni a Wine Enthusiast, che nel 2026 ha premiato tre cantine di Montefalco"
+   ],
+   "sez": [
+    "premi",
+    "confronto"
+   ]
+  },
+  {
+   "id": "ristoratore",
+   "chi": "Il ristoratore",
+   "ico": "🍽️",
+   "dom": "Posso fare una carta umbra completa con un solo fornitore?",
+   "voto": 4,
+   "sint": "Quasi: 25 vini, dal metodo classico al passito, con un nome che il cliente al tavolo riconosce e due Tre Bicchieri da citare. Gli mancano i prezzi per il canale: il listino per la ristorazione non è pubblico.",
+   "forza": [
+    "25 vini: Sagrantino, Montefalco Rosso e Riserva, Grechetto, Trebbiano Spoletino, bianco, rosato, metodo classico, passito (Gamma)",
+    "Scala da 13 € (Montefalco Rosso online) a 27 € (Collepiano) a 65 € (25 Anni) in enoteca: c'è un vino per ogni fascia della carta (Premi e prezzi)",
+    "Premi recenti da raccontare al tavolo: Tre Bicchieri 2027 al Collepiano (Premi e prezzi)",
+    "900 mila bottiglie su 160 ettari: continuità di fornitura (Confronto)",
+    "Schede tecniche in PDF per ogni vino e pagina «Diventa rivenditore» (Analisi del gruppo)"
+   ],
+   "debol": [
+    "Listino e condizioni per la ristorazione non pubblici: il dato non c'è nella dashboard",
+    "Il Sagrantino è un rosso tannico che chiede piatti strutturati: in carta lavora meglio con il Montefalco Rosso accanto (valutazione)"
+   ],
+   "fare": [
+    "Nella pagina «Diventa rivenditore» aggiungere abbinamenti, formato al calice e contatto dell'agente di zona",
+    "Proporre al ristorante la coppia Montefalco Rosso al calice e Collepiano in bottiglia"
+   ],
+   "sez": [
+    "gamma",
+    "premi",
+    "agruppo"
+   ]
+  },
+  {
+   "id": "gdo",
+   "chi": "La grande distribuzione",
+   "ico": "🛒",
+   "dom": "È un marchio che porta clienti a scaffale con volumi e prezzo giusti?",
+   "voto": 2.5,
+   "sint": "È un marchio premium: con 900 mila bottiglie e il Sagrantino sopra i 25 € non è un vino da volantino. Non abbiamo trovato Caprai sui siti di Esselunga, Coop e Carrefour (ricerca online, non è una prova di assenza). Lo spazio possibile è solo per le linee d'ingresso.",
+   "forza": [
+    "Marchio noto: voto Google 4,7 su 547 recensioni, il più recensito di Montefalco (Ospitalità)",
+    "Linee d'ingresso già esistenti: Anima Umbra e Poggio Belvedere (Gamma)",
+    "Montefalco Rosso online da 13,20 € (fonte in fondo alla pagina)"
+   ],
+   "debol": [
+    "Volumi piccoli per la GDO nazionale: 900 mila bottiglie in tutto (Confronto)",
+    "Ricavi in calo: 7,44 M€ nel 2022, 6,08 M€ nel 2025 (Storico); la GDO darebbe volumi ma rischia di abbassare il prezzo percepito del marchio",
+    "Presenza in GDO, prezzi a scaffale e rotazioni: dati non raccolti"
+   ],
+   "fare": [
+    "Se si entra, solo con Anima Umbra o Poggio Belvedere e in catene con reparto vini curato, tenendo il Sagrantino fuori",
+    "Prima di decidere, raccogliere i prezzi a scaffale dei concorrenti umbri"
+   ],
+   "sez": [
+    "gamma",
+    "storico"
+   ]
+  },
+  {
+   "id": "consumatore",
+   "chi": "Il consumatore medio italiano",
+   "ico": "🧑",
+   "dom": "Lo conosco, lo trovo, vale quello che costa?",
+   "voto": 3,
+   "sint": "Chi lo prova ne parla bene (4,7 su Google, 4,3 su Vivino), ma il nome Sagrantino spaventa un po' e il prezzo d'ingresso del Sagrantino è sopra i 25 €. Sui social, dove questo pubblico scopre i vini, Caprai quasi non c'è: 12 post in 12 mesi.",
+   "forza": [
+    "Voto Google 4,7 su 547 recensioni e Vivino 4,3 su 6.913 voti (Ospitalità, Confronto)",
+    "Montefalco Rosso intorno ai 13 € online: un modo economico di provare il marchio (fonte in fondo alla pagina)",
+    "Il profilo umbro con più follower: 17.549 (Social)"
+   ],
+   "debol": [
+    "12 post Instagram in 12 mesi, nessuno dal 26 agosto; Scacciadiavoli ne ha 142, Còlpetrone 174 (Social)",
+    "Nessun reel, 13° su 14 nella classifica Instagram del panel (Instagram · classifica)",
+    "Il post più forte dell'anno (378 like) è il saluto a Michel Rolland, non un vino: il pubblico risponde alle persone e alle storie (Social)"
+   ],
+   "fare": [
+    "Raccontare il Montefalco Rosso come porta d'ingresso al marchio, con prezzo e abbinamenti semplici",
+    "Riprendere Instagram con persone, vigna e storie, che sono i post che funzionano"
+   ],
+   "sez": [
+    "social",
+    "igclass"
+   ]
+  },
+  {
+   "id": "turista",
+   "chi": "Il turista del vino",
+   "ico": "🧳",
+   "dom": "Vale la pena fermarsi qui, e per quanto?",
+   "voto": 4,
+   "sint": "Per una visita sì: è l'offerta più completa della zona, si prenota e si paga online e le recensioni sono le migliori per numero. Per una giornata intera no: niente camere né cucina, e Antonelli e Lungarotti trattengono il turista più a lungo.",
+   "forza": [
+    "7 esperienze da 35 a 200 €, dalla visita alla verticale di 25 annate (Ospitalità)",
+    "Prenotazione con calendario e pagamento online, in italiano e inglese; gift card (Ospitalità)",
+    "Google 4,7 su 547 e TripAdvisor 4,4 su 441 recensioni (Ospitalità)",
+    "Eventi come Calici di Stelle e il pic nic in vigna da aprile a settembre (Ospitalità)"
+   ],
+   "debol": [
+    "Nessuna camera e nessun ristorante: la visita dura qualche ora (Ospitalità)",
+    "Le esperienze non si vedono sui social: nessun reel che le mostri (Social)"
+   ],
+   "fare": [
+    "Pranzo in cantina su prenotazione o accordo con un agriturismo vicino, venduto con le esperienze più care",
+    "Link a Caprai Experience in bio Instagram e un reel per esperienza"
+   ],
+   "sez": [
+    "ospitalita"
+   ]
+  },
+  {
+   "id": "estero",
+   "chi": "Il consumatore estero",
+   "ico": "🌍",
+   "dom": "Trovo questo vino nel mio paese e capisco cosa sto comprando?",
+   "voto": 3,
+   "sint": "Lo trova in 24 Paesi, anche nei monopoli come il Systembolaget svedese, e ha punteggi internazionali da 95. Ma l'export è solo il 20% e il Sagrantino all'estero va spiegato: il racconto in inglese esiste (sito, alcuni post) ma è poco.",
+   "forza": [
+    "Vini in 24 Paesi (Confronto)",
+    "95 James Suckling e 95 Vinous sul 25 Anni: i punteggi che contano per chi compra all'estero (Premi e prezzi)",
+    "Montefalco Rosso 2023 nel catalogo del Systembolaget svedese (fonte in fondo alla pagina)",
+    "Sito ed esperienze anche in inglese (Ospitalità)"
+   ],
+   "debol": [
+    "Export al 20% dei ricavi (Confronto)",
+    "Nel 2026 nessun voto Wine Enthusiast, la rivista più letta negli Stati Uniti, che ha premiato Antonelli, Lungarotti e Scacciadiavoli (Premi e prezzi)",
+    "Pochi post e quasi nessun contenuto pensato per chi non conosce il Sagrantino (Social)"
+   ],
+   "fare": [
+    "Contenuti in inglese che spiegano il Sagrantino in poche parole, con i punteggi internazionali",
+    "Puntare su Wine Enthusiast e Suckling per i mercati di lingua inglese"
+   ],
+   "sez": [
+    "export",
+    "premi"
+   ]
+  },
+  {
+   "id": "importatore",
+   "chi": "L'importatore estero",
+   "ico": "🚢",
+   "dom": "È un marchio su cui costruire un portafoglio nel mio mercato?",
+   "voto": 3.5,
+   "sint": "Ha quello che serve a un importatore: storia dal 1971, volumi sufficienti, premi e un vino simbolo. Dal 1/4/2026 fa parte del gruppo Angelini Wines & Estates, con Bertani e altre cinque tenute: per chi importa vuol dire un portafoglio più ampio da un solo interlocutore. I ricavi in calo e l'export al 20% dicono però che all'estero c'è ancora strada.",
+   "forza": [
+    "Storia dal 1971, 160 ettari, 900 mila bottiglie (Confronto)",
+    "Un vino simbolo riconoscibile (25 Anni) con Tre Bicchieri e 95 internazionali (Premi e prezzi)",
+    "Nel gruppo Angelini con Bertani, Val di Suga, Trerose, San Leonino, Fazi Battaglia e Puiatti (Analisi del gruppo)",
+    "Press kit con 10 PDF (azienda, premi, Sagrantino, ricerca, sostenibilità) e schede tecniche scaricabili (Analisi del gruppo)"
+   ],
+   "debol": [
+    "Ricavi da 7,44 M€ (2022) a 6,08 M€ (2025) (Storico)",
+    "Export al 20% in 24 Paesi: presenza larga ma sottile (Confronto)",
+    "Nessuno shop online: chi scopre il vino all'estero non può comprarlo dal sito (Analisi del gruppo)"
+   ],
+   "fare": [
+    "Proporre agli importatori del gruppo Caprai insieme a Bertani, in un portafoglio Angelini",
+    "Una versione inglese del press kit con i punteggi internazionali e foto scaricabili"
+   ],
+   "sez": [
+    "storico",
+    "agruppo"
+   ]
+  }
+ ]
+}

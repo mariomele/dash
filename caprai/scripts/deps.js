@@ -10,7 +10,8 @@
 // Una fonte è un file di data/ senza .json (o «news»), oppure un pezzo del file con il percorso a punti: «aziende.noi» è
 // l'azienda con id noi dentro aziende.json, «premi.items» il campo items di premi.json. Più la fonte è stretta, meno falsi allarmi.
 const fs = require('fs'), path = require('path'), crypto = require('crypto');
-const H = path.join(__dirname, '..'), DD = path.join(H, 'data'), DAL = path.join(DD, '_dal.json');
+// dati in data/ (kit) oppure, nei progetti più vecchi, alla radice
+const H = path.join(__dirname, '..'), DD = fs.existsSync(path.join(H, 'data')) ? path.join(H, 'data') : H, DAL = path.join(DD, '_dal.json');
 
 const file = k => k === 'news' ? path.join(H, 'news.json') : path.join(DD, k + '.json');
 const fromDisk = k => fs.existsSync(file(k)) ? JSON.parse(fs.readFileSync(file(k), 'utf8')) : undefined;

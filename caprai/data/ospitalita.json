@@ -1,0 +1,816 @@
+{
+ "n": "Siti ufficiali delle cantine e piattaforme di prenotazione collegate (capraiexperience.com, Divinea, Wine Suite, visit.antonellisanmarco.it, shop Bertani), letti il 25/11/2026. Prezzi a persona come pubblicati; dove manca un campo la pagina non lo diceva. Camere/ristorante: null = non visto sulle pagine lette (siti non letti per intero).",
+ "az": {
+  "caprai": {
+   "esp": {
+    "n": 7,
+    "da": 35,
+    "a": 200,
+    "nota": "esperienze fisse: Tour&Food 35, Montefalco Land 70, PicNic in Vigna 80 (22/4-30/9), Sfumature di Montefalco 90, Sagrantino Lovers 125, 25 Anni in Verticale 180, Signature Collection 200; in più eventi (Calici di Stelle 15-55, Tour&Tasting Vendemmia 40, Cantine Aperte) e gift card 25-200",
+    "s": "dic",
+    "u": "https://www.capraiexperience.com"
+   },
+   "tipi": [
+    "visita e degustazione",
+    "pic nic in vigna",
+    "verticale",
+    "evento"
+   ],
+   "book": {
+    "v": true,
+    "t": "prenotazione online con pagamento: calendario con giorno, lingua e fascia oraria, carrello WooCommerce; gift card; info anche su WhatsApp",
+    "s": "dic",
+    "u": "https://www.capraiexperience.com/esperienze-enogastronomiche/tour-and-food-sagrantino-caprai/"
+   },
+   "camere": {
+    "v": false,
+    "t": "né arnaldocaprai.it (Identità, Vini, Esperienze, Collaborazioni, Contatti) né capraiexperience.com (Esperienze, Gift Card, FAQ, Contatti) offrono camere",
+    "s": "dic",
+    "u": "https://www.capraiexperience.com",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "nessun ristorante: solo abbinamenti gastronomici dentro le esperienze in enoteca",
+    "s": "dic",
+    "u": "https://www.capraiexperience.com",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "shop": {
+    "v": true,
+    "t": "Enoteca della cantina (Monte della Torre) dove si fanno le degustazioni; shop online non visto",
+    "s": "dic",
+    "u": "https://www.capraiexperience.com/esperienze-enogastronomiche/tour-and-food-sagrantino-caprai/"
+   },
+   "lingue": [
+    "it",
+    "en"
+   ],
+   "ta": {
+    "v": 4.4,
+    "r": 441,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g608939-d1727811-Reviews-Arnaldo_Caprai_Viticoltore_in_Montefalco-Montefalco_Province_of_Perugia_Umbria.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Arnaldo Caprai Viticoltore in Montefalco), letto il 25/11/2026"
+   }
+  },
+  "tabarrini": {
+   "esp": {
+    "n": 5,
+    "da": 20,
+    "a": 25,
+    "nota": "visita cantina 25 (20 se abbinata), Degustazione Classica 20, Esclusiva 25, I Cru 25, Libera alla carta senza prezzo",
+    "s": "dic",
+    "u": "https://tabarrini.com/esperienze/"
+   },
+   "tipi": [
+    "visita e degustazione"
+   ],
+   "book": {
+    "v": true,
+    "t": "modulo «Richiedi disponibilità» con fascia oraria e numero di persone",
+    "s": "dic",
+    "u": "https://tabarrini.com/esperienze/"
+   },
+   "lingue": [
+    "it",
+    "en"
+   ],
+   "camere": {
+    "v": false,
+    "t": "menu del sito completo (Chi siamo, Vini, Esperienze, Eventi e wedding, Contatti): nessuna camera",
+    "s": "dic",
+    "u": "https://tabarrini.com/esperienze/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "nessun ristorante: solo taglieri di prodotti tipici con le degustazioni",
+    "s": "dic",
+    "u": "https://tabarrini.com/esperienze/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "shop": {
+    "v": false,
+    "t": "nessuno shop online né enoteca indicati nel menu del sito",
+    "s": "dic",
+    "u": "https://tabarrini.com/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": 4.5,
+    "r": 46,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g608939-d3225997-Reviews-Azienda_Vinicola_Tabarrini-Montefalco_Province_of_Perugia_Umbria.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Azienda Vinicola Tabarrini, Montefalco), letto il 25/11/2026"
+   }
+  },
+  "bea": {
+   "book": {
+    "v": true,
+    "t": "solo telefono-email: il sito ufficiale è una pagina con soli contatti",
+    "s": "dic",
+    "u": "https://www.paolobea.com"
+   },
+   "camere": {
+    "v": false,
+    "t": "sito di una sola pagina, nessuna ospitalità",
+    "s": "dic",
+    "u": "https://www.paolobea.com"
+   },
+   "rist": {
+    "v": false,
+    "t": "sito di una sola pagina, nessuna cucina",
+    "s": "dic",
+    "u": "https://www.paolobea.com"
+   },
+   "esp": {
+    "n": 0,
+    "nota": "nessuna esperienza pubblicata: il sito è una sola pagina con indirizzo, telefono ed email",
+    "s": "dic",
+    "u": "https://www.paolobea.com"
+   },
+   "shop": {
+    "v": false,
+    "t": "sito di una sola pagina, nessuna vendita online",
+    "s": "dic",
+    "u": "https://www.paolobea.com",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": null,
+    "t": "nessuna scheda TripAdvisor trovata: Paolo Bea compare solo in discussioni del forum",
+    "s": "dic",
+    "u": "https://www.paolobea.com",
+    "n": "ricerca su TripAdvisor, letto il 25/11/2026"
+   }
+  },
+  "antonelli": {
+   "esp": {
+    "n": 12,
+    "da": 10,
+    "nota": "circa 12 proposte: visita guidata 10, San Marco 15, 1883 25; verticale Sagrantino a Ritroso 80 (4+ persone) o 100 (2 persone), non chiaro se a persona; pranzi, cene in villa e in vigna, tartufo e pic nic senza prezzo",
+    "s": "dic",
+    "u": "https://www.antonellisanmarco.it/ospitalita/visite-e-degustazioni/"
+   },
+   "tipi": [
+    "visita e degustazione",
+    "verticale",
+    "pranzo/cena",
+    "pic nic in vigna",
+    "corso",
+    "caccia al tartufo"
+   ],
+   "book": {
+    "v": true,
+    "t": "prenotazione online su visit.antonellisanmarco.it (pagamento non verificato), gift card; cena in vigna via email",
+    "s": "dic",
+    "u": "https://www.antonellisanmarco.it/ospitalita/visite-e-degustazioni/"
+   },
+   "camere": {
+    "v": true,
+    "t": "Retrocantina con 3 camere (motore Beddy); agriturismo Casale Satriano con piscina in ristrutturazione, apertura indicata nel 2026",
+    "s": "dic",
+    "u": "https://www.antonellisanmarco.it/ospitalita/soggiorno/"
+   },
+   "rist": {
+    "v": true,
+    "t": "pranzi e cene su prenotazione in cantina e nella villa storica (non ristorante alla carta)",
+    "s": "dic",
+    "u": "https://www.antonellisanmarco.it/ospitalita/visite-e-degustazioni/"
+   },
+   "shop": {
+    "v": true,
+    "t": "shop online",
+    "s": "dic",
+    "u": "https://shop.antonellisanmarco.it/"
+   },
+   "ta": {
+    "v": 4.5,
+    "r": 243,
+    "s": "dic",
+    "u": "https://www.tripadvisor.it/Attraction_Review-g608939-d1735959-Reviews-Antonelli_San_Marco-Montefalco_Province_of_Perugia_Umbria.html"
+   }
+  },
+  "scacciadiavoli": {
+   "esp": {
+    "n": 11,
+    "da": 15,
+    "a": 165,
+    "nota": "Assaggio Umbro 15, Marie Clugny 17, Il Mondo Scacciadiavoli 35, Verticale di Sagrantino 35, Gourmet 45, Bike & Wine 80, Trekking 80, Tour in Vespa 105, Genius Loci privata 130, Cooking class 165, tour privato su richiesta; la pagina cita anche visite gratuite giornaliere",
+    "s": "dic",
+    "u": "https://cantinascacciadiavoli.it/visite-e-degustazioni/"
+   },
+   "tipi": [
+    "visita e degustazione",
+    "verticale",
+    "corso",
+    "pranzo/cena",
+    "evento",
+    "e-bike",
+    "vespa",
+    "trekking"
+   ],
+   "book": {
+    "v": true,
+    "t": "prenotazione online con widget Divinea «Instant Booking» (pagamento non verificato)",
+    "s": "dic",
+    "u": "https://cantinascacciadiavoli.it/visite-e-degustazioni/"
+   },
+   "shop": {
+    "v": true,
+    "t": "enoteca in cantina aperta tutti i giorni 10-18",
+    "s": "dic",
+    "u": "https://cantinascacciadiavoli.it/enoteca"
+   },
+   "lingue": [
+    "it",
+    "fr",
+    "en"
+   ],
+   "camere": {
+    "v": false,
+    "t": "menu del sito (Visite e Degustazioni, Vini, Marie Clugny, News ed Eventi, Contatti): nessuna camera",
+    "s": "dic",
+    "u": "https://cantinascacciadiavoli.it/visite-e-degustazioni/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "nessun ristorante: pasti solo dentro le esperienze (Gourmet, Cooking class)",
+    "s": "dic",
+    "u": "https://cantinascacciadiavoli.it/visite-e-degustazioni/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": 4.6,
+    "r": 161,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g608939-d2218636-Reviews-Azienda_Agraria_Scacciadiavoli-Montefalco_Province_of_Perugia_Umbria.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Azienda Agraria Scacciadiavoli, Montefalco), letto il 25/11/2026"
+   }
+  },
+  "perticaia": {
+   "esp": {
+    "n": 7,
+    "da": 15,
+    "a": 150,
+    "nota": "Just Wine 15, Choco&Wine 30, Classic 35, PicNic 40, Light Lunch 45, Wine Exclusive 60, It Will Be Perticaia 150; altri eventi elencati come non disponibili",
+    "s": "dic",
+    "u": "https://widget.wine-suite.com/588c56eb-a5fd-47f9-9f2d-444b8639962c/it/index.html"
+   },
+   "tipi": [
+    "visita e degustazione",
+    "pic nic in vigna",
+    "pranzo/cena",
+    "evento"
+   ],
+   "book": {
+    "v": true,
+    "t": "prenotazione online con widget Wine Suite (pagamento non verificato)",
+    "s": "dic",
+    "u": "https://www.perticaia.it/wine-tastings-montefalco"
+   },
+   "shop": {
+    "v": true,
+    "t": "shop online con carrello e condizioni di spedizione",
+    "s": "dic",
+    "u": "https://www.perticaia.it/blank-7"
+   },
+   "camere": {
+    "v": false,
+    "t": "menu del sito (Chi siamo, Degustazioni, Vini, Olio, Eventi, I Millesimi, Shop, Contatti): nessuna camera",
+    "s": "dic",
+    "u": "https://www.perticaia.it/wine-tastings-montefalco",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "nessun ristorante: pasti solo dentro le esperienze (Light Lunch, PicNic)",
+    "s": "dic",
+    "u": "https://www.perticaia.it/wine-tastings-montefalco",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": 4.8,
+    "r": 29,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g608939-d9681328-Reviews-Azienda_Agraria_Perticaia-Montefalco_Province_of_Perugia_Umbria.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Azienda Agraria Perticaia, Montefalco), letto il 25/11/2026"
+   }
+  },
+  "colpetrone": {
+   "esp": {
+    "n": 3,
+    "da": 45,
+    "a": 75,
+    "nota": "Degustazione del Sagrantino 45, I vini di Còlpetrone 65, 5 vini di Còlpetrone 75 (con assaggio d'olio)",
+    "s": "dic",
+    "u": "https://www.tenutedelcerro.it/it/experience/degustazione-vini-colpetrone"
+   },
+   "tipi": [
+    "visita e degustazione",
+    "olio"
+   ],
+   "book": {
+    "v": true,
+    "t": "modulo; conferma via email e pagamento in struttura",
+    "s": "dic",
+    "u": "https://www.tenutedelcerro.it/it/experience/degustazione-vini-colpetrone"
+   },
+   "camere": {
+    "v": false,
+    "t": "le strutture ricettive di Tenute del Cerro sono Relais Villa Grazianella, UNA Hotels Monterufoli e Tenuta di Montecorona: nessuna a Còlpetrone",
+    "s": "dic",
+    "u": "https://www.tenutedelcerro.it/it/experience/degustazione-vini-colpetrone",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "i ristoranti del gruppo sono L'Antica Chiusina (Fattoria del Cerro) e La Miniera (Monterufoli): nessuno a Còlpetrone",
+    "s": "dic",
+    "u": "https://www.tenutedelcerro.it/it/experience/degustazione-vini-colpetrone",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "shop": {
+    "v": true,
+    "t": "shop online di gruppo Tenute del Cerro (vini di tutte le tenute) con wine club",
+    "s": "dic",
+    "u": "https://shop.tenutedelcerrowines.it/it/index.php",
+    "n": "linkato dal menu di tenutedelcerro.it, letto il 25/11/2026"
+   },
+   "ta": {
+    "v": 5,
+    "r": 1,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g1074132-d14803397-Reviews-Colpetrone-Gualdo_Cattaneo_Province_of_Perugia_Umbria.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Colpetrone, Via Ponte della Mandria 8, Marcellano di Gualdo Cattaneo; una sola recensione), letto il 25/11/2026"
+   }
+  },
+  "castelbuono": {
+   "tipi": [
+    "visita e degustazione"
+   ],
+   "book": {
+    "v": true,
+    "t": "solo telefono-email, prenotazione obbligatoria; visite tutti i giorni 10-13 / 14-18 alla cantina Carapace",
+    "s": "dic",
+    "u": "https://tenutelunelli.it/it/tenute_umbria_tenuta.php"
+   },
+   "esp": {
+    "n": 1,
+    "nota": "visite guidate e degustazioni alla cantina Carapace su prenotazione obbligatoria, tutti i giorni 10-13 / 14-18; prezzi non pubblicati",
+    "s": "dic",
+    "u": "https://tenutelunelli.it/it/visite.php"
+   },
+   "camere": {
+    "v": false,
+    "t": "la pagina Tenuta Castelbuono (Tenuta, Carapace, Vini, Luoghi, Immagini, Il tuo evento) non ha ospitalità; la sezione Ospitalità del sito è solo per Podernovo in Toscana",
+    "s": "dic",
+    "u": "https://tenutelunelli.it/it/tenute_umbria_tenuta.php",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "nessun ristorante indicato per la tenuta umbra",
+    "s": "dic",
+    "u": "https://tenutelunelli.it/it/tenute_umbria_tenuta.php",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": 4.3,
+    "r": 208,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g262048-d3381701-Reviews-Tenuta_Castelbuono-Bevagna_Province_of_Perugia_Umbria.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Tenuta Castelbuono, Bevagna), letto il 25/11/2026"
+   }
+  },
+  "romanelli": {
+   "tipi": [
+    "visita e degustazione"
+   ],
+   "book": {
+    "v": true,
+    "t": "modulo, visite solo su prenotazione",
+    "s": "dic",
+    "u": "https://romanelli.wine/prenota-degustazione/"
+   },
+   "shop": {
+    "v": true,
+    "t": "shop online con wine club, negozio in tenuta e negozio nel centro di Montefalco",
+    "s": "dic",
+    "u": "https://romanelli.wine/tour/"
+   },
+   "esp": {
+    "n": 1,
+    "nota": "visite e degustazioni solo su prenotazione con modulo; nessun elenco di esperienze né prezzi pubblicati",
+    "s": "dic",
+    "u": "https://romanelli.wine/tour/"
+   },
+   "camere": {
+    "v": false,
+    "t": "menu del sito (Chi siamo, Azienda, Blog, Prodotti, Shop, Wine club, Tour, Store, Contatti): nessuna camera",
+    "s": "dic",
+    "u": "https://romanelli.wine/tour/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "nessun ristorante: store in tenuta e nel centro di Montefalco",
+    "s": "dic",
+    "u": "https://romanelli.wine/tour/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": 4.8,
+    "r": 145,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g608939-d2016475-Reviews-Romanelli_Agricola-Montefalco_Province_of_Perugia_Umbria.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Romanelli Agricola, Montefalco), letto il 25/11/2026"
+   }
+  },
+  "lungarotti": {
+   "esp": {
+    "n": 4,
+    "da": 28,
+    "a": 90,
+    "nota": "La Torgiano 28, Radici in Umbria 50 (con Museo del Vino), Pranzo in Umbria 55, Oltre il Tempo 90; più 3 pacchetti soggiorno all'agriturismo Poggio alle Vigne da 99 a 239",
+    "s": "dic",
+    "u": "https://lungarotti.it/ita/visite-e-degustazioni/"
+   },
+   "tipi": [
+    "visita e degustazione",
+    "pranzo/cena",
+    "museo",
+    "soggiorno"
+   ],
+   "book": {
+    "v": true,
+    "t": "prenotazione online con filtri per data, lingua e tipo (pagamento non verificato); anche telefono ed email",
+    "s": "dic",
+    "u": "https://lungarotti.it/ita/visite-e-degustazioni/"
+   },
+   "camere": {
+    "v": true,
+    "t": "Agriturismo Poggio alle Vigne, pacchetti soggiorno",
+    "s": "dic",
+    "u": "https://lungarotti.it/ita/visite-e-degustazioni/"
+   },
+   "rist": {
+    "v": true,
+    "t": "Bistrot della Cantina; Osteria del Museo a Torgiano",
+    "s": "dic",
+    "u": "https://lungarotti.it/ita/visite-e-degustazioni/"
+   },
+   "shop": {
+    "v": true,
+    "t": "Enoteca della Cantina aperta 7 giorni su 7",
+    "s": "dic",
+    "u": "https://lungarotti.it/ita/visite-e-degustazioni/"
+   },
+   "lingue": [
+    "it",
+    "en",
+    "fr"
+   ],
+   "ta": {
+    "v": 4.7,
+    "r": 246,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g635638-d2422093-Reviews-Cantina_Lungarotti_Torgiano-Torgiano_Province_of_Perugia_Umbria.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Cantina Lungarotti Torgiano), letto il 25/11/2026"
+   }
+  },
+  "castellosala": {
+   "esp": {
+    "n": 1,
+    "nota": "Bottega del Castello della Sala: degustazione e acquisto su prenotazione, prezzo non pubblicato",
+    "s": "dic",
+    "u": "https://www.antinori.it/it/experience/bottega-del-castello-della-sala/"
+   },
+   "tipi": [
+    "visita e degustazione"
+   ],
+   "book": {
+    "v": true,
+    "t": "solo telefono-email",
+    "s": "dic",
+    "u": "https://www.antinori.it/it/experience/bottega-del-castello-della-sala/"
+   },
+   "shop": {
+    "v": true,
+    "t": "Bottega in tenuta che vende i vini",
+    "s": "dic",
+    "u": "https://www.antinori.it/it/experience/bottega-del-castello-della-sala/"
+   },
+   "camere": {
+    "v": false,
+    "t": "non compare tra i Country Relais Antinori (Fonte de' Medici, Badia a Passignano, Aldobrandesca, La Braccesca, Le Mortelle, Montenisa, Prunotto, Bocca di Lupo, Guado al Tasso)",
+    "s": "dic",
+    "u": "https://www.antinori.it/it/esperienze/tipologie/country-relais/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "non compare tra i ristoranti Antinori (Cantinette, Osteria del Tasso, Osteria di Passignano, Rinuccio 1180, Trattoria della Fonte e altri)",
+    "s": "dic",
+    "u": "https://www.antinori.it/it/esperienze/tipologie/ristoranti/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": 4.8,
+    "r": 4,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g652042-d11851556-Reviews-Bottega_del_Castello_della_Sale-Ficulle_Province_of_Terni_Umbria.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Bottega del Castello della Sala, Loc. Sala, Ficulle: bottega e degustazioni della tenuta, sito e email antinori.it), letto il 25/11/2026"
+   }
+  },
+  "bertani": {
+   "esp": {
+    "n": 5,
+    "da": 70,
+    "a": 70,
+    "nota": "5 esperienze in elenco: Original Vintage Edition, Valpolicella Classica 70 (2 ore, under 18 gratis), BertaniON (tre annate di Amarone), The Library Experience, Esperienza su misura; prezzo pubblicato solo per Valpolicella Classica",
+    "s": "dic",
+    "u": "https://www.bertani.net/it/esperienze/"
+   },
+   "tipi": [
+    "visita e degustazione",
+    "verticale"
+   ],
+   "book": {
+    "v": true,
+    "t": "prenotazione online con pagamento: calendario a fasce orarie e coupon per l'importo pieno; tour regalo",
+    "s": "dic",
+    "u": "https://www.bertani.net/it/product/valpolicella-classica-2/"
+   },
+   "shop": {
+    "v": true,
+    "t": "wine club con vendita di annate storiche di Amarone",
+    "s": "dic",
+    "u": "https://library.bertani.net/le-nostre-proposte/"
+   },
+   "lingue": [
+    "it",
+    "en"
+   ],
+   "camere": {
+    "v": false,
+    "t": "menu del sito (Chi siamo, Stile, Vini, Territorio, Esperienze): nessuna camera",
+    "s": "dic",
+    "u": "https://www.bertani.net/it/esperienze/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "nessun ristorante: solo visite e degustazioni",
+    "s": "dic",
+    "u": "https://www.bertani.net/it/esperienze/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": 4.9,
+    "r": 20,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g1785337-d206434-Reviews-Bertani-Grezzana_Province_of_Verona_Veneto.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Bertani, Grezzana), letto il 25/11/2026"
+   }
+  },
+  "valdisuga": {
+   "esp": {
+    "n": 3,
+    "da": 35,
+    "a": 55,
+    "nota": "Premium 35, Super-premium 40, Cru 55: visita e degustazione con prodotti del territorio",
+    "s": "dic",
+    "u": "https://www.valdisuga.com/en/hospitality/"
+   },
+   "tipi": [
+    "visita e degustazione"
+   ],
+   "book": {
+    "v": true,
+    "t": "modulo web, email o telefono; nessun pagamento online",
+    "s": "dic",
+    "u": "https://www.valdisuga.com/en/hospitality/"
+   },
+   "shop": {
+    "v": true,
+    "t": "enoteca in tenuta con vini Val di Suga e del gruppo Angelini",
+    "s": "dic",
+    "u": "https://www.valdisuga.com/en/hospitality/"
+   },
+   "camere": {
+    "v": false,
+    "t": "la pagina Ospitalità elenca solo enoteca e 3 percorsi di visita e degustazione",
+    "s": "dic",
+    "u": "https://www.valdisuga.com/it/ospitalita/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "nessun ristorante: degustazioni con prodotti locali",
+    "s": "dic",
+    "u": "https://www.valdisuga.com/it/ospitalita/",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": 4.9,
+    "r": 23,
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g635634-d13809613-Reviews-Val_Di_Suga-Montalcino_Tuscany.html",
+    "n": "TripAdvisor, scheda attrazione della cantina (Val di Suga, Montalcino), letto il 25/11/2026"
+   }
+  },
+  "trerose": {
+   "esp": {
+    "n": 0,
+    "nota": "nessuna esperienza pubblicata: il sito ha solo le sezioni Tenuta, Territorio, Progetto, Vini, Contatti: nessuna pagina di visite, ospitalità o vendita",
+    "s": "dic",
+    "u": "https://tenutatrerose.it/it/tenuta"
+   },
+   "book": {
+    "v": false,
+    "t": "nessuno strumento di prenotazione: solo modulo informazioni generico nei contatti",
+    "s": "dic",
+    "u": "https://tenutatrerose.it/it/contatti",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "camere": {
+    "v": false,
+    "t": "il sito ha solo le sezioni Tenuta, Territorio, Progetto, Vini, Contatti: nessuna pagina di visite, ospitalità o vendita (l'hotel Borgo Tre Rose a Montepulciano ha un altro sito, borgotrerose.it, e non è linkato)",
+    "s": "dic",
+    "u": "https://tenutatrerose.it/it/tenuta",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "il sito ha solo le sezioni Tenuta, Territorio, Progetto, Vini, Contatti: nessuna pagina di visite, ospitalità o vendita",
+    "s": "dic",
+    "u": "https://tenutatrerose.it/it/tenuta",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "shop": {
+    "v": false,
+    "t": "il sito ha solo le sezioni Tenuta, Territorio, Progetto, Vini, Contatti: nessuna pagina di visite, ospitalità o vendita",
+    "s": "dic",
+    "u": "https://tenutatrerose.it/it/tenuta",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": null,
+    "t": "nessuna scheda TripAdvisor trovata: risultano solo l'hotel Borgo Tre Rose e altre cantine di Valiano",
+    "s": "dic",
+    "u": "https://tenutatrerose.it/it",
+    "n": "ricerca su TripAdvisor, letto il 25/11/2026"
+   }
+  },
+  "sanleonino": {
+   "esp": {
+    "n": 0,
+    "nota": "nessuna esperienza pubblicata: il sito ha solo le sezioni Fattoria, Territorio, Progetto, Vini, Contatti",
+    "s": "dic",
+    "u": "https://sanleonino.it/it/fattoria"
+   },
+   "book": {
+    "v": false,
+    "t": "nessuno strumento di prenotazione: la pagina contatti ha solo indirizzo, telefono ed email",
+    "s": "dic",
+    "u": "https://sanleonino.it/it/contatti",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "camere": {
+    "v": false,
+    "t": "il sito (Fattoria, Territorio, Progetto, Vini, Contatti) non ha ospitalità",
+    "s": "dic",
+    "u": "https://sanleonino.it/it/fattoria",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "il sito non ha ristorante",
+    "s": "dic",
+    "u": "https://sanleonino.it/it/fattoria",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "shop": {
+    "v": false,
+    "t": "il sito non ha shop né enoteca",
+    "s": "dic",
+    "u": "https://sanleonino.it/it/fattoria",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": null,
+    "t": "nessuna scheda TripAdvisor trovata: risultano solo l'Hotel Belvedere di San Leonino e la chiesa",
+    "s": "dic",
+    "u": "https://sanleonino.it/it",
+    "n": "ricerca su TripAdvisor, letto il 25/11/2026"
+   }
+  },
+  "fazibattaglia": {
+   "esp": {
+    "n": 1,
+    "nota": "tour delle cantine rinnovate e della Communication Gallery, prezzo non pubblicato (pagina del 2018)",
+    "s": "dic",
+    "u": "https://fazibattaglia.com/en/contact-details-and-tours"
+   },
+   "tipi": [
+    "visita e degustazione"
+   ],
+   "book": {
+    "v": true,
+    "t": "solo telefono-email, più modulo informazioni",
+    "s": "dic",
+    "u": "https://fazibattaglia.com/en/contact-details-and-tours"
+   },
+   "camere": {
+    "v": false,
+    "t": "menu del sito (Azienda, Vigneti, Vini, Visite in cantina, Enoteca, Contatti): nessuna camera",
+    "s": "dic",
+    "u": "https://fazibattaglia.com/it/visite-cantina",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "nessun ristorante",
+    "s": "dic",
+    "u": "https://fazibattaglia.com/it/visite-cantina",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "shop": {
+    "v": true,
+    "t": "Enoteca accanto alla cantina per assaggi e acquisti, lunedì-venerdì 9-13 / 15-18.30",
+    "s": "dic",
+    "u": "https://fazibattaglia.com/it/lenoteca",
+    "n": "letto il 25/11/2026"
+   },
+   "ta": {
+    "v": null,
+    "t": "scheda presente (Fazi Battaglia, Via Roma 117, Castelplanio) ma nessuna recensione",
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g1934128-d12810580-Reviews-Fazi_Battaglia-Castelplanio_Province_of_Ancona_Marche.html",
+    "n": "TripAdvisor, letto il 25/11/2026"
+   }
+  },
+  "puiatti": {
+   "tipi": [
+    "visita e degustazione"
+   ],
+   "book": {
+    "v": true,
+    "t": "solo telefono-email: la pagina visite non ha strumenti di prenotazione",
+    "s": "dic",
+    "u": "https://puiatti.com/it/visite"
+   },
+   "shop": {
+    "v": true,
+    "t": "vendita in cantina; shop online non visto",
+    "s": "dic",
+    "u": "https://puiatti.com/it/visite"
+   },
+   "camere": {
+    "v": false,
+    "t": "menu del sito (Chi siamo, Metodo, Vini, Visite, Contatti, Shop): nessuna camera",
+    "s": "dic",
+    "u": "https://puiatti.com/it/visite",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "rist": {
+    "v": false,
+    "t": "nessun ristorante",
+    "s": "dic",
+    "u": "https://puiatti.com/it/visite",
+    "n": "verificato letto il 25/11/2026"
+   },
+   "ta": {
+    "v": null,
+    "t": "scheda presente (Puiatti Vigneti, Località Zuccole 4, Romans d'Isonzo, sito puiatti.com) ma nessuna recensione",
+    "s": "dic",
+    "u": "https://www.tripadvisor.com/Attraction_Review-g2282902-d13107992-Reviews-Puiatti_Vigneti-Romans_d_Isonzo_Province_of_Gorizia_Friuli_Venezia_Giulia.html",
+    "n": "TripAdvisor, letto il 25/11/2026"
+   },
+   "esp": {
+    "n": 1,
+    "nota": "visite guidate e degustazioni su prenotazione (telefono o email); prezzi non pubblicati né sul sito né su Winedering/Divinea",
+    "s": "dic",
+    "u": "https://puiatti.com/it/visite/"
+   }
+  },
+  "angelini": {
+   "ta": {
+    "v": null,
+    "t": "nessuna scheda TripAdvisor trovata: Angelini Wines & Estates è il gruppo, non una cantina visitabile (le schede sono delle singole tenute)",
+    "s": "dic",
+    "u": "https://www.angeliniwinesandestates.com/",
+    "n": "ricerca su TripAdvisor, letto il 25/11/2026"
+   }
+  }
+ },
+ "an": [
+  "Questa è una valutazione nostra, fatta leggendo i siti ufficiali e le pagine di prenotazione il 25/11/2026: non misura quante persone visitano le cantine, ma quanto è facile e ricca l'offerta che un visitatore trova online.",
+  "A Montefalco Caprai ha l'offerta più completa sul fronte vino: 7 esperienze fisse da 35 a 200 euro, con una verticale di 25 annate e una Signature Collection che nessun vicino propone a quel prezzo, un portale tutto suo con calendario, scelta della lingua e pagamento online, più eventi e gift card. Il voto Google della cantina (4,7 su oltre 500 recensioni) è il più forte della zona per numero di recensioni. È invece indietro su due cose: non abbiamo visto camere né una cucina vera, mentre Antonelli San Marco ha camere in cantina, pranzi e cene in villa e un agriturismo in arrivo; e la sua proposta è quasi solo degustazione, mentre Scacciadiavoli vende anche e-bike, Vespa, trekking e corsi di cucina con prenotazione immediata.",
+  "In Umbria il confronto è Lungarotti: meno esperienze (4) e prezzi più bassi, ma ha agriturismo, bistrot, osteria e un museo del vino, cioè un motivo per restare più di due ore. Castello della Sala (Antinori) qui fa poco: una bottega su prenotazione telefonica. Nel gruppo Angelini Caprai è la tenuta più avanti: solo Bertani ha la stessa prenotazione online con pagamento e una verticale storica; Val di Suga ha tre degustazioni con modulo, Fazi Battaglia e Puiatti solo telefono o email, e per Trerose e San Leonino non abbiamo trovato visite sul sito.",
+  "Cosa potrebbe copiare: da Scacciadiavoli le esperienze attive (bici, trekking, cucina) per chi non beve molto o viaggia in famiglia; da Antonelli e Lungarotti pranzo o cena in cantina e qualche camera o accordo con una struttura vicina, per trasformare la visita in un soggiorno; da Perticaia e Romanelli uno shop online ben visibile sul sito principale, dove ora non abbiamo visto un negozio. Dentro il gruppo, il portale Caprai Experience è il modello che Val di Suga, Fazi Battaglia e Puiatti potrebbero riusare."
+ ]
+}

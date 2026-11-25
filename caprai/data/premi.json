@@ -1,0 +1,1603 @@
+{
+ "n": "Fonti lette il 25/11/2026: Gambero Rosso, Tre Bicchieri 2026 Umbria (18 vini, lista completa); Vivino via Alexandria (ricerca, mercato IT, prezzi in euro). MANCANO: Tre Bicchieri per le tenute del gruppo fuori Umbria (Bertani, Val di Suga, Trerose, San Leonino, Fazi Battaglia, Puiatti: tb null = non verificato); totali storici Tre Bicchieri; Slow Wine/Bibenda/altri premi; punteggi internazionali (WS, Wine Advocate, Suckling, Decanter); prezzi da shop ufficiali/Tannico/Callmewine (il campo prezzo è l'offerta Vivino IT, annata vuota se Vivino non la indica); Vivino per Val di Suga, Trerose, San Leonino, Puiatti. Per Bea, Perticaia, Còlpetrone, Romanelli n=0 significa: assenti dalla lista Umbria 2026. Vivino 'v' è la media su tutte le annate. · Fonti lette il 25/11/2026 con Firecrawl (79 crediti). Punteggi internazionali quasi tutti citati da shop o importatori (indicato in n); nessun sito a pagamento aperto. Guide: lette Slow Wine 2026 e 2027 (elenchi WineNews; la 2027 è già uscita a ottobre 2026) e Tre Bicchieri 2026 regionali (Gambero Rosso). Mancano: Bibenda 5 Grappoli, Vitae AIS 4 Viti, Veronelli Super Tre Stelle, Doctor Wine 2025-2026 (nessuna lista pubblica letta, budget); Decanter non trovato per nessuno. Senza punteggi trovati: Perticaia, Còlpetrone (solo annate vecchie), Paolo Bea (ricerca vuota), Lungarotti (solo Falstaff, non richiesto), Bertani (WS solo dietro login), Trerose (90 punti senza critico), San Leonino, Fazi Battaglia, Puiatti. Esistono anche i Tre Bicchieri 2027 (non letti: chiesto 2026). In tb, n2 è la nota (n è il conteggio). · Prezzi a scaffale online letti il 25/11/2026 su enoteche vere (mai Vivino): bottiglia 0,75 l, IVA inclusa, prezzo pieno non scontato; il minimo visto è nella nota. Le pagine delle cantine su Callmewine e Tannico sono state lette per intero (1 credito ciascuna) e il prezzo è quello mostrato accanto al link della scheda prodotto. Per le cantine assenti da quei negozi il prezzo viene dall'estratto di ricerca di Firecrawl, con il link alla scheda prodotto. Cosa manca: Paolo Bea base (ha un solo Sagrantino secco, Pagliaro, già usato come punta: base=null). Scacciadiavoli: punta e base coincidono (un solo Sagrantino secco). Annata mancante per la base di Perticaia, Lungarotti, Trerose e Fazi Battaglia e per la punta di Puiatti. Per Trerose, San Leonino, Val di Suga e Puiatti la scelta della punta non è verificata sul listino del sito ufficiale (vedi nota). Il San Sisto su Bernabei è esaurito. Il prezzo di Scacciadiavoli è letto da un estratto con valuta ambigua. Shop ufficiali: solo quello di Perticaia vende online con prezzi; Romanelli vende solo ai soci del Wine Club. · Ricerca integrativa sui concorrenti del 25/11/2026 (Firecrawl, circa 60 crediti su 120). Solo voci nuove rispetto a docs/critica.json, annate dal 2018. Fonti: shop superiore.de (pagine produttore Bertani e Val di Suga, con WA/WS/JS/Vinous/WE/Decanter e guide Veronelli e Doctor Wine), wine.com (schede ed elenco Umbria), importatore Chambers & Chambers (Antonelli), sito ufficiale Lungarotti, sito ufficiale Perticaia e Winetales Magazine, shop AG Wines, JJ Buckley e WHWC, importatore Voyageurs du Vin, Wine Enthusiast Buying Guide. Nessun dato nuovo per: Colpetrone (sugli shop USA solo annate precedenti al 2018), Castelbuono (nessun punteggio oltre a quelli già presenti), Romanelli (nessun risultato), Trerose (la pagina ufficiale Simposio elenca premi solo fino all'annata 2013), San Leonino (i risultati riguardano Fontodi 'Terrazze di San Leolino', un'altra cantina; nessun punteggio letto), Fazi Battaglia (due ricerche senza esito). Scartati: Bertani Amarone Classico 2016 (prima del 2018), Perticaia James Suckling 91 (annata non indicata), Scacciadiavoli Wine Enthusiast 92 (annata ambigua), Val di Suga Vigna del Lago 2018 e i rossi minori (vini secondari). Pagine di Vinous e Wine Enthusiast a pagamento: punteggi non leggibili. Elenchi completi di Bibenda, Vitae AIS, Veronelli e Doctor Wine non consultati per mancanza di pagine pubbliche leggibili: le guide italiane qui sono solo quelle citate dagli shop o dalle cantine. · Terzo giro critica, letto il 25/11/2026. Fonti: Vivino via Alexandria (mercato IT, euro); Slow Wine 2026 e 2027 (elenchi premi su WineNews); Bibenda 2026 (elenco ufficiale 5 Grappoli su bibenda.it); Vitae AIS 2026 (elenco dei 400 su spiritoitaliano.net). Nessun premio trovato per Còlpetrone, Trerose, San Leonino, Fazi Battaglia, Puiatti in Slow Wine 2026/2027, Bibenda 2026, Vitae 2026; Slow Wine 2027 senza novità per le cantine richieste. Veronelli non verificato (nessuna lista pubblica letta).",
+ "az": {
+  "caprai": {
+   "vivino": [
+    {
+     "vino": "25 Anni Montefalco Sagrantino",
+     "v": 4.3,
+     "r": 6913,
+     "p": 53,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/23094",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2021"
+    },
+    {
+     "vino": "Collepiano Montefalco Sagrantino",
+     "v": 4.2,
+     "r": 14515,
+     "p": 24.9,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/23095",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2021"
+    }
+   ],
+   "punti": [
+    {
+     "v": 95,
+     "t": "James Suckling",
+     "vino": "25 Anni Montefalco Sagrantino",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://wilsondaniels.com/wine/arnaldo-caprai/25-anni-montefalco-sagrantino-docg/",
+     "n": "scheda importatore USA Wilson Daniels (recensione Zekun Shuai, 2026)"
+    },
+    {
+     "v": 96,
+     "t": "James Suckling",
+     "vino": "25 Anni Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.wine.com/product/arnaldo-caprai-25-anni-montefalco-sagrantino-2020/2414617",
+     "n": "citato dallo shop wine.com; stesso dato anche su westernreservewines.com e superiore.de"
+    },
+    {
+     "v": 94,
+     "t": "Wine Advocate",
+     "vino": "25 Anni Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.wine.com/product/arnaldo-caprai-25-anni-montefalco-sagrantino-2020/2414617",
+     "n": "citato dallo shop wine.com (Robert Parker's Wine Advocate)"
+    },
+    {
+     "v": 94,
+     "t": "Wine Spectator",
+     "vino": "25 Anni Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.westernreservewines.com/arnaldo-caprai-montefalco-sagrantino-25-anni-2020.html",
+     "n": "citato dallo shop Western Reserve Wines"
+    },
+    {
+     "v": 95,
+     "t": "Vinous",
+     "vino": "25 Anni Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/umbria/arnaldo-caprai/25-anni-sagrantino-di-montefalco-docg-2020.html",
+     "n": "citato dallo shop superiore.de come 95+"
+    },
+    {
+     "v": 93,
+     "t": "James Suckling",
+     "vino": "Collepiano Montefalco Sagrantino",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://wilsondaniels.com/wine/arnaldo-caprai/collepiano-montefalco-sagrantino-docg/",
+     "n": "scheda importatore Wilson Daniels (letto dall'estratto di ricerca, pagina non aperta)"
+    },
+    {
+     "v": 94,
+     "t": "James Suckling",
+     "vino": "Collepiano Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.wine.com/product/arnaldo-caprai-montefalco-sagrantino-collepiano-2020/2087979",
+     "n": "citato dallo shop wine.com"
+    },
+    {
+     "v": 92,
+     "t": "Wine Spectator",
+     "vino": "Collepiano Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.wine.com/product/arnaldo-caprai-montefalco-sagrantino-collepiano-2020/2087979",
+     "n": "citato dallo shop wine.com"
+    },
+    {
+     "v": 94,
+     "t": "Vinous",
+     "vino": "Collepiano Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://zionsville.grapevinecottage.com/wines/Arnaldo-Caprai-Montefalco-Sagrantino-Collepiano-2020-w9608896sc",
+     "n": "citato dallo shop Grapevine Cottage"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Doctor Wine - 98/100",
+     "vino": "25 Anni Montefalco Sagrantino 2020",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/umbria/arnaldo-caprai/25-anni-sagrantino-di-montefalco-docg-2020.html",
+     "n": "citato dallo shop superiore.de; edizione della guida non indicata"
+    },
+    {
+     "t": "Veronelli - 93/100",
+     "vino": "25 Anni Montefalco Sagrantino 2020",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/umbria/arnaldo-caprai/25-anni-sagrantino-di-montefalco-docg-2020.html",
+     "n": "citato dallo shop superiore.de; edizione della guida non indicata"
+    }
+   ],
+   "tb": {
+    "n": 1,
+    "anno": "2026",
+    "vini": [
+     "Montefalco Sagrantino 25 Anni 2021"
+    ],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Montefalco Sagrantino DOCG 25 Anni",
+     "annata": "2021",
+     "p": 65,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/sagrantino-25-anni-caprai-2021-P62714.htm",
+     "n": "letto il 25/11/2026; prezzo pieno su callmewine.com/cantina/caprai-B17.htm; minimo visto 48,50 € (comparatore Enosearcher, 10 offerte) e da 52,50 € su Trovaprezzi"
+    },
+    "base": {
+     "vino": "Montefalco Sagrantino DOCG Collepiano",
+     "annata": "2021",
+     "p": 27.3,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/sagrantino-collepiano-caprai-2021-P62715.htm",
+     "n": "letto il 25/11/2026; 27,30 € = prezzo più basso degli ultimi 30 giorni indicato da Callmewine; in promo Black -10% a 24,60 € (minimo visto)"
+    }
+   }
+  },
+  "tabarrini": {
+   "vivino": [
+    {
+     "vino": "Colle Grimaldesco Montefalco Sagrantino",
+     "v": 4.1,
+     "r": 2121,
+     "p": 26.8,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1168602",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro"
+    },
+    {
+     "vino": "Il Bisbetico Domato (troppi pochi voti per la media)",
+     "v": null,
+     "r": 7,
+     "p": null,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/13599259",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; nessuna offerta in Italia"
+    }
+   ],
+   "punti": [
+    {
+     "v": 94,
+     "t": "Vinous",
+     "vino": "Colle Grimaldesco Montefalco Sagrantino",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://www.winesolutions.com/products/tabarrini-colle-grimaldesco-sagrantino-2019",
+     "n": "citato dallo shop Wine Solutions (titolo pagina 2020, testo e indirizzo 2019)"
+    },
+    {
+     "v": 97,
+     "t": "Vinous",
+     "vino": "Il Bisbetico Domato Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://agwines.com/product/tabarrini-montefalco-sagrantino-il-bisbetico-domato-2020",
+     "n": "citato dallo shop britannico AG Wines (Eric Guido, Vinous, ott 2024)"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Slow Wine 2026 - Top Wine",
+     "vino": "Montefalco Sagrantino Il Bisbetico Domato 2021",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2026-premia-alla-carriera-graziano-pra-e-la-giovane-vignaiola-pilar-gritti_572013/"
+    },
+    {
+     "t": "Slow Wine 2026 - Chiocciola (azienda)",
+     "vino": "",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2026-premia-alla-carriera-graziano-pra-e-la-giovane-vignaiola-pilar-gritti_572013/",
+     "n": "nome nell'elenco per regione delle Chiocciole (letto in estrazione automatica, intestazione da verificare)"
+    },
+    {
+     "t": "Slow Wine 2027 - Top Wine",
+     "vino": "Montefalco Sagrantino Il Bisbetico Domato 2022",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2027-ecco-i-premi-speciali-ed-i-migliori-vini-italiani-buoni-puliti-e-giusti_604551/"
+    }
+   ],
+   "tb": {
+    "n": 1,
+    "anno": "2026",
+    "vini": [
+     "Montefalco Sagrantino Il Bisbetico Domato 2021"
+    ],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Montefalco Sagrantino DOCG Campo alla Cerqua",
+     "annata": "2020",
+     "p": 54.5,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/sagrantino-campo-alla-cerqua-tabarrini-2020-P62181.htm",
+     "n": "letto il 25/11/2026; il cru più caro in vendita su Callmewine; Colle alle Macchie e Il Bisbetico Domato (Tre Bicchieri 2026) non trovati in enoteca"
+    },
+    "base": {
+     "vino": "Montefalco Sagrantino DOCG Colle Grimaldesco",
+     "annata": "2020",
+     "p": 38.8,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/sagrantino-colle-grimaldesco-tabarrini-2020-P62169.htm",
+     "n": "letto il 25/11/2026; unica fonte letta"
+    }
+   }
+  },
+  "bea": {
+   "vivino": [
+    {
+     "vino": "Pagliaro Montefalco Sagrantino Secco",
+     "v": 4.5,
+     "r": 3979,
+     "p": null,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1224050",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; nessuna offerta in Italia"
+    }
+   ],
+   "punti": [
+    {
+     "v": 95,
+     "t": "Vinous",
+     "vino": "Pagliaro Montefalco Sagrantino",
+     "annata": "2018",
+     "s": "dic",
+     "u": "https://www.wine.com/product/paolo-bea-sagrantino-di-montefalco-pagliaro-2018/1465367",
+     "n": "scheda prodotto wine.com"
+    },
+    {
+     "v": 96,
+     "t": "Vinous",
+     "vino": "Pagliaro Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.wine.com/product/paolo-bea-sagrantino-di-montefalco-pagliaro-2018/1465367",
+     "n": "wine.com, riquadro vini correlati sulla scheda del 2018"
+    },
+    {
+     "v": 95,
+     "t": "Vinous",
+     "vino": "Rosso de Veo",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://www.wine.com/product/paolo-bea-sagrantino-di-montefalco-pagliaro-2018/1465367",
+     "n": "wine.com, riquadro vini correlati sulla scheda Pagliaro 2018; stesso dato nell'elenco Umbria di wine.com"
+    },
+    {
+     "v": 94,
+     "t": "Vinous",
+     "vino": "San Valentino Rosso",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://www.wine.com/product/paolo-bea-sagrantino-di-montefalco-pagliaro-2018/1465367",
+     "n": "wine.com, riquadro vini correlati sulla scheda Pagliaro 2018; stesso dato nell'elenco Umbria di wine.com"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Slow Wine 2026 - Top Wine, Vino Slow",
+     "vino": "Montefalco Sagrantino Pagliaro 2018",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2026-premia-alla-carriera-graziano-pra-e-la-giovane-vignaiola-pilar-gritti_572013/",
+     "n": "letto dall'estratto di ricerca della pagina WineNews"
+    },
+    {
+     "t": "Slow Wine 2026 - Chiocciola (azienda)",
+     "vino": "",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2026-premia-alla-carriera-graziano-pra-e-la-giovane-vignaiola-pilar-gritti_572013/",
+     "n": "nome nell'elenco per regione delle Chiocciole (estrazione automatica, intestazione da verificare)"
+    },
+    {
+     "t": "Slow Wine 2027 - Top Wine, Vino Slow",
+     "vino": "Cotidie 2022",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2027-ecco-i-premi-speciali-ed-i-migliori-vini-italiani-buoni-puliti-e-giusti_604551/"
+    }
+   ],
+   "tb": {
+    "n": 0,
+    "anno": "2026",
+    "vini": [],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Montefalco Sagrantino DOCG Pagliaro",
+     "annata": "2017",
+     "p": 99,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/sagrantino-pagliaro-paolo-bea-2017-P62529.htm",
+     "n": "letto il 25/11/2026; unica fonte letta; è l'unico Sagrantino secco in gamma"
+    },
+    "base": null
+   }
+  },
+  "antonelli": {
+   "vivino": [
+    {
+     "vino": "Chiusa di Pannone Montefalco Sagrantino",
+     "v": 4.2,
+     "r": 1878,
+     "p": 39.5,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/2111804",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2019"
+    },
+    {
+     "vino": "Montefalco Sagrantino",
+     "v": 4.1,
+     "r": 7931,
+     "p": 21.61,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/74446",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2020"
+    }
+   ],
+   "punti": [
+    {
+     "v": 98,
+     "t": "Wine Enthusiast",
+     "vino": "Molino dell'Attone Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.wineenthusiast.com/buying-guide/antonelli-2020-molino-dellattone-sagrantino-montefalco-sagrantino/",
+     "n": "punteggio letto sul sito Wine Enthusiast (riquadro nella pagina della Chiusa di Pannone 2020, recensita da Jeff Porter, 18/05/2026); il voto della Chiusa di Pannone non era visibile"
+    },
+    {
+     "v": 92,
+     "t": "Wine Advocate",
+     "vino": "Chiusa di Pannone Montefalco Sagrantino",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://www.chamberswines.com/ca/producer/antonelli/asm330/antonelli-chiusa-di-pannone-sagrantino-di-montefalco",
+     "n": "scheda importatore USA Chambers & Chambers"
+    },
+    {
+     "v": 93,
+     "t": "Wine Enthusiast",
+     "vino": "Chiusa di Pannone Montefalco Sagrantino",
+     "annata": "2018",
+     "s": "dic",
+     "u": "https://www.chamberswines.com/ca/producer/antonelli/asm330/antonelli-chiusa-di-pannone-sagrantino-di-montefalco",
+     "n": "scheda importatore USA Chambers & Chambers"
+    },
+    {
+     "v": 91,
+     "t": "Wine Advocate",
+     "vino": "Molino dell'Attone Montefalco Sagrantino",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://www.chamberswines.com/ca/producer/antonelli/asm360/antonelli-molino-dellattone-montefalco-sagrantino-docg",
+     "n": "scheda importatore USA Chambers & Chambers"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Slow Wine 2026 - Top Wine, Vino Slow",
+     "vino": "Montefalco Rosso Riserva 2021",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2026-premia-alla-carriera-graziano-pra-e-la-giovane-vignaiola-pilar-gritti_572013/"
+    },
+    {
+     "t": "Slow Wine 2027 - Top Wine, Vino Slow",
+     "vino": "Spoleto Trebbiano Spoletino Vigna Tonda 2024",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2027-ecco-i-premi-speciali-ed-i-migliori-vini-italiani-buoni-puliti-e-giusti_604551/"
+    }
+   ],
+   "tb": {
+    "n": 1,
+    "anno": "2026",
+    "vini": [
+     "Montefalco Sagrantino Chiusa di Pannone 2020"
+    ],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Montefalco Sagrantino DOCG Chiusa di Pannone",
+     "annata": "2019",
+     "p": 39.5,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/sagrantino-montefalco-chiusa-di-pannone-antonelli-san-marco-2019-P61804.htm",
+     "n": "letto il 25/11/2026; unica fonte letta"
+    },
+    "base": {
+     "vino": "Montefalco Sagrantino DOCG",
+     "annata": "2021",
+     "p": 22,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/sagrantino-antonelli-san-marco-2021-P71127.htm",
+     "n": "letto il 25/11/2026; unica fonte letta"
+    }
+   }
+  },
+  "scacciadiavoli": {
+   "vivino": [
+    {
+     "vino": "Montefalco Sagrantino",
+     "v": 4.1,
+     "r": 7871,
+     "p": 19,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1135969",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro"
+    }
+   ],
+   "punti": [
+    {
+     "v": 92,
+     "t": "Wine Spectator",
+     "vino": "Montefalco Sagrantino",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://flaskfinewines.com/products/scacciadiavoli-sagrantino-di-montefalco-2016",
+     "n": "citato dallo shop Flask Fine Wines (titolo 2019, indirizzo della pagina 2016: annata da verificare)"
+    },
+    {
+     "v": 90,
+     "t": "James Suckling",
+     "vino": "Montefalco Rosso",
+     "annata": "2022",
+     "s": "dic",
+     "u": "https://www.wine.com/list/wine/umbria/7155-107202",
+     "n": "elenco vini Umbria di wine.com"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Slow Wine 2026 - Top Wine, Best Buy",
+     "vino": "Spoleto Trebbiano Spoletino 2023",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2026-premia-alla-carriera-graziano-pra-e-la-giovane-vignaiola-pilar-gritti_572013/",
+     "n": "WineNews, elenco premi Slow Wine 2026 Umbria, letto il 25/11/2026"
+    }
+   ],
+   "tb": {
+    "n": 1,
+    "anno": "2026",
+    "vini": [
+     "Montefalco Rosso 2023"
+    ],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Montefalco Sagrantino DOCG",
+     "annata": "2021",
+     "p": 23.43,
+     "shop": "Cose del Posto (enoteca online)",
+     "s": "dic",
+     "u": "https://cosedelposto.com/products/montefalco-sagrantino-docg-scacciadiavoli",
+     "n": "letto il 25/11/2026; unico Sagrantino secco in gamma: punta e base coincidono; prezzo dall'estratto della pagina IT (la pagina letta mostra la valuta in USD); visti anche 22,00 € (Carosi, annata 2017) e 15,00 € pieno / 13,52 € scontato (Enoteca Lombardi, minimo visto); assente da Callmewine e Tannico"
+    },
+    "base": {
+     "vino": "Montefalco Sagrantino DOCG",
+     "annata": "2021",
+     "p": 23.43,
+     "shop": "Cose del Posto (enoteca online)",
+     "s": "dic",
+     "u": "https://cosedelposto.com/products/montefalco-sagrantino-docg-scacciadiavoli",
+     "n": "letto il 25/11/2026; stesso vino della punta; minimo visto 13,52 € (Enoteca Lombardi, scontato)"
+    }
+   }
+  },
+  "perticaia": {
+   "vivino": [
+    {
+     "vino": "Montefalco Sagrantino",
+     "v": 4.1,
+     "r": 3940,
+     "p": 21,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1119822",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro"
+    }
+   ],
+   "punti": [],
+   "guide": [
+    {
+     "t": "Bibenda 2026 - 5 Grappoli",
+     "vino": "Montefalco Sagrantino 2018",
+     "s": "dic",
+     "u": "https://winetalesmagazine.com/blendnews/cantina-perticaia-il-montefalco-sagrantino-docg-2018-premiato-con-i-5-grappoli-bibenda-2026/",
+     "n": "notizia Winetales Magazine (letta nell'estratto di ricerca); il sito ufficiale perticaia.it (pagina riconoscimenti del Sagrantino) riporta '2025: Bibenda con 5 grappoli'"
+    }
+   ],
+   "tb": {
+    "n": 0,
+    "anno": "2026",
+    "vini": [],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Montefalco Sagrantino DOCG Vecchia Annata",
+     "annata": "2013",
+     "p": 75,
+     "shop": "Shop ufficiale Perticaia",
+     "s": "dic",
+     "u": "https://www.perticaia.it/en/product-page/vecchia-annata-montefalco-sagrantino-docg-2013-0-75l",
+     "n": "letto il 25/11/2026; rilascio da archivio, l'unico Sagrantino secco in gamma; nello stesso shop l'annata 2006 costa 85,00 €"
+    },
+    "base": {
+     "vino": "Montefalco Sagrantino DOCG",
+     "annata": "",
+     "p": 28.2,
+     "shop": "Bottle of Italy",
+     "s": "dic",
+     "u": "https://bottleofitaly.com/en/products/montefalco-sagrantino-perticaia",
+     "n": "letto il 25/11/2026; prezzo consigliato; scontato 25,20 € (minimo visto); annata non letta; l'annata corrente in 0,75 l non compare nella prima pagina dello shop ufficiale (2020 solo magnum 70 €); assente da Callmewine"
+    }
+   }
+  },
+  "colpetrone": {
+   "vivino": [
+    {
+     "vino": "Ò di Còlpetrone Montefalco Sagrantino",
+     "v": 4.3,
+     "r": 34,
+     "p": 34,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/11661669",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2017 (scontato da 43)"
+    },
+    {
+     "vino": "Montefalco Sagrantino",
+     "v": 3.9,
+     "r": 6405,
+     "p": 16,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1168975",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2017"
+    }
+   ],
+   "punti": [],
+   "guide": [],
+   "tb": {
+    "n": 0,
+    "anno": "2026",
+    "vini": [],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Montefalco Sagrantino DOCG Ò di Còlpetrone",
+     "annata": "2019",
+     "p": 44.5,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/sagrantino-o-di-colpetrone-colpetrone-2019-P64467.htm",
+     "n": "letto il 25/11/2026; unica fonte letta"
+    },
+    "base": {
+     "vino": "Montefalco Sagrantino DOCG Memoira",
+     "annata": "2018",
+     "p": 17.3,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/sagrantino-di-montefalco-memoira-colpetrone-2018-P71647.htm",
+     "n": "letto il 25/11/2026; unica fonte letta"
+    }
+   }
+  },
+  "castelbuono": {
+   "vivino": [
+    {
+     "vino": "Carapace Montefalco Sagrantino",
+     "v": 4.1,
+     "r": 5036,
+     "p": 25.5,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/2389513",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2021"
+    }
+   ],
+   "punti": [
+    {
+     "v": 92,
+     "t": "James Suckling",
+     "vino": "Carapace Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.wine.com/product/lunelli-carapace-montefalco-sagrantino-2020/4127231",
+     "n": "citato dallo shop wine.com"
+    },
+    {
+     "v": 92,
+     "t": "Wine Spectator",
+     "vino": "Carapace Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.wine.com/product/lunelli-carapace-montefalco-sagrantino-2020/4127231",
+     "n": "citato dallo shop wine.com"
+    },
+    {
+     "v": 94,
+     "t": "James Suckling",
+     "vino": "Carapace Montefalco Sagrantino",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://www.palmbay.com/wines/tenuta-lunelli/carapace-montefalco-sagrantino/",
+     "n": "scheda importatore USA Palm Bay; la stessa pagina cita 97 punti Platinum ai Decanter World Wine Awards 2025 (concorso, non critico)"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Bibenda 2026 - 5 Grappoli",
+     "vino": "Montefalco Sagrantino Carapace Lunga Attesa 2018",
+     "s": "dic",
+     "u": "https://www.bibenda.it/news_bibenda_singola.php?id=5707",
+     "n": "Bibenda, elenco ufficiale dei 764 Cinque Grappoli 2026, Umbria: \"Tenute Lunelli Tenuta Castelbuono\", letto il 25/11/2026"
+    }
+   ],
+   "tb": {
+    "n": 1,
+    "anno": "2026",
+    "vini": [
+     "Montefalco Sagrantino Carapace 2020"
+    ],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Montefalco Sagrantino DOCG Carapace Lunga Attesa (cassetta di legno)",
+     "annata": "2018",
+     "p": 48,
+     "shop": "Tannico",
+     "s": "dic",
+     "u": "https://www.tannico.it/products/montefalco-sagrantino-docg-carapace-lunga-attesa-2018-tenuta-castelbuono-tenute-lunelli-cassetta-di-legno",
+     "n": "letto il 25/11/2026; minimo visto 39,90 € (Furor di Vino, annata 2017); 45,97 € Enoteca Properzio; da 44,95 € su Trovaprezzi"
+    },
+    "base": {
+     "vino": "Montefalco Sagrantino DOCG Carapace",
+     "annata": "2021",
+     "p": 29,
+     "shop": "Tannico",
+     "s": "dic",
+     "u": "https://www.tannico.it/products/montefalco-sagrantino-docg-carapace-2021-tenuta-castelbuono-tenute-lunelli",
+     "n": "letto il 25/11/2026; 26,10 € da 3 bottiglie; minimo visto 21,95 € (Trovaprezzi/Enosearcher, prezzo medio 26 €)"
+    }
+   }
+  },
+  "romanelli": {
+   "vivino": [
+    {
+     "vino": "Medeo Montefalco Sagrantino",
+     "v": 4.4,
+     "r": 228,
+     "p": 72.9,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/4857796",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2019"
+    },
+    {
+     "vino": "Montefalco Sagrantino",
+     "v": 4,
+     "r": 938,
+     "p": null,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1246274",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; nessuna offerta in Italia"
+    }
+   ],
+   "punti": [
+    {
+     "v": 94,
+     "t": "Vinous",
+     "vino": "Terra Cupa Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.saratogawine.com/product/romanelli-montefalco-sagrantino-terra-cupa-2020-750ml/",
+     "n": "citato dallo shop Saratoga Wine"
+    },
+    {
+     "v": 89,
+     "t": "James Suckling",
+     "vino": "Terra Cupa Montefalco Sagrantino",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://www.saratogawine.com/product/romanelli-montefalco-sagrantino-terra-cupa-2020-750ml/",
+     "n": "citato dallo shop Saratoga Wine"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Slow Wine 2026 - Top Wine, Vino Slow",
+     "vino": "Spoleto Trebbiano Spoletino Le Tese 2023",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2026-premia-alla-carriera-graziano-pra-e-la-giovane-vignaiola-pilar-gritti_572013/"
+    },
+    {
+     "t": "Slow Wine 2027 - Top Wine, Vino Slow",
+     "vino": "Spoleto Trebbiano Spoletino Le Tese 2024",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2027-ecco-i-premi-speciali-ed-i-migliori-vini-italiani-buoni-puliti-e-giusti_604551/"
+    }
+   ],
+   "tb": {
+    "n": 0,
+    "anno": "2026",
+    "vini": [],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Montefalco Sagrantino DOCG Medeo",
+     "annata": "2019",
+     "p": 76.01,
+     "shop": "Negozio del Vino",
+     "s": "dic",
+     "u": "https://www.negoziodelvino.it/montefalco-sagrantino-medeo-2019-docg-P5633.htm",
+     "n": "letto il 25/11/2026; minimo visto 69,90 € (Fenolico); lo shop ufficiale vende solo ai soci del Wine Club (prodotto non acquistabile)"
+    },
+    "base": {
+     "vino": "Montefalco Sagrantino DOCG Terra Cupa",
+     "annata": "2020",
+     "p": 35.9,
+     "shop": "Negozio del Vino",
+     "s": "dic",
+     "u": "https://www.negoziodelvino.it/montefalco-sagrantino-terra-cupa-2020-docg-P825.htm",
+     "n": "letto il 25/11/2026; prezzo dall'estratto di ricerca, unica fonte italiana trovata; nello shop ufficiale è in vendita l'annata 2021 solo per i soci"
+    }
+   }
+  },
+  "lungarotti": {
+   "vivino": [
+    {
+     "vino": "Sagrantino di Montefalco",
+     "v": 4,
+     "r": 3823,
+     "p": 65.5,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1192499",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2020"
+    }
+   ],
+   "punti": [
+    {
+     "v": 93,
+     "t": "James Suckling",
+     "vino": "Torre di Giano Vigna Il Pino",
+     "annata": "2018",
+     "s": "dic",
+     "u": "https://lungarotti.it/eng/james-suckling-scores-2021/",
+     "n": "sito ufficiale Lungarotti, notizia di luglio 2021"
+    },
+    {
+     "v": 92,
+     "t": "James Suckling",
+     "vino": "Rubesco Rosso di Torgiano",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://lungarotti.it/eng/james-suckling-scores-2021/",
+     "n": "sito ufficiale Lungarotti, notizia di luglio 2021; stesso dato su wine.com"
+    },
+    {
+     "v": 91,
+     "t": "James Suckling",
+     "vino": "L'U Rosso Umbria",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://lungarotti.it/eng/james-suckling-scores-2021/",
+     "n": "sito ufficiale Lungarotti, notizia di luglio 2021"
+    },
+    {
+     "v": 91,
+     "t": "James Suckling",
+     "vino": "Brezza Bianco Umbria",
+     "annata": "2020",
+     "s": "dic",
+     "u": "https://lungarotti.it/eng/james-suckling-scores-2021/",
+     "n": "sito ufficiale Lungarotti, notizia di luglio 2021"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Slow Wine 2027 - Top Wine, Best Buy",
+     "vino": "Rosso di Torgiano Rubesco 62 2023",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2027-ecco-i-premi-speciali-ed-i-migliori-vini-italiani-buoni-puliti-e-giusti_604551/"
+    }
+   ],
+   "tb": {
+    "n": 1,
+    "anno": "2026",
+    "vini": [
+     "Torgiano Rosso Rubesco Vigna Monticchio Riserva 2020"
+    ],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Torgiano Rosso Riserva DOCG Rubesco Vigna Monticchio",
+     "annata": "2020",
+     "p": 48,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/torgiano-rosso-riserva-rubesco-vigna-monticchio-lungarotti-2020-P64879.htm",
+     "n": "letto il 25/11/2026; Tre Bicchieri 2026; annate storiche 1981 e 1997 a 246,40 € e 187,30 €"
+    },
+    "base": {
+     "vino": "Montefalco Sagrantino DOCG",
+     "annata": "",
+     "p": 25.9,
+     "shop": "Esselunga Enoteca",
+     "s": "dic",
+     "u": "https://enoteca.esselunga.it/commerce/nav/enoteca/store/prodotto/547237/lungarotti-sagrantino-di-montefalco-75-cl",
+     "n": "letto il 25/11/2026; annata non indicata nell'estratto; visti 23,99 € (Beedrunk), da 25,50 € (Trovaprezzi), prezzo consigliato 44,80 € e 30,20 € (Bottle of Italy); minimo visto 21 € (Enosearcher, annata 2020); assente da Callmewine"
+    }
+   }
+  },
+  "castellosala": {
+   "vivino": [
+    {
+     "vino": "Cervaro della Sala",
+     "v": 4.4,
+     "r": 40859,
+     "p": 63.9,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1688",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2025"
+    }
+   ],
+   "punti": [
+    {
+     "v": 97,
+     "t": "Wine Advocate",
+     "vino": "Cervaro della Sala",
+     "annata": "2023",
+     "s": "dic",
+     "u": "https://www.b-21.com/2023-Antinori-Cervaro-della-Sala/productinfo/ITANCH23AE/",
+     "n": "citato dallo shop B-21 (Monica Larner, nov 2025); stesso dato su merchantofwine.com"
+    },
+    {
+     "v": 95,
+     "t": "Vinous",
+     "vino": "Cervaro della Sala",
+     "annata": "2023",
+     "s": "dic",
+     "u": "https://merchantofwine.com/products/marchesi-antinori-cervaro-della-sala-umbria-igt-italy-2023",
+     "n": "citato dallo shop Merchant of Wine"
+    },
+    {
+     "v": 95,
+     "t": "James Suckling",
+     "vino": "Cervaro della Sala",
+     "annata": "2024",
+     "s": "dic",
+     "u": "https://www.wine.com/list/wine/umbria/7155-107202",
+     "n": "elenco vini Umbria di wine.com"
+    },
+    {
+     "v": 94,
+     "t": "Wine Advocate",
+     "vino": "Cervaro della Sala",
+     "annata": "2022",
+     "s": "dic",
+     "u": "https://www.jjbuckley.com/wine/2022-antinori-cervaro-della-sala-igt/2022-1659-750/",
+     "n": "citato dallo shop JJ Buckley"
+    },
+    {
+     "v": 98,
+     "t": "James Suckling",
+     "vino": "Cervaro della Sala",
+     "annata": "2022",
+     "s": "dic",
+     "u": "https://www.wine.com/product/marchesi-antinori-castello-della-sala-cervaro-2022/2124376",
+     "n": "scheda wine.com (n. 45 della Top 100 World Wines 2024 di James Suckling)"
+    },
+    {
+     "v": 93,
+     "t": "Wine Spectator",
+     "vino": "Cervaro della Sala",
+     "annata": "2023",
+     "s": "dic",
+     "u": "https://whwc.com/antinori-castello-della-sala-cervaro-della-sala-umbria-2023/",
+     "n": "citato dallo shop WHWC"
+    },
+    {
+     "v": 97,
+     "t": "James Suckling",
+     "vino": "Cervaro della Sala",
+     "annata": "2023",
+     "s": "dic",
+     "u": "https://whwc.com/antinori-castello-della-sala-cervaro-della-sala-umbria-2023/",
+     "n": "citato dallo shop WHWC"
+    },
+    {
+     "v": 97,
+     "t": "James Suckling",
+     "vino": "Cervaro della Sala",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.voyageursduvin.com/en/GenerateTastingNotePDF.aspx?Id=199",
+     "n": "scheda di degustazione PDF dell'importatore canadese Voyageurs du Vin"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Bibenda 2026 - 5 Grappoli",
+     "vino": "Cervaro della Sala 2023",
+     "s": "dic",
+     "u": "https://www.bibenda.it/news_bibenda_singola.php?id=5707",
+     "n": "Bibenda, elenco ufficiale dei Cinque Grappoli 2026, Umbria, letto il 25/11/2026"
+    },
+    {
+     "t": "Bibenda 2026 - 5 Grappoli",
+     "vino": "Muffato della Sala 2023",
+     "s": "dic",
+     "u": "https://www.bibenda.it/news_bibenda_singola.php?id=5707",
+     "n": "Bibenda, elenco ufficiale dei Cinque Grappoli 2026, Umbria, letto il 25/11/2026"
+    },
+    {
+     "t": "Vitae AIS 2026 - I 100 Grandi Vini",
+     "vino": "Cervaro della Sala 2023",
+     "s": "dic",
+     "u": "https://www.spiritoitaliano.net/ais-vitae-2026-400-migliori-vini/",
+     "n": "Spirito Italiano, elenco dei 400 vini Vitae 2026 (fonte AIS); dal 2026 Vitae non assegna più le 4 Viti ma 4 selezioni da 100 vini (Grandi Vini, Territorio, Rivelazione, Valore/Prezzo), letto il 25/11/2026"
+    }
+   ],
+   "tb": {
+    "n": 1,
+    "anno": "2026",
+    "vini": [
+     "Orvieto Classico Superiore San Giovanni della Sala 2024"
+    ],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/vino/degustazioni/tre-bicchieri-2026-migliori-vini-umbria/"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Cervaro della Sala Umbria Bianco IGT",
+     "annata": "2025",
+     "p": 65,
+     "shop": "Tannico",
+     "s": "dic",
+     "u": "https://www.tannico.it/products/umbria-bianco-igt-cervaro-della-sala-2025-castello-della-sala",
+     "n": "letto il 25/11/2026; unica fonte letta"
+    },
+    "base": {
+     "vino": "Orvieto Classico Superiore DOC San Giovanni della Sala",
+     "annata": "2025",
+     "p": 17,
+     "shop": "Tannico",
+     "s": "dic",
+     "u": "https://www.tannico.it/products/orvieto-classico-superiore-doc-san-giovanni-della-sala-2025-castello-della-sala",
+     "n": "letto il 25/11/2026; scelto come base perché Tre Bicchieri 2026 e prezzo più basso fra i vini della tenuta su Tannico (dopo il Bramito 18,50 €)"
+    }
+   }
+  },
+  "bertani": {
+   "vivino": [
+    {
+     "vino": "Amarone della Valpolicella Classico",
+     "v": 4.4,
+     "r": 24321,
+     "p": 105,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1835",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2013"
+    }
+   ],
+   "punti": [
+    {
+     "v": 93,
+     "t": "James Suckling",
+     "vino": "Ognisanti di Novare Valpolicella Classico Superiore",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani)"
+    },
+    {
+     "v": 90,
+     "t": "Wine Spectator",
+     "vino": "Ognisanti di Novare Valpolicella Classico Superiore",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani)"
+    },
+    {
+     "v": 94,
+     "t": "James Suckling",
+     "vino": "Le Miniere di Novare Valpolicella Classico",
+     "annata": "2024",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani)"
+    },
+    {
+     "v": 90,
+     "t": "Vinous",
+     "vino": "Le Miniere di Novare Valpolicella Classico",
+     "annata": "2024",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani)"
+    },
+    {
+     "v": 92,
+     "t": "Wine Enthusiast",
+     "vino": "Le Miniere di Novare Valpolicella Classico",
+     "annata": "2024",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani)"
+    },
+    {
+     "v": 92,
+     "t": "Wine Enthusiast",
+     "vino": "Catullo Valpolicella Ripasso Classico Superiore",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani)"
+    },
+    {
+     "v": 92,
+     "t": "Wine Spectator",
+     "vino": "Amarone della Valpolicella Valpantena",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani); punteggio indicato come premio dell'annata 2021 sulla scheda del 2022"
+    },
+    {
+     "v": 93,
+     "t": "James Suckling",
+     "vino": "Soave Classico Vintage Edition",
+     "annata": "2023",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani)"
+    },
+    {
+     "v": 93,
+     "t": "James Suckling",
+     "vino": "Valpolicella Valpantena",
+     "annata": "2024",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani)"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Slow Wine 2026 - Top Wine",
+     "vino": "Amarone della Valpolicella Classico 2016",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2026-premia-alla-carriera-graziano-pra-e-la-giovane-vignaiola-pilar-gritti_572013/"
+    },
+    {
+     "t": "Veronelli - 92/100",
+     "vino": "Ognisanti di Novare Valpolicella Classico Superiore 2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani); edizione della guida non indicata"
+    },
+    {
+     "t": "Doctor Wine - 96/100",
+     "vino": "Ognisanti di Novare Valpolicella Classico Superiore 2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani); edizione della guida non indicata"
+    },
+    {
+     "t": "Veronelli - 92/100",
+     "vino": "Amarone della Valpolicella Valpantena 2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani); indicato sulla scheda 2022 come premio dell'annata 2021; edizione non indicata"
+    },
+    {
+     "t": "Doctor Wine - 93/100",
+     "vino": "Soave Classico Vintage Edition 2023",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/veneto/bertani/",
+     "n": "citato dallo shop superiore.de (pagina produttore Bertani); edizione della guida non indicata"
+    }
+   ],
+   "tb": {
+    "n": 1,
+    "anno": "2026",
+    "vini": [
+     "Amarone della Valpolicella Classico 2016"
+    ],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2026-migliori-vini-veneto/",
+    "n2": "abbinamento vino-cantina per posizione nell'elenco (3° vino, 3° cantina), coerente con Slow Wine 2026"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Amarone della Valpolicella Classico DOCG",
+     "annata": "2016",
+     "p": 111.1,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/amarone-classico-bertani-2016-P64552.htm",
+     "n": "letto il 25/11/2026; annata più recente in vendita; annate 2015 e 2012 a 113,00 € e 118,00 €"
+    },
+    "base": {
+     "vino": "Amarone della Valpolicella Valpantena DOCG",
+     "annata": "2022",
+     "p": 39.9,
+     "shop": "Callmewine",
+     "s": "dic",
+     "u": "https://www.callmewine.com/amarone-valpantena-bertani-2022-P62614.htm",
+     "n": "letto il 25/11/2026; l'Amarone Classico è già la punta, quindi come base si è preso l'Amarone di ingresso; annata 2021 a 41,00 €"
+    }
+   }
+  },
+  "fazibattaglia": {
+   "vivino": [
+    {
+     "vino": "Titulus Verdicchio dei Castelli di Jesi Classico",
+     "v": 3.6,
+     "r": 2634,
+     "p": 8.85,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/2606403",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2025"
+    }
+   ],
+   "punti": [],
+   "guide": [],
+   "tb": {
+    "n": 0,
+    "anno": "2026",
+    "vini": [],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2026-migliori-vini-marche/",
+    "n2": "a nome Fazi Battaglia nessuno; ma 'Castelli di Jesi Verdicchio Cl. San Sisto Ris. 2022' ha i Tre Bicchieri 2026 a nome 'Tenute San Sisto' (Angelini, Maiolati Spontini)"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Verdicchio dei Castelli di Jesi Classico Riserva DOCG San Sisto",
+     "annata": "2021",
+     "p": 16,
+     "shop": "Bernabei",
+     "s": "dic",
+     "u": "https://www.bernabei.it/verdicchio-dei-castelli-di-jesi-riserva-docg-san-sisto-fazi-battaglia",
+     "n": "letto il 25/11/2026; al momento non disponibile (avviso di arrivo); minimo visto 12,90 € (estratto di ricerca, stessa pagina); da Diemme Vini a 19,80 € con listino a 24,75 €"
+    },
+    "base": {
+     "vino": "Verdicchio dei Castelli di Jesi Classico DOC Titulus",
+     "annata": "",
+     "p": 11.8,
+     "shop": "Vico Food Box",
+     "s": "dic",
+     "u": "https://vicofoodbox.com/it/bianchi/3287-fazi-battaglia-titulus-verdicchio-superiore-doc-75-cl.html",
+     "n": "letto il 25/11/2026; annata non indicata; Titulus non trovato in vendita su Tannico (la pagina del marchio non ha caricato i prodotti) né su Callmewine"
+    }
+   }
+  },
+  "valdisuga": {
+   "vivino": [
+    {
+     "vino": "Brunello di Montalcino",
+     "v": 4,
+     "r": 29397,
+     "p": 31.4,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1101056",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2021"
+    },
+    {
+     "vino": "Brunello di Montalcino Vigna Spuntali",
+     "v": 4.3,
+     "r": 3658,
+     "p": 79.99,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/85157",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2013"
+    }
+   ],
+   "punti": [
+    {
+     "v": 95,
+     "t": "Vinous",
+     "vino": "Brunello di Montalcino Poggio al Granchio",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://atlaswineshop.com/products/val-di-suga-brunello-di-montalcino-2016-copy",
+     "n": "citato dallo shop Atlas Wine Shop (Eric Guido, Vinous)"
+    },
+    {
+     "v": 94,
+     "t": "Wine Advocate",
+     "vino": "Brunello di Montalcino",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 92,
+     "t": "Vinous",
+     "vino": "Brunello di Montalcino",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 93,
+     "t": "Wine Spectator",
+     "vino": "Brunello di Montalcino",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 91,
+     "t": "James Suckling",
+     "vino": "Brunello di Montalcino",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 93,
+     "t": "Decanter",
+     "vino": "Brunello di Montalcino",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 96,
+     "t": "Wine Advocate",
+     "vino": "Brunello di Montalcino Poggio al Granchio",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 94,
+     "t": "Vinous",
+     "vino": "Brunello di Montalcino Poggio al Granchio",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 97,
+     "t": "Wine Spectator",
+     "vino": "Brunello di Montalcino Poggio al Granchio",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 93,
+     "t": "James Suckling",
+     "vino": "Brunello di Montalcino Poggio al Granchio",
+     "annata": "2021",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 93,
+     "t": "Vinous",
+     "vino": "Brunello di Montalcino Vigna del Lago",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 93,
+     "t": "Wine Spectator",
+     "vino": "Brunello di Montalcino Vigna del Lago",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 95,
+     "t": "James Suckling",
+     "vino": "Brunello di Montalcino Vigna del Lago",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 94,
+     "t": "Decanter",
+     "vino": "Brunello di Montalcino Vigna del Lago",
+     "annata": "2019",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 93,
+     "t": "Vinous",
+     "vino": "Brunello di Montalcino Vigna Spuntali",
+     "annata": "2018",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 92,
+     "t": "Wine Spectator",
+     "vino": "Brunello di Montalcino Vigna Spuntali",
+     "annata": "2018",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 94,
+     "t": "James Suckling",
+     "vino": "Brunello di Montalcino Vigna Spuntali",
+     "annata": "2018",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    },
+    {
+     "v": 95,
+     "t": "Decanter",
+     "vino": "Brunello di Montalcino Vigna Spuntali",
+     "annata": "2018",
+     "s": "dic",
+     "u": "https://www.superiore.de/en/wine/tuscany-montalcino/val-di-suga/",
+     "n": "citato dallo shop superiore.de (pagina produttore Val di Suga)"
+    }
+   ],
+   "guide": [
+    {
+     "t": "Slow Wine 2026 - Top Wine",
+     "vino": "Rosso di Montalcino Vigna Spuntali 2022",
+     "s": "dic",
+     "u": "https://winenews.it/it/slow-wine-2026-premia-alla-carriera-graziano-pra-e-la-giovane-vignaiola-pilar-gritti_572013/",
+     "n": "WineNews, elenco premi Slow Wine 2026 Toscana, alla voce \"Angelini Wines & Estates - Tenute Toscane\", letto il 25/11/2026"
+    },
+    {
+     "t": "Bibenda 2026 - 5 Grappoli",
+     "vino": "Brunello di Montalcino Vigna Spuntali Riserva 2020",
+     "s": "dic",
+     "u": "https://www.bibenda.it/news_bibenda_singola.php?id=5707",
+     "n": "Bibenda, elenco ufficiale dei Cinque Grappoli 2026, Toscana, letto il 25/11/2026"
+    }
+   ],
+   "tb": {
+    "n": 0,
+    "anno": "2026",
+    "vini": [],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2026-migliori-vini-toscana/",
+    "n2": "assente dall'elenco Toscana 2026 (la pagina dichiara 94 etichette, ne mostra circa 89)"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Brunello di Montalcino DOCG Vigna del Lago",
+     "annata": "2020",
+     "p": 75,
+     "shop": "Tannico",
+     "s": "dic",
+     "u": "https://www.tannico.it/products/brunello-di-montalcino-docg-2020-vigna-del-lago-val-di-suga",
+     "n": "letto il 25/11/2026; i due cru Vigna del Lago e Poggio al Granchio 2020 costano entrambi 75,00 € su Tannico; il listino del sito ufficiale non è stato letto"
+    },
+    "base": {
+     "vino": "Brunello di Montalcino DOCG",
+     "annata": "2021",
+     "p": 40,
+     "shop": "Tannico",
+     "s": "dic",
+     "u": "https://www.tannico.it/products/brunello-di-montalcino-docg-2021-val-di-suga",
+     "n": "letto il 25/11/2026; unica fonte letta"
+    }
+   }
+  },
+  "trerose": {
+   "vivino": [
+    {
+     "vino": "Simposio Vino Nobile di Montepulciano",
+     "v": 4,
+     "r": 2185,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1175517",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; nessuna offerta in euro"
+    },
+    {
+     "vino": "Santa Caterina Vino Nobile di Montepulciano",
+     "v": 3.9,
+     "r": 4912,
+     "p": 18.9,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/2266556",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2021"
+    }
+   ],
+   "punti": [],
+   "guide": [],
+   "tb": {
+    "n": 0,
+    "anno": "2026",
+    "vini": [],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2026-migliori-vini-toscana/",
+    "n2": "assente dall'elenco Toscana 2026"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Vino Nobile di Montepulciano Riserva DOCG Simposio",
+     "annata": "2020",
+     "p": 34.3,
+     "shop": "Bottle of Italy",
+     "s": "dic",
+     "u": "https://bottleofitaly.com/products/vino-nobile-di-montepulciano-riserva-docg-simposio-tenuta-tre-rose",
+     "n": "letto il 25/11/2026; prezzo consigliato; scontato 27,50 € (minimo visto); scelta la riserva della tenuta, ma il listino del sito ufficiale non è stato letto, quindi non è verificato che sia la più cara"
+    },
+    "base": {
+     "vino": "Vino Nobile di Montepulciano DOCG Santa Caterina",
+     "annata": "",
+     "p": 19.9,
+     "shop": "Negozio del Vino",
+     "s": "dic",
+     "u": "https://www.negoziodelvino.it/vino-nobile-di-montepulciano-santa-caterina-docg-P2899.htm",
+     "n": "letto il 25/11/2026; annata non indicata nell'estratto; minimo visto circa 17,90 € per l'annata 2023 (Trovaprezzi, 22,70 € spedizione inclusa)"
+    }
+   }
+  },
+  "sanleonino": {
+   "vivino": [
+    {
+     "vino": "Monsenese Chianti Classico Riserva",
+     "v": 4,
+     "r": 2294,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/1302124",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; nessuna offerta in euro"
+    },
+    {
+     "vino": "Al Limite Chianti Classico",
+     "v": 3.8,
+     "r": 2677,
+     "p": 12,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/3671320",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2022"
+    }
+   ],
+   "punti": [],
+   "guide": [],
+   "tb": {
+    "n": 0,
+    "anno": "2026",
+    "vini": [],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2026-migliori-vini-toscana/",
+    "n2": "assente dall'elenco Toscana 2026"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Chianti Classico Gran Selezione DOCG Salivolpe",
+     "annata": "2019",
+     "p": 31.5,
+     "shop": "Bottle of Italy",
+     "s": "dic",
+     "u": "https://bottleofitaly.com/products/chianti-classico-gran-selezione-docg-salivolpe-san-leonino",
+     "n": "letto il 25/11/2026; prezzo consigliato; da 35 € l'annata 2018 (Enosearcher); scelta la Gran Selezione, il gradino più alto del Chianti Classico; il listino del sito ufficiale non è stato letto"
+    },
+    "base": {
+     "vino": "Chianti Classico DOCG Al Limite",
+     "annata": "2024",
+     "p": 20,
+     "shop": "Emporio del Vino",
+     "s": "dic",
+     "u": "https://emporiodelvino.com/product/chianti-classico-docg-al-limite-2024-san-leonino/",
+     "n": "letto il 25/11/2026; prezzo pieno; scontato a 15,00 € (-25%, minimo visto); la Riserva Monsenese costa 21,90 € da Esselunga Enoteca"
+    }
+   }
+  },
+  "puiatti": {
+   "vivino": [
+    {
+     "vino": "Sauvignon Blanc Friuli Isonzo",
+     "v": 4,
+     "r": 1088,
+     "p": 14.6,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/9883887",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2025"
+    },
+    {
+     "vino": "Pinot Grigio",
+     "v": 3.8,
+     "r": 1642,
+     "p": 19.9,
+     "s": "dic",
+     "u": "https://www.vivino.com/w/2824697",
+     "nota": "Vivino, ricerca mercato IT, letto il 25/11/2026: voto medio su tutte le annate; prezzo offerta in euro annata 2025"
+    }
+   ],
+   "punti": [
+    {
+     "v": 87,
+     "t": "Wine Enthusiast",
+     "vino": "Pinot Grigio Friuli",
+     "annata": "2023",
+     "s": "dic",
+     "u": "https://www.wineenthusiast.com/buying-guide/puiatti-2023-pinot-grigio-friuli/",
+     "n": "Buying Guide di Wine Enthusiast (letto nell'estratto di ricerca)"
+    }
+   ],
+   "guide": [],
+   "tb": {
+    "n": 0,
+    "anno": "2026",
+    "vini": [],
+    "s": "dic",
+    "u": "https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2026-migliori-vini-friuli-venezia-giulia/",
+    "n2": "assente dall'elenco Friuli Venezia Giulia 2026"
+   },
+   "prezzi": {
+    "punta": {
+     "vino": "Rosé de Noirs Metodo Classico Extra Brut",
+     "annata": "",
+     "p": 24,
+     "shop": "Tannico",
+     "s": "dic",
+     "u": "https://www.tannico.it/products/spumante-metodo-classico-rose-de-noirs-extra-brut-puiatti",
+     "n": "letto il 25/11/2026; il sito ufficiale non dichiara né cru né riserve né prezzi (12 vini, primo in elenco il blend Sconfine); questo è il vino più caro in vendita su Tannico; Sconfine visto a 21,00 € (14,70 € scontato) solo su una pagina di categoria di Meolo Gin"
+    },
+    "base": {
+     "vino": "Ribolla Gialla Venezia Giulia IGP",
+     "annata": "2025",
+     "p": 14,
+     "shop": "Tannico",
+     "s": "dic",
+     "u": "https://www.tannico.it/products/ribolla-gialla-venezia-giulia-igp-2025-puiatti",
+     "n": "letto il 25/11/2026; 14,00 € = prezzo più basso degli ultimi 30 giorni, in promo -20% a 11,20 € (minimo visto); 12,90 € da Callmewine (annata 2024)"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,852 @@
+{
+ "n": "Instagram letto il 25/11/2026 con ScrapeCreators (profilo + 1 pagina di 12 post per account); account presi dai piè di pagina dei siti ufficiali (Firecrawl). Finestra 90 giorni dal 27/08/2026: dove 12 post coprono meno di 90 giorni, ppm è calcolato sul periodo reale scritto in 'per'. Caprai: nessun post negli ultimi 90 giorni (ultimo 26/08/2026), metriche sugli ultimi 3 post. Tabarrini: 2 post nei 90 giorni, usati gli ultimi 3. Like nascosti: i post con like_count=3 (valore segnaposto di Instagram) sono esclusi da eng, er e top; Antonelli li nasconde su tutti i post, quindi eng ed er sono null; Tabarrini ha 1 post su 3 con like visibili, Caprai 2 su 3, Perticaia 11 su 12. Account di gruppo: colpetrone = @tenutedelcerro (Tenute del Cerro, dal piè di pagina della pagina Còlpetrone su tenutedelcerro.it, dove reindirizza colpetrone.it); castelbuono = @tenutelunelli (Tenute Lunelli, piè di pagina di tenutacastelbuono.it); castellosala = @marchesiantinori (Antinori, piè di pagina di antinori.it, nessun account dedicato a Castello della Sala). Scacciadiavoli: sito non raggiungibile (connessione chiusa), account @scacciadiavoli trovato con la ricerca profili e accettato perché la bio dice 'A Montefalco dal 1884' e linka cantinascacciadiavoli.it; Facebook non preso. Paolo Bea: il sito paolobea.com non ha link social e la ricerca profili non ha restituito account della cantina: assente. Facebook: solo follower (la data dell'ultimo post non è nella risposta); le pagine di Perticaia, Tenute del Cerro, Romanelli, Lungarotti e Antinori sono dietro il blocco età di Facebook e non sono state lette. Tono di voce valutato sulle didascalie dei 12 post letti per account. Gruppo Angelini: Perimetro verificato il 25/11/2026 su https://www.angeliniwinesandestates.com/ (menu Le tenute) e sul comunicato di acquisizione Caprai del 7/4/2026 (https://www.angeliniwinesandestates.com/cms/wp-content/uploads/2026/04/DEF_Acquisizione_Arnaldo_Caprai.pdf): il gruppo conta 6 cantine, Bertani, Val d",
+ "assi": [
+  [
+   "terr",
+   "Territorio"
+  ],
+  [
+   "lux",
+   "Eleganza"
+  ],
+  [
+   "tec",
+   "Tecnica"
+  ],
+  [
+   "esp",
+   "Esperienza"
+  ],
+  [
+   "inn",
+   "Innovazione"
+  ]
+ ],
+ "az": {
+  "caprai": {
+   "ig": {
+    "h": "arnaldocaprai",
+    "fol": 17549,
+    "ppm": 0.6,
+    "per": "161 giorni (ultimi 3 post; meno di 3 nei 90 giorni)",
+    "ult": "2026-08-26",
+    "eng": 69,
+    "er": 0.39,
+    "reel": 0,
+    "top": [
+     {
+      "d": "2026-07-22",
+      "t": "⭐️𝑪𝒂𝒍𝒊𝒄𝒊 𝒅𝒊 𝑺𝒕𝒆𝒍𝒍𝒆 𝟐𝟎𝟐𝟔⭐️ Lasciati avvolgere dalla magia delle",
+      "l": 76,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DbGfCG5qFnT/"
+     },
+     {
+      "d": "2026-06-18",
+      "t": "🍷 SUNDAY 21st | DAYTIME FINALE | h. 11:00–22:00 | @arnaldocaprai Montefalco (PG",
+      "l": 60,
+      "c": 2,
+      "u": "https://www.instagram.com/p/DZuaqMwDviE/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/arnaldocaprai/"
+   },
+   "fb": {
+    "fol": 25280,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/CantinaArnaldoCaprai"
+   },
+   "tono": {
+    "v": {
+     "terr": 3,
+     "lux": 3,
+     "tec": 2,
+     "esp": 5,
+     "inn": 1
+    },
+    "frase": "Parla soprattutto da luogo di eventi: concerti, festival, Cantine Aperte e degustazioni, con richiami al prestigio internazionale (Wine Spectator, OperaWine, Michel Rolland).",
+    "temi": [
+     "Eventi e festival in cantina",
+     "Riconoscimenti internazionali",
+     "Montefalco e Sagrantino"
+    ],
+    "s": "val"
+   },
+   "li": {
+    "fol": 3487,
+    "ult": "2026-01-29",
+    "s": "dic",
+    "u": "https://it.linkedin.com/company/arnaldo-caprai"
+   }
+  },
+  "tabarrini": {
+   "ig": {
+    "h": "tabarrinimontefalco",
+    "fol": 4150,
+    "ppm": 1,
+    "per": "91 giorni (ultimi 3 post; meno di 3 nei 90 giorni)",
+    "ult": "2026-10-20",
+    "eng": 104,
+    "er": 2.51,
+    "reel": 33,
+    "top": [
+     {
+      "d": "2026-10-20",
+      "t": "Vendemmia finita. Qualche giorno è stato lungo, qualche giorno pure di più. Graz",
+      "l": 100,
+      "c": 4,
+      "u": "https://www.instagram.com/p/Detqv1Yswfp/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/tabarrinimontefalco/"
+   },
+   "fb": {
+    "fol": 4382,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/tabarrinimontefalco"
+   },
+   "tono": {
+    "v": {
+     "terr": 4,
+     "lux": 2,
+     "tec": 3,
+     "esp": 3,
+     "inn": 1
+    },
+    "frase": "Tono di famiglia, caldo e a tratti ironico: racconta le persone, la cura del vigneto e il carattere dei singoli vini, in italiano e inglese.",
+    "temi": [
+     "Famiglia e squadra",
+     "Cura del vigneto e vendemmia",
+     "Carattere dei vini (Adarmando, Bocca di Rosa, Piantagrero)"
+    ],
+    "s": "val"
+   },
+   "li": {
+    "fol": 167,
+    "ult": "",
+    "s": "dic",
+    "u": "https://it.linkedin.com/company/tabarrini",
+    "n": "follower letto il 25/11/2026 con ScrapeCreators; pagina trovata con ricerca, confermata dal sito indicato (tabarrini.com) e dalla sede Montefalco; nessun post pubblico"
+   }
+  },
+  "antonelli": {
+   "ig": {
+    "h": "antonellisanmarco",
+    "fol": 6913,
+    "ppm": 1,
+    "per": "90 giorni",
+    "ult": "2026-10-29",
+    "eng": null,
+    "er": null,
+    "reel": 0,
+    "top": [],
+    "s": "dic",
+    "u": "https://www.instagram.com/antonellisanmarco/",
+    "n": "ScrapeCreators v2_instagram_user_posts, letto il 25/11/2026: ultimi 12 post tutti caroselli, Mi piace nascosti su tutti (like_count=3, segnaposto di Instagram) quindi eng, er e top restano vuoti; commenti 0-4 per post; 3 post negli ultimi 90 giorni"
+   },
+   "fb": {
+    "fol": 10355,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/CantinaAntonelli/"
+   },
+   "tono": {
+    "v": {
+     "terr": 5,
+     "lux": 2,
+     "tec": 3,
+     "esp": 4,
+     "inn": 1
+    },
+    "frase": "Racconto storico e agricolo della tenuta: la villa del vescovo, i cru Molino dell'Attone e Vigna Tonda, tartufo, cucina e degustazioni.",
+    "temi": [
+     "Storia della tenuta dal 1883",
+     "Cru e vigne singole",
+     "Accoglienza: degustazioni, tartufo, cucina"
+    ],
+    "s": "val"
+   },
+   "li": {
+    "fol": 466,
+    "ult": "",
+    "s": "dic",
+    "u": "https://it.linkedin.com/company/antonelli-san-marco-s-s-"
+   }
+  },
+  "scacciadiavoli": {
+   "ig": {
+    "h": "scacciadiavoli",
+    "fol": 10329,
+    "ppm": 10.4,
+    "per": "35 giorni (1 pagina, 12 post)",
+    "ult": "2026-11-23",
+    "eng": 45,
+    "er": 0.43,
+    "reel": 17,
+    "top": [
+     {
+      "d": "2026-11-21",
+      "t": "Italienska Vin & Gourmet - Stoccolma 21-23 Novembre",
+      "l": 143,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DgAaJLSADze/"
+     },
+     {
+      "d": "2026-11-15",
+      "t": "La storia di Scacciadiavoli si apre alla ricerca universitaria: è infatti l’ogge",
+      "l": 90,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DfxSbqwFI0z/"
+     },
+     {
+      "d": "2026-11-20",
+      "t": "Ogni bottiglia racconta un luogo, il lavoro delle persone e il tempo. Radici, st",
+      "l": 71,
+      "c": 4,
+      "u": "https://www.instagram.com/p/Df986TEhVqy/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/scacciadiavoli/"
+   },
+   "tono": {
+    "v": {
+     "terr": 4,
+     "lux": 2,
+     "tec": 2,
+     "esp": 3,
+     "inn": 2
+    },
+    "frase": "Comunicazione da ufficio stampa: premi delle guide, fiere all'estero e avvisi agli ospiti, con qualche scatto di vigna e foliage.",
+    "temi": [
+     "Premi e guide (Gambero Rosso, Vinibuoni, DoctorWine)",
+     "Fiere e masterclass all'estero",
+     "Storia della cantina dal 1884"
+    ],
+    "s": "val"
+   },
+   "li": {
+    "fol": 364,
+    "ult": "",
+    "s": "dic",
+    "u": "https://it.linkedin.com/company/scacciadiavoli"
+   },
+   "fb": {
+    "fol": 8867,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/Scacciadiavoli",
+    "n": "Mi piace della pagina (pagina dietro il blocco età di Facebook: il numero di follower non è visibile, ScrapeCreators restituisce solo i Mi piace); pagina linkata dal piè di pagina di cantinascacciadiavoli.it e collegata a @scacciadiavoli; letto il 25/11/2026 con ScrapeCreators"
+   }
+  },
+  "perticaia": {
+   "ig": {
+    "h": "cantina.perticaia",
+    "fol": 3947,
+    "ppm": 5.3,
+    "per": "69 giorni (1 pagina, 12 post)",
+    "ult": "2026-11-24",
+    "eng": 39,
+    "er": 0.99,
+    "reel": 58,
+    "top": [
+     {
+      "d": "2026-09-23",
+      "t": "🍷 PICNIC IN VIGNA: UN POMERIGGIO DIVERSO PER FARE DEL BENE! 🐾 Avete voglia di ",
+      "l": 125,
+      "c": 3,
+      "u": "https://www.instagram.com/p/DdorN9YDTqG/"
+     },
+     {
+      "d": "2026-11-09",
+      "t": "🍁 Cantine Aperte a San Martino: Light Dinner Autunnale 🍷 Quando l'autunno dipi",
+      "l": 59,
+      "c": 0,
+      "u": "https://www.instagram.com/p/Dfh7HB4DE5x/"
+     },
+     {
+      "d": "2026-09-28",
+      "t": "🍇 CANTINA & PAROLE 📚🍷 Una domenica tra cultura, vino e musica, nella suggesti",
+      "l": 44,
+      "c": 4,
+      "u": "https://www.instagram.com/p/Dd1MXhoou36/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/cantina.perticaia/"
+   },
+   "tono": {
+    "v": {
+     "terr": 4,
+     "lux": 1,
+     "tec": 2,
+     "esp": 5,
+     "inn": 1
+    },
+    "frase": "Tono commerciale e conviviale: eventi in cantina, regali di Natale e shop online, alternati a paesaggi autunnali e raccolta delle olive.",
+    "temi": [
+     "Eventi e degustazioni in cantina",
+     "Shop online e regali",
+     "Paesaggio, vendemmia e olio"
+    ],
+    "s": "val"
+   }
+  },
+  "colpetrone": {
+   "ig": {
+    "h": "tenutedelcerro",
+    "fol": 2772,
+    "ppm": 5.2,
+    "per": "70 giorni (1 pagina, 12 post)",
+    "ult": "2026-11-24",
+    "eng": 35,
+    "er": 1.26,
+    "reel": 8,
+    "top": [
+     {
+      "d": "2026-11-02",
+      "t": "🍷 La nuova cantina di Fattoria del Cerro nasce per trasformare il vino in un’es",
+      "l": 73,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DfO_Q4ADFSs/"
+     },
+     {
+      "d": "2026-10-15",
+      "t": "Tenute del Cerro ti invita a scoprire il piacere di un soggiorno nel cuore della",
+      "l": 68,
+      "c": 3,
+      "u": "https://www.instagram.com/p/DehBB_WCGFG/"
+     },
+     {
+      "d": "2026-10-23",
+      "t": "✨ A Fattoria del Cerro, la degustazione entra in una dimensione completamente nu",
+      "l": 52,
+      "c": 0,
+      "u": "https://www.instagram.com/p/De1IdCoiURc/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/tenutedelcerro/"
+   },
+   "tono": {
+    "v": {
+     "terr": 3,
+     "lux": 4,
+     "tec": 2,
+     "esp": 5,
+     "inn": 4
+    },
+    "frase": "Account di gruppo Tenute del Cerro che vende ospitalità: relais, soggiorni, retreat aziendali e la nuova cantina di Montepulciano; Còlpetrone compare in 1 post su 12.",
+    "temi": [
+     "Ospitalità e soggiorni",
+     "Esperienze in cantina (BrainArt)",
+     "Paesaggi d'autunno delle tenute"
+    ],
+    "s": "val"
+   }
+  },
+  "castelbuono": {
+   "ig": {
+    "h": "tenutelunelli",
+    "fol": 30664,
+    "ppm": 2.4,
+    "per": "90 giorni",
+    "ult": "2026-11-10",
+    "eng": 164,
+    "er": 0.54,
+    "reel": 14,
+    "top": [
+     {
+      "d": "2026-11-06",
+      "t": "Un luogo unico, infinite possibilità di vivere esperienze indimenticabili. Il 3 ",
+      "l": 496,
+      "c": 10,
+      "u": "https://www.instagram.com/p/Dfam29uInIu/"
+     },
+     {
+      "d": "2026-10-26",
+      "t": "La cantina della Tenuta Carapace, firmata dal Maestro Arnaldo Pomodoro, è la pri",
+      "l": 266,
+      "c": 6,
+      "u": "https://www.instagram.com/p/De9IDsqkq1m/"
+     },
+     {
+      "d": "2026-11-10",
+      "t": "Tra incontri, ispirazione e nuove connessioni. Il 3 Novembre il Carapace ha acco",
+      "l": 161,
+      "c": 2,
+      "u": "https://www.instagram.com/p/DfkZbJojTdE/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/tenutelunelli/"
+   },
+   "fb": {
+    "fol": 10845,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/tenutelunelli"
+   },
+   "tono": {
+    "v": {
+     "terr": 4,
+     "lux": 4,
+     "tec": 2,
+     "esp": 4,
+     "inn": 2
+    },
+    "frase": "Tono elegante e misurato, bilingue: il Carapace di Arnaldo Pomodoro come scultura-cantina, le tre tenute e il tempo del vino.",
+    "temi": [
+     "Carapace e arte di Arnaldo Pomodoro",
+     "Tre tenute e territori",
+     "Eventi e wedding al Carapace"
+    ],
+    "s": "val"
+   }
+  },
+  "romanelli": {
+   "ig": {
+    "h": "agricolaromanelli",
+    "fol": 1870,
+    "ppm": 5.6,
+    "per": "65 giorni (1 pagina, 12 post)",
+    "ult": "2026-11-21",
+    "eng": 53,
+    "er": 2.83,
+    "reel": 50,
+    "top": [
+     {
+      "d": "2026-10-12",
+      "t": "Tra i nostri olivi, la raccolta continua senza sosta 👇 E sono già disponibili i",
+      "l": 118,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DeY8J5vor7J/"
+     },
+     {
+      "d": "2026-10-06",
+      "t": "🍇 La vendemmia è ufficialmente iniziata 👇 Adesso tocca al Grechetto di Todi. S",
+      "l": 89,
+      "c": 2,
+      "u": "https://www.instagram.com/p/DeJc5tbk3iQ/"
+     },
+     {
+      "d": "2026-09-28",
+      "t": "🌿 In questo periodo l’ulivo viene sottoposto alla potatura verde. Ma cosa elimi",
+      "l": 77,
+      "c": 2,
+      "u": "https://www.instagram.com/p/Dd074N7D4sU/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/agricolaromanelli/"
+   },
+   "tono": {
+    "v": {
+     "terr": 5,
+     "lux": 1,
+     "tec": 5,
+     "esp": 4,
+     "inn": 3
+    },
+    "frase": "Divulgativo e familiare: spiega in modo semplice i lavori in vigna e negli oliveti e presenta le persone che accolgono gli ospiti.",
+    "temi": [
+     "Spiegazioni tecniche di vigna e olio",
+     "Biologico, biodiversità, agricoltura rigenerativa",
+     "Persone e accoglienza"
+    ],
+    "s": "val"
+   },
+   "fb": {
+    "fol": 3202,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/AgricolaRomanelli",
+    "n": "Mi piace della pagina (pagina dietro il blocco età di Facebook: il numero di follower non è visibile, ScrapeCreators restituisce solo i Mi piace); pagina indicata nei metadati di romanelli.wine (article:publisher) e collegata a @agricolaromanelli; letto il 25/11/2026 con ScrapeCreators"
+   }
+  },
+  "lungarotti": {
+   "ig": {
+    "h": "lungarottiwine",
+    "fol": 10119,
+    "ppm": 3.7,
+    "per": "90 giorni",
+    "ult": "2026-11-13",
+    "eng": 69,
+    "er": 0.68,
+    "reel": 18,
+    "top": [
+     {
+      "d": "2026-09-17",
+      "t": "🇮🇹 Lungarotti, sulla stessa facciata, da oltre sessant'anni. Torgiano. 🇺🇸 Lu",
+      "l": 169,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DdZY4KQCNR9/"
+     },
+     {
+      "d": "2026-09-15",
+      "t": "🇮🇹 Perugia, una passeggiata al tramonto passando da Via dell'Acquedotto — un c",
+      "l": 104,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DdUPBarCt4g/"
+     },
+     {
+      "d": "2026-09-24",
+      "t": "🇮🇹 Ogni anno la vigna restituisce quello che le radici hanno lavorato in silen",
+      "l": 78,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DdqxMmlgSdE/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/lungarottiwine/"
+   },
+   "tono": {
+    "v": {
+     "terr": 5,
+     "lux": 3,
+     "tec": 1,
+     "esp": 3,
+     "inn": 1
+    },
+    "frase": "Racconto culturale e lento dell'Umbria (#VitaLenta) in tre lingue: borghi, artigianato, musei e storia di famiglia prima del vino.",
+    "temi": [
+     "Umbria: borghi, arte, tradizioni",
+     "Musei e cultura Lungarotti",
+     "Storia di famiglia dal 1962"
+    ],
+    "s": "val"
+   },
+   "li": {
+    "fol": 1889,
+    "ult": "2026-02-19",
+    "s": "dic",
+    "u": "https://it.linkedin.com/company/lungarotti"
+   },
+   "fb": {
+    "fol": 14292,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/lungarotti",
+    "n": "Mi piace della pagina (pagina dietro il blocco età di Facebook: il numero di follower non è visibile, ScrapeCreators restituisce solo i Mi piace); pagina linkata dal piè di pagina di lungarotti.it e collegata a @lungarottiwine; letto il 25/11/2026 con ScrapeCreators"
+   }
+  },
+  "castellosala": {
+   "ig": {
+    "h": "marchesiantinori",
+    "fol": 264832,
+    "ppm": 9.6,
+    "per": "38 giorni (1 pagina, 12 post)",
+    "ult": "2026-11-24",
+    "eng": 3162,
+    "er": 1.19,
+    "reel": 67,
+    "top": [
+     {
+      "d": "2026-10-21",
+      "t": "[ Antinori nel Chianti Classico ] Frammenti dalla cantina. | Fragments from the ",
+      "l": 20705,
+      "c": 62,
+      "u": "https://www.instagram.com/p/DewyW6WBDtO/"
+     },
+     {
+      "d": "2026-10-25",
+      "t": "Nel cuore del Chianti Classico, la cantina della famiglia Antinori è un luogo in",
+      "l": 5205,
+      "c": 25,
+      "u": "https://www.instagram.com/p/De6Vie1iix8/"
+     },
+     {
+      "d": "2026-11-08",
+      "t": "[ Castello della Sala ] Ottobre 2026, Castello della Sala, Umbria. I October 202",
+      "l": 3410,
+      "c": 28,
+      "u": "https://www.instagram.com/p/DffPh6kDBmn/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/marchesiantinori/"
+   },
+   "tono": {
+    "v": {
+     "terr": 3,
+     "lux": 5,
+     "tec": 4,
+     "esp": 2,
+     "inn": 2
+    },
+    "frase": "Didascalie brevissime, istituzionali e bilingui, a rubriche: cantina, vendemmia e processi; Castello della Sala compare in 2 post su 12.",
+    "temi": [
+     "Cantina Antinori nel Chianti Classico",
+     "Vendemmia 2026 e processi",
+     "Tenute del gruppo (Castello della Sala, Guado al Tasso)"
+    ],
+    "s": "val"
+   }
+  },
+  "bertani": {
+   "ig": {
+    "h": "cantine_bertani",
+    "fol": 35532,
+    "ppm": 2,
+    "per": "90 giorni (27/8-25/11/2026, 6 post)",
+    "ult": "2026-10-09",
+    "eng": 617,
+    "er": 1.74,
+    "reel": 17,
+    "top": [
+     {
+      "d": "2026-08-28",
+      "t": "Late August light brings the most vivid sunsets. On stage, a perfect dialogue be",
+      "l": 1060,
+      "c": 2,
+      "u": "https://www.instagram.com/p/DclsBjen7_Z/"
+     },
+     {
+      "d": "2026-10-09",
+      "t": "Stepping through the doors of our winery means entering a story shaped by patien",
+      "l": 857,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DeR3K9Klr7F/"
+     },
+     {
+      "d": "2026-09-22",
+      "t": "There are moments when waiting becomes the most precious ingredient. Once the ha",
+      "l": 825,
+      "c": 1,
+      "u": "https://www.instagram.com/p/Ddl7quwF4ak/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/cantine_bertani/"
+   },
+   "tono": {
+    "v": {
+     "terr": 4,
+     "lux": 5,
+     "tec": 3,
+     "esp": 4,
+     "inn": 2
+    },
+    "frase": "Racconto lento ed elegante di luce, tempo e attesa: l'Amarone come classico senza tempo.",
+    "temi": [
+     "Original Vintage Edition",
+     "vendemmia e attesa in cantina",
+     "paesaggio della Valpolicella"
+    ],
+    "s": "val"
+   },
+   "fb": {
+    "fol": 16532,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/cantine.bertani",
+    "n": "Mi piace della pagina (pagina dietro il blocco età di Facebook: il numero di follower non è visibile, ScrapeCreators restituisce solo i Mi piace); pagina linkata dal piè di pagina di bertani.net e collegata a @cantine_bertani; letto il 25/11/2026 con ScrapeCreators"
+   }
+  },
+  "valdisuga": {
+   "ig": {
+    "h": "valdisugawines",
+    "s": "dic",
+    "u": "https://www.instagram.com/valdisugawines/",
+    "nota": "Account nel piè di pagina del sito, ma Instagram lo restituisce con restrizione (profilo limitato/privato): follower e post non leggibili"
+   },
+   "fb": {
+    "fol": 3733,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/valdisugawines/",
+    "n": "Mi piace della pagina (pagina dietro il blocco età di Facebook: il numero di follower non è visibile, ScrapeCreators restituisce solo i Mi piace); pagina linkata dal piè di pagina di valdisuga.com e collegata a @valdisugawines; letto il 25/11/2026 con ScrapeCreators"
+   }
+  },
+  "fazibattaglia": {
+   "ig": {
+    "h": "fazibattagliawines",
+    "fol": 813,
+    "ppm": 0,
+    "per": "90 giorni: nessun post (ultimi 6 post tutti del 17/11/2025, prima ancora fermo dal 2020)",
+    "ult": "2025-11-17",
+    "s": "dic",
+    "u": "https://www.instagram.com/fazibattagliawines/",
+    "eng": 11,
+    "er": 1.39,
+    "reel": 0,
+    "top": [
+     {
+      "d": "2025-11-17",
+      "t": "Born in the golden age of the #DolceVita in the 1950’s, today #FaziBattaglia ret",
+      "l": 23,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DRKCmzLDQdm/"
+     },
+     {
+      "d": "2025-11-17",
+      "t": "The essece of Verdicchio dei Castelli di Jesi.",
+      "l": 6,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DRKI0n4DC-W/"
+     },
+     {
+      "d": "2025-11-17",
+      "t": "TITULUS Un #Verdicchio vivace e raffinato",
+      "l": 4,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DRKB9vJDV8R/"
+     }
+    ],
+    "n": "ScrapeCreators v2_instagram_user_posts, letto il 25/11/2026: nessun post negli ultimi 90 giorni, calcolo sugli ultimi 3 post (tutti foto del 17/11/2025): eng = (6+23+4 Mi piace + 1 commento)/3, er su 813 follower"
+   },
+   "tono": {
+    "v": {
+     "terr": 3,
+     "lux": 3,
+     "tec": 2,
+     "esp": 1,
+     "inn": 3
+    },
+    "frase": "Account quasi fermo: un solo rilancio a novembre 2025 su anfora iconica e 'back to the future'.",
+    "temi": [
+     "Titulus e bottiglia ad anfora",
+     "essenza del Verdicchio",
+     "heritage Dolce Vita"
+    ],
+    "s": "val"
+   },
+   "fb": {
+    "fol": 2983,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/fazibattagliawines/"
+   }
+  },
+  "puiatti": {
+   "ig": {
+    "h": "cantinapuiatti",
+    "fol": 7535,
+    "ppm": 2.67,
+    "per": "90 giorni (27/8-25/11/2026, 8 post)",
+    "ult": "2026-10-30",
+    "eng": 381,
+    "er": 5.06,
+    "reel": 75,
+    "top": [
+     {
+      "d": "2026-10-30",
+      "t": "Il dolce incresparsi del mare, la grazia della luna che emerge nel cielo azzurro",
+      "l": 998,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DfH6JOViaN6/"
+     },
+     {
+      "d": "2026-10-23",
+      "t": "Linee essenziali. Identità piene. Cantina Puiatti & @_artetica - Essential lines",
+      "l": 663,
+      "c": 3,
+      "u": "https://www.instagram.com/p/De1rg_ijFzn/"
+     },
+     {
+      "d": "2026-10-09",
+      "t": "Da sempre Cantina Puiatti celebra il cambiamento, la creatività, la moda e il de",
+      "l": 600,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DeRPsFvgLRH/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/cantinapuiatti/"
+   },
+   "tono": {
+    "v": {
+     "terr": 3,
+     "lux": 4,
+     "tec": 2,
+     "esp": 3,
+     "inn": 5
+    },
+    "frase": "Linguaggio da design e moda: linee essenziali, collaborazioni artistiche e il lancio di Sconfine.",
+    "temi": [
+     "lancio di Sconfine",
+     "collaborazioni design/arte (@_artetica)",
+     "bianchi e Metodo Classico friulani"
+    ],
+    "s": "val"
+   }
+  },
+  "sanleonino": {
+   "ig": {
+    "h": "sanleoninowines",
+    "fol": 693,
+    "ppm": 0,
+    "per": "90 giorni (27/8-25/11/2026): nessun post; ultimo post 08/03/2022, 15 post in tutto",
+    "ult": "2022-03-08",
+    "eng": 60,
+    "er": 8.7,
+    "reel": 0,
+    "top": [
+     {
+      "d": "2020-11-24",
+      "t": "Dall'alba al tramonto, la bellezza dei n",
+      "l": 80,
+      "c": 0,
+      "u": "https://www.instagram.com/p/CH-1ffDqmMw/"
+     },
+     {
+      "d": "2020-06-22",
+      "t": "«Arancio, lamponi in confettura, amarene",
+      "l": 68,
+      "c": 0,
+      "u": "https://www.instagram.com/p/CBuxQQBDGn3/"
+     },
+     {
+      "d": "2020-11-11",
+      "t": "La bellezza e la suggestione dell'autunn",
+      "l": 54,
+      "c": 0,
+      "u": "https://www.instagram.com/p/CHdMAU8FOu5/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/sanleoninowines/",
+    "nota": "eng ed er calcolati sugli ultimi 3 post (2020-2022), non sui 90 giorni; account accettato perché la bio linka sanleonino.it"
+   },
+   "fb": {
+    "fol": 527,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/sanleoninowines",
+    "n": "follower letto il 25/11/2026 con ScrapeCreators; il sito sanleonino.it non linka social: pagina accettata perché indica come sito sanleonino.it e lo stesso telefono (0577 743108) della pagina contatti"
+   }
+  },
+  "trerose": {
+   "ig": {
+    "h": null,
+    "s": "dic",
+    "u": "https://tenutatrerose.it/it",
+    "nota": "Nessun account ufficiale trovato: la ricerca restituisce solo omonimi (Borgo Tre Rose Hotel, Tenuta Le Tre Rose) senza link a tenutatrerose.it"
+   },
+   "fb": {
+    "fol": 655,
+    "ult": "",
+    "s": "dic",
+    "u": "https://www.facebook.com/tenutatrerose",
+    "n": "follower letto il 25/11/2026 con ScrapeCreators; il sito tenutatrerose.it non linka social: pagina accettata perché indica come sito tenutatrerose.it e lo stesso telefono (0578 724018) della scheda Google"
+   }
+  },
+  "angelini": {
+   "li": {
+    "fol": 7511,
+    "ult": "2026-10-26",
+    "s": "dic",
+    "u": "https://it.linkedin.com/company/angelini-wines-estates"
+   },
+   "ig": {
+    "s": "dic",
+    "u": "https://www.angeliniwinesandestates.com/",
+    "n": "nessun account Instagram ufficiale verificato, letto il 25/11/2026: il piè di pagina del sito (home, contatti, il gruppo, versione inglese) non linka Instagram, solo LinkedIn; ricerca profili ScrapeCreators senza risultati pertinenti; @angeliniwinesandestates non esiste su Instagram"
+   }
+  }
+ }
+}

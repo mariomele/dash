@@ -1,0 +1,91 @@
+{
+  "nome": "Arnaldo Caprai Intelligence",
+  "sottotitolo": "radar delle cantine di Montefalco e dell'Umbria",
+  "azienda": "caprai",
+  "colore": "#4E9A7E",
+  "logo": "logos/caprai.svg",
+  "aggiornato": "2026-11-25",
+  "pagine": [
+    "regia",
+    "confronto",
+    "storico",
+    "gamma",
+    "social",
+    "export",
+    "ospitalita",
+    "premi"
+  ],
+  "nota": "Prima bozza: 5 pagine. Dati solo da fonti pubbliche, ognuno con stato e link.",
+  "metriche": [
+    {
+      "k": "rev",
+      "l": "Ricavi",
+      "u": "M€",
+      "dec": 1
+    },
+    {
+      "k": "emp",
+      "l": "Dipendenti",
+      "u": ""
+    },
+    {
+      "k": "ha",
+      "l": "Ettari vitati",
+      "u": "ha"
+    },
+    {
+      "k": "bt",
+      "l": "Bottiglie l'anno",
+      "u": "mila"
+    },
+    {
+      "k": "fond",
+      "l": "Anno di fondazione",
+      "u": ""
+    },
+    {
+      "k": "ig",
+      "l": "Follower Instagram",
+      "u": ""
+    },
+    {
+      "k": "tb",
+      "l": "Tre Bicchieri 2026",
+      "u": "",
+      "dec": 0
+    },
+    {
+      "k": "viv",
+      "l": "Voto Vivino vino di punta",
+      "u": "/5",
+      "dec": 1
+    },
+    {
+      "k": "eur",
+      "l": "Prezzo vino di punta",
+      "u": "€",
+      "dec": 1
+    },
+    {
+      "k": "exq",
+      "l": "Quota export",
+      "u": "%"
+    },
+    {
+      "k": "pae",
+      "l": "Paesi serviti",
+      "u": ""
+    },
+    {
+      "k": "li",
+      "l": "Follower LinkedIn",
+      "u": ""
+    }
+  ],
+  "gruppi": {
+    "montefalco": "Montefalco",
+    "umbria": "Umbria",
+    "angelini": "Angelini Wines & Estates"
+  },
+  "heroAlt": "Vigne della cantina Arnaldo Caprai a Montefalco"
+}

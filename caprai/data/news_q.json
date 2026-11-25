@@ -1,0 +1,138 @@
+{
+ "caprai": {
+  "q": [
+   "\"Arnaldo Caprai\"",
+   "\"Marco Caprai\" Sagrantino"
+  ],
+  "k": [
+   "caprai"
+  ]
+ },
+ "tabarrini": {
+  "q": "\"Tabarrini\" Montefalco",
+  "k": [
+   "tabarrini&vino|sagrantino|montefalco|cantina|wine"
+  ],
+  "x": "impresa edile"
+ },
+ "bea": {
+  "q": "\"Paolo Bea\" Montefalco",
+  "k": [
+   "paolo bea",
+   "giampiero bea"
+  ]
+ },
+ "antonelli": {
+  "q": "\"Antonelli San Marco\"",
+  "k": [
+   "antonelli san marco",
+   "antonelli&vino|sagrantino|montefalco|cantina"
+  ]
+ },
+ "scacciadiavoli": {
+  "q": "\"Scacciadiavoli\"",
+  "k": [
+   "scacciadiavoli"
+  ]
+ },
+ "perticaia": {
+  "q": "\"Perticaia\"",
+  "k": [
+   "perticaia"
+  ]
+ },
+ "colpetrone": {
+  "q": [
+   "\"Colpetrone\"",
+   "\"Còlpetrone\""
+  ],
+  "k": [
+   "colpetrone"
+  ]
+ },
+ "castelbuono": {
+  "q": [
+   "\"Tenuta Castelbuono\"",
+   "\"Carapace\" Lunelli Montefalco"
+  ],
+  "k": [
+   "castelbuono",
+   "carapace&lunelli|sagrantino|montefalco|bevagna|cantina"
+  ]
+ },
+ "romanelli": {
+  "q": "\"Romanelli\" Montefalco Sagrantino",
+  "k": [
+   "romanelli&vino|sagrantino|montefalco|cantina"
+  ]
+ },
+ "lungarotti": {
+  "q": "\"Lungarotti\" Torgiano",
+  "k": [
+   "lungarotti"
+  ]
+ },
+ "castellosala": {
+  "q": [
+   "\"Castello della Sala\" Antinori",
+   "\"Cervaro della Sala\""
+  ],
+  "k": [
+   "castello della sala",
+   "cervaro"
+  ]
+ },
+ "angelini": {
+  "q": [
+   "\"Angelini Wines & Estates\"",
+   "\"Angelini Wines\" vino"
+  ],
+  "k": [
+   "angelini wines",
+   "angelini&vino|cantina|wine|tenute|caprai"
+  ],
+  "x": "farmac|tachipirina|moment|amuchina|pharma"
+ },
+ "bertani": {
+  "q": "\"Bertani\" vino",
+  "k": [
+   "bertani&vino|amarone|valpolicella|cantina|wine|grezzana"
+  ],
+  "x": "Cristian Bertani|calcio|ciclismo|Bertani Fabio"
+ },
+ "valdisuga": {
+  "q": "\"Val di Suga\"",
+  "k": [
+   "val di suga"
+  ]
+ },
+ "trerose": {
+  "q": [
+   "\"Tenuta Trerose\"",
+   "\"Trerose\" Montepulciano"
+  ],
+  "k": [
+   "trerose"
+  ],
+  "x": "Borgo Tre Rose|hotel"
+ },
+ "sanleonino": {
+  "q": "\"San Leonino\" Chianti",
+  "k": [
+   "san leonino&vino|chianti|cantina|wine|sangiovese"
+  ],
+  "x": "Hotel Belvedere|hotel"
+ },
+ "fazibattaglia": {
+  "q": "\"Fazi Battaglia\"",
+  "k": [
+   "fazi battaglia"
+  ]
+ },
+ "puiatti": {
+  "q": "\"Puiatti\" vino",
+  "k": [
+   "puiatti&vino|cantina|ribolla|friuli|isonzo|wine"
+  ]
+ }
+}

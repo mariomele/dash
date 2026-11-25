@@ -1,0 +1,1465 @@
+{
+ "n": "siti ufficiali letti il 25/11/2026 (la fonte è in ogni cella)",
+ "assi": [
+  [
+   "sagr",
+   "Sagrantino DOCG"
+  ],
+  [
+   "pass",
+   "Sagrantino Passito"
+  ],
+  [
+   "rosso",
+   "Montefalco Rosso"
+  ],
+  [
+   "ris",
+   "Rosso Riserva"
+  ],
+  [
+   "grec",
+   "Grechetto"
+  ],
+  [
+   "treb",
+   "Trebbiano Spoletino"
+  ],
+  [
+   "bia",
+   "Bianco DOC umbro"
+  ],
+  [
+   "intl",
+   "Vitigni internazionali"
+  ],
+  [
+   "spum",
+   "Spumante"
+  ],
+  [
+   "ros",
+   "Rosato"
+  ],
+  [
+   "dolce",
+   "Dolce / passito bianco"
+  ],
+  [
+   "olio",
+   "Olio EVO"
+  ],
+  [
+   "grap",
+   "Grappa / distillati"
+  ],
+  [
+   "eno",
+   "Visite e degustazioni"
+  ],
+  [
+   "osp",
+   "Ospitalità"
+  ]
+ ],
+ "az": {
+  "caprai": {
+   "marchi": [
+    [
+     "Arnaldo Caprai",
+     "https://www.arnaldocaprai.it/vino/"
+    ],
+    [
+     "Anima Umbra (linea)",
+     "https://www.arnaldocaprai.it/vino/anima-umbra-rosso/"
+    ],
+    [
+     "Poggio Belvedere (linea)",
+     "https://www.arnaldocaprai.it/vino/poggio-belvedere-rosso/"
+    ]
+   ],
+   "n": [
+    25,
+    "https://www.arnaldocaprai.it/vino/"
+   ],
+   "top": [
+    "25 Anni Montefalco Sagrantino DOCG",
+    "https://www.arnaldocaprai.it/vino/25-anni/"
+   ],
+   "sagr": [
+    1,
+    "Collepiano",
+    "https://www.arnaldocaprai.it/vino/collepiano/"
+   ],
+   "pass": [
+    1,
+    "Sagrantino Passito",
+    "https://www.arnaldocaprai.it/vino/sagrantino-passito/"
+   ],
+   "rosso": [
+    1,
+    "Montefalco Rosso",
+    "https://www.arnaldocaprai.it/vino/montefalco-rosso/"
+   ],
+   "ris": [
+    1,
+    "Montefalco Riserva",
+    "https://www.arnaldocaprai.it/vino/montefalco-riserva/"
+   ],
+   "grec": [
+    1,
+    "Grecante Colli Martani Grechetto DOC",
+    "https://www.arnaldocaprai.it/vino/grecante/"
+   ],
+   "treb": [
+    1,
+    "Le Molacce Trebbiano Spoletino DOC",
+    "https://www.arnaldocaprai.it/vino/le-molacce/"
+   ],
+   "bia": [
+    1,
+    "Montefalco Bianco DOC",
+    "https://www.arnaldocaprai.it/vino/montefalco-bianco/"
+   ],
+   "intl": [
+    1,
+    "Merlot, Chardonnay, Sauvignon Umbria IGT",
+    "https://www.arnaldocaprai.it/vino/merlot/"
+   ],
+   "spum": [
+    1,
+    "Metodo Classico Brut, Plus Noir",
+    "https://www.arnaldocaprai.it/vino/metodo-classico/"
+   ],
+   "ros": [
+    1,
+    "Puntabella Colli del Trasimeno Rosato DOC",
+    "https://www.arnaldocaprai.it/vino/puntabella/"
+   ],
+   "dolce": [
+    0,
+    "nessun bianco dolce fra i 25 vini",
+    "https://www.arnaldocaprai.it/vino/"
+   ],
+   "olio": [
+    null,
+    "nessuna pagina olio nel sito, non confermato",
+    "https://www.arnaldocaprai.it/"
+   ],
+   "grap": [
+    null,
+    "nessuna pagina grappa nel sito, non confermato",
+    "https://www.arnaldocaprai.it/"
+   ],
+   "eno": [
+    1,
+    "25 Anni in verticale, Sagrantino Lovers, Pic nic in vigna, Tour e food",
+    "https://www.arnaldocaprai.it/visite-degustazioni/"
+   ],
+   "osp": [
+    null,
+    "esperienze con cibo ma nessuna camera o ristorante indicati",
+    "https://www.arnaldocaprai.it/visite-degustazioni/"
+   ]
+  },
+  "tabarrini": {
+   "marchi": [
+    [
+     "Tabarrini",
+     "https://tabarrini.com/vini/"
+    ]
+   ],
+   "n": [
+    10,
+    "https://tabarrini.com/vini/"
+   ],
+   "top": null,
+   "sagr": [
+    1,
+    "Colle Grimaldesco, Colle alle Macchie, Campo alla Cerqua",
+    "https://tabarrini.com/vini/"
+   ],
+   "pass": [
+    1,
+    "Passito",
+    "https://tabarrini.com/vini/passito/"
+   ],
+   "rosso": [
+    1,
+    "Boccatone",
+    "https://tabarrini.com/esperienze/"
+   ],
+   "ris": [
+    0,
+    "nessuna Riserva fra i 10 vini",
+    "https://tabarrini.com/vini/"
+   ],
+   "grec": [
+    0,
+    "nessun Grechetto fra i 10 vini",
+    "https://tabarrini.com/vini/"
+   ],
+   "treb": [
+    1,
+    "Trebbiano Spoletino (Adarmando)",
+    "https://tabarrini.com/vini/"
+   ],
+   "bia": [
+    0,
+    "unico altro bianco: Padrone delle Vigne, Umbria Bianco IGT",
+    "https://tabarrini.com/vini/il-padrone-delle-vigne-bianco/"
+   ],
+   "intl": [
+    0,
+    "solo vitigni locali: Sagrantino, Sangiovese, Grero, Trebbiano",
+    "https://tabarrini.com/vini/"
+   ],
+   "spum": [
+    0,
+    "nessuno spumante fra i 10 vini",
+    "https://tabarrini.com/vini/"
+   ],
+   "ros": [
+    1,
+    "Bocca di Rosa",
+    "https://tabarrini.com/vini/bocca-di-rosa/"
+   ],
+   "dolce": [
+    0,
+    "nessun bianco dolce fra i 10 vini",
+    "https://tabarrini.com/vini/"
+   ],
+   "olio": [
+    1,
+    "Tabolio olio extravergine",
+    "https://tabarrini.com/vini/"
+   ],
+   "grap": [
+    0,
+    "altri prodotti: solo olio e farina",
+    "https://tabarrini.com/vini/"
+   ],
+   "eno": [
+    1,
+    "Visita alla cantina e degustazioni",
+    "https://tabarrini.com/esperienze/"
+   ],
+   "osp": [
+    null,
+    "eventi e wedding, nessuna camera o ristorante indicati",
+    "https://tabarrini.com/eventi-e-wedding/"
+   ]
+  },
+  "bea": {
+   "marchi": [
+    [
+     "Paolo Bea",
+     "http://www.paolobea.com/ita/prodotti.htm"
+    ]
+   ],
+   "n": [
+    9,
+    "http://www.paolobea.com/ita/prodotti.htm"
+   ],
+   "top": null,
+   "sagr": [
+    1,
+    "Montefalco Sagrantino DOCG secco",
+    "http://www.paolobea.com/ita/sagrantino-montefalco-docg-secco.aspx"
+   ],
+   "pass": [
+    1,
+    "Montefalco Sagrantino DOCG passito",
+    "http://www.paolobea.com/ita/sagrantino-montefalco-docg-passito.aspx"
+   ],
+   "rosso": [
+    1,
+    "Montefalco DOC Rosso",
+    "http://www.paolobea.com/ita/montefalco-doc-rosso.aspx"
+   ],
+   "ris": [
+    1,
+    "Montefalco DOC Rosso Riserva",
+    "http://www.paolobea.com/ita/montefalco-doc-rosso-riserva.aspx"
+   ],
+   "grec": [
+    null,
+    "nessun Grechetto in purezza; uve del Santa Chiara non indicate",
+    "http://www.paolobea.com/ita/prodotti.htm"
+   ],
+   "treb": [
+    1,
+    "Arboreus Trebbiano Spoletino (Umbria IGT, non Spoleto DOC)",
+    "http://www.paolobea.com/ita/arboreus.aspx"
+   ],
+   "bia": [
+    0,
+    "bianchi solo Umbria IGT: Santa Chiara, Arboreus",
+    "http://www.paolobea.com/ita/prodotti.htm"
+   ],
+   "intl": [
+    null,
+    "uve di San Valentino e Santa Chiara non indicate nell'elenco",
+    "http://www.paolobea.com/ita/prodotti.htm"
+   ],
+   "spum": [
+    0,
+    "nessuno spumante nell'elenco",
+    "http://www.paolobea.com/ita/prodotti.htm"
+   ],
+   "ros": [
+    0,
+    "nessun rosato nell'elenco",
+    "http://www.paolobea.com/ita/prodotti.htm"
+   ],
+   "dolce": [
+    0,
+    "nessun bianco dolce nell'elenco",
+    "http://www.paolobea.com/ita/prodotti.htm"
+   ],
+   "olio": [
+    1,
+    "Olio Extra Vergine d'oliva, Grezzo",
+    "http://www.paolobea.com/ita/prodotti.htm"
+   ],
+   "grap": [
+    0,
+    "nessuna grappa nell'elenco prodotti",
+    "http://www.paolobea.com/ita/prodotti.htm"
+   ],
+   "eno": [
+    null,
+    "nessuna pagina visite nel sito",
+    "http://www.paolobea.com/ita/azienda.aspx"
+   ],
+   "osp": [
+    null,
+    "nessuna pagina ospitalità nel sito",
+    "http://www.paolobea.com/ita/azienda.aspx"
+   ]
+  },
+  "antonelli": {
+   "marchi": [
+    [
+     "Antonelli San Marco",
+     "https://www.antonellisanmarco.it/"
+    ]
+   ],
+   "n": [
+    12,
+    "https://www.antonellisanmarco.it/"
+   ],
+   "top": [
+    "Chiusa di Pannone Montefalco Sagrantino DOCG (il vino più caro nello shop)",
+    "https://shop.antonellisanmarco.it/products/chiusa-di-pannone-montefalco-sagrantino-docg-2012"
+   ],
+   "sagr": [
+    1,
+    "Chiusa di Pannone, Molino dell'Attone",
+    "https://www.antonellisanmarco.it/wine/chiusa-di-pannone-montefalco-sagrantino-docg/"
+   ],
+   "pass": [
+    1,
+    "Montefalco Sagrantino Passito DOCG",
+    "https://www.antonellisanmarco.it/wine/montefalco-sagrantino-passito-docg/"
+   ],
+   "rosso": [
+    1,
+    "Montefalco Rosso DOC",
+    "https://www.antonellisanmarco.it/wine/montefalco-rosso-doc/"
+   ],
+   "ris": [
+    1,
+    "Montefalco Rosso Riserva DOC",
+    "https://www.antonellisanmarco.it/wine/montefalco-rosso-riserva-doc/"
+   ],
+   "grec": [
+    1,
+    "Montefalco Grechetto DOC",
+    "https://www.antonellisanmarco.it/wine/montefalco-grechetto-doc/"
+   ],
+   "treb": [
+    1,
+    "Trebium, Vigna Tonda",
+    "https://www.antonellisanmarco.it/wine/trebium-trebbiano-spoletino-spoleto-doc/"
+   ],
+   "bia": [
+    0,
+    "nessun Montefalco Bianco fra i 12 vini",
+    "https://www.antonellisanmarco.it/"
+   ],
+   "intl": [
+    null,
+    "uve del Contrario Umbria Rosso IGT non lette",
+    "https://www.antonellisanmarco.it/wine/contrario-umbria-rosso-igt/"
+   ],
+   "spum": [
+    1,
+    "Trebbiano Spoletino Spumante Metodo Classico",
+    "https://www.antonellisanmarco.it/wine/trebbiano-spoletino-spumante-spoleto-doc-metodo-classico/"
+   ],
+   "ros": [
+    0,
+    "nessun rosato fra i 12 vini",
+    "https://www.antonellisanmarco.it/"
+   ],
+   "dolce": [
+    0,
+    "nessun bianco dolce fra i 12 vini",
+    "https://www.antonellisanmarco.it/"
+   ],
+   "olio": [
+    1,
+    "due tipologie di olio extravergine",
+    "https://www.antonellisanmarco.it/azienda/"
+   ],
+   "grap": [
+    1,
+    "Grappa monovitigno di Sagrantino",
+    "https://shop.antonellisanmarco.it/products/grappa-monovitigno-di-sagrantino"
+   ],
+   "eno": [
+    1,
+    "Visite e degustazioni su prenotazione",
+    "https://www.antonellisanmarco.it/ospitalita/visite-e-degustazioni/"
+   ],
+   "osp": [
+    1,
+    "Camere in agriturismo tra le vigne",
+    "https://www.antonellisanmarco.it/ospitalita/soggiorno/"
+   ]
+  },
+  "scacciadiavoli": {
+   "marchi": [
+    [
+     "Scacciadiavoli",
+     "https://cantinascacciadiavoli.it/i-vini/"
+    ]
+   ],
+   "n": [
+    11,
+    "https://cantinascacciadiavoli.it/i-vini/"
+   ],
+   "top": null,
+   "sagr": [
+    1,
+    "Montefalco Sagrantino DOCG",
+    "https://cantinascacciadiavoli.it/i-vini/montefalco-sagrantino-d-o-c-g/"
+   ],
+   "pass": [
+    1,
+    "Montefalco Sagrantino Passito DOCG",
+    "https://cantinascacciadiavoli.it/i-vini/montefalco-sagrantino-passito-d-o-c-g/"
+   ],
+   "rosso": [
+    1,
+    "Montefalco Rosso DOC",
+    "https://cantinascacciadiavoli.it/i-vini/montefalco-rosso-d-o-c/"
+   ],
+   "ris": [
+    0,
+    "nessuna Riserva fra gli 11 vini",
+    "https://cantinascacciadiavoli.it/i-vini/"
+   ],
+   "grec": [
+    1,
+    "Montefalco Grechetto DOC",
+    "https://cantinascacciadiavoli.it/i-vini/montefalco-grechetto-d-o-c/"
+   ],
+   "treb": [
+    1,
+    "Spoleto DOC Trebbiano Spoletino (anche Anfora)",
+    "https://cantinascacciadiavoli.it/i-vini/spoleto-d-o-c-trebbiano-spoletino/"
+   ],
+   "bia": [
+    1,
+    "Montefalco Bianco DOC",
+    "https://cantinascacciadiavoli.it/i-vini/montefalco-bianco-d-o-c/"
+   ],
+   "intl": [
+    null,
+    "uve dell'Umbria Rosso IGT non lette",
+    "https://cantinascacciadiavoli.it/i-vini/umbria-rosso-i-g-t/"
+   ],
+   "spum": [
+    1,
+    "Brut Rosé, Brut Pas Dosé, Trebbiano Spoletino Pas Dosé",
+    "https://cantinascacciadiavoli.it/i-vini/spumante-metodo-classico-brut-pas-dose/"
+   ],
+   "ros": [
+    0,
+    "nessun rosato fermo (solo Spumante Brut Rosé)",
+    "https://cantinascacciadiavoli.it/i-vini/"
+   ],
+   "dolce": [
+    0,
+    "nessun bianco dolce fra gli 11 vini",
+    "https://cantinascacciadiavoli.it/i-vini/"
+   ],
+   "olio": [
+    null,
+    "nessuna pagina olio nel sito",
+    "https://cantinascacciadiavoli.it/i-vini/"
+   ],
+   "grap": [
+    1,
+    "Grappa di Sagrantino",
+    "https://cantinascacciadiavoli.it/i-vini/grappa-di-sagrantino/"
+   ],
+   "eno": [
+    1,
+    "Visite gratuite giornaliere e degustazioni",
+    "https://cantinascacciadiavoli.it/visite-e-degustazioni/"
+   ],
+   "osp": [
+    null,
+    "nessuna camera o ristorante indicati",
+    "https://cantinascacciadiavoli.it/"
+   ]
+  },
+  "perticaia": {
+   "marchi": [
+    [
+     "Perticaia",
+     "https://www.perticaia.it/vini"
+    ]
+   ],
+   "n": [
+    11,
+    "https://www.perticaia.it/vini"
+   ],
+   "top": null,
+   "sagr": [
+    1,
+    "Montefalco Sagrantino DOCG",
+    "https://www.perticaia.it/montefalco-sagrantino-docg"
+   ],
+   "pass": [
+    1,
+    "Passito di Montefalco Sagrantino DOCG",
+    "https://www.perticaia.it/passito-montefalco-sagrantino-docg"
+   ],
+   "rosso": [
+    1,
+    "Montefalco Rosso DOC",
+    "https://www.perticaia.it/montefalco-rosso-doc"
+   ],
+   "ris": [
+    1,
+    "Montefalco Rosso DOC Riserva",
+    "https://www.perticaia.it/riserva-montefalco-rosso-doc"
+   ],
+   "grec": [
+    1,
+    "Umbria Grechetto IGT",
+    "https://www.perticaia.it/vini"
+   ],
+   "treb": [
+    1,
+    "Trebbiano Spoletino, Del Posto (Spoleto DOC)",
+    "https://www.perticaia.it/trebbiano-spoletino-spoleto-doc"
+   ],
+   "bia": [
+    0,
+    "nessun Montefalco Bianco fra gli 11 vini",
+    "https://www.perticaia.it/vini"
+   ],
+   "intl": [
+    null,
+    "uve di ROFV e Umbria Rosso IGT non lette",
+    "https://www.perticaia.it/rofv-collezione-privata"
+   ],
+   "spum": [
+    1,
+    "Spumante Rosé Brut",
+    "https://www.perticaia.it/ros%C3%A9-brut"
+   ],
+   "ros": [
+    1,
+    "Umbria Rosato IGT",
+    "https://www.perticaia.it/umbria-rosato-igt"
+   ],
+   "dolce": [
+    0,
+    "nessun bianco dolce fra gli 11 vini",
+    "https://www.perticaia.it/vini"
+   ],
+   "olio": [
+    1,
+    "Olio umbro",
+    "https://www.perticaia.it/olio-umbro"
+   ],
+   "grap": [
+    null,
+    "shop non letto",
+    "https://www.perticaia.it/category/shop-perticaia"
+   ],
+   "eno": [
+    1,
+    "Degustazioni",
+    "https://www.perticaia.it/wine-tastings-montefalco"
+   ],
+   "osp": [
+    null,
+    "nessuna camera o ristorante nel menu",
+    "https://www.perticaia.it/"
+   ]
+  },
+  "colpetrone": {
+   "marchi": [
+    [
+     "Còlpetrone (Tenute del Cerro)",
+     "https://www.tenutedelcerro.it/it/estate/colpetrone"
+    ]
+   ],
+   "n": [
+    6,
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "top": [
+    "Ò di Còlpetrone Montefalco Sagrantino DOCG (il cru della tenuta)",
+    "https://www.tenutedelcerro.it/it/wine/o-di-colpetrone"
+   ],
+   "sagr": [
+    1,
+    "Memoira, Sacer, Ò di Còlpetrone",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "pass": [
+    1,
+    "Montefalco Sagrantino Passito DOCG",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "rosso": [
+    1,
+    "Montefalco Rosso DOC",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "ris": [
+    0,
+    "la tenuta elenca 6 vini, nessuna Riserva",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "grec": [
+    1,
+    "Grechetto IGT",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "treb": [
+    0,
+    "la tenuta elenca 6 vini, nessun Trebbiano Spoletino",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "bia": [
+    0,
+    "la tenuta elenca 6 vini, nessun bianco DOC",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "intl": [
+    0,
+    "la tenuta elenca 6 vini, solo vitigni locali",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "spum": [
+    0,
+    "la tenuta elenca 6 vini, nessuno spumante",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "ros": [
+    0,
+    "la tenuta elenca 6 vini, nessun rosato",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "dolce": [
+    0,
+    "la tenuta elenca 6 vini, nessun bianco dolce",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "olio": [
+    null,
+    "non indicato nella pagina della tenuta",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "grap": [
+    null,
+    "non indicato nella pagina della tenuta",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "eno": [
+    1,
+    "Esperienze e degustazioni in tenuta",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ],
+   "osp": [
+    null,
+    "non indicato nella pagina della tenuta",
+    "https://www.tenutedelcerro.it/it/estate/colpetrone"
+   ]
+  },
+  "castelbuono": {
+   "marchi": [
+    [
+     "Tenuta Castelbuono – Carapace (Tenute Lunelli)",
+     "https://www.tenutelunelli.it/it/vini.php"
+    ]
+   ],
+   "n": [
+    5,
+    "https://www.tenutelunelli.it/it/vini.php"
+   ],
+   "top": null,
+   "sagr": [
+    1,
+    "Carapace, Carapace Lunga Attesa",
+    "https://www.tenutelunelli.it/it/vini_umbria_carapace.php"
+   ],
+   "pass": [
+    1,
+    "Passito Montefalco Sagrantino DOCG",
+    "https://www.tenutelunelli.it/it/vini_umbria_passito.php"
+   ],
+   "rosso": [
+    1,
+    "Ziggurat Montefalco Rosso DOC",
+    "https://www.tenutelunelli.it/it/vini_umbria_ziggurat.php"
+   ],
+   "ris": [
+    1,
+    "Lampante Montefalco Rosso Riserva DOC",
+    "https://www.tenutelunelli.it/it/vini_umbria_lampante.php"
+   ],
+   "grec": [
+    0,
+    "5 vini umbri, nessun bianco",
+    "https://www.tenutelunelli.it/it/vini.php"
+   ],
+   "treb": [
+    0,
+    "5 vini umbri, nessun bianco",
+    "https://www.tenutelunelli.it/it/vini.php"
+   ],
+   "bia": [
+    0,
+    "5 vini umbri, nessun bianco",
+    "https://www.tenutelunelli.it/it/vini.php"
+   ],
+   "intl": [
+    0,
+    "5 vini umbri, solo Sagrantino e Montefalco Rosso",
+    "https://www.tenutelunelli.it/it/vini.php"
+   ],
+   "spum": [
+    0,
+    "nessuno spumante umbro (le bollicine del gruppo sono trentine)",
+    "https://www.tenutelunelli.it/it/vini.php"
+   ],
+   "ros": [
+    0,
+    "5 vini umbri, nessun rosato",
+    "https://www.tenutelunelli.it/it/vini.php"
+   ],
+   "dolce": [
+    0,
+    "5 vini umbri, nessun bianco dolce",
+    "https://www.tenutelunelli.it/it/vini.php"
+   ],
+   "olio": [
+    null,
+    "non indicato",
+    "https://www.tenutelunelli.it/it/vini.php"
+   ],
+   "grap": [
+    null,
+    "non indicato",
+    "https://www.tenutelunelli.it/it/vini.php"
+   ],
+   "eno": [
+    1,
+    "Visite guidate e degustazioni su prenotazione",
+    "https://www.tenutelunelli.it/it/visite.php"
+   ],
+   "osp": [
+    0,
+    "il menu della tenuta umbra non ha la voce Ospitalità (c'è solo per la toscana Podernovo)",
+    "https://www.tenutelunelli.it/it/vini.php"
+   ]
+  },
+  "romanelli": {
+   "marchi": [
+    [
+     "Romanelli",
+     "https://romanelli.wine/prodotti/"
+    ]
+   ],
+   "n": [
+    7,
+    "https://romanelli.wine/prodotti/vini-della-tradizione/"
+   ],
+   "top": [
+    "Medeo Montefalco Sagrantino DOCG (solo annate eccezionali)",
+    "https://romanelli.wine/prodotti/vini-cru/"
+   ],
+   "sagr": [
+    1,
+    "Terra Cupa, Medeo",
+    "https://romanelli.wine/prodotti/vini-della-tradizione/"
+   ],
+   "pass": [
+    1,
+    "Cocrè",
+    "https://romanelli.wine/prodotti/vini-della-tradizione/"
+   ],
+   "rosso": [
+    1,
+    "Capo de Casa, Molinetta",
+    "https://romanelli.wine/prodotti/vini-della-tradizione/"
+   ],
+   "ris": [
+    0,
+    "nessuna Riserva fra i 7 vini",
+    "https://romanelli.wine/prodotti/vini-cru/"
+   ],
+   "grec": [
+    1,
+    "Fonte Perna Colli Martani Grechetto DOC",
+    "https://romanelli.wine/prodotti/vini-della-tradizione/"
+   ],
+   "treb": [
+    1,
+    "Le Tese Spoleto DOC Trebbiano Spoletino",
+    "https://romanelli.wine/prodotti/vini-cru/"
+   ],
+   "bia": [
+    0,
+    "nessun Montefalco Bianco fra i 7 vini",
+    "https://romanelli.wine/prodotti/vini-cru/"
+   ],
+   "intl": [
+    0,
+    "nessun vino da vitigno internazionale (solo una quota di Merlot nel Molinetta)",
+    "https://romanelli.wine/prodotti/vini-cru/"
+   ],
+   "spum": [
+    0,
+    "nessuno spumante fra i 7 vini",
+    "https://romanelli.wine/prodotti/vini-della-tradizione/"
+   ],
+   "ros": [
+    0,
+    "nessun rosato fra i 7 vini",
+    "https://romanelli.wine/prodotti/vini-della-tradizione/"
+   ],
+   "dolce": [
+    0,
+    "nessun bianco dolce fra i 7 vini",
+    "https://romanelli.wine/prodotti/vini-della-tradizione/"
+   ],
+   "olio": [
+    1,
+    "Olio",
+    "https://romanelli.wine/prodotti/olio/"
+   ],
+   "grap": [
+    1,
+    "Distillati",
+    "https://romanelli.wine/prodotti/distillati/"
+   ],
+   "eno": [
+    1,
+    "Tour in cantina",
+    "https://romanelli.wine/tour/"
+   ],
+   "osp": [
+    null,
+    "due store, nessuna camera o ristorante indicati",
+    "https://romanelli.wine/store/"
+   ]
+  },
+  "lungarotti": {
+   "marchi": [
+    [
+     "Lungarotti – Tenuta di Torgiano",
+     "https://lungarotti.it/ita/vino-3/"
+    ],
+    [
+     "Tenuta Brancalupo – Montefalco",
+     "https://lungarotti.it/ita/vino-3/"
+    ],
+    [
+     "Tenuta Pometo",
+     "https://lungarotti.it/ita/vino-3/"
+    ],
+    [
+     "Progetto 1962",
+     "https://lungarotti.it/ita/vino-3/"
+    ]
+   ],
+   "n": [
+    27,
+    "https://lungarotti.it/ita/vino-3/"
+   ],
+   "top": null,
+   "sagr": [
+    1,
+    "Montefalco Sagrantino (Brancalupo)",
+    "https://lungarotti.it/ita/montefalcosagrantino/"
+   ],
+   "pass": [
+    1,
+    "Sagrantino Passito",
+    "https://lungarotti.it/ita/sagrantinopassito/"
+   ],
+   "rosso": [
+    1,
+    "Montefalco Rosso",
+    "https://lungarotti.it/ita/montefalcorosso/"
+   ],
+   "ris": [
+    0,
+    "nessun Montefalco Rosso Riserva (la Riserva è il Rubesco di Torgiano)",
+    "https://lungarotti.it/ita/vino-3/"
+   ],
+   "grec": [
+    1,
+    "Grechetto Umbria IGT (Pometo)",
+    "https://lungarotti.it/ita/grechetto-pometo/"
+   ],
+   "treb": [
+    1,
+    "Trebbiano Spoletino (Brancalupo)",
+    "https://lungarotti.it/ita/trebbianospoletinom/"
+   ],
+   "bia": [
+    1,
+    "Torre di Giano Vigna il Pino Bianco di Torgiano DOC",
+    "https://lungarotti.it/ita/torredigianovip/"
+   ],
+   "intl": [
+    1,
+    "Aurente Chardonnay di Torgiano DOC, Pinot Grigio",
+    "https://lungarotti.it/ita/aurente/"
+   ],
+   "spum": [
+    1,
+    "Brut Millesimato, Extra Brut 60 mesi, Brut Rosè",
+    "https://lungarotti.it/ita/brut/"
+   ],
+   "ros": [
+    1,
+    "Brezza Rosa Umbria Rosato IGT",
+    "https://lungarotti.it/ita/brezzarosap/"
+   ],
+   "dolce": [
+    1,
+    "Vin Santo Torgiano DOC, Dulcis",
+    "https://lungarotti.it/ita/vinsanto/"
+   ],
+   "olio": [
+    1,
+    "olio Lungarotti in degustazione e in enoteca",
+    "https://lungarotti.it/ita/enoturismo/"
+   ],
+   "grap": [
+    1,
+    "grappe in vendita all'Enoteca della Cantina",
+    "https://lungarotti.it/ita/enoturismo/"
+   ],
+   "eno": [
+    1,
+    "Visite e degustazioni tutti i giorni su prenotazione",
+    "https://lungarotti.it/ita/enoturismo/"
+   ],
+   "osp": [
+    1,
+    "Agriturismo Poggio alle Vigne, Bistrot, Osteria del Museo",
+    "https://lungarotti.it/ita/enoturismo/"
+   ]
+  },
+  "castellosala": {
+   "marchi": [
+    [
+     "Castello della Sala (Marchesi Antinori)",
+     "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+    ]
+   ],
+   "n": [
+    6,
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "top": [
+    "Cervaro della Sala Umbria IGT (il vino simbolo raccontato dalla tenuta)",
+    "https://www.antinori.it/it/vino/cervaro-della-sala/"
+   ],
+   "sagr": [
+    0,
+    "6 vini, nessun Sagrantino",
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "pass": [
+    0,
+    "6 vini, nessun Sagrantino",
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "rosso": [
+    0,
+    "6 vini, nessun Montefalco Rosso",
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "ris": [
+    0,
+    "6 vini, nessun Montefalco Rosso",
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "grec": [
+    0,
+    "Grechetto solo in uvaggio (Cervaro, Muffato), non in purezza",
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "treb": [
+    0,
+    "6 vini, nessun Trebbiano Spoletino",
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "bia": [
+    1,
+    "San Giovanni della Sala Orvieto DOC Classico Superiore",
+    "https://www.antinori.it/it/vino/san-giovanni-della-sala/"
+   ],
+   "intl": [
+    1,
+    "Pinot Nero della Sala, Cervaro (Chardonnay)",
+    "https://www.antinori.it/it/vino/pinot-nero/"
+   ],
+   "spum": [
+    0,
+    "6 vini, nessuno spumante",
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "ros": [
+    0,
+    "6 vini, nessun rosato",
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "dolce": [
+    1,
+    "Muffato della Sala",
+    "https://www.antinori.it/it/vino/muffato-della-sala/"
+   ],
+   "olio": [
+    null,
+    "non indicato per questa tenuta",
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "grap": [
+    null,
+    "non indicato per questa tenuta",
+    "https://www.antinori.it/it/tenuta/tenute-antinori/castello-della-sala/"
+   ],
+   "eno": [
+    1,
+    "Bottega del Castello della Sala: degustazioni su prenotazione",
+    "https://www.antinori.it/it/experience/bottega-del-castello-della-sala/"
+   ],
+   "osp": [
+    null,
+    "nessuna camera o ristorante indicati per questa tenuta",
+    "https://www.antinori.it/it/esperienze/lista-tenute/tenute-antinori/castello-della-sala/"
+   ]
+  },
+  "bertani": {
+   "marchi": [
+    [
+     "Bertani",
+     "https://www.bertani.net/"
+    ]
+   ],
+   "n": [
+    12,
+    "https://www.bertani.net/it/vini/"
+   ],
+   "top": [
+    "Amarone della Valpolicella Classico",
+    "https://www.bertani.net/it/vini/tradizione/amarone-della-valpolicella-classico/"
+   ],
+   "den": "Amarone della Valpolicella Classico DOCG",
+   "ros": [
+    1,
+    "Bertarose Original Vintage Edition (presente su Instagram, non ancora nella pagina vini del sito)",
+    "https://www.instagram.com/p/DadB-k0iYGn/"
+   ],
+   "dolce": [
+    1,
+    "Recioto della Valpolicella Valpantena",
+    "https://www.bertani.net/it/vini/territorio/recioto-della-valpolicella-valpantena/"
+   ],
+   "eno": [
+    1,
+    "BertaniON, The Library Experience, Original Vintage Edition tasting",
+    "https://www.bertani.net/it/esperienze/"
+   ],
+   "sagr": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Amarone della Valpolicella Classico DOCG)",
+    "https://www.bertani.net/it/vini/"
+   ],
+   "pass": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Amarone della Valpolicella Classico DOCG)",
+    "https://www.bertani.net/it/vini/"
+   ],
+   "rosso": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Amarone della Valpolicella Classico DOCG)",
+    "https://www.bertani.net/it/vini/"
+   ],
+   "ris": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Amarone della Valpolicella Classico DOCG)",
+    "https://www.bertani.net/it/vini/"
+   ],
+   "grec": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Amarone della Valpolicella Classico DOCG)",
+    "https://www.bertani.net/it/vini/"
+   ],
+   "treb": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Amarone della Valpolicella Classico DOCG)",
+    "https://www.bertani.net/it/vini/"
+   ],
+   "bia": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Amarone della Valpolicella Classico DOCG)",
+    "https://www.bertani.net/it/vini/"
+   ]
+  },
+  "valdisuga": {
+   "marchi": [
+    [
+     "Val di Suga",
+     "https://www.valdisuga.com/"
+    ]
+   ],
+   "n": [
+    6,
+    "https://www.valdisuga.com/en/"
+   ],
+   "den": "Brunello di Montalcino DOCG",
+   "intl": [
+    0,
+    null,
+    "https://www.valdisuga.com/en/"
+   ],
+   "spum": [
+    0,
+    null,
+    "https://www.valdisuga.com/en/"
+   ],
+   "ros": [
+    0,
+    null,
+    "https://www.valdisuga.com/en/"
+   ],
+   "dolce": [
+    0,
+    null,
+    "https://www.valdisuga.com/en/"
+   ],
+   "eno": [
+    1,
+    "Visite in vigna e degustazioni",
+    "https://www.valdisuga.com/en/hospitality/"
+   ],
+   "sagr": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Brunello di Montalcino DOCG)",
+    "https://www.valdisuga.com/en/"
+   ],
+   "pass": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Brunello di Montalcino DOCG)",
+    "https://www.valdisuga.com/en/"
+   ],
+   "rosso": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Brunello di Montalcino DOCG)",
+    "https://www.valdisuga.com/en/"
+   ],
+   "ris": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Brunello di Montalcino DOCG)",
+    "https://www.valdisuga.com/en/"
+   ],
+   "grec": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Brunello di Montalcino DOCG)",
+    "https://www.valdisuga.com/en/"
+   ],
+   "treb": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Brunello di Montalcino DOCG)",
+    "https://www.valdisuga.com/en/"
+   ],
+   "bia": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Brunello di Montalcino DOCG)",
+    "https://www.valdisuga.com/en/"
+   ]
+  },
+  "trerose": {
+   "marchi": [
+    [
+     "Tenuta Trerose",
+     "https://tenutatrerose.it/it"
+    ]
+   ],
+   "n": [
+    9,
+    "https://tenutatrerose.it/it/vini"
+   ],
+   "den": "Vino Nobile di Montepulciano DOCG",
+   "spum": [
+    0,
+    null,
+    "https://tenutatrerose.it/it/vini"
+   ],
+   "ros": [
+    1,
+    "Trerosè (Toscana Rosato IGT, 100% Sangiovese)",
+    "https://tenutatrerose.it/it/vini/trerose"
+   ],
+   "dolce": [
+    1,
+    "Vin Santo di Montepulciano",
+    "https://tenutatrerose.it/it/vini/vin-santo-di-montepulciano"
+   ],
+   "sagr": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Vino Nobile di Montepulciano DOCG)",
+    "https://tenutatrerose.it/it/vini"
+   ],
+   "pass": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Vino Nobile di Montepulciano DOCG)",
+    "https://tenutatrerose.it/it/vini"
+   ],
+   "rosso": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Vino Nobile di Montepulciano DOCG)",
+    "https://tenutatrerose.it/it/vini"
+   ],
+   "ris": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Vino Nobile di Montepulciano DOCG)",
+    "https://tenutatrerose.it/it/vini"
+   ],
+   "grec": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Vino Nobile di Montepulciano DOCG)",
+    "https://tenutatrerose.it/it/vini"
+   ],
+   "treb": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Vino Nobile di Montepulciano DOCG)",
+    "https://tenutatrerose.it/it/vini"
+   ],
+   "bia": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Vino Nobile di Montepulciano DOCG)",
+    "https://tenutatrerose.it/it/vini"
+   ]
+  },
+  "sanleonino": {
+   "marchi": [
+    [
+     "San Leonino",
+     "https://sanleonino.it/it"
+    ]
+   ],
+   "n": [
+    4,
+    "https://sanleonino.it/it/vini"
+   ],
+   "den": "Chianti Classico DOCG",
+   "sagr": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Chianti Classico DOCG)",
+    "https://sanleonino.it/it/vini"
+   ],
+   "pass": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Chianti Classico DOCG)",
+    "https://sanleonino.it/it/vini"
+   ],
+   "rosso": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Chianti Classico DOCG)",
+    "https://sanleonino.it/it/vini"
+   ],
+   "ris": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Chianti Classico DOCG)",
+    "https://sanleonino.it/it/vini"
+   ],
+   "grec": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Chianti Classico DOCG)",
+    "https://sanleonino.it/it/vini"
+   ],
+   "treb": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Chianti Classico DOCG)",
+    "https://sanleonino.it/it/vini"
+   ],
+   "bia": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Chianti Classico DOCG)",
+    "https://sanleonino.it/it/vini"
+   ]
+  },
+  "fazibattaglia": {
+   "marchi": [
+    [
+     "Fazi Battaglia",
+     "https://fazibattaglia.com/it"
+    ],
+    [
+     "Tenute San Sisto",
+     "https://www.tenutesansisto.com/"
+    ]
+   ],
+   "n": [
+    5,
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "top": [
+    "Titulus Verdicchio dei Castelli di Jesi Classico",
+    "https://fazibattaglia.com/it/vini/titulus"
+   ],
+   "den": "Verdicchio dei Castelli di Jesi Classico DOC",
+   "ros": [
+    1,
+    "Rosato Marche IGT (Linea Anfora)",
+    "https://fazibattaglia.com/it/vini/rosato"
+   ],
+   "eno": [
+    1,
+    "Visite in cantina con degustazione su prenotazione",
+    "https://fazibattaglia.com/it/visite-cantina"
+   ],
+   "sagr": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Verdicchio dei Castelli di Jesi Classico DOC)",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "pass": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Verdicchio dei Castelli di Jesi Classico DOC)",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "rosso": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Verdicchio dei Castelli di Jesi Classico DOC)",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "ris": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Verdicchio dei Castelli di Jesi Classico DOC)",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "grec": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Verdicchio dei Castelli di Jesi Classico DOC)",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "treb": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Verdicchio dei Castelli di Jesi Classico DOC)",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "bia": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona (Verdicchio dei Castelli di Jesi Classico DOC)",
+    "https://fazibattaglia.com/it/vini"
+   ]
+  },
+  "puiatti": {
+   "marchi": [
+    [
+     "Cantina Puiatti",
+     "https://puiatti.com/it"
+    ]
+   ],
+   "n": [
+    12,
+    "https://puiatti.com/it/vini"
+   ],
+   "intl": [
+    1,
+    "Chardonnay",
+    "https://puiatti.com/it/vini/chardonnay"
+   ],
+   "spum": [
+    1,
+    "Blanc de Blancs Metodo Classico",
+    "https://puiatti.com/it/vini/blanc-de-blancs"
+   ],
+   "ros": [
+    1,
+    "Rosé de Noirs Metodo Classico",
+    "https://puiatti.com/it/vini/rose-de-noirs-metodo-classico"
+   ],
+   "dolce": [
+    0,
+    null,
+    "https://puiatti.com/it/vini"
+   ],
+   "eno": [
+    1,
+    "Visite guidate e degustazioni",
+    "https://puiatti.com/it/visite"
+   ],
+   "sagr": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona ()",
+    "https://puiatti.com/it/vini"
+   ],
+   "pass": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona ()",
+    "https://puiatti.com/it/vini"
+   ],
+   "rosso": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona ()",
+    "https://puiatti.com/it/vini"
+   ],
+   "ris": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona ()",
+    "https://puiatti.com/it/vini"
+   ],
+   "grec": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona ()",
+    "https://puiatti.com/it/vini"
+   ],
+   "treb": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona ()",
+    "https://puiatti.com/it/vini"
+   ],
+   "bia": [
+    0,
+    "denominazione umbra: la tenuta è in un'altra zona ()",
+    "https://puiatti.com/it/vini"
+   ]
+  }
+ },
+ "an": [
+  "Questa è una valutazione basata sui siti ufficiali letti il 25 novembre 2026. Caprai ha la gamma più completa del gruppo di Montefalco: 25 vini che coprono tutte le tipologie del territorio (Sagrantino secco e passito, Montefalco Rosso e Riserva, Grechetto, Trebbiano Spoletino, Montefalco Bianco) e in più rosato, due metodo classico e tre vini da vitigni internazionali. Solo Lungarotti, che però è soprattutto un'azienda di Torgiano, ha un catalogo più ampio (27 vini).",
+  "Dove Caprai è rara: i vitigni internazionali (Merlot, Chardonnay, Sauvignon) li fanno solo Caprai, Lungarotti e Castello della Sala; fra le cantine di Montefalco nessun'altra li mette in gamma. È anche l'unica di Montefalco ad avere insieme Riserva, Montefalco Bianco, spumante e rosato fermo. Con le linee Anima Umbra e Poggio Belvedere copre pure la fascia di prezzo più bassa, che i piccoli produttori (Bea, Tabarrini, Romanelli, Castelbuono) non presidiano.",
+  "Dove le manca qualcosa: nessun vino dolce bianco (Lungarotti ha Vin Santo e Dulcis, Castello della Sala il Muffato). Sul sito non risultano olio, grappa né camere o ristorante, mentre Antonelli e Lungarotti offrono soggiorno in agriturismo e Antonelli, Scacciadiavoli, Romanelli e Lungarotti vendono anche grappa. Questi tre punti restano da verificare con l'azienda, perché il sito Caprai non ha una pagina dedicata.",
+  "Chi le somiglia di più: fra i vicini di Montefalco Perticaia ha l'offerta più simile (Sagrantino, Passito, Rosso e Riserva, Grechetto, Trebbiano Spoletino, spumante e rosato), seguita da Scacciadiavoli e Antonelli. Lungarotti è il concorrente più completo in assoluto: stessi vini di Montefalco con la tenuta Brancalupo, più internazionali, spumanti, dolci e ospitalità. Colpetrone e Castelbuono sono specialisti di soli rossi da Sagrantino, Castello della Sala gioca su un altro campo (bianchi di Orvieto e Pinot Nero) senza Sagrantino."
+ ]
+}

@@ -1,0 +1,1716 @@
+{
+ "n": "Dati letti il 25/11/2026 con ScrapeCreators: 14 crediti usati (1 lettura degli ultimi post per account; saldo da 24.799 a 24.785; una prima lettura di Lungarotti è fallita senza addebito). Per ogni account contano solo gli ultimi 9 post e il numero di follower del giorno. Esclusi: Val di Suga (account con restrizione, post non leggibili), Paolo Bea e Trerose (nessun account Instagram ufficiale trovato). Like nascosti: Instagram restituisce 3 come segnaposto; questi post sono contati con i soli commenti nella colonna del post e sono esclusi dalla media delle reazioni. Antonelli li nasconde su tutti e 9 i post (media sui soli commenti), Tabarrini su 7 (media sui 2 post visibili), Caprai e Perticaia su 1. Còlpetrone, Castelbuono e Castello della Sala non hanno un account proprio: si valutano gli account di gruppo Tenute del Cerro, Tenute Lunelli e Marchesi Antinori. Fazi Battaglia e San Leonino sono fermi (ultimi post 17/11/2025 e 08/03/2022): i loro post al mese sono calcolati su anni. Le copertine sono quelle restituite da Instagram, non corrette: due di Fazi Battaglia sono bianche.",
+ "regola": "Voto finale = media pesata: 5 voti del panel sui post (coerenza ×1,5, immagini ×1,5, varietà ×1, cose vere ×2, messaggio ×1,5) e 4 voti a fasce fisse sui numeri (follower ×1, reazioni medie ×1, post al mese ×1, reazioni ogni 100 follower ×1,5). Somma dei pesi 12. Fasce: Follower: 1 sotto 3.000 · 2 da 3.000 · 3 da 10.000 · 4 da 30.000 · 5 da 100.000. Reazioni medie per post: 1 sotto 30 · 2 da 30 · 3 da 50 · 4 da 100 · 5 da 200. Post al mese: 1 sotto 2 · 2 da 2 · 3 da 4 · 4 da 8 · 5 da 15. Reazioni ogni 100 follower: 1 sotto 0,5 · 2 da 0,5 · 3 da 1 · 4 da 2 · 5 da 4.",
+ "crit": [
+  [
+   "coer",
+   "Coerenza",
+   "Il feed si riconosce a colpo d’occhio: stessi colori, stessa luce, stesso stile."
+  ],
+  [
+   "img",
+   "Immagini",
+   "Qualità di foto e copertine: luce, inquadratura, nitidezza; copertine vuote o tagliate abbassano il voto."
+  ],
+  [
+   "var",
+   "Formati",
+   "Uso di foto, reel e caroselli insieme."
+  ],
+  [
+   "vero",
+   "Cose vere",
+   "Si vedono vigna, persone, cantina e bottiglie vere, non locandine o grafiche di evento."
+  ],
+  [
+   "msg",
+   "Messaggio",
+   "Si capisce chi è la cantina e cosa racconta, post dopo post."
+  ],
+  [
+   "vf",
+   "Follower",
+   "1 sotto 3.000 · 2 da 3.000 · 3 da 10.000 · 4 da 30.000 · 5 da 100.000"
+  ],
+  [
+   "vr",
+   "Reazioni medie",
+   "Like + commenti per post. 1 sotto 30 · 2 da 30 · 3 da 50 · 4 da 100 · 5 da 200"
+  ],
+  [
+   "vp",
+   "Post al mese",
+   "9 post divisi per i mesi tra il più vecchio e il più recente. 1 sotto 2 · 2 da 2 · 3 da 4 · 4 da 8 · 5 da 15"
+  ],
+  [
+   "ve",
+   "Reazioni ogni 100 follower",
+   "Reazioni medie / follower × 100. 1 sotto 0,5 · 2 da 0,5 · 3 da 1 · 4 da 2 · 5 da 4"
+  ]
+ ],
+ "pesi": {
+  "coer": 1.5,
+  "img": 1.5,
+  "var": 1,
+  "vero": 2,
+  "msg": 1.5,
+  "vf": 1,
+  "vr": 1,
+  "vp": 1,
+  "ve": 1.5
+ },
+ "esperti": {
+  "ss": "Social strategist del vino",
+  "ad": "Art director",
+  "eno": "Enoturista"
+ },
+ "mondo": {
+  "n": "Scala mondiale da 1 a 10, severa e uguale alle altre classifiche: 10 i migliori Instagram di vino al mondo, 8 le grandi case, 6 un’ottima tenuta italiana, 4 corretto ma ordinario, 3 datato; nessuna cantina di questo gruppo va oltre 6.",
+  "top": [
+   {
+    "nome": "Dom Pérignon",
+    "perche": "Ogni post è una campagna d’arte: luce, collaborazioni e bottiglia sempre al centro.",
+    "lg": "domperignon",
+    "w": 10
+   },
+   {
+    "nome": "Ruinart",
+    "perche": "Gesso, vigna e arte contemporanea con uno stile fotografico unico e costante.",
+    "lg": "ruinart",
+    "w": 10
+   },
+   {
+    "nome": "Krug",
+    "perche": "Racconta persone, musica e cibo intorno allo champagne con grande coerenza.",
+    "lg": "krug",
+    "w": 10
+   },
+   {
+    "nome": "Veuve Clicquot",
+    "perche": "Il giallo del marchio rende ogni post riconoscibile all’istante.",
+    "lg": "veuveclicquot",
+    "w": 10
+   },
+   {
+    "nome": "Penfolds",
+    "perche": "Prodotto, vigna e cantina fotografati come in un film, con serie fisse.",
+    "lg": "penfolds",
+    "w": 10
+   },
+   {
+    "nome": "Opus One",
+    "perche": "Feed sobrio ed elegante, la tenuta di Napa raccontata con luce perfetta.",
+    "lg": "opusone",
+    "w": 9
+   },
+   {
+    "nome": "Château d’Yquem",
+    "perche": "Vigna, nebbia e bottiglia: pochi elementi, altissima qualità.",
+    "lg": "yquem",
+    "w": 9
+   },
+   {
+    "nome": "Whispering Angel",
+    "perche": "Stile di vita della Provenza: colori e tono leggeri e sempre uguali.",
+    "lg": "whisperingangel",
+    "w": 9
+   },
+   {
+    "nome": "Gaja",
+    "perche": "Il riferimento italiano: famiglia, vigne delle Langhe e poche immagini curate.",
+    "lg": "gaja",
+    "w": 9
+   },
+   {
+    "nome": "Château Margaux",
+    "perche": "Storia e architettura del castello con una fotografia classica e pulita.",
+    "lg": "margaux",
+    "w": 9
+   }
+  ]
+ },
+ "cliente": {
+  "testo": "Arnaldo Caprai è 13ª su 14 (2,29): tra le cantine umbre con account proprio ha più follower (17.549) e più reazioni medie (158) di tutte, ma il feed è fermo dal 26 agosto, non usa i reel e metà dei post sono locandine di eventi. Dai migliori del gruppo conviene copiare due cose: le serie fisse e riconoscibili di Antinori (es. «[ Vendemmia 2026 ]», con reel di cantina e persone vere) e il racconto semplice e utile di Romanelli, che spiega vigna e lavoro post dopo post con un ritmo di 6 post al mese."
+ },
+ "items": [
+  {
+   "id": "castellosala",
+   "nome": "Castello della Sala (account Antinori)",
+   "u": "https://www.instagram.com/marchesiantinori/",
+   "s": "val",
+   "v": {
+    "coer": 4,
+    "img": 4,
+    "var": 4,
+    "vero": 4,
+    "msg": 4,
+    "vf": 5,
+    "vr": 5,
+    "vp": 4,
+    "ve": 2
+   },
+   "f": 264852,
+   "pm": 9.1,
+   "rmed": 1746.9,
+   "rr": 0.66,
+   "w": 6,
+   "wv": "Il riferimento italiano del gruppo: serie editoriali, reel curati, ma Castello della Sala è una tenuta tra tante.",
+   "e": "Livello alto, Castello della Sala in 1 post",
+   "verd": "È l’account Marchesi Antinori, non di Castello della Sala: la tenuta umbra c’è solo nel carosello dell’08/11 (3.441 reazioni, il secondo più apprezzato). Il resto è Chianti Classico e Guado al Tasso, raccontati con serie fisse, reel e grafiche di alto livello.",
+   "panel": {
+    "ss": "Messaggio 4: le serie tra parentesi quadre («[ Connessioni del vino ]», «[ Vendemmia 2026 ]») rendono chiaro cosa si guarda; Castello della Sala però compare solo l’08/11.",
+    "ad": "Immagini 4: il pennello sulla barrique (24/11) e i collage color carta di Guado al Tasso (28 e 30/10) sono di livello internazionale. Coerenza 4: due stili (foto calde e collage) ma ben tenuti.",
+    "eno": "Cose vere 4: mani con l’uva, il vino spillato dalla botte, Renzo Cotarella in vigna (18/11): vero e invitante. Varietà 4: 6 reel, caroselli e foto."
+   },
+   "pro": [
+    "Serie editoriali riconoscibili",
+    "Reel di cantina curati e reazioni alte (1.747 di media)"
+   ],
+   "contro": [
+    "Account di gruppo: Castello della Sala in 1 post su 9",
+    "Reazioni ogni 100 follower nella media (0,66)"
+   ],
+   "fix": "Per Castello della Sala: chiedere al gruppo una serie fissa sul Cervaro e sull’Umbria, come «Connessioni del vino».",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DgIcRz2h2v0/",
+     "d": "2026-11-24",
+     "ty": "reel",
+     "r": 1885,
+     "t": "[ Antinori nel Chianti Classico ] La pittura delle barrique. | Barrique painting. #ChiantiClassico #Antinori",
+     "img": "logos/ig/castellosala-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DgDL2dTh-OJ/",
+     "d": "2026-11-22",
+     "ty": "reel",
+     "r": 410,
+     "t": "[ Connessioni del vino | Wine’s connection ] Dalla vigna al vino. | From vineyard to wine. #Antinori",
+     "img": "logos/ig/castellosala-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Df9-xMsByQw/",
+     "d": "2026-11-20",
+     "ty": "reel",
+     "r": 667,
+     "t": "[ Connessioni del vino | Wine’s connection ] Processi. | Processes. #Antinori",
+     "img": "logos/ig/castellosala-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Df4_hoKBXPV/",
+     "d": "2026-11-18",
+     "ty": "reel",
+     "r": 1580,
+     "t": "[ Vendemmia 2026 | 2026 harvest ] Renzo Cotarella: le prime valutazioni sulla nuova vendemmia 2026. I Renzo Cotarella sh",
+     "img": "logos/ig/castellosala-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DffPh6kDBmn/",
+     "d": "2026-11-08",
+     "ty": "carosello",
+     "r": 3441,
+     "t": "[ Castello della Sala ] Ottobre 2026, Castello della Sala, Umbria. I October 2026, Castello della Sala, Umbria. #Castell",
+     "img": "logos/ig/castellosala-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfC62PFhVKH/",
+     "d": "2026-11-02",
+     "ty": "reel",
+     "r": 776,
+     "t": "[ La storia del Cervaro della Sala | The story of Cervaro della Sala ] Renzo Cotarella racconta la storia del Cervaro de",
+     "img": "logos/ig/castellosala-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfCMM8CsHCA/",
+     "d": "2026-10-30",
+     "ty": "foto",
+     "r": 654,
+     "t": "[ Guado al Tasso ] L’equilibrio e la complessità del terroir bolgherese. | The balance and complexity of the Bolgheri te",
+     "img": "logos/ig/castellosala-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfCLl6HsSQn/",
+     "d": "2026-10-28",
+     "ty": "foto",
+     "r": 1079,
+     "t": "[ Guado al Tasso ] L’equilibrio e la complessità del terroir bolgherese. | The balance and complexity of the Bolgheri te",
+     "img": "logos/ig/castellosala-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/De6Vie1iix8/",
+     "d": "2026-10-25",
+     "ty": "carosello",
+     "r": 5230,
+     "t": "Nel cuore del Chianti Classico, la cantina della famiglia Antinori è un luogo in cui architettura, paesaggio e arte cont",
+     "img": "logos/ig/castellosala-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "bertani",
+   "u": "https://www.instagram.com/cantine_bertani/",
+   "s": "val",
+   "v": {
+    "coer": 4,
+    "img": 4,
+    "var": 3,
+    "vero": 3,
+    "msg": 3,
+    "vf": 4,
+    "vr": 5,
+    "vp": 3,
+    "ve": 3
+   },
+   "f": 35541,
+   "pm": 4.3,
+   "rmed": 623.7,
+   "rr": 1.75,
+   "w": 5,
+   "wv": "Estetica calda e cinematografica, ma solo in inglese e con molta grafica di campagna.",
+   "e": "Estetica calda, racconto vago e solo inglese",
+   "verd": "Feed caldo e cinematografico, con foto di vigna che fanno molte reazioni (1.718 il 07/08). Ma è tutto in inglese, metà sono still life o collage della campagna «The Crowned White» e da quasi due mesi non pubblica (ultimo 09/10).",
+   "panel": {
+    "ss": "Messaggio 3: «The Crowned White» e «The Unexpected Classic» sono slogan più che racconto; l’ultimo post è del 09/10.",
+    "ad": "Coerenza 4 e immagini 4: la bottiglia di rosé controluce al tramonto (28/08) e la sala degustazione del 09/10 hanno la stessa luce calda. Varietà 3: 6 foto, 2 reel, 1 carosello.",
+    "eno": "Cose vere 3: belli i filari del 07/08 e le uve all’appassimento (22/09), ma il collage con logo dei fondi europei (01/09) e i fiori del 19/08 non mi dicono niente della cantina."
+   },
+   "pro": [
+    "Foto di vigna e prodotto molto apprezzate",
+    "Stile caldo e riconoscibile"
+   ],
+   "contro": [
+    "Solo in inglese",
+    "Fermo dal 9 ottobre",
+    "Collage di campagna con poco contenuto"
+   ],
+   "fix": "Aggiungere l’italiano, più persone e cantina, e tenere un ritmo settimanale.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DeR3K9Klr7F/",
+     "d": "2026-10-09",
+     "ty": "foto",
+     "r": 857,
+     "t": "Stepping through the doors of our winery means entering a story shaped by patience, respect for the land and timeless el",
+     "img": "logos/ig/bertani-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Ddl7quwF4ak/",
+     "d": "2026-09-22",
+     "ty": "foto",
+     "r": 826,
+     "t": "There are moments when waiting becomes the most precious ingredient. Once the harvest is complete, time takes the grapes",
+     "img": "logos/ig/bertani-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Ddbg6tGl8Us/",
+     "d": "2026-09-18",
+     "ty": "foto",
+     "r": 648,
+     "t": "In the reflections of the glass, glimmers of light capture a timeless elegance. Here lies the essence of Soave: a noble ",
+     "img": "logos/ig/bertani-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DdHApa-FJnd/",
+     "d": "2026-09-10",
+     "ty": "carosello",
+     "r": 197,
+     "t": "For the past few weeks, the harvest has set the rhythm of our days.  Today, from vineyard to cellar, we embrace this new",
+     "img": "logos/ig/bertani-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DcvZmK4Dbba/",
+     "d": "2026-09-01",
+     "ty": "reel",
+     "r": 109,
+     "t": "A Soave that made history without ever belonging to the past. A great Italian classic. The same timeless character, in a",
+     "img": "logos/ig/bertani-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DclsBjen7_Z/",
+     "d": "2026-08-28",
+     "ty": "foto",
+     "r": 1062,
+     "t": "Late August light brings the most vivid sunsets. On stage, a perfect dialogue between the freshness of the lake and the ",
+     "img": "logos/ig/bertani-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DcOmrEQINIU/",
+     "d": "2026-08-19",
+     "ty": "foto",
+     "r": 42,
+     "t": "A dialogue built on light: moving from the reflections of the sunset to those in the glass. Timeless as all great classi",
+     "img": "logos/ig/bertani-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Db5-sJjCMFG/",
+     "d": "2026-08-11",
+     "ty": "reel",
+     "r": 154,
+     "t": "There is a subtle frequency where memory turns into sound. It is the rustle of nature, the echo of a distant time, and t",
+     "img": "logos/ig/bertani-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DbvE91ZktyR/",
+     "d": "2026-08-07",
+     "ty": "foto",
+     "r": 1718,
+     "t": "Summer means: vineyards become long corridors immersed in green, winding through Valpolicella and drawing the eye toward",
+     "img": "logos/ig/bertani-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "puiatti",
+   "u": "https://www.instagram.com/cantinapuiatti/",
+   "s": "val",
+   "v": {
+    "coer": 4,
+    "img": 4,
+    "var": 4,
+    "vero": 2,
+    "msg": 3,
+    "vf": 2,
+    "vr": 5,
+    "vp": 3,
+    "ve": 5
+   },
+   "f": 7533,
+   "pm": 4.1,
+   "rmed": 370.3,
+   "rr": 4.92,
+   "w": 5,
+   "wv": "La direzione artistica più forte del gruppo, ma quasi tutta grafica e arte, poco vigna.",
+   "e": "Direzione artistica forte, poca vigna",
+   "verd": "Il feed con la regia grafica più forte: tipografia «SCONFINE», collage, collaborazioni con artisti, e reazioni altissime (4,9 ogni 100 follower). Ma di vino, vigna e persone della cantina se ne vedono poche: è più una rivista d’arte che una cantina.",
+   "panel": {
+    "ss": "Messaggio 3: il concetto «confine» (Cromie di Confine) è coerente, ma astratto: il reel del 25/09 «Dove il confine è solo l’inizio» non dice cosa c’è nel bicchiere.",
+    "ad": "Coerenza 4 e immagini 4: il collage di montagne del 23/09 e la copertina «Cantina Puiatti & Artetica» (23/10) sono da studio di design. Varietà 4: reel, foto, carosello.",
+    "eno": "Cose vere 2: l’unico post di vigna è «Harvest Season 2026 on film» (04/09); il resto sono grafiche, mostre e un modello in galleria (Tidjane Tall)."
+   },
+   "pro": [
+    "Stile unico e riconoscibile",
+    "Reazioni ogni 100 follower le più alte tra gli attivi (4,92)"
+   ],
+   "contro": [
+    "Quasi niente vigna e persone della cantina",
+    "Messaggio astratto"
+   ],
+   "fix": "Tenere la grafica ma metterci dentro più vigna, vignaioli e bottiglia nel bicchiere.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DfH6JOViaN6/",
+     "d": "2026-10-30",
+     "ty": "reel",
+     "r": 998,
+     "t": "Il dolce incresparsi del mare, la grazia della luna che emerge nel cielo azzurro, il profilo calmo delle montagne. Se il",
+     "img": "logos/ig/puiatti-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/De1rg_ijFzn/",
+     "d": "2026-10-23",
+     "ty": "foto",
+     "r": 666,
+     "t": "Linee essenziali. Identità piene.  Cantina Puiatti & @_artetica - Essential lines. Distinct identities.  Cantina Puiatti",
+     "img": "logos/ig/puiatti-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DejSP8fklZs/",
+     "d": "2026-10-16",
+     "ty": "reel",
+     "r": 577,
+     "t": "Tra le pagine scultoree e il bianco assoluto dello Studio Libri Bianchi abbiamo svelato Sconfine: un blend nato per anda",
+     "img": "logos/ig/puiatti-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DeRPsFvgLRH/",
+     "d": "2026-10-09",
+     "ty": "reel",
+     "r": 601,
+     "t": "Da sempre Cantina Puiatti celebra il cambiamento, la creatività, la moda e il design.   In occasione dell'ultima Milano ",
+     "img": "logos/ig/puiatti-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dd0_GDnFzP9/",
+     "d": "2026-09-28",
+     "ty": "carosello",
+     "r": 49,
+     "t": "Dare forma a qualcosa di nuovo senza riscrivere le tue stesse regole.   -  To create something new without losing what h",
+     "img": "logos/ig/puiatti-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DdtxOFtKKSR/",
+     "d": "2026-09-25",
+     "ty": "reel",
+     "r": 26,
+     "t": "Dove il confine è solo l’inizio.  -  Where borders are beginnings.   Coming soon.  #CantinaPuiatti",
+     "img": "logos/ig/puiatti-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Ddolft8CvRJ/",
+     "d": "2026-09-23",
+     "ty": "reel",
+     "r": 68,
+     "t": "Abitare il confine. Per scoprire nuove strade.  -  Living on the edge. To discover new ways.  Coming soon.  #CantinaPuia",
+     "img": "logos/ig/puiatti-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dc3H3AwF7NV/",
+     "d": "2026-09-04",
+     "ty": "reel",
+     "r": 66,
+     "t": "Una vendemmia arrivata presto: veloce, intensa e radiosa. In un susseguirsi di giornate calde e attese precise.  Di ques",
+     "img": "logos/ig/puiatti-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DcazG_Pnw55/",
+     "d": "2026-08-24",
+     "ty": "foto",
+     "r": 282,
+     "t": "I colori del cielo friulano dialogano con il calice. Traminer Aromatico, tra sentori di pesca e riflessi brillanti.  -  ",
+     "img": "logos/ig/puiatti-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "romanelli",
+   "u": "https://www.instagram.com/agricolaromanelli/",
+   "s": "val",
+   "v": {
+    "coer": 3,
+    "img": 3,
+    "var": 4,
+    "vero": 4,
+    "msg": 4,
+    "vf": 1,
+    "vr": 3,
+    "vp": 3,
+    "ve": 4
+   },
+   "f": 1869,
+   "pm": 6,
+   "rmed": 51.1,
+   "rr": 2.73,
+   "w": 4,
+   "wv": "Racconto onesto e utile di famiglia, vigna e olio; foto da telefono ma vere.",
+   "e": "Racconto vero e utile, foto da telefono",
+   "verd": "Il più bravo a spiegare: ogni post insegna qualcosa (potatura verde, foliage del Sagrantino, falchi gheppi) e mostra persone vere (Anna Rita, Moira). Le foto sono da telefono e ha pochi follower, ma ogni 100 follower reagiscono in 2,7.",
+   "panel": {
+    "ss": "Messaggio 4: le didascalie con «👇» spiegano davvero, come nel carosello «Potatura verde: cos’è e come la facciamo» (15/10); le copertine verdi con il punto di domanda sono un format riconoscibile.",
+    "ad": "Immagini 3: il ritratto di Anna Rita con l’annaffiatoio (21/11) è simpatico ma fatto con il telefono; i grappoli di Trebbiano Spoletino controluce (18/10) sono la foto migliore. Coerenza 3: copertine verdi più foto spontanee.",
+    "eno": "Cose vere 4: persone, casetta dei falchi, olio nuovo, cesoie sui grappoli: tutto vero e mi fa venire voglia di passare. Varietà 4: reel, foto e caroselli."
+   },
+   "pro": [
+    "Persone vere e racconto di famiglia",
+    "Format utile e riconoscibile (domanda + spiegazione)"
+   ],
+   "contro": [
+    "Foto da telefono, qualità variabile",
+    "Pochi follower (1.869)"
+   ],
+   "fix": "Stessa voce, ma una giornata al mese di foto fatte bene (luce, inquadratura) per vigna e bottiglie.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DgAFBAhidYe/",
+     "d": "2026-11-21",
+     "ty": "foto",
+     "r": 27,
+     "t": "Anna Rita e i suoi fiori: un piccolo gesto di cura che racconta la nostra accoglienza 👇  Ogni giorno Anna Rita innaffia ",
+     "img": "logos/ig/romanelli-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Df4-r2nDbn8/",
+     "d": "2026-11-18",
+     "ty": "carosello",
+     "r": 26,
+     "t": "🍁 Foliage del Sagrantino: in autunno non si parla d'altro a Montefalco. Ma di che si tratta? 👇  In autunno, le foglie vi",
+     "img": "logos/ig/romanelli-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfxRNWuEclB/",
+     "d": "2026-11-15",
+     "ty": "foto",
+     "r": 49,
+     "t": "Dietro ogni benvenuto a casa nostra c'è Moira 👇  Moira non ama particolarmente stare davanti all'obbiettivo. Preferisce ",
+     "img": "logos/ig/romanelli-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfU8dsVgPR9/",
+     "d": "2026-11-04",
+     "ty": "foto",
+     "r": 27,
+     "t": "🦅 Questi due falchi gheppi ormai sono di famiglia 👇  Nel 2008 abbiamo installato nidi artificiali nelle vigne per favori",
+     "img": "logos/ig/romanelli-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfPyL83zEyh/",
+     "d": "2026-11-02",
+     "ty": "reel",
+     "r": 57,
+     "t": "Il nostro olio EVO biologico è di nuovo disponibile 👇  Tre etichette che esprimono il nostro modo di vivere e coltivare ",
+     "img": "logos/ig/romanelli-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DepEKs9jxla/",
+     "d": "2026-10-18",
+     "ty": "reel",
+     "r": 37,
+     "t": "💛 È il turno del Trebbiano Spoletino 👇  Segui da vicino la vendemmia 👇 - Iscriviti al Wine Club (link in bio) - Prenota ",
+     "img": "logos/ig/romanelli-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DegsGu6CO-c/",
+     "d": "2026-10-15",
+     "ty": "carosello",
+     "r": 28,
+     "t": "Potatura verde: perché abbiamo rimosso alcuni polloni e succhioni a mano? Te lo spieghiamo qui 👇  Nel reel sulla potatur",
+     "img": "logos/ig/romanelli-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DeY8J5vor7J/",
+     "d": "2026-10-12",
+     "ty": "reel",
+     "r": 118,
+     "t": "Tra i nostri olivi, la raccolta continua senza sosta 👇  E sono già disponibili in quantità limitatissima alcune bottigli",
+     "img": "logos/ig/romanelli-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DeJc5tbk3iQ/",
+     "d": "2026-10-06",
+     "ty": "reel",
+     "r": 91,
+     "t": "🍇 La vendemmia è ufficialmente iniziata 👇  Adesso tocca al Grechetto di Todi.  Segui da vicino la vendemmia 👇  - Iscrivi",
+     "img": "logos/ig/romanelli-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "castelbuono",
+   "nome": "Castelbuono (account Tenute Lunelli)",
+   "u": "https://www.instagram.com/tenutelunelli/",
+   "s": "val",
+   "v": {
+    "coer": 4,
+    "img": 4,
+    "var": 3,
+    "vero": 4,
+    "msg": 3,
+    "vf": 4,
+    "vr": 4,
+    "vp": 2,
+    "ve": 1
+   },
+   "f": 30663,
+   "pm": 2.8,
+   "rmed": 140.1,
+   "rr": 0.46,
+   "w": 5,
+   "wv": "Fotografia di paesaggio e architettura di livello, account di gruppo con tre tenute.",
+   "e": "Paesaggi e architettura di livello, voce di gruppo",
+   "verd": "Account di gruppo (Tenute Lunelli): Castelbuono c’è con la cantina Carapace di Arnaldo Pomodoro, in 2-3 post su 9. Foto pulite e coerenti di vigne, ville e cantine, ma poche persone e un ritmo basso (2,8 post al mese).",
+   "panel": {
+    "ss": "Messaggio 3: il gruppo si capisce (Trentino, Umbria, Toscana), ma Castelbuono è uno dei tre: il Carapace appare nel reel del 06/11 e nella foto del 26/10, poi si torna a Margon e Podernovo.",
+    "ad": "Coerenza 4 e immagini 4: la vista aerea del Carapace (06/11) e il loggiato di Villa Margon (07/08) hanno la stessa luce e lo stesso taglio. Varietà 3: un solo reel.",
+    "eno": "Cose vere 4: vigna di montagna, il trattore tra i filari del Carapace (15/10), i grappoli raccolti: tutto vero. Mancano le persone."
+   },
+   "pro": [
+    "Foto di architettura e paesaggio curate",
+    "Il Carapace di Pomodoro è un simbolo forte"
+   ],
+   "contro": [
+    "Account di gruppo: Castelbuono in pochi post",
+    "Poche persone nelle foto",
+    "Reazioni basse rispetto ai follower (0,46 ogni 100)"
+   ],
+   "fix": "Mettere più persone (vignaioli, ospiti) dentro le belle architetture e usare più reel del Carapace.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DfkZbJojTdE/",
+     "d": "2026-11-10",
+     "ty": "carosello",
+     "r": 163,
+     "t": "Tra incontri, ispirazione e nuove connessioni.  Il 3 Novembre il Carapace ha accolto momenti di condivisione, degustazio",
+     "img": "logos/ig/castelbuono-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dfam29uInIu/",
+     "d": "2026-11-06",
+     "ty": "reel",
+     "r": 506,
+     "t": "Un luogo unico, infinite possibilità di vivere esperienze indimenticabili.  Il 3 novembre, il Carapace ha aperto le sue ",
+     "img": "logos/ig/castelbuono-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfW39dhgV_n/",
+     "d": "2026-11-05",
+     "ty": "foto",
+     "r": 46,
+     "t": "Le pendici dei monti del Trentino, morbide e soleggiate, disegnano un paesaggio in cui i vigneti della Tenuta Margon div",
+     "img": "logos/ig/castelbuono-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfE2Z53DXkG/",
+     "d": "2026-10-29",
+     "ty": "carosello",
+     "r": 70,
+     "t": "Ogni grappolo raccolto custodisce il tempo, la cura e l'esperienza che danno vita ai vini delle Tenute Lunelli. 🍇  Every",
+     "img": "logos/ig/castelbuono-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/De9IDsqkq1m/",
+     "d": "2026-10-26",
+     "ty": "foto",
+     "r": 272,
+     "t": "La cantina della Tenuta Carapace, firmata dal Maestro Arnaldo Pomodoro, è la prima scultura al mondo in cui si vive e si",
+     "img": "logos/ig/castelbuono-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Deyt9ESDB_I/",
+     "d": "2026-10-22",
+     "ty": "foto",
+     "r": 43,
+     "t": "L’autunno avvolge i vigneti della Tenuta Margon. Qui, dove il clima di montagna e l'esperienza della famiglia Lunelli si",
+     "img": "logos/ig/castelbuono-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DegsZatjQWc/",
+     "d": "2026-10-15",
+     "ty": "foto",
+     "r": 50,
+     "t": "Ogni giornata in vigna è fatta di esperienza e attenzione. Tra i filari della Tenuta Carapace, il lavoro prosegue sotto ",
+     "img": "logos/ig/castelbuono-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DbvBidpD3Vd/",
+     "d": "2026-08-07",
+     "ty": "foto",
+     "r": 58,
+     "t": "Villa Margon, dimora rinascimentale immersa nei vigneti del Trentino, nel cuore di Tenuta Margon.✨ È possibile scoprirla",
+     "img": "logos/ig/castelbuono-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DblC-TAlD-1/",
+     "d": "2026-08-03",
+     "ty": "foto",
+     "r": 53,
+     "t": "Alla Tenuta Podernovo, la visita va oltre la degustazione. Tra vigneti, ospitalità e paesaggi delle colline pisane, l’es",
+     "img": "logos/ig/castelbuono-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "lungarotti",
+   "u": "https://www.instagram.com/lungarottiwine/",
+   "s": "val",
+   "v": {
+    "coer": 4,
+    "img": 4,
+    "var": 3,
+    "vero": 3,
+    "msg": 3,
+    "vf": 3,
+    "vr": 3,
+    "vp": 3,
+    "ve": 2
+   },
+   "f": 10122,
+   "pm": 4.6,
+   "rmed": 72.3,
+   "rr": 0.71,
+   "w": 4,
+   "wv": "Fotografia curata con firma «Radici in Umbria», ma parla più di turismo che di vino.",
+   "e": "Bella Umbria, poco vino",
+   "verd": "Feed curato e riconoscibile, con la firma «Radici in Umbria» e la stessa luce calda. Però 5 post su 9 raccontano Assisi, Perugia, Rasiglia o un ferro da cialda del museo: belle cartoline, poco vino e poca cantina.",
+   "panel": {
+    "ss": "Messaggio 3: la serie su Umbria e tradizioni è coerente, ma il vino quasi sparisce: Via dei Ponticelli (29/09) e la passeggiata a Perugia (15/09) potrebbero essere di un ente turistico.",
+    "ad": "Coerenza 4 e immagini 4: la mano con il grappolo «Radici in Umbria» (24/09) e la mano in bianco e nero con il tartufo (13/11) sono di qualità e con lo stesso carattere.",
+    "eno": "Cose vere 3: vere sì, ma della cantina vedo solo la vendemmia del 22/09 e la facciata del 17/09 (il post più apprezzato, 170 reazioni)."
+   },
+   "pro": [
+    "Stile fotografico coerente e curato",
+    "La facciata della cantina è il post più forte"
+   ],
+   "contro": [
+    "Più turismo che vino",
+    "Un solo reel",
+    "Reazioni basse (0,71 ogni 100 follower)"
+   ],
+   "fix": "Tenere la firma ma riportare al centro cantina, vigne di Torgiano e persone Lungarotti, con più reel.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/Dfrr0J_jT-k/",
+     "d": "2026-11-13",
+     "ty": "carosello",
+     "r": 56,
+     "t": "🇮🇹 In Umbria, la ricerca del tartufo è una tradizione che si tramanda da generazioni. Dal nero uncinato al nero pregiato",
+     "img": "logos/ig/lungarotti-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dfj9UMPEkYh/",
+     "d": "2026-11-10",
+     "ty": "foto",
+     "r": 72,
+     "t": "🇮🇹 Sulla collina di Brufa, tra vigne di Rubesco e ulivi, una piccola strada conduce a un casolare del Seicento. È Poggio",
+     "img": "logos/ig/lungarotti-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfFBmu7jSKj/",
+     "d": "2026-10-29",
+     "ty": "carosello",
+     "r": 51,
+     "t": "🇮🇹 Tra i chiostri di Assisi, la storia dell’Umbria si racconta attraverso la pietra. Un patrimonio di arte, cultura e tr",
+     "img": "logos/ig/lungarotti-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DeJW8Y7lIXl/",
+     "d": "2026-10-06",
+     "ty": "foto",
+     "r": 21,
+     "t": "🇮🇹 Ferro da cialda in bronzo: serviva a cuocere le cialde sottili che si portavano in tavola con il vino. Al MUVIT di To",
+     "img": "logos/ig/lungarotti-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dd3U8lfjGQD/",
+     "d": "2026-09-29",
+     "ty": "carosello",
+     "r": 43,
+     "t": "🇮🇹 Via dei Ponticelli: il nome è già una mappa. Rasiglia, frazione di Foligno, sorge sulle sorgenti del Menotre — un'acq",
+     "img": "logos/ig/lungarotti-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DdqxMmlgSdE/",
+     "d": "2026-09-24",
+     "ty": "carosello",
+     "r": 79,
+     "t": "🇮🇹 Ogni anno la vigna restituisce quello che le radici hanno lavorato in silenzio: un grappolo, poi un vino, poi qualcun",
+     "img": "logos/ig/lungarotti-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DdlFGRyEfGx/",
+     "d": "2026-09-22",
+     "ty": "reel",
+     "r": 54,
+     "t": "🇮🇹 Ogni vendemmia è una lettura diversa della stessa terra. Il clima cambia, le stagioni si spostano, la vigna ci chiede",
+     "img": "logos/ig/lungarotti-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DdZY4KQCNR9/",
+     "d": "2026-09-17",
+     "ty": "carosello",
+     "r": 170,
+     "t": "🇮🇹 Lungarotti, sulla stessa facciata, da oltre sessant'anni. Torgiano.  🇺🇸 Lungarotti, on the same facade, for over sixt",
+     "img": "logos/ig/lungarotti-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DdUPBarCt4g/",
+     "d": "2026-09-15",
+     "ty": "carosello",
+     "r": 105,
+     "t": "🇮🇹 Perugia, una passeggiata al tramonto passando da Via dell'Acquedotto — un camminamento costruito sopra l'antico acque",
+     "img": "logos/ig/lungarotti-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "tabarrini",
+   "u": "https://www.instagram.com/tabarrinimontefalco/",
+   "s": "val",
+   "v": {
+    "coer": 4,
+    "img": 4,
+    "var": 3,
+    "vero": 3,
+    "msg": 3,
+    "vf": 2,
+    "vr": 3,
+    "vp": 2,
+    "ve": 3
+   },
+   "f": 4151,
+   "pm": 3.6,
+   "rmed": 77,
+   "rr": 1.85,
+   "w": 4,
+   "wv": "Feed pulito e riconoscibile (verde salvia, crema, logo), ma molte bottiglie su fondo piatto.",
+   "e": "Feed elegante e coerente, racconto di famiglia",
+   "verd": "È il feed più ordinato del Montefalco piccolo: colori fissi, logo sempre in basso, foto vere della famiglia e del lavoro. Pesa la pausa da agosto a ottobre e qualche post-grafica (le emoji, il fumetto).",
+   "panel": {
+    "ss": "Coerenza 4: verde salvia, crema e logo Tabarrini tornano in quasi tutti i caroselli (Adarmando, Campo alla Cerqua). Messaggio 3: racconto di famiglia chiaro, ma dopo il 28/08 c’è un solo post (vendemmia, 20/10).",
+    "ad": "Immagini 4: la foto in cantina con il forcone sulla diraspatrice e i tappi Tabarrini nella ciotola sono da rivista. Varietà 3: 8 caroselli e 1 reel, nessuna foto singola.",
+    "eno": "Cose vere 3: belle le foto dei genitori seduti in vigna e della vista dal drone, ma il carosello «L’emoji che abbiamo vs l’emoji che meritiamo» e il fumetto di «Dietro la bottiglia» sono grafiche."
+   },
+   "pro": [
+    "Stile riconoscibile al primo colpo",
+    "Persone vere della famiglia in vigna e in cantina"
+   ],
+   "contro": [
+    "Like nascosti su 7 post su 9",
+    "Due mesi quasi fermi tra agosto e ottobre",
+    "Alcune bottiglie solo su fondo piatto"
+   ],
+   "fix": "Tenere lo stile ma pubblicare con regolarità e trasformare i caroselli migliori (cantina, famiglia) in brevi reel.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/Detqv1Yswfp/",
+     "d": "2026-10-20",
+     "ty": "reel",
+     "r": 104,
+     "t": "Vendemmia finita. Qualche giorno è stato lungo, qualche giorno pure di più. Grazie a chi c’era dall’alba in vigna e in c",
+     "img": "logos/ig/tabarrini-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DclS3wRjdZk/",
+     "d": "2026-08-28",
+     "ty": "carosello",
+     "r": 4,
+     "t": "Il valore del tempo e l’esperienza di una vita. La cura per i dettagli comincia da chi questa storia l’ha scritta fin da",
+     "img": "logos/ig/tabarrini-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dci5VRLjS3e/",
+     "d": "2026-08-27",
+     "ty": "carosello",
+     "r": 3,
+     "t": "Ci sono vigneti che possiedono un potenziale immenso, ma spetta a noi fare la cosa giusta: assecondare la terra, ascolta",
+     "img": "logos/ig/tabarrini-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DciLyMWjbAm/",
+     "d": "2026-08-27",
+     "ty": "carosello",
+     "r": 1,
+     "t": "Dietro ogni nostra bottiglia c’è il lavoro instancabile nei campi, la cura millimetrica di ogni filare e la dedizione di",
+     "img": "logos/ig/tabarrini-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DcTPLb2jRCf/",
+     "d": "2026-08-21",
+     "ty": "carosello",
+     "r": 3,
+     "t": "Un vino controcorrente per vocazione. Sull’etichetta del Piantagrero 2019 celebriamo i veri protagonisti della nostra qu",
+     "img": "logos/ig/tabarrini-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DcOGcx_DTZm/",
+     "d": "2026-08-19",
+     "ty": "carosello",
+     "r": 2,
+     "t": "I dettagli raccontano chi siamo prima ancora di versare il vino nel calice. È una questione di cura, di carattere  e del",
+     "img": "logos/ig/tabarrini-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DcLisxsDS4d/",
+     "d": "2026-08-18",
+     "ty": "carosello",
+     "r": 2,
+     "t": "Dietro ogni calice ci sono vigneti curati con dedizione, sfumature di colore uniche e gesti che raccontano una storia. M",
+     "img": "logos/ig/tabarrini-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DbqM5UfDXbD/",
+     "d": "2026-08-05",
+     "ty": "carosello",
+     "r": 50,
+     "t": "Il sogno di un grande bianco su queste colline si concretizza con l’Adarmando. Non è solo tecnica, è un carattere unico ",
+     "img": "logos/ig/tabarrini-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dbnu2RyDQfy/",
+     "d": "2026-08-04",
+     "ty": "carosello",
+     "r": 6,
+     "t": "Custodi di una promessa scritta nella terra. Ciò che siamo oggi è l’amore di ieri che ha preso forma. La nostra storia s",
+     "img": "logos/ig/tabarrini-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "colpetrone",
+   "nome": "Còlpetrone (account Tenute del Cerro)",
+   "u": "https://www.instagram.com/tenutedelcerro/",
+   "s": "val",
+   "v": {
+    "coer": 3,
+    "img": 4,
+    "var": 4,
+    "vero": 4,
+    "msg": 2,
+    "vf": 1,
+    "vr": 2,
+    "vp": 4,
+    "ve": 3
+   },
+   "f": 2773,
+   "pm": 8.3,
+   "rmed": 32.9,
+   "rr": 1.19,
+   "w": 4,
+   "wv": "Account di gruppo curato, ma Còlpetrone compare in un solo post su nove.",
+   "e": "Gruppo curato, Còlpetrone quasi assente",
+   "verd": "Còlpetrone non ha un account suo: usa quello di Tenute del Cerro, che racconta bene ospitalità, cantina e cucina, ma parla di Còlpetrone solo nel carosello del 18/11. Per chi cerca il Sagrantino il messaggio si perde.",
+   "panel": {
+    "ss": "Messaggio 2: su 9 post, uno solo parla di Còlpetrone (foliage del 18/11); gli altri sono Fattoria del Cerro, Monterufoli e il ristorante L’Antica Chiusina. Il Sagrantino non si vede.",
+    "ad": "Immagini 4: la barricaia illuminata del 02/11 e la villa di notte del 23/10 sono ben fatte. Coerenza 3: la copertina «Novembre di relax a Monterufoli» con icone è un volantino che stona.",
+    "eno": "Cose vere 4: la mano con le olive (28/10), il piatto di tartare (06/11) e la fiera con le persone al banco (24/11) sono veri. Varietà 4: foto, reel e caroselli."
+   },
+   "pro": [
+    "Buona qualità fotografica",
+    "Tutti i formati usati con ritmo (8,3 post al mese)"
+   ],
+   "contro": [
+    "Account di gruppo: Còlpetrone in 1 post su 9",
+    "Pochi follower (2.773)",
+    "Copertine-volantino per le offerte"
+   ],
+   "fix": "Dare a Còlpetrone un appuntamento fisso nel feed di gruppo (o un account suo) con vigna e Sagrantino di Gualdo Cattaneo.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DgKX2WtAMG6/",
+     "d": "2026-11-25",
+     "ty": "foto",
+     "r": 18,
+     "t": "✨ L’ultima notte dell’anno merita un luogo capace di trasformarsi in ricordo.  A Fattoria del Cerro, il Capodanno prende",
+     "img": "logos/ig/colpetrone-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DgILHRaByin/",
+     "d": "2026-11-24",
+     "ty": "reel",
+     "r": 13,
+     "t": "🍷 Ci sono appuntamenti che vanno oltre la degustazione e diventano occasioni preziose di incontro, confronto e condivisi",
+     "img": "logos/ig/colpetrone-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Df4L_HFDUGS/",
+     "d": "2026-11-18",
+     "ty": "carosello",
+     "r": 37,
+     "t": "🍂 A Còlpetrone l’autunno arriva con colori pieni e una luce capace di trasformare il paesaggio.  I vigneti si tingono di",
+     "img": "logos/ig/colpetrone-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfrUBAGDHNe/",
+     "d": "2026-11-13",
+     "ty": "carosello",
+     "r": 27,
+     "t": "🌅 A Fattoria del Cerro il tramonto ha il passo lento delle cose che meritano di essere osservate.  La luce si abbassa su",
+     "img": "logos/ig/colpetrone-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dfmq6rUO-_8/",
+     "d": "2026-11-11",
+     "ty": "foto",
+     "r": 24,
+     "t": "🍂 A novembre, Monterufoli cambia ritmo. I boschi si tingono di tonalità profonde, l’aria si fa più nitida e il silenzio ",
+     "img": "logos/ig/colpetrone-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfZamBIjXQn/",
+     "d": "2026-11-06",
+     "ty": "carosello",
+     "r": 28,
+     "t": "L’autunno entra nella cucina de L’Antica Chiusina attraverso ingredienti, profumi e sapori che raccontano la stagione co",
+     "img": "logos/ig/colpetrone-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfO_Q4ADFSs/",
+     "d": "2026-11-02",
+     "ty": "carosello",
+     "r": 73,
+     "t": "🍷 La nuova cantina di Fattoria del Cerro nasce per trasformare il vino in un’esperienza da vivere, oltre che da degustar",
+     "img": "logos/ig/colpetrone-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfCHSuRgZEJ/",
+     "d": "2026-10-28",
+     "ty": "carosello",
+     "r": 24,
+     "t": "In questi giorni, a @fattoriadelcerro, l’autunno ha il ritmo della raccolta delle olive.  Tra gli oliveti della nostra T",
+     "img": "logos/ig/colpetrone-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/De1IdCoiURc/",
+     "d": "2026-10-23",
+     "ty": "carosello",
+     "r": 52,
+     "t": "✨ A Fattoria del Cerro, la degustazione entra in una dimensione completamente nuova.  Nella nuova cantina di Montepulcia",
+     "img": "logos/ig/colpetrone-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "scacciadiavoli",
+   "u": "https://www.instagram.com/scacciadiavoli/",
+   "s": "val",
+   "v": {
+    "coer": 2,
+    "img": 2,
+    "var": 4,
+    "vero": 3,
+    "msg": 3,
+    "vf": 3,
+    "vr": 3,
+    "vp": 4,
+    "ve": 2
+   },
+   "f": 10327,
+   "pm": 12.5,
+   "rmed": 53,
+   "rr": 0.51,
+   "w": 3,
+   "wv": "Molto attivo ma sembra una bacheca: foto da telefono di eventi e attestati di premi.",
+   "e": "Tanti post, ma bacheca di premi e fiere",
+   "verd": "Pubblica più di tutti (12,5 post al mese) e mescola reel, caroselli e foto. Ma il feed è un notiziario: premi in grafica, sale riunioni a Stoccolma, avvisi di orari; le poche foto belle (barricaia in bianco e nero) si perdono.",
+   "panel": {
+    "ss": "Messaggio 3: si capisce che la cantina è premiata e presente all’estero, ma i post del 09/11 e 13/11 sono attestati delle guide e il 01/11 un avviso «Nuovi orari»: informazioni, non racconto.",
+    "ad": "Coerenza 2 e immagini 2: la masterclass di Stoccolma (23/11) è una foto da telefono di una sala con sedie; accanto c’è la barricaia in bianco e nero del 07/11, ben fatta ma di un altro stile.",
+    "eno": "Cose vere 3: mi piacciono la foto della vigna d’autunno (06/11) e la firma con l’università (15/11), ma tre post su nove sono grafiche di premi e avvisi."
+   },
+   "pro": [
+    "Ritmo alto e costante",
+    "Usa tutti i formati"
+   ],
+   "contro": [
+    "Attestati di premi pubblicati come post",
+    "Foto da telefono di fiere e sale",
+    "Nessuno stile riconoscibile"
+   ],
+   "fix": "Meno attestati e avvisi (vanno nelle storie), più vigna, cantina e persone fotografate bene con uno stile fisso.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DgFbP3XAhdN/",
+     "d": "2026-11-23",
+     "ty": "reel",
+     "r": 22,
+     "t": "Masterclass sui vini umbri a Stoccolma 🍇 Scacciadiavoli Montefalco Sagrantino 2021 presente!",
+     "img": "logos/ig/scacciadiavoli-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DgAaJLSADze/",
+     "d": "2026-11-21",
+     "ty": "carosello",
+     "r": 143,
+     "t": "Italienska Vin & Gourmet - Stoccolma 21-23 Novembre",
+     "img": "logos/ig/scacciadiavoli-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Df986TEhVqy/",
+     "d": "2026-11-20",
+     "ty": "reel",
+     "r": 75,
+     "t": "Ogni bottiglia racconta un luogo, il lavoro delle persone e il tempo. Radici, storia, identità. Questo Natale, regala il",
+     "img": "logos/ig/scacciadiavoli-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfxSbqwFI0z/",
+     "d": "2026-11-15",
+     "ty": "foto",
+     "r": 91,
+     "t": "La storia di Scacciadiavoli si apre alla ricerca universitaria: è infatti l’oggetto dell’accordo di collaborazione scien",
+     "img": "logos/ig/scacciadiavoli-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dfr9M_IHELO/",
+     "d": "2026-11-13",
+     "ty": "foto",
+     "r": 19,
+     "t": "🏆 Un nuovo riconoscimento per Scacciadiavoli! 🍷  Il nostro Montefalco Sagrantino DOCG 2022 è presente nella Guida Essenz",
+     "img": "logos/ig/scacciadiavoli-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfhqBjFAbdM/",
+     "d": "2026-11-09",
+     "ty": "foto",
+     "r": 21,
+     "t": "🏆 Scacciadiavoli premiata da Vinibuoni d’Italia 2027! 🍷  Siamo orgogliosi di essere stati selezionati dalla guida del To",
+     "img": "logos/ig/scacciadiavoli-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dfc0n58sYoC/",
+     "d": "2026-11-07",
+     "ty": "foto",
+     "r": 40,
+     "t": "@scacciadiavoli winery, Umbria   #blackandwhite #photography #blackandwhitephotography #umbria #winephotography",
+     "img": "logos/ig/scacciadiavoli-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfZ_kKEDbT_/",
+     "d": "2026-11-06",
+     "ty": "foto",
+     "r": 43,
+     "t": "L'autunno è appena iniziato, ed è uno spettacolo!🍂  Uno scatto del nostro foliage📸  Sapete come mai i vigneti si tingono",
+     "img": "logos/ig/scacciadiavoli-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfNAQeQDqQb/",
+     "d": "2026-11-01",
+     "ty": "foto",
+     "r": 23,
+     "t": "📢 AVVISO AI NOSTRI OSPITI  La nostra cantina si rinnova! 🍷  A causa di alcuni lavori di ristrutturazione che interessera",
+     "img": "logos/ig/scacciadiavoli-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "antonelli",
+   "u": "https://www.instagram.com/antonellisanmarco/",
+   "s": "val",
+   "v": {
+    "coer": 4,
+    "img": 4,
+    "var": 1,
+    "vero": 4,
+    "msg": 3,
+    "vf": 2,
+    "vr": 1,
+    "vp": 1,
+    "ve": 1
+   },
+   "f": 6912,
+   "pm": 1.3,
+   "rmed": 1.2,
+   "rr": 0.02,
+   "w": 4,
+   "wv": "Foto vere e luminose della tenuta, ma solo caroselli e un ritmo lentissimo.",
+   "e": "Tenuta vera e luminosa, ma solo caroselli",
+   "verd": "Il feed più «vero» del gruppo: villa, vigna, tartufo, uve, persone, tutto in luce naturale. Però sono 9 caroselli in 7 mesi, nessun reel, e i like sono nascosti: impossibile capire cosa piace.",
+   "panel": {
+    "ss": "Messaggio 3: la storia (il fondatore del 1883, la villa del vescovo di Spoleto) è chiara, ma 9 post in 217 giorni sono troppo pochi per farsi ricordare. Varietà 1: tutti e 9 i post sono caroselli.",
+    "ad": "Coerenza 4 e immagini 4: la vista aerea della villa del 29/10 e il primo piano dei grappoli della vendemmia 2026 sono puliti e con la stessa luce calda; solo la copertina «Cantine Aperte» mette testo sopra la foto.",
+    "eno": "Cose vere 4: il cane da tartufo con il tartufo in mano (08/07) e la tavola apparecchiata in vigna fanno venire voglia di andarci."
+   },
+   "pro": [
+    "Foto vere e calde della tenuta",
+    "Il racconto della caccia al tartufo e della villa storica"
+   ],
+   "contro": [
+    "Solo caroselli, nessun reel",
+    "Like nascosti su tutti i post",
+    "1,3 post al mese"
+   ],
+   "fix": "Usare lo stesso materiale per brevi reel (vendemmia, tartufo) e salire ad almeno un post a settimana.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DfFKELdoaln/",
+     "d": "2026-10-29",
+     "ty": "carosello",
+     "r": 1,
+     "t": "Per sei secoli residenza estiva del vescovo di Spoleto, dal 1883 ad oggi la Villa medievale è il cuore della nostra azie",
+     "img": "logos/ig/antonelli-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DdtC7GvDMH-/",
+     "d": "2026-09-25",
+     "ty": "carosello",
+     "r": 1,
+     "t": "Vendemmia 2026  Una vendemmia molto calda che tuttavia, ci sta regalando una quantità giusta e di qualità più alta del p",
+     "img": "logos/ig/antonelli-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DdTzqCcjEwU/",
+     "d": "2026-09-15",
+     "ty": "carosello",
+     "r": 0,
+     "t": "Il periodo più bello dell’anno.  Continua la vendemmia, il sole tramonta tra le vigne, tra poco avremo olio nuovo e nuov",
+     "img": "logos/ig/antonelli-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Da2HcrtDPuk/",
+     "d": "2026-07-16",
+     "ty": "carosello",
+     "r": 4,
+     "t": "La Cantina a fine giornata: Vigne, Vigna Tonda, e tramonto. - The Winery at the end of the day: Vineyards, Vigna Tonda, ",
+     "img": "logos/ig/antonelli-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dahig5HDFJn/",
+     "d": "2026-07-08",
+     "ty": "carosello",
+     "r": 2,
+     "t": "CACCIA AL TARTUFO  È iniziata la stagione del tartufo. La caccia avviene nel nostro bosco privato, dove con il nostro ta",
+     "img": "logos/ig/antonelli-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DYXMTwYDP0u/",
+     "d": "2026-05-15",
+     "ty": "carosello",
+     "r": 1,
+     "t": "CANTINE APERTE  Il pogramma di Cantine Aperte da Antonelli 30 e 31 Maggio dalle 10 alle 18 senza prenotazione.  Quest’an",
+     "img": "logos/ig/antonelli-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DYPBJGeDE_7/",
+     "d": "2026-05-12",
+     "ty": "carosello",
+     "r": 1,
+     "t": "La degustazione da Antonelli.  Un momento di distensione, in cui si assaggiano i nostri vini in abbinamento ai salumi, a",
+     "img": "logos/ig/antonelli-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DXoPi8yDMyP/",
+     "d": "2026-04-27",
+     "ty": "carosello",
+     "r": 1,
+     "t": "La Primavera in tenuta.   Maggio è uno dei mesi più belli in Umbria. La campagna e le colline sono verdi come non mai, n",
+     "img": "logos/ig/antonelli-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DWWAFHFjC1R/",
+     "d": "2026-03-26",
+     "ty": "carosello",
+     "r": 0,
+     "t": "Siamo nel 1883  San Marco, nata come corte longobarda, è stata per sei secoli la residenza estiva del Vescovo di Spoleto",
+     "img": "logos/ig/antonelli-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "sanleonino",
+   "u": "https://www.instagram.com/sanleoninowines/",
+   "s": "val",
+   "v": {
+    "coer": 2,
+    "img": 2,
+    "var": 1,
+    "vero": 4,
+    "msg": 1,
+    "vf": 1,
+    "vr": 3,
+    "vp": 1,
+    "ve": 5
+   },
+   "f": 693,
+   "pm": 0.3,
+   "rmed": 52.1,
+   "rr": 7.52,
+   "w": 2,
+   "wv": "Fermo dal marzo 2022, foto vere ma da telefono.",
+   "e": "Fermo dal 2022",
+   "verd": "Ultimo post l’08/03/2022, prima solo foto del 2019-2020. Le foto di vigna e borgo sono vere, ma l’account è abbandonato; le reazioni ogni 100 follower (7,5) sono alte solo perché i follower sono 693.",
+   "panel": {
+    "ss": "Messaggio 1: nessun post da oltre tre anni e mezzo; l’ultimo è la medaglia Mundus Vini del 2022.",
+    "ad": "Immagini 2: foto da telefono con cieli bruciati (vigna al tramonto, 24/11/2020); solo l’etichetta del Monsenese (22/06/2020) è curata. Varietà 1: quasi solo foto.",
+    "eno": "Cose vere 4: vigna, campanile, terra lavorata: tutto vero, ma vecchio."
+   },
+   "pro": [
+    "Foto vere del territorio"
+   ],
+   "contro": [
+    "Fermo dal 2022",
+    "693 follower"
+   ],
+   "fix": "Decidere se riaprirlo con un ritmo minimo o toglierlo dal sito.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/Ca22XeXt0n5/",
+     "d": "2022-03-08",
+     "ty": "foto",
+     "r": 47,
+     "t": "Non solo Medaglia d'oro, ma anche Best of Show per il Monsenese Chianti Classico Riserva 2018 alla trentesima edizione d",
+     "img": "logos/ig/sanleonino-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/CH-1ffDqmMw/",
+     "d": "2020-11-24",
+     "ty": "foto",
+     "r": 80,
+     "t": "Dall’alba al tramonto, la bellezza dei nostri vigneti e dei loro colori è la magia del Chianti Classico.  #sanleonino #c",
+     "img": "logos/ig/sanleonino-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/CHdMAU8FOu5/",
+     "d": "2020-11-11",
+     "ty": "foto",
+     "r": 54,
+     "t": "La bellezza e la suggestione dell'autunno ci riserva nella nostra terra del Chianti sempre scorci e momenti di luce stup",
+     "img": "logos/ig/sanleonino-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/CEEMMXJDVwC/",
+     "d": "2020-08-19",
+     "ty": "foto",
+     "r": 52,
+     "t": "A sancire il nostro legame col territorio è anche il nostro logo, che rappresenta la chiesa romanica di San Leonino in C",
+     "img": "logos/ig/sanleonino-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/CBuxQQBDGn3/",
+     "d": "2020-06-22",
+     "ty": "foto",
+     "r": 68,
+     "t": "«Arancio, lamponi in confettura, amarene e ciliegia con tratti piccanti. Netto, sapido, salino, con finale che torna sul",
+     "img": "logos/ig/sanleonino-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/CBBQoz7I-Aw/",
+     "d": "2020-06-04",
+     "ty": "foto",
+     "r": 42,
+     "t": "In primavera comincia un nuovo ciclo di vita, dopo l'inverno lentamente il vigneto si risveglia. La linfa delle piante è",
+     "img": "logos/ig/sanleonino-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/CAZ2nCsMUJS/",
+     "d": "2020-05-20",
+     "ty": "carosello",
+     "r": 42,
+     "t": "Lavoriamo senza sosta ai nuovi impianti di Sangiovese, per rinnovare la nostra fattoria e valorizzare sempre di più i no",
+     "img": "logos/ig/sanleonino-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/B_AOLW5K_XH/",
+     "d": "2020-04-15",
+     "ty": "foto",
+     "r": 48,
+     "t": "Oggi vogliamo condividere con voi questo simbolo di speranza e di vita. #andràtuttobene . . . #sanleonino #chianticlassi",
+     "img": "logos/ig/sanleonino-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/B3FFUS3iem2/",
+     "d": "2019-10-01",
+     "ty": "foto",
+     "r": 36,
+     "t": "E' giunto il tempo della vendemmia, un momento che aspettavamo da mesi. Finalmente possiamo raccogliere il frutto del no",
+     "img": "logos/ig/sanleonino-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "perticaia",
+   "u": "https://www.instagram.com/cantina.perticaia/",
+   "s": "val",
+   "v": {
+    "coer": 2,
+    "img": 2,
+    "var": 3,
+    "vero": 3,
+    "msg": 3,
+    "vf": 2,
+    "vr": 1,
+    "vp": 3,
+    "ve": 2
+   },
+   "f": 3950,
+   "pm": 5.2,
+   "rmed": 26.5,
+   "rr": 0.67,
+   "w": 3,
+   "wv": "Reel di vigna e olio sinceri, ma volantini e copertine con bande nere abbassano il feed.",
+   "e": "Vigna e olio veri, ma volantini e copertine tagliate",
+   "verd": "Il materiale vero c’è (olive che cadono nella cassa, il nome inciso a mano nella cassetta, la vigna rossa di novembre). Ma due volantini stile pergamena, il Black Friday al neon e due copertine di reel con bande nere rendono il feed disordinato.",
+   "panel": {
+    "ss": "Messaggio 3: le offerte sono chiare (spedizione gratis da 4 bottiglie, cassetta incisa per Natale, Light Dinner a 40 €), ma il feed parla più di promozioni che di Sagrantino.",
+    "ad": "Immagini 2: le copertine dei reel del 13/10 hanno grandi bande nere sopra e sotto, i volantini del 27/10 e 09/11 sono testo su finta pergamena; il Black Friday del 24/11 è un banner al neon. Varietà 3: 7 reel e 2 foto, nessun carosello.",
+    "eno": "Cose vere 3: il reel delle olive del 20/10 e il nome inciso a mano nel legno (19/11) sono veri e mi fanno venire voglia; i volantini no."
+   },
+   "pro": [
+    "Reel di raccolta olive e vigna sinceri",
+    "Idee commerciali chiare (cassetta incisa, spedizione)"
+   ],
+   "contro": [
+    "Copertine dei reel con bande nere",
+    "Volantini e banner promozionali",
+    "Stile grafico diverso a ogni post"
+   ],
+   "fix": "Rifare le copertine dei reel a tutto schermo e sostituire i volantini con una foto vera e il testo nella didascalia.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DgInhApRtkc/",
+     "d": "2026-11-24",
+     "ty": "reel",
+     "r": 1,
+     "t": "Il nostro Black Friday dura tutte le feste. 🎄  Niente sconti lampo: da 4 bottiglie in su la spedizione dallo shop online",
+     "img": "logos/ig/perticaia-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Df-IAZAonLB/",
+     "d": "2026-11-20",
+     "ty": "reel",
+     "r": 20,
+     "t": "Ogni novembre le nostre vigne fanno l'ultimo spettacolo dell'anno.   🍂 Rosso, oro e l'argento degli ulivi, a pochi passi",
+     "img": "logos/ig/perticaia-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Df76mrnhSYd/",
+     "d": "2026-11-19",
+     "ty": "reel",
+     "r": 36,
+     "t": "Il nome di chi ami, inciso a mano nel legno. 🔥  Quest’anno a Natale le nostre cassette diventano uniche: scegli i vini, ",
+     "img": "logos/ig/perticaia-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dfh7HB4DE5x/",
+     "d": "2026-11-09",
+     "ty": "foto",
+     "r": 59,
+     "t": "🍁 Cantine Aperte a San Martino: Light Dinner Autunnale 🍷 Quando l'autunno dipinge i vigneti di Montefalco, è tempo di fe",
+     "img": "logos/ig/perticaia-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DfAxDP_RBWC/",
+     "d": "2026-10-27",
+     "ty": "foto",
+     "r": 12,
+     "t": "Domenica 1° Novembre Perticaia sara' aperta per un appuntamento fuori programma che unisce le nostre etichette e i sapor",
+     "img": "logos/ig/perticaia-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DetcCAHI8ss/",
+     "d": "2026-10-20",
+     "ty": "reel",
+     "r": 32,
+     "t": "​La campagna olearia è ufficialmente iniziata.  ​Con gli olivi di Cantina Perticaia, le operazioni di raccolta entrano n",
+     "img": "logos/ig/perticaia-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DecHSvjIsMc/",
+     "d": "2026-10-13",
+     "ty": "reel",
+     "r": 9,
+     "t": "",
+     "img": "logos/ig/perticaia-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DecFnwAI5xP/",
+     "d": "2026-10-13",
+     "ty": "reel",
+     "r": 17,
+     "t": "C'è un'energia speciale tra i filari in questa stagione.   I colori caldi dell'autunno incorniciano il nostro lavoro quo",
+     "img": "logos/ig/perticaia-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/Dd_tSpSIXqC/",
+     "d": "2026-10-02",
+     "ty": "reel",
+     "r": 27,
+     "t": "Mentre la vendemmia ci tiene con il fiato sospeso e le uve monopolizzano i riflettori, tra i rami degli ulivi c’è chi st",
+     "img": "logos/ig/perticaia-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "caprai",
+   "u": "https://www.instagram.com/arnaldocaprai/",
+   "s": "val",
+   "v": {
+    "coer": 2,
+    "img": 3,
+    "var": 2,
+    "vero": 2,
+    "msg": 2,
+    "vf": 3,
+    "vr": 4,
+    "vp": 1,
+    "ve": 2
+   },
+   "f": 17549,
+   "pm": 1.7,
+   "rmed": 157.6,
+   "rr": 0.9,
+   "w": 3,
+   "wv": "Belle foto di persone e vigna, ma metà del feed sono locandine e da tre mesi non pubblica.",
+   "e": "Poche foto buone sommerse da locandine di eventi",
+   "verd": "Quando mostra persone e bottiglie vere (il produttore che abbraccia la bottiglia, la composizione di tralci) il livello c’è. Ma 4 post su 9 sono locandine di eventi, anche di altri (Dancity), zero reel e nessun post dal 26 agosto.",
+   "panel": {
+    "ss": "Coerenza 2 e messaggio 2: nei 9 post si alternano il poster techno «DAY 3 SUNDAY» del Dancity, l’illustrazione di Calici di Stelle e il collage di Patassini: sembrano tre account diversi. E l’ultimo post è del 26/08.",
+    "ad": "Immagini 3: le due foto del 20/03 (il produttore che abbraccia la bottiglia e la composizione di tralci e radici) sono ben fatte; le locandine del Dancity e di Buoni Controvento abbassano tutto. Varietà 2: solo foto e caroselli, nessun reel.",
+    "eno": "Cose vere 2: delle 9 anteprime solo 4 mostrano persone, vigna o bottiglie vere (OperaWine, Dante con la bottiglia, il produttore con la bottiglia, i tralci); il resto sono grafiche. Del Sagrantino e della cantina vedo poco."
+   },
+   "pro": [
+    "Le foto di persone con le bottiglie funzionano: il produttore con la bottiglia del 20/03 è il post migliore (385 reazioni)",
+    "Il carosello di Dante e viandanti (01/06) fa 182 reazioni"
+   ],
+   "contro": [
+    "Nessun post dal 26 agosto: vendemmia 2026 non raccontata",
+    "4 locandine su 9, due per eventi di altri (Dancity)",
+    "Nessun reel"
+   ],
+   "fix": "Tornare a pubblicare almeno una volta a settimana con foto vere di vigna, cantina e persone, e raccontare la vendemmia con un reel; le locandine solo in storia.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DcgDoM3Ci56/",
+     "d": "2026-08-26",
+     "ty": "foto",
+     "r": 1,
+     "t": "5 SETTEMBRE ore 18:00 - CONCERTO E DEGUSTAZIONE: Con Canto Conte le canzoni di Paolo Conte vengono reinterpretate da Ila",
+     "img": "logos/ig/caprai-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DbGfCG5qFnT/",
+     "d": "2026-07-22",
+     "ty": "foto",
+     "r": 76,
+     "t": "⭐️𝑪𝒂𝒍𝒊𝒄𝒊 𝒅𝒊 𝑺𝒕𝒆𝒍𝒍𝒆 𝟐𝟎𝟐𝟔⭐️  Lasciati avvolgere dalla magia delle notti di San Lorenzo e vivi un'esperienza indimenticabil",
+     "img": "logos/ig/caprai-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DZuaqMwDviE/",
+     "d": "2026-06-18",
+     "ty": "carosello",
+     "r": 62,
+     "t": "🍷 SUNDAY 21st | DAYTIME FINALE | h. 11:00–22:00 | @arnaldocaprai Montefalco (PG) 🍷  Brunch H. 11:00-15:00 Food H. 18:00-",
+     "img": "logos/ig/caprai-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DZDXqUTDdsM/",
+     "d": "2026-06-01",
+     "ty": "carosello",
+     "r": 182,
+     "t": "Amici, Dantofili e Viandanti: 🍷 bellissima giornata in Umbria 🦅 tra Montefalco, Assisi e Costacciaro.   Con il Bellssimo",
+     "img": "logos/ig/caprai-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DYpR2PaK0YJ/",
+     "d": "2026-05-22",
+     "ty": "foto",
+     "r": 68,
+     "t": "𝐂𝐀𝐍𝐓𝐈𝐍𝐄 𝐀𝐏𝐄𝐑𝐓𝐄 𝟑𝟎 𝐞 𝟑𝟏 𝐌𝐀𝐆𝐆𝐈𝐎 𝟐𝟎𝟐𝟔 𝐝𝐚𝐥𝐥𝐞 𝟏𝟎.𝟎𝟎 𝐚𝐥𝐥𝐞 𝟏𝟖.𝟎𝟎  L’edizione 2026 di Cantine Aperte è alle porte!  Oltre alla p",
+     "img": "logos/ig/caprai-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DYhNmCpjGvh/",
+     "d": "2026-05-19",
+     "ty": "carosello",
+     "r": 188,
+     "t": "❌ DOMENICA 21 GIUGNO | DAY TIME ❌  THE LAST DANCITY 20th Anniversary   Domenica 21 giugno si chiude ufficialmente l’ulti",
+     "img": "logos/ig/caprai-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DYCkOvbkq3e/",
+     "d": "2026-05-07",
+     "ty": "foto",
+     "r": 119,
+     "t": "Ecco una foto ritratto di Arnaldo Caprai, uno dei grandi produttori italiani selezionati da Wine Spectator per OperaWine",
+     "img": "logos/ig/caprai-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DWHHakzCloc/",
+     "d": "2026-03-20",
+     "ty": "foto",
+     "r": 385,
+     "t": "I grandi sanno che il vino non appartiene a chi lo firma, ma alla terra che lo genera e alle mani che lo curano. Michel ",
+     "img": "logos/ig/caprai-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DWGG3GWiixh/",
+     "d": "2026-03-20",
+     "ty": "foto",
+     "r": 181,
+     "t": "La primavera non arriva all’improvviso. Arriva in punta di piedi, dentro un viticcio che si arriccia, una foglia di vite",
+     "img": "logos/ig/caprai-9.jpg"
+    }
+   ]
+  },
+  {
+   "id": "fazibattaglia",
+   "u": "https://www.instagram.com/fazibattagliawines/",
+   "s": "val",
+   "v": {
+    "coer": 2,
+    "img": 1,
+    "var": 1,
+    "vero": 2,
+    "msg": 1,
+    "vf": 1,
+    "vr": 1,
+    "vp": 1,
+    "ve": 4
+   },
+   "f": 813,
+   "pm": 0.1,
+   "rmed": 21.1,
+   "rr": 2.6,
+   "w": 2,
+   "wv": "Account fermo: 6 riquadri pubblicati lo stesso giorno del 2025, prima foto del 2020.",
+   "e": "Account fermo, due copertine bianche",
+   "verd": "Account di fatto abbandonato: 6 post caricati tutti il 17/11/2025 per comporre un mosaico, due dei quali sono riquadri bianchi vuoti; prima, foto di vigna del 2020. Le reazioni ogni 100 follower (2,6) sono alte solo perché i follower sono 813.",
+   "panel": {
+    "ss": "Messaggio 1: nessun post da un anno; il mosaico del 17/11/2025 non si capisce se non si apre il profilo.",
+    "ad": "Immagini 1: due anteprime (post 4 e 6 del 17/11/2025) sono completamente bianche e una è un foglio di testo tecnico (Titulus). Coerenza 2: dal mosaico grafico si passa alle foto da telefono del 2020.",
+    "eno": "Cose vere 2: solo le foto del sovescio del 2020 mostrano la vigna; poi bottiglia e limoni in studio. Varietà 1: solo foto."
+   },
+   "pro": [
+    "Le foto del sovescio (2020) mostrano lavoro vero in vigna"
+   ],
+   "contro": [
+    "Nessun post da un anno",
+    "Due copertine bianche",
+    "813 follower"
+   ],
+   "fix": "Ripartire con un calendario minimo (un post a settimana) e foto vere di Verdicchio e vigna.",
+   "post": [
+    {
+     "u": "https://www.instagram.com/p/DRKI0n4DC-W/",
+     "d": "2025-11-17",
+     "ty": "foto",
+     "r": 6,
+     "t": "The essece of Verdicchio dei Castelli di Jesi.  L’essenza del Verdicchio dei Castelli di Jesi. #FaziBattaglia #bactothef",
+     "img": "logos/ig/fazibattaglia-1.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DRKCmzLDQdm/",
+     "d": "2025-11-17",
+     "ty": "foto",
+     "r": 24,
+     "t": "Born in the golden age of the #DolceVita in the 1950’s, today #FaziBattaglia returns with a modern, contemporary design.",
+     "img": "logos/ig/fazibattaglia-2.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DRKB9vJDV8R/",
+     "d": "2025-11-17",
+     "ty": "foto",
+     "r": 4,
+     "t": "TITULUS Un #Verdicchio vivace e raffinato: giallo paglierino con riflessi verdi, sprigiona profumi di agrumi freschi, fi",
+     "img": "logos/ig/fazibattaglia-3.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DRJ8BUbjfHx/",
+     "d": "2025-11-17",
+     "ty": "foto",
+     "r": 0,
+     "t": "The essence of Verdicchio. #FaziBattaglia",
+     "img": "logos/ig/fazibattaglia-4.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DRJ75ekDSU4/",
+     "d": "2025-11-17",
+     "ty": "foto",
+     "r": 9,
+     "t": "Fazi Battaglia An icon of the Past. A vision for the Future. The essence of Verdicchio. #backtothefuture",
+     "img": "logos/ig/fazibattaglia-5.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/DRJ7vtWDfOU/",
+     "d": "2025-11-17",
+     "ty": "foto",
+     "r": 0,
+     "t": "#backtothefuture",
+     "img": "logos/ig/fazibattaglia-6.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/CBNK81mDZlJ/",
+     "d": "2020-06-09",
+     "ty": "foto",
+     "r": 61,
+     "t": "Uno scatto che immortala la fase finale della pratica del sovescio, con lo sfalcio delle specie erbacee che coltiviamo t",
+     "img": "logos/ig/fazibattaglia-7.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/CAxAhBMDqei/",
+     "d": "2020-05-29",
+     "ty": "foto",
+     "r": 53,
+     "t": "L’antica pratica del sovescio ci aiuta a mantenere o aumentare la fertilità del suolo, favorendo lo sviluppo ottimale de",
+     "img": "logos/ig/fazibattaglia-8.jpg"
+    },
+    {
+     "u": "https://www.instagram.com/p/CAITQIpq-6O/",
+     "d": "2020-05-13",
+     "ty": "foto",
+     "r": 33,
+     "t": "Nuovi fiori tra i filari annunciano la primavera in vigna. I colori brillanti dei fiori e i profumi della natura sono un",
+     "img": "logos/ig/fazibattaglia-9.jpg"
+    }
+   ]
+  }
+ ]
+}

@@ -368,7 +368,7 @@ const gseg=()=>M.gruppi?`<div class="seg" role="group" aria-label="Gruppo di con
 // stato di ogni dato: [simbolo, nome, da dove viene]. Si aggiunge uno stato solo qui e in STATI di render.js
 const STAT={ver:['●','Verificato','bilancio, registro imprese o rapporto ufficiale'],dic:['◐','Dichiarato','sito o profilo dell\'azienda, testata, stima di terzi'],int:['■','Interno','documento dell\'azienda, non pubblico'],val:['○','Valutazione','giudizio calcolato in automatico, solo indicativo'],est:['◌','Stima','valore stimato, da validare']};
 // aree → sezioni. Sezione nuova: una riga in NAVA e una in SEC
-const NAVA=[['sintesi','Sintesi',['regia']],['concorrenti','Concorrenti',['confronto','classifica','dossier','storico','gamma','segnali']],['relazioni','Relazioni',['rete','pressione','testa','bolle','visibilita','cronologia']],['mercato','Mercato',['export','stabilimenti','osint']],['marketing','Marketing',['standing','marchio','pack','sito','fdclass','social','engag','tono','pubblicita','seo','seo2','trends','reputazione','ospitalita','premi','geo2']],['analisi','Analisi esperti',['asales','amkt']],['dati','Dati',['fonti']]];
+const NAVA=[['sintesi','Sintesi',['regia']],['concorrenti','Concorrenti',['confronto','classifica','dossier','storico','gamma','segnali']],['relazioni','Relazioni',['rete','pressione','testa','bolle','visibilita','cronologia']],['mercato','Mercato',['export','stabilimenti','osint']],['marketing','Marketing',['standing','marchio','pack','sito','fdclass','social','igclass','engag','tono','pubblicita','seo','seo2','trends','reputazione','ospitalita','premi','geo2']],['analisi','Analisi esperti',['asales','amkt']],['dati','Dati',['fonti']]];
 const SEC={regia:['Regia',regia,'Il quadro in una schermata: dove siamo rispetto agli altri e cosa è successo di recente.'],
   confronto:['Confronto',confronto,'Tutte le aziende e tutti i numeri. Tocca un\'intestazione per ordinare, il simbolo accanto al valore dice da dove viene.'],
   classifica:['Classifica',classifica,'Una metrica alla volta.'],
@@ -392,6 +392,7 @@ const SEC={regia:['Regia',regia,'Il quadro in una schermata: dove siamo rispetto
   osint:['OSINT',osint,'Segnali da fonti aperte: stabilimenti, assunzioni, brevetti e marchi, gare, fiere, acquisizioni, allerte, premi, nuovi prodotti.','osint'],
   standing:['Standing del marchio',standing,'Quanto pesa il marchio rispetto agli altri su 10 fattori: storia, scala, social, recensioni, premi, logo, notizie, Google, risposte AI. Valutazione calcolata in automatico.','brand'],
   sito:['Sito web · home intera',()=>rkView('si',D.sito,'sito'),'Le home dei siti, intere, giudicate da un panel di esperti web: si capisce cosa vendono, sono moderne, portano al contatto? Valutazione calcolata in automatico.','sito'],
+  igclass:['Instagram · classifica',()=>rkView('ig',D.igclass,'feed'),'I profili Instagram messi in fila: voti del panel sugli ultimi 9 post e voti a fasce fisse sui numeri (follower, reazioni, ritmo). Valutazione calcolata in automatico.','igclass'],
   fdclass:['LinkedIn · classifica',()=>rkView('fd',D.feed,'feed'),'Le pagine LinkedIn messe in fila: voti del panel sui post e voti a fasce fisse sui numeri (follower, reazioni, ritmo). Valutazione calcolata in automatico.','feed'],
   pack:['Pack a scaffale',packS,'Le confezioni nostre e dei concorrenti giudicate da un panel di packaging e GDO: come si vedono a scaffale.','pack'],
   marchio:['Loghi e marchio',marchio,'Loghi, colori di marca, claim, architettura dei marchi e certificazioni, presi dai siti ufficiali.','brand'],
@@ -447,7 +448,7 @@ function quadro(){
     t('osint','OSINT',y.length+' segnali','in 12 mesi su '+r.length+' aziende',r.length?'Più attivo: '+esc(nm(r[0]))+' ('+c[r[0]]+')':'','#2ec4b6')}
   const PR=press();if(PR.length)t('pressione','Pressione competitiva',esc(nm(PR[0].id)),'il concorrente più vicino a noi','Indice '+Math.round(PR[0].v)+' su 100 · valutazione','#ef6f6c');
   if(BX){const r=bxRank(),i=r.indexOf(ME);if(i>=0)t('marchio','Logo',(i+1)+'° su '+r.length,'classifica dei loghi · '+(BXT[ME]?.k||''),'Primo: '+esc(nm(r[0]))+' · Mondo '+(BXT[ME]?.w??'—')+'/10','#c678dd')}
-  for(const[h,X,l]of[['sito',D.sito,'Sito web'],['fdclass',D.feed,'LinkedIn']])if(X){const R=rkList(X),x=R.find(rkMe);if(x)t(h,l,x.rk+'° su '+R.length,'voto '+fmt(x.m,{dec:2})+'/5 · '+RKC(x.m),'Primo: '+esc(rkNm(R[0]))+' '+fmt(R[0].m,{dec:2})+(x.e?' · «'+esc(x.e)+'»':''),x.rk===1?'#3fb950':x.m>=3.3?'#f5a524':'#ef6f6c')}
+  for(const[h,X,l]of[['sito',D.sito,'Sito web'],['fdclass',D.feed,'LinkedIn'],['igclass',D.igclass,'Instagram']])if(X){const R=rkList(X),x=R.find(rkMe);if(x)t(h,l,x.rk+'° su '+R.length,'voto '+fmt(x.m,{dec:2})+'/5 · '+RKC(x.m),'Primo: '+esc(rkNm(R[0]))+' '+fmt(R[0].m,{dec:2})+(x.e?' · «'+esc(x.e)+'»':''),x.rk===1?'#3fb950':x.m>=3.3?'#f5a524':'#ef6f6c')}
   // Scoperte: dettagli presi dalle sezioni interne, scelti a caso a ogni apertura
   const F=[],pk=(a,n)=>a.slice().sort(()=>Math.random()-.5).slice(0,n),cut=(x,n=150)=>{x=String(x||'');return x.length>n?x.slice(0,n).replace(/\s\S*$/,'')+'…':x},dt=d=>String(d||'').split('-').reverse().join('/'),
    f=(h,k,b,v,e,c)=>F.push(`<a href="#${h}" class="qd" style="--qc:${c}"><small>${k}</small><b>${esc(cut(b,70))}</b>${v?`<span>${esc(cut(v))}</span>`:''}<em>${e}</em></a>`);
@@ -513,7 +514,7 @@ const lk=(u,t)=>u?`<a href="${esc(u)}" target="_blank" rel="noopener">${t}</a>`:
 const n0=v=>v==null?'<span class="na">—</span>':fmt(v);
 const dt=d=>d?new Date(d).toLocaleDateString('it-IT',{day:'2-digit',month:'short',year:'2-digit'}):'<span class="na">—</span>';
 // avviso sulle valutazioni di esperti: in testa alle sezioni di giudizio
-const DSC_S=['standing','marchio','pack','sito','fdclass','tono','amarca','asales','amkt'],DSC='<p class="disc">○ Le valutazioni di questa pagina (voti a loghi, confezioni, marchio e strategie) sono generate in automatico seguendo i criteri dei maggiori esperti di branding, packaging e GDO e dei report di settore. Sono indicative e non rispecchiano per forza il giudizio dell\'autore della dashboard.</p>';
+const DSC_S=['standing','marchio','pack','sito','fdclass','igclass','tono','amarca','asales','amkt'],DSC='<p class="disc">○ Le valutazioni di questa pagina (voti a loghi, confezioni, marchio e strategie) sono generate in automatico seguendo i criteri dei maggiori esperti di branding, packaging e GDO e dei report di settore. Sono indicative e non rispecchiano per forza il giudizio dell\'autore della dashboard.</p>';
 const VAL='<p class="note">○ Valutazione calcolata in automatico: solo indicativa, non è il parere dell\'azienda.</p>';
 const hlSeg=ids=>`<div class="chips">${ids.map(id=>`<button data-hl="${id}" aria-pressed="${ST.hl===id}" class="${id===ME?'me':''}">${esc(nm(id))}</button>`).join('')}</div>`;
 // grafico a linee: S=[{id,nm,pts:[[x,y]]}]; la nostra azienda e quella scelta (ST.hl) in evidenza

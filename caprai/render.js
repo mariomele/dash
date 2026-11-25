@@ -54,7 +54,7 @@ function build() {
   for (const x of ((D.pack || {}).items || [])) { const f = x.img && path.join(H, x.img); if (f && fs.existsSync(f)) x.data = `data:image/${path.extname(f).slice(1).replace('jpg', 'jpeg')};base64,` + fs.readFileSync(f).toString('base64'); }
   // classifiche sito e social: schermate, foto della home intera, copertine dei post e loghi dei riferimenti mondiali dentro la pagina
   const b64 = f => { const q = f && path.join(H, f); return q && fs.existsSync(q) ? `data:image/${path.extname(q).slice(1).replace('jpg', 'jpeg')};base64,` + fs.readFileSync(q).toString('base64') : null; };
-  for (const X of [D.sito, D.feed].filter(Boolean)) {
+  for (const X of [D.sito, D.feed, D.igclass].filter(Boolean)) {
     for (const x of X.items || []) { x.data = b64(x.img); x.fullData = b64(x.full); (x.post || []).forEach(p => p.data = b64(p.img)); }
     for (const t of (X.mondo || {}).top || []) t.data = b64(t.lg && `logos/ref/${t.lg}.png`);
   }

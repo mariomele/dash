@@ -1146,6 +1146,16 @@
     0,
     "Pagine Experiences e Hospitality: solo visite guidate e degustazioni, nessuna camera né ristorante; nessuna altra voce di ospitalità nel menu",
     "https://www.bertani.net/hospitality-information/"
+   ],
+   "olio": [
+    0,
+    "Nessun olio nel catalogo completo dello shop ufficiale (51 prodotti, tutti vini)",
+    "https://shop.bertani.net/sitemap.xml"
+   ],
+   "grap": [
+    0,
+    "Nessuna grappa nello shop ufficiale; la Grappa Amarone Riserva Barrique Bertani e' un prodotto della distilleria Villa de Varda, non della cantina",
+    "https://www.villadevarda.com/en/trentino-grappa/gran-cru/aged-grappa-amarone-riserva-barrique-bertani/"
    ]
   },
   "valdisuga": {
@@ -1224,6 +1234,16 @@
     0,
     "Pagina Ospitalità: enoteca, degustazioni e visite in cantina; nessuna camera, agriturismo o ristorante",
     "https://www.valdisuga.com/it/ospitalita/"
+   ],
+   "olio": [
+    0,
+    "Lo shop ufficiale elenca solo 6 vini (Brunello e Rosso di Montalcino) piu' le visite",
+    "https://www.valdisuga.com/it/negozio/"
+   ],
+   "grap": [
+    0,
+    "Assente dallo shop ufficiale; la vecchia Grappa di Brunello Val di Suga risulta in vendita l'ultima volta a ottobre 2013 (Wine-Searcher), fuori produzione",
+    "https://www.valdisuga.com/it/negozio/"
    ]
   },
   "trerose": {
@@ -1471,6 +1491,11 @@
     0,
     "Pagina Visite in cantina: solo tour e degustazioni, nessuna camera né ristorante",
     "https://fazibattaglia.com/it/visite-cantina"
+   ],
+   "grap": [
+    1,
+    "Grappa di Verdicchio Fazi Battaglia 50 cl, 44% vol, in vendita su Bottle of Italy (esiste anche la Grappa di Verdicchio Stravecchia, bottiglia d'annata su Jahrhundertweine)",
+    "https://bottleofitaly.com/en-us/products/grappa-fazi-batt-verdicchio-libel-cl-50"
    ]
   },
   "puiatti": {
@@ -1548,6 +1573,16 @@
     0,
     "Pagina Visite: «È possibile prenotare visite guidate e degustazioni; così come acquistare i nostri vini», nessuna camera né ristorante",
     "https://puiatti.com/it/visite"
+   ],
+   "olio": [
+    0,
+    "Nessun olio nel catalogo completo dello shop ufficiale (22 prodotti, tutti vini e metodo classico)",
+    "https://shop.puiatti.com/sitemap.xml"
+   ],
+   "grap": [
+    0,
+    "Nessuna grappa nel catalogo completo dello shop ufficiale (22 prodotti, tutti vini e metodo classico)",
+    "https://shop.puiatti.com/sitemap.xml"
    ]
   }
  },

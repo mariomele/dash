@@ -956,6 +956,9 @@
    "li": "Nessuna pagina LinkedIn",
    "exq": "Quota export non dichiarata dalla cantina",
    "pae": "Paesi serviti non dichiarati"
+  },
+  "social": {
+   "ig": "valdisugawines"
   }
  },
  {
@@ -995,12 +998,22 @@
     "dic",
     "Vivino, Simposio Vino Nobile di Montepulciano (2185 voti), media su tutte le annate, letto il 25/11/2026",
     "https://www.vivino.com/w/1175517"
+   ],
+   "bt": [
+    548,
+    "dic",
+    "Report di sostenibilità Tenuta Trerose (ott. 2022): 548.169 bottiglie nell'anno 2021 (421.207 Vino Nobile)",
+    "https://www.angeliniwinesandestates.com/cms/wp-content/uploads/2022/10/Tenuta-Trerose_Sustainability-Report_october-2022.pdf"
+   ],
+   "rev": [
+    3.51,
+    "est",
+    "Stima, non è un bilancio: 548 mila bottiglie × 6.41 € a bottiglia, cioè i ricavi del gruppo Angelini Wines & Estates divisi per le sue bottiglie (25.63 M€ / 4000 mila). Le bottiglie della tenuta possono essere di anni passati: vedi la loro nota.",
+    "https://www.angeliniwinesandestates.com/cms/wp-content/uploads/2022/10/Tenuta-Trerose_Sustainability-Report_october-2022.pdf"
    ]
   },
   "nd": {
-   "rev": "Le 6 tenute sono un'unica società con il gruppo: vedi la riga Angelini Wines & Estates",
    "emp": "Unica società con il gruppo: vedi la riga Angelini Wines & Estates",
-   "bt": "Il gruppo pubblica solo il totale (circa 4 milioni di bottiglie)",
    "ig": "Nessun account ufficiale (solo omonimi)",
    "li": "Nessuna pagina LinkedIn",
    "exq": "Quota export non dichiarata dalla cantina",
@@ -1050,12 +1063,22 @@
     "dic",
     "Vivino, Monsenese Chianti Classico Riserva (2294 voti), media su tutte le annate, letto il 25/11/2026",
     "https://www.vivino.com/w/1302124"
+   ],
+   "bt": [
+    250,
+    "dic",
+    "Scheda produttore del distributore xtraWine: 250.000 bottiglie prodotte, anno del dato non indicato",
+    "https://www.xtrawine.com/collections/san-leonino"
+   ],
+   "rev": [
+    1.6,
+    "est",
+    "Stima, non è un bilancio: 250 mila bottiglie × 6.41 € a bottiglia, cioè i ricavi del gruppo Angelini Wines & Estates divisi per le sue bottiglie (25.63 M€ / 4000 mila). Le bottiglie della tenuta possono essere di anni passati: vedi la loro nota.",
+    "https://www.xtrawine.com/collections/san-leonino"
    ]
   },
   "nd": {
-   "rev": "Le 6 tenute sono un'unica società con il gruppo: vedi la riga Angelini Wines & Estates",
    "emp": "Unica società con il gruppo: vedi la riga Angelini Wines & Estates",
-   "bt": "Il gruppo pubblica solo il totale (circa 4 milioni di bottiglie)",
    "li": "Nessuna pagina LinkedIn",
    "exq": "Quota export non dichiarata dalla cantina",
    "pae": "Paesi serviti non dichiarati"
@@ -1169,12 +1192,22 @@
     "dic",
     "Vivino, Sauvignon Blanc Friuli Isonzo (1088 voti), media su tutte le annate, letto il 25/11/2026",
     "https://www.vivino.com/w/9883887"
+   ],
+   "bt": [
+    400,
+    "dic",
+    "Scheda produttore del distributore xtraWine: 400.000 bottiglie prodotte, anno del dato non indicato",
+    "https://www.xtrawine.com/collections/puiatti-bertani-domains"
+   ],
+   "rev": [
+    2.56,
+    "est",
+    "Stima, non è un bilancio: 400 mila bottiglie × 6.41 € a bottiglia, cioè i ricavi del gruppo Angelini Wines & Estates divisi per le sue bottiglie (25.63 M€ / 4000 mila). Le bottiglie della tenuta possono essere di anni passati: vedi la loro nota.",
+    "https://www.xtrawine.com/collections/puiatti-bertani-domains"
    ]
   },
   "nd": {
-   "rev": "Le 6 tenute sono un'unica società con il gruppo: vedi la riga Angelini Wines & Estates",
    "emp": "Unica società con il gruppo: vedi la riga Angelini Wines & Estates",
-   "bt": "Il gruppo pubblica solo il totale (circa 4 milioni di bottiglie)",
    "li": "Nessuna pagina LinkedIn",
    "exq": "Quota export non dichiarata dalla cantina",
    "pae": "Paesi serviti non dichiarati"

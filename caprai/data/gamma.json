@@ -1131,6 +1131,21 @@
     0,
     "denominazione umbra: la tenuta è in un'altra zona (Amarone della Valpolicella Classico DOCG)",
     "https://www.bertani.net/it/vini/"
+   ],
+   "intl": [
+    1,
+    "Secco Vintage: 80% Corvina, 10% Sangiovese Grosso, 5% Syrah, 5% Cabernet Sauvignon",
+    "https://www.bertani.net/wines/original-vintage/secco-vintage/"
+   ],
+   "spum": [
+    0,
+    "Letto l'elenco completo dei 12 vini (Tradition, Territory, Cru, Original Vintage): nessuno spumante",
+    "https://www.bertani.net/wines/"
+   ],
+   "osp": [
+    0,
+    "Pagine Experiences e Hospitality: solo visite guidate e degustazioni, nessuna camera né ristorante; nessuna altra voce di ospitalità nel menu",
+    "https://www.bertani.net/hospitality-information/"
    ]
   },
   "valdisuga": {
@@ -1204,6 +1219,11 @@
     0,
     "denominazione umbra: la tenuta è in un'altra zona (Brunello di Montalcino DOCG)",
     "https://www.valdisuga.com/en/"
+   ],
+   "osp": [
+    0,
+    "Pagina Ospitalità: enoteca, degustazioni e visite in cantina; nessuna camera, agriturismo o ristorante",
+    "https://www.valdisuga.com/it/ospitalita/"
    ]
   },
   "trerose": {
@@ -1267,6 +1287,21 @@
     0,
     "denominazione umbra: la tenuta è in un'altra zona (Vino Nobile di Montepulciano DOCG)",
     "https://tenutatrerose.it/it/vini"
+   ],
+   "intl": [
+    1,
+    "Rosso di Montepulciano: 90% Sangiovese, 10% Merlot e Cabernet; Vino Nobile e Riserva con 5% Merlot e 5% Cabernet Sauvignon",
+    "https://tenutatrerose.it/it/vini/rosso-di-montepulciano"
+   ],
+   "olio": [
+    0,
+    "Menu completo letto (Tenuta, Territorio, Progetto, Vini, Contatti) e 9 vini: nessun olio, nessuno shop",
+    "https://tenutatrerose.it/it/vini"
+   ],
+   "grap": [
+    0,
+    "Menu completo letto e 9 vini (incluso Vin Santo): nessuna grappa o distillato",
+    "https://tenutatrerose.it/it/vini"
    ]
   },
   "sanleonino": {
@@ -1315,6 +1350,41 @@
     0,
     "denominazione umbra: la tenuta è in un'altra zona (Chianti Classico DOCG)",
     "https://sanleonino.it/it/vini"
+   ],
+   "intl": [
+    1,
+    "Governo (IGT): 85% Sangiovese, 15% vitigni complementari (Merlot, Cabernet Sauvignon...)",
+    "https://sanleonino.it/it/vini/governo"
+   ],
+   "spum": [
+    0,
+    "Elenco completo di 4 vini (Salivolpe, Monsenese, Al Limite, Governo), tutti rossi: nessuno spumante",
+    "https://sanleonino.it/it/vini"
+   ],
+   "ros": [
+    0,
+    "Elenco completo di 4 vini, tutti rossi: nessun rosato",
+    "https://sanleonino.it/it/vini"
+   ],
+   "dolce": [
+    0,
+    "Elenco completo di 4 vini, tutti rossi: nessun vin santo o passito",
+    "https://sanleonino.it/it/vini"
+   ],
+   "grap": [
+    0,
+    "Menu completo letto (Fattoria, Territorio, Progetto, Vini, Contatti): nessuna grappa né shop",
+    "https://sanleonino.it/it"
+   ],
+   "eno": [
+    0,
+    "Menu completo letto: nessuna pagina o offerta di visite e degustazioni",
+    "https://sanleonino.it/it"
+   ],
+   "osp": [
+    0,
+    "Menu completo letto: nessuna camera, agriturismo o ristorante",
+    "https://sanleonino.it/it"
    ]
   },
   "fazibattaglia": {
@@ -1381,6 +1451,26 @@
     0,
     "denominazione umbra: la tenuta è in un'altra zona (Verdicchio dei Castelli di Jesi Classico DOC)",
     "https://fazibattaglia.com/it/vini"
+   ],
+   "intl": [
+    0,
+    "Elenco vini del sito: 5 vini (Titulus, Passerina, Pecorino, Rosato, Montepulciano d'Abruzzo), solo vitigni autoctoni",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "spum": [
+    0,
+    "Elenco vini del sito (5 vini): nessuno spumante",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "dolce": [
+    0,
+    "Elenco vini del sito (5 vini): nessun passito o vino dolce",
+    "https://fazibattaglia.com/it/vini"
+   ],
+   "osp": [
+    0,
+    "Pagina Visite in cantina: solo tour e degustazioni, nessuna camera né ristorante",
+    "https://fazibattaglia.com/it/visite-cantina"
    ]
   },
   "puiatti": {
@@ -1453,6 +1543,11 @@
     0,
     "denominazione umbra: la tenuta è in un'altra zona ()",
     "https://puiatti.com/it/vini"
+   ],
+   "osp": [
+    0,
+    "Pagina Visite: «È possibile prenotare visite guidate e degustazioni; così come acquistare i nostri vini», nessuna camera né ristorante",
+    "https://puiatti.com/it/visite"
    ]
   }
  },

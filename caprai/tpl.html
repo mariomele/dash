@@ -707,6 +707,11 @@ function p26items(o){const L=[];
   (o.punti||[]).forEach(p=>{if(!p.pub)return;L.push({k:'c',ann:yr(p.pub),sym:String(p.v),ab:ptOf(p.t).c||p.t,lab:p.v+' '+p.t+' ('+p.pub+')',vino:p.vino+(p.annata?' '+p.annata:''),x:p})});
   (o.concorsi||[]).forEach(c=>{const ann=c.pub?yr(c.pub):yr(c.c);L.push({k:'m',ann,sym:/oro|gold|argento|silver|bronz|platin|best|gran/i.test(c.premio||'')?p26med(c.premio):c.pt?String(c.pt):'🎖️',ab:p26ab(c.c),lab:c.c+' - '+(c.premio||'')+(c.pt?' ('+c.pt+' punti)':''),vino:(c.vino||'')+(c.annata?' '+c.annata:''),x:c})});
   return L}
+// metriche dei premi calcolate dai dati premi.json e messe in Confronto, Classifica e viste di relazione
+if(D.premi&&D.premi.az)ALLA.forEach(a=>{const o=D.premi.az[a.id];if(!o)return;a.f=a.f||{};const q=pqs(o),L=p26items(o),t27=(o.guide||[]).filter(g=>/Gambero Rosso 2027.*Tre Bicchieri/.test(g.t));
+  if(q.q)a.f.pw=[Math.round(q.w*100)/100,'val','Somma del miglior premio per testata, pesato per portata, influenza e selettività della testata (vedi Premi e prezzi). Calcolato in automatico, solo indicativo.','#premi'];
+  a.f.p26=[L.filter(x=>x.ann===2026).length,'dic','Premi annunciati nel 2026 su tutti i vini trovati: guide edizione 2027, critica e concorsi datati 2026 (vista Premi del 2026). Concorsi e critica non completi.','#premi'];
+  a.f.tb27=[t27.length,'dic',t27.length?'Gambero Rosso Vini d\'Italia 2027: '+t27.map(g=>g.vino+' '+(g.annata||'')).join(', '):'Nessun Tre Bicchieri nell\'elenco ufficiale 2027',t27[0]?.u||'https://www.gamberorosso.it/notizie/vino/degustazioni/tre-bicchieri-2027-migliori-vini-umbria/']});
 function premi26(rw,z){const md=ST.p26||'ann',f=x=>md==='ann'?x.ann===2026:(x.k==='g'?x.ed===2026:x.ann===2026);
   const R=rw.map(a=>{const L=p26items(z(a.id)).filter(f);return{a,L,nv:new Set(L.map(x=>(x.vino||'').toLowerCase().replace(/\s*20\d\d$/,'')).filter(Boolean)).size}}).sort((x,y)=>y.L.length-x.L.length||y.nv-x.nv);
   if(!R.some(r=>r.L.length))return'';const cl={g:'#5fd08a',c:'#5b9cf0',m:'#e5c07b'},mx=Math.max(...R.map(r=>r.L.length),1);

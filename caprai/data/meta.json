@@ -58,6 +58,24 @@
    "dec": 0
   },
   {
+   "k": "pw",
+   "l": "Peso dei premi",
+   "u": "",
+   "dec": 1
+  },
+  {
+   "k": "p26",
+   "l": "Premi annunciati nel 2026",
+   "u": "",
+   "dec": 0
+  },
+  {
+   "k": "tb27",
+   "l": "Tre Bicchieri 2027",
+   "u": "",
+   "dec": 0
+  },
+  {
    "k": "viv",
    "l": "Voto Vivino vino di punta",
    "u": "/5",

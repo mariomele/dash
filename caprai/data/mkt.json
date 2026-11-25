@@ -1,7 +1,7 @@
 {
  "s": "val",
  "n": "Analisi scritta il 25/11/2026 leggendo solo i dati di questa dashboard (Social, Instagram · classifica, Premi e prezzi, Ospitalità, Gamma, Confronto): ogni numero rimanda alla sua pagina e alla sua fonte. Giudizi e priorità sono una valutazione, non pareri di esperti reali.",
- "sintesi": "Caprai ha il marchio più forte di Montefalco su quasi tutto ciò che si vede da fuori: il voto Google con più recensioni della zona (4,7 su 547), l'offerta di visite più completa (7 esperienze da 35 a 200 € con prenotazione e pagamento online), il secondo peso nei premi fra 17 cantine e il primo in Umbria. Il punto debole è Instagram: il profilo umbro con più follower (17.549) è fermo dal 26 agosto, non usa i reel e nella classifica del panel è 13° su 14. La mossa più utile è anche la più economica: riaccendere Instagram con serie fisse e reel di vigna e persone, e usarlo per raccontare premi ed esperienze che già esistono.",
+ "sintesi": "Caprai ha il marchio più forte di Montefalco su quasi tutto ciò che si vede da fuori: il voto Google con più recensioni della zona (4,7 su 547), l'offerta di visite più completa (7 esperienze da 35 a 200 € con prenotazione e pagamento online), il secondo peso nei premi fra 17 cantine e il primo in Umbria. Nel 2026 però ha raccolto 6 premi su 3 vini (5 Grappoli Bibenda al 25 Anni e al Collepiano, Vitae «I 100 Grandi Vini», Tre Stelle Oro Veronelli, 96 Doctor Wine, 95 Suckling) e nessun Tre Bicchieri 2027, mentre Antonelli ne ha 12 e Lungarotti 10. Il punto debole è Instagram: il profilo umbro con più follower (17.549) è fermo dal 26 agosto, non usa i reel e nella classifica del panel è 13° su 14. La mossa più utile è anche la più economica: riaccendere Instagram con serie fisse e reel di vigna e persone, e usarlo per raccontare premi ed esperienze che già esistono, puntando a riprendere il Tre Bicchieri.",
  "swot": {
   "forza": [
    "Voto Google 4,7 su 547 recensioni: il più recensito fra le 17 cantine (Ospitalità)",
@@ -62,11 +62,11 @@
   },
   {
    "t": "Raccontare i premi",
-   "x": "Caprai è seconda per peso dei riconoscimenti e prima in Umbria, ma il feed Instagram non lo racconta.",
-   "dati": "peso dei premi secondo la testata",
+   "x": "Caprai è seconda per peso dei riconoscimenti e prima in Umbria, ma nel 2026 ha 6 premi su 3 vini contro i 12 di Antonelli e i 10 di Lungarotti, e ha perso il Tre Bicchieri nell'edizione 2027. Il feed Instagram non racconta nemmeno quelli che ha.",
+   "dati": "peso dei premi secondo la testata, premi del 2026 su tutti i vini",
    "sez": "premi",
-   "az": "Un post per ogni Tre Bicchieri e punteggio da 95 in su, con la bottiglia, l'annata e il link allo shop o alla verticale.",
-   "pr": 2,
+   "az": "Un post per ciascun premio 2026 (5 Grappoli al 25 Anni e al Collepiano, Vitae «I 100 Grandi Vini», Tre Stelle Oro, 96 Doctor Wine) con bottiglia, annata e link allo shop; portare alle guide anche i vini oltre il Sagrantino di punta per allargare i premi oltre 3 vini.",
+   "pr": 1,
    "imp": 3,
    "sf": 1
   },
@@ -104,27 +104,27 @@
  "batt": [
   {
    "id": "tabarrini",
-   "loro": "Il Sagrantino d'autore: 97 Vinous, Chiocciola Slow Wine 2027, engagement Instagram 2,51% con 4.150 follower.",
+   "loro": "Il Sagrantino d'autore: 97 Vinous, Chiocciola Slow Wine 2027, nel 2026 98 Doctor Wine e due Tre Stelle Oro Veronelli; engagement Instagram 2,51% con 4.150 follower.",
    "noi": "Storia (dal 1971), scala (900 mila bottiglie), 7 esperienze prenotabili e il voto Google più recensito.",
-   "risposta": "Il 25 Anni ha Tre Bicchieri e 95 Vinous, e si può assaggiare in verticale di 25 annate solo da noi."
+   "risposta": "Il 25 Anni ha Tre Bicchieri 2026, 95 Vinous, 5 Grappoli Bibenda 2027 e Vitae «I 100 Grandi Vini», e si può assaggiare in verticale di 25 annate solo da noi."
   },
   {
    "id": "antonelli",
-   "loro": "Ospitalità completa: camere, pranzi e cene in villa, 12 esperienze.",
+   "loro": "Ospitalità completa (camere, pranzi e cene in villa, 12 esperienze) e la cantina più premiata del 2026: 12 premi su 10 vini, con Tre Bicchieri 2027, 98 Wine Enthusiast e 98 Doctor Wine.",
    "noi": "Premi più pesanti (6,9 contro 5,4 punti, una voce per testata) e prenotazione con pagamento online.",
    "risposta": "Per il vino si viene da Caprai; per restare, un pranzo in cantina o una struttura convenzionata chiude il divario."
   },
   {
    "id": "scacciadiavoli",
-   "loro": "Presenza social continua (10,4 post al mese) ed esperienze attive: e-bike, Vespa, trekking, cucina.",
-   "noi": "Più follower, più premi, recensioni Google e TripAdvisor più numerose.",
+   "loro": "Presenza social continua (10,4 post al mese), esperienze attive (e-bike, Vespa, trekking, cucina) e Tre Bicchieri 2027 al Sagrantino 2022.",
+   "noi": "Più follower, più peso nei premi, recensioni Google e TripAdvisor più numerose.",
    "risposta": "Tornare a pubblicare con costanza e aggiungere una proposta attiva in vigna."
   },
   {
    "id": "lungarotti",
-   "loro": "Soggiorno: agriturismo, bistrot, osteria, museo del vino.",
-   "noi": "Più esperienze di vino (7 contro 4), premi più pesanti, Tre Bicchieri sul vino di punta.",
-   "risposta": "Caprai è la cantina del Sagrantino da degustare a fondo; Lungarotti quella dove si dorme."
+   "loro": "Soggiorno (agriturismo, bistrot, osteria, museo del vino) e 10 premi nel 2026: Tre Bicchieri 2027, 98 Doctor Wine, 5 Grappoli e Vitae al Rubesco Vigna Monticchio.",
+   "noi": "Più esperienze di vino (7 contro 4) e premi più pesanti negli anni, ma nel 2026 meno premi e niente Tre Bicchieri.",
+   "risposta": "Caprai è la cantina del Sagrantino da degustare a fondo; Lungarotti quella dove si dorme. Sui premi va ripreso il Tre Bicchieri."
   }
  ],
  "piano": [
@@ -133,7 +133,7 @@
    [
     "Calendario Instagram di 3 mesi e prime 6 uscite, di cui 3 reel",
     "Link a Caprai Experience in bio e storie in evidenza",
-    "Post sui riconoscimenti 2026"
+    "Post sui premi 2026: 5 Grappoli al 25 Anni e al Collepiano, Vitae «I 100 Grandi Vini», Tre Stelle Oro, 96 Doctor Wine"
    ]
   ],
   [
@@ -187,6 +187,12 @@
    "Peso dei premi",
    "2° su 17",
    "riprendere il Tre Bicchieri e restare fra i primi 3",
+   "premi"
+  ],
+  [
+   "Premi del 2026 (tutti i vini)",
+   "6 su 3 vini",
+   "almeno 10, con il Tre Bicchieri",
    "premi"
   ]
  ]

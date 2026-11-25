@@ -543,6 +543,21 @@ main select,main input[type=search],main input[type=text]{background:rgba(255,25
 @media(prefers-reduced-motion:reduce){.v2bg,.v2copy>*,.v2top,.v2sec,.pl-box,.lt.me,.v2tr tbody tr,.lsc.in .lsl img{animation:none}.v2rv,.v2t,.v2t .im img,.v2t .im2 img{opacity:1;transform:none;filter:none;clip-path:none}.v2m s,.v2g{transform:none}#v2side{transition:none}}
 
 .v2nt{margin-top:10px;border-top:1px solid var(--line);padding-top:6px}.v2nt>summary{cursor:pointer;font-size:12px;opacity:.7;list-style:none;padding:4px 0}.v2nt>summary::-webkit-details-marker{display:none}.v2nt>summary::before{content:'▸ ';}.v2nt[open]>summary::before{content:'▾ '}.v2nt>summary:hover,.v2nt>summary:focus-visible{opacity:1}.v2nt .note{margin:.4em 0}
+
+/* percorso cliccabile: area e sezione aprono un menu */
+#v2crumb>span:not(.c-pn):not(#slg),#v2crumb>b,#v2crumb>em{cursor:pointer;border-radius:7px;transition:color .2s,background .2s}
+#v2crumb>span:not(.c-pn):not(#slg),#v2crumb>b{padding:5px 7px;margin:0 -7px}
+#v2crumb>span:not(.c-pn):not(#slg):hover,#v2crumb>b:hover,#v2crumb>[aria-expanded=true]{color:#fff;background:rgba(255,255,255,.06)}
+#v2crumb>em:hover,#v2crumb>em[aria-expanded=true]{color:#fff;border-color:var(--line2)}
+#v2crumb>b::after{content:"";display:inline-block;width:5px;height:5px;margin:0 2px 3px 8px;border-right:1.5px solid var(--mut);border-bottom:1.5px solid var(--mut);transform:rotate(45deg)}
+#v2dd{position:fixed;z-index:90;min-width:230px;max-width:min(340px,calc(100vw - 16px));max-height:70vh;overflow-y:auto;padding:6px;background:#0d141e;border:1px solid var(--line2);border-radius:12px;box-shadow:0 20px 60px rgba(0,0,0,.6);animation:v2pop .18s var(--v2e,ease)}
+#v2dd[hidden]{display:none}
+#v2dd a{display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:8px;font:400 13.5px/1.3 Inter,sans-serif;color:var(--ink2)!important;text-decoration:none!important;outline:0}
+#v2dd a span{flex:1}
+#v2dd a em{font:500 10.5px/1 var(--mono);font-style:normal;color:#56657a;min-width:14px}
+#v2dd a:hover,#v2dd a:focus{background:rgba(255,255,255,.06);color:#fff!important}
+#v2dd a.on{color:#fff!important;background:rgba(255,255,255,.08);box-shadow:inset 2px 0 0 var(--acc,var(--me))}
+@media(max-width:700px){#v2crumb>b{max-width:52vw}}
 </style><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@300..700&display=swap" rel="stylesheet"></head><body>
 <div class="bar"><div class="wrap">
   <div class="r1"><a class="logo" href="#"><span id="lgw"></span><i class="lgt"><b id="lg1"></b><span id="lg2"></span></i></a><nav class="tabs" id="areas"></nav><input id="q" type="search" placeholder="Cerca azienda" aria-label="Cerca azienda"></div>
@@ -1694,5 +1709,33 @@ new MutationObserver(function(){clearTimeout(after.t);after.t=setTimeout(after,3
 addEventListener('hashchange',function(){fresh=true;root.classList.remove('v2open');build()});
 if(!still&&matchMedia('(pointer:fine)').matches)d.addEventListener('pointermove',function(ev){var c=ev.target.closest&&ev.target.closest('.card');if(!c)return;var r=c.getBoundingClientRect();c.style.setProperty('--mx',(ev.clientX-r.left)+'px');c.style.setProperty('--my',(ev.clientY-r.top)+'px')},{passive:true});
 after();
+})();
+
+// ── percorso cliccabile: l'area apre l'elenco delle aree, la sezione (o «3 / 4») l'elenco delle sezioni dell'area ──
+(function(){
+var d=document,cb=d.getElementById('v2crumb');if(!cb)return;
+var es=function(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})};
+var sn=function(s){return SEC[s]?SEC[s][0]:s};
+var dd=d.createElement('div');dd.id='v2dd';dd.hidden=true;dd.setAttribute('role','menu');d.body.appendChild(dd);
+var T='#v2crumb>span:not(.c-pn):not(#slg),#v2crumb>b,#v2crumb>em',opener=null;
+function mark(){[].forEach.call(cb.querySelectorAll(T),function(x){x.setAttribute('role','button');x.tabIndex=0;x.setAttribute('aria-haspopup','menu');x.title=x.tagName==='SPAN'?'Cambia area':'Altre sezioni di quest\'area'})}
+new MutationObserver(mark).observe(cb,{childList:true});mark();
+function id(){var h=location.hash.slice(1);return ORD.indexOf(h)>-1?h:ORD[0]}
+function close(){if(dd.hidden)return;dd.hidden=true;if(opener)opener.setAttribute('aria-expanded','false')}
+function openFor(t){
+ var cur=id(),G=NAVA.filter(function(a){return a[2].indexOf(cur)>-1})[0];if(!G)return;
+ var L=t.tagName==='SPAN'?NAVA.map(function(a){return '<a role="menuitem" href="#'+(a[2].indexOf(cur)>-1?cur:a[2][0])+'"'+(a===G?' class="on"':'')+'><span>'+es(a[1])+'</span><em>'+a[2].length+'</em></a>'})
+  :G[2].map(function(s,i){return '<a role="menuitem" href="#'+s+'"'+(s===cur?' class="on"':'')+'><em>'+(i+1)+'</em><span>'+es(sn(s))+'</span></a>'});
+ dd.innerHTML=L.join('');dd.hidden=false;opener=t;t.setAttribute('aria-expanded','true');
+ var r=t.getBoundingClientRect();dd.style.top=(r.bottom+6)+'px';dd.style.left=Math.max(8,Math.min(r.left,innerWidth-dd.offsetWidth-8))+'px';
+ var on=dd.querySelector('.on')||dd.firstChild;if(on)on.focus()}
+cb.addEventListener('click',function(ev){var t=ev.target.closest(T);if(!t)return;ev.stopPropagation();if(!dd.hidden&&opener===t)close();else openFor(t)});
+cb.addEventListener('keydown',function(ev){var t=ev.target.closest(T);if(t&&(ev.key==='Enter'||ev.key===' '||ev.key==='ArrowDown')){ev.preventDefault();openFor(t)}});
+dd.addEventListener('keydown',function(ev){var a=[].slice.call(dd.querySelectorAll('a')),k=a.indexOf(d.activeElement);
+ if(ev.key==='ArrowDown'||ev.key==='ArrowUp'){ev.preventDefault();a[(k+(ev.key==='ArrowDown'?1:-1)+a.length)%a.length].focus()}
+ else if(ev.key==='Escape'){ev.preventDefault();ev.stopPropagation();close();if(opener)opener.focus()}});
+dd.addEventListener('click',function(ev){if(ev.target.closest('a'))close()});
+d.addEventListener('click',function(ev){if(!dd.hidden&&!dd.contains(ev.target))close()});
+addEventListener('hashchange',close);addEventListener('resize',close);addEventListener('scroll',close,{passive:true});
 })();
 </script></body></html>

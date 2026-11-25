@@ -1,0 +1,58 @@
+{
+ "s": "val",
+ "n": "Analisi scritta il 25/11/2026 leggendo solo i dati di questa dashboard (Social, Instagram · classifica, Premi e prezzi, Ospitalità, Gamma, Confronto): ogni numero rimanda alla sua pagina e alla sua fonte. Giudizi e priorità sono una valutazione, non pareri di esperti reali.",
+ "sintesi": "Caprai ha il marchio più forte di Montefalco su quasi tutto ciò che si vede da fuori: il voto Google con più recensioni della zona (4,7 su 547), l'offerta di visite più completa (7 esperienze da 35 a 200 € con prenotazione e pagamento online), il terzo peso nei premi fra 17 cantine e il primo a Montefalco. Il punto debole è Instagram: il profilo umbro con più follower (17.549) è fermo dal 26 agosto, non usa i reel e nella classifica del panel è 13° su 14. La mossa più utile è anche la più economica: riaccendere Instagram con serie fisse e reel di vigna e persone, e usarlo per raccontare premi ed esperienze che già esistono.",
+ "swot": {
+  "forza": [
+   "Voto Google 4,7 su 547 recensioni: il più recensito fra le 17 cantine (Ospitalità)",
+   "7 esperienze prenotabili e pagabili online, dalla visita a 35 € alla Signature Collection a 200 €; 441 recensioni TripAdvisor (Ospitalità)",
+   "Terzo peso dei premi su 17, primo a Montefalco (in Umbria davanti solo Castello della Sala): Tre Bicchieri 2026 al 25 Anni, 95 Vinous e 96 Suckling (Premi e prezzi)",
+   "Più follower Instagram di tutte le umbre con account proprio: 17.549 (Social)"
+  ],
+  "debolezza": [
+   "Instagram fermo dal 26/08/2026, 0,6 post al mese, nessun reel: 13° su 14 nella classifica del panel, voto 2,29 su 5 (Instagram · classifica)",
+   "Engagement 0,39%, il più basso fra le umbre con dati: Tabarrini 2,51%, Romanelli 2,83% con un decimo dei follower (Social)",
+   "Metà dei post recenti sono locandine di eventi, non racconto di vigna e persone (Instagram · classifica)",
+   "Nessuna camera e nessuna cucina in cantina: la visita dura due ore, non un soggiorno (Ospitalità)"
+  ],
+  "opportunita": [
+   "Nel gruppo Angelini il portale Caprai Experience è il più avanti: modello per Val di Suga, Fazi Battaglia e Puiatti (Ospitalità)",
+   "Bertani (35.532 follower, engagement 1,74%) e Puiatti (75% di reel, engagement 5,06%) sono nel gruppo: formati e persone da cui imparare (Social)",
+   "Premi già vinti ma poco raccontati: Tre Bicchieri e punteggi internazionali da 95 in su sono contenuti pronti (Premi e prezzi)",
+   "Esperienze attive (bici, trekking, cucina) come Scacciadiavoli, per chi viaggia in famiglia o beve poco (Ospitalità)"
+  ],
+  "minaccia": [
+   "Tabarrini e Paolo Bea prendono voti più alti sul Sagrantino di punta (97 e 96 Vinous) e la Chiocciola Slow Wine 2027 (Premi e prezzi)",
+   "Antonelli San Marco e Lungarotti offrono camere e ristorante: trattengono il turista più a lungo (Ospitalità)",
+   "Scacciadiavoli pubblica 10,4 post al mese: occupa lo spazio di Montefalco su Instagram mentre Caprai tace (Social)"
+  ]
+ },
+ "punti": [
+  {"t": "Riaccendere Instagram con un ritmo fisso", "x": "Il profilo non pubblica dal 26 agosto e ha 0,6 post al mese. Chi ha meno follower ma pubblica con costanza (Romanelli 5,6 al mese, Scacciadiavoli 10,4) ottiene più interazioni in proporzione.", "dati": "post al mese, ultimo post, engagement", "sez": "social", "az": "Almeno 6 post al mese con un calendario di 3 mesi; vendemmia, potatura, cantina e persone come serie fisse riconoscibili.", "pr": 1, "imp": 5, "sf": 2},
+  {"t": "Usare i reel", "x": "Caprai ha 0% di reel. Puiatti, nello stesso gruppo, ha 75% di reel ed engagement 5,06%; Castello della Sala (account Antinori) 67%.", "dati": "quota di reel", "sez": "social", "az": "Metà dei post in formato reel brevi (15-30 secondi): vigna, verticale del 25 Anni, persone della cantina.", "pr": 1, "imp": 4, "sf": 2},
+  {"t": "Meno locandine, più racconto", "x": "Il panel della classifica Instagram premia il racconto vero e penalizza le locandine di eventi, che oggi sono metà del feed.", "dati": "voti del panel per criterio", "sez": "igclass", "az": "Una locandina ogni 4-5 post; gli eventi raccontati dopo con foto vere della giornata.", "pr": 2, "imp": 3, "sf": 1},
+  {"t": "Raccontare i premi", "x": "Caprai è terza per peso dei riconoscimenti e prima in Umbria, ma il feed Instagram non lo racconta.", "dati": "peso dei premi secondo la testata", "sez": "premi", "az": "Un post per ogni Tre Bicchieri e punteggio da 95 in su, con la bottiglia, l'annata e il link allo shop o alla verticale.", "pr": 2, "imp": 3, "sf": 1},
+  {"t": "Portare le esperienze su Instagram", "x": "L'offerta di visite è la più completa della zona (7 esperienze, pagamento online) e il voto Google è il più recensito: un punto di forza che i social non mostrano.", "dati": "esperienze, prenotazione, recensioni Google e TripAdvisor", "sez": "ospitalita", "az": "Link diretto a Caprai Experience in bio e nelle storie in evidenza; un reel per esperienza con prezzo e durata.", "pr": 2, "imp": 4, "sf": 2},
+  {"t": "Un motivo per restare", "x": "Antonelli San Marco e Lungarotti hanno camere e ristorante; Caprai no. Il turista che arriva per la verticale riparte dopo due ore.", "dati": "camere e cucina", "sez": "ospitalita", "az": "Pranzo in cantina su prenotazione o accordo con un agriturismo vicino, venduto insieme alle esperienze più care.", "pr": 3, "imp": 4, "sf": 4},
+  {"t": "Fare scuola dentro il gruppo Angelini", "x": "Caprai ha il portale di prenotazione più avanti fra le tenute del gruppo; Fazi Battaglia e Puiatti accettano solo telefono o email, per Trerose e San Leonino non abbiamo trovato visite sul sito.", "dati": "prenotazione delle tenute del gruppo", "sez": "ospitalita", "az": "Proporre al gruppo lo stesso portale e lo stesso calendario per le altre tenute; in cambio, prendere da Bertani e Puiatti il metodo social.", "pr": 3, "imp": 3, "sf": 3}
+ ],
+ "batt": [
+  {"id": "tabarrini", "loro": "Il Sagrantino d'autore: 97 Vinous, Chiocciola Slow Wine 2027, engagement Instagram 2,51% con 4.150 follower.", "noi": "Storia (dal 1971), scala (900 mila bottiglie), 7 esperienze prenotabili e il voto Google più recensito.", "risposta": "Il 25 Anni ha Tre Bicchieri e 95 Vinous, e si può assaggiare in verticale di 25 annate solo da noi."},
+  {"id": "antonelli", "loro": "Ospitalità completa: camere, pranzi e cene in villa, 12 esperienze.", "noi": "Premi più pesanti (9,9 contro 5,4 punti) e prenotazione con pagamento online.", "risposta": "Per il vino si viene da Caprai; per restare, un pranzo in cantina o una struttura convenzionata chiude il divario."},
+  {"id": "scacciadiavoli", "loro": "Presenza social continua (10,4 post al mese) ed esperienze attive: e-bike, Vespa, trekking, cucina.", "noi": "Più follower, più premi, recensioni Google e TripAdvisor più numerose.", "risposta": "Tornare a pubblicare con costanza e aggiungere una proposta attiva in vigna."},
+  {"id": "lungarotti", "loro": "Soggiorno: agriturismo, bistrot, osteria, museo del vino.", "noi": "Più esperienze di vino (7 contro 4), premi più pesanti, Tre Bicchieri sul vino di punta.", "risposta": "Caprai è la cantina del Sagrantino da degustare a fondo; Lungarotti quella dove si dorme."}
+ ],
+ "piano": [
+  ["Primo mese", ["Calendario Instagram di 3 mesi e prime 6 uscite, di cui 3 reel", "Link a Caprai Experience in bio e storie in evidenza", "Post sui riconoscimenti 2026"]],
+  ["Entro tre mesi", ["Serie fisse riconoscibili (vendemmia, cantina, persone)", "Un reel per ogni esperienza con prezzo e durata", "Nuova lettura della classifica Instagram per misurare il salto"]],
+  ["Entro un anno", ["Pranzo in cantina o accordo con una struttura vicina", "Portale di prenotazione proposto alle altre tenute del gruppo"]]
+ ],
+ "kpi": [
+  ["Post Instagram al mese", "0,6", "6", "social"],
+  ["Quota di reel", "0%", "50%", "social"],
+  ["Engagement Instagram", "0,39%", "1%", "social"],
+  ["Voto nella classifica Instagram", "2,29/5 · 13° su 14", "3,3/5 · prima metà", "igclass"],
+  ["Recensioni Google", "547 · 4,7", "oltre 650 · almeno 4,7", "ospitalita"],
+  ["Peso dei premi", "3° su 17", "restare fra i primi 3", "premi"]
+ ]
+}

@@ -1,0 +1,846 @@
+{
+ "n": "Siti ufficiali letti con curl il 28/11/2026 (361 pagine: galdieripetroli.it, galdierienergy.it, galdiericleaning.it, galdieriauto.it, galdiericarservice.it, galdierirent.it, brevetermine.galdierirent.it, galdierigroup.it); la fonte è in ogni cella. Assi: le 17 voci del brief. 0 = voce assente su tutti i siti dei marchi della divisione. «Prodotti» = servizi distinti contati con url (elenco in servizi), non vetture in magazzino: i contatori dello stock di galdieriauto.it cambiano da pagina a pagina e non sono confrontabili. Esclusi dai marchi: la cantina Il Pollenza (partnership commerciale, fuori gamma), i 21 marchi auto del catalogo Rent (sono le case dei veicoli noleggiati, non marchi del gruppo), le case locatrici oltre a Leasys e Arval (il sito dice 9 mandati ma non le nomina), le società di noleggio convenzionate con Car Service (clienti dell'officina).",
+ "s": "dic",
+ "u": "https://www.galdierigroup.it/i-brand/",
+ "assi": [
+  [
+   "rete",
+   "Stazioni di servizio stradali"
+  ],
+  [
+   "aut",
+   "Aree di servizio autostradali"
+  ],
+  [
+   "gnl",
+   "GNL, metano e GPL"
+  ],
+  [
+   "ele",
+   "Ricarica elettrica"
+  ],
+  [
+   "adb",
+   "AdBlue e additivi"
+  ],
+  [
+   "card",
+   "Fuel card"
+  ],
+  [
+   "ingr",
+   "Ingrosso ed extrarete"
+  ],
+  [
+   "lub",
+   "Lubrificanti"
+  ],
+  [
+   "luce",
+   "Luce e gas"
+  ],
+  [
+   "clean",
+   "Pulizia e sanificazione"
+  ],
+  [
+   "nuovo",
+   "Vendita auto nuove"
+  ],
+  [
+   "usato",
+   "Usato"
+  ],
+  [
+   "vc",
+   "Veicoli commerciali e allestimenti"
+  ],
+  [
+   "off",
+   "Officina, carrozzeria e ricambi"
+  ],
+  [
+   "nlt",
+   "Noleggio a lungo termine"
+  ],
+  [
+   "nbt",
+   "Noleggio a breve termine"
+  ],
+  [
+   "fin",
+   "Finanziamenti e assicurazioni"
+  ]
+ ],
+ "az": {
+  "petroli": {
+   "marchi": [
+    [
+     "Galdieri Petroli",
+     "https://www.galdieripetroli.it/"
+    ],
+    [
+     "Galdieri Energy",
+     "https://www.galdierienergy.it/"
+    ],
+    [
+     "Galdieri Cleaning",
+     "https://www.galdiericleaning.it/"
+    ],
+    [
+     "IP (rete del Gruppo API, partner da oltre 40 anni)",
+     "https://www.galdieripetroli.it/storia/"
+    ],
+    [
+     "IP Plus e IP Plus Fast (agenzia per la Campania)",
+     "https://www.galdieripetroli.it/ip-plus/"
+    ],
+    [
+     "Wynn's Supremium Diesel",
+     "https://www.galdieripetroli.it/supremium/"
+    ],
+    [
+     "Air1 AdBlue",
+     "https://www.galdieripetroli.it/storia/"
+    ],
+    [
+     "Gilbarco Veeder-Root",
+     "https://www.galdieripetroli.it/servizi-extrarete/"
+    ],
+    [
+     "Assytech",
+     "https://www.galdieripetroli.it/storia/"
+    ],
+    [
+     "Tritium (colonnine Veefil)",
+     "https://www.galdieripetroli.it/colonnine-elettriche/"
+    ],
+    [
+     "HAM (impianto LNG)",
+     "https://www.galdieripetroli.it/lng/"
+    ],
+    [
+     "Flowey",
+     "https://www.galdieripetroli.it/flowey/"
+    ],
+    [
+     "Kent",
+     "https://www.galdiericleaning.it/"
+    ],
+    [
+     "DotOne",
+     "https://www.galdieripetroli.it/"
+    ],
+    [
+     "Smart Agency (partner luce e gas)",
+     "https://www.galdierienergy.it/fornitura-energia-elettrica-e-gas-2/"
+    ]
+   ],
+   "n": [
+    30,
+    "https://www.galdieripetroli.it/servizi-extrarete/"
+   ],
+   "top": [
+    "Deposito e ingrosso carburanti, circa il 70% del fatturato secondo il sito",
+    "https://www.galdieripetroli.it/deposito/"
+   ],
+   "rete": [
+    1,
+    "11 stazioni e aree di servizio in provincia di Salerno",
+    "https://www.galdieripetroli.it/tutte-le-stazioni/"
+   ],
+   "aut": [
+    1,
+    "Aree di servizio Baronissi Est e Ovest sull'A2 del Mediterraneo",
+    "https://www.galdieripetroli.it/baronissi-est/"
+   ],
+   "gnl": [
+    1,
+    "LNG per camion a Baronissi Est (primo su rete autostradale in Italia, 2018), GPL e metano",
+    "https://www.galdieripetroli.it/lng/"
+   ],
+   "ele": [
+    1,
+    "Colonnine Veefil nella rete; colonnine e wallbox in vendita con il marchio Galdieri Energy",
+    "https://www.galdierienergy.it/stazioni-di-ricarica-rapida/"
+   ],
+   "adb": [
+    1,
+    "Supremium Diesel di Wynn's dal deposito; rivenditore Air1 AdBlue per Salerno e Avellino",
+    "https://www.galdieripetroli.it/supremium/"
+   ],
+   "card": [
+    1,
+    "Agenzia IP Plus e IP Plus Fast: circa 1.200 clienti e 21 milioni di litri",
+    "https://www.galdieripetroli.it/ip-plus/"
+   ],
+   "ingr": [
+    1,
+    "Deposito da oltre 2 milioni di litri: gasolio autotrazione, agricolo, riscaldamento, oli combustibili",
+    "https://www.galdieripetroli.it/deposito/"
+   ],
+   "lub": [
+    1,
+    "Lubrificanti IP per agricoltura, industria e autotrazione, deposito da 1.000 quintali",
+    "https://www.galdieripetroli.it/lubrificanti/"
+   ],
+   "luce": [
+    1,
+    "Galdieri Energy: consulenza sui contratti luce e gas con il partner Smart Agency",
+    "https://www.galdierienergy.it/fornitura-energia-elettrica-e-gas-2/"
+   ],
+   "clean": [
+    1,
+    "Galdieri Cleaning: detergenti Flowey e Kent e DPI per stazioni, trasporti, Ho.re.ca. e meccanica",
+    "https://www.galdiericleaning.it/"
+   ],
+   "nuovo": [
+    0,
+    "Nessuna vendita di veicoli sui siti di Petroli, Energy e Cleaning",
+    "https://www.galdieripetroli.it/"
+   ],
+   "usato": [
+    0,
+    "Nessuna vendita di veicoli sui siti di Petroli, Energy e Cleaning",
+    "https://www.galdieripetroli.it/"
+   ],
+   "vc": [
+    0,
+    "Nessun veicolo: vende serbatoi, Portetank e Miniporter, non mezzi",
+    "https://www.galdieripetroli.it/serbatoi/"
+   ],
+   "off": [
+    1,
+    "Officina nelle aree di servizio Baronissi Est e Ovest e autofficina a Fisciano Università",
+    "https://www.galdieripetroli.it/fisciano-universita/"
+   ],
+   "nlt": [
+    0,
+    "Nessun noleggio di veicoli: Energy noleggia solo le colonnine (noleggio operativo)",
+    "https://www.galdierienergy.it/servizi/"
+   ],
+   "nbt": [
+    0,
+    "Nessun noleggio di veicoli sui siti di Petroli, Energy e Cleaning",
+    "https://www.galdieripetroli.it/"
+   ],
+   "fin": [
+    0,
+    "Nessun finanziamento né polizza: IP Plus offre solo fattura quindicinale con pagamento a 20 giorni",
+    "https://www.galdieripetroli.it/ip-plus/"
+   ],
+   "servizi": [
+    [
+     "Rete di 11 stazioni e aree di servizio in provincia di Salerno",
+     "https://www.galdieripetroli.it/tutte-le-stazioni/"
+    ],
+    [
+     "Aree di servizio Baronissi Est e Ovest sull'A2 del Mediterraneo",
+     "https://www.galdieripetroli.it/baronissi-est/"
+    ],
+    [
+     "LNG per autotrasporto a Baronissi Est (doppio erogatore, h24, con HAM)",
+     "https://www.galdieripetroli.it/lng/"
+    ],
+    [
+     "GPL e metano nelle aree di servizio",
+     "https://www.galdieripetroli.it/baronissi-ovest/"
+    ],
+    [
+     "Ricarica elettrica Veefil nella rete",
+     "https://www.galdieripetroli.it/colonnine-elettriche/"
+    ],
+    [
+     "HVO di IP in stazione",
+     "https://www.galdieripetroli.it/"
+    ],
+    [
+     "Deposito e ingrosso: gasolio autotrazione, agricolo, riscaldamento, oli combustibili con consegna",
+     "https://www.galdieripetroli.it/deposito/"
+    ],
+    [
+     "Supremium Diesel di Wynn's e pulizia gratuita delle cisterne",
+     "https://www.galdieripetroli.it/supremium/"
+    ],
+    [
+     "Rivenditore Air1 AdBlue per Salerno e Avellino",
+     "https://www.galdieripetroli.it/storia/"
+    ],
+    [
+     "Agenzia IP Plus e IP Plus Fast per la Campania",
+     "https://www.galdieripetroli.it/ip-plus/"
+    ],
+    [
+     "Lubrificanti IP confezionati e sfusi",
+     "https://www.galdieripetroli.it/lubrificanti/"
+    ],
+    [
+     "Serbatoi tank fuel, AdBlue, Portetank e Miniporter chiavi in mano",
+     "https://www.galdieripetroli.it/serbatoi/"
+    ],
+    [
+     "Erogatori Gilbarco Veeder-Root per stazioni in Campania e Basilicata",
+     "https://www.galdieripetroli.it/servizi-extrarete/"
+    ],
+    [
+     "Erogatori self DotOne (distributori ufficiali)",
+     "https://www.galdieripetroli.it/"
+    ],
+    [
+     "Detergenti Flowey per autolavaggi, trasporti e agricoltura",
+     "https://www.galdieripetroli.it/flowey/"
+    ],
+    [
+     "Servizi in stazione: autolavaggio, officina, bar e ristorazione",
+     "https://www.galdieripetroli.it/fisciano-universita/"
+    ],
+    [
+     "Colonnine di ricarica rapida Veefil (Energy)",
+     "https://www.galdierienergy.it/stazioni-di-ricarica-rapida/"
+    ],
+    [
+     "Colonnina Ricarica Fast in corrente continua",
+     "https://www.galdierienergy.it/ricarica-fast/"
+    ],
+    [
+     "Colonnina ignifuga Monolith",
+     "https://www.galdierienergy.it/monolith/"
+    ],
+    [
+     "Colonnine stand e wallbox",
+     "https://www.galdierienergy.it/stazioni-di-ricarica-stand-e-wall/"
+    ],
+    [
+     "Ricarica portatile",
+     "https://www.galdierienergy.it/ricarica-portatile/"
+    ],
+    [
+     "Noleggio operativo, installazione, manutenzione e pratiche incentivi delle colonnine",
+     "https://www.galdierienergy.it/servizi/"
+    ],
+    [
+     "Fotovoltaico, accumulo e pensilina e-parking",
+     "https://www.galdierienergy.it/fotovoltaico/"
+    ],
+    [
+     "Consulenza contratti luce e gas con il partner Smart Agency",
+     "https://www.galdierienergy.it/fornitura-energia-elettrica-e-gas-2/"
+    ],
+    [
+     "Cleaning: linea stazioni di servizio",
+     "https://www.galdiericleaning.it/stazioni-di-servizio/"
+    ],
+    [
+     "Cleaning: linea trasporti",
+     "https://www.galdiericleaning.it/trasporti-1/"
+    ],
+    [
+     "Cleaning: linea Ho.re.ca.",
+     "https://www.galdiericleaning.it/ho-re-ca-1/"
+    ],
+    [
+     "Cleaning: linea commerciale",
+     "https://www.galdiericleaning.it/commerciale-1/"
+    ],
+    [
+     "Cleaning: linea meccanica",
+     "https://www.galdiericleaning.it/meccanica-1/"
+    ],
+    [
+     "Cleaning: sanificazione e DPI",
+     "https://www.galdiericleaning.it/sanificazione-1/"
+    ]
+   ]
+  },
+  "auto": {
+   "marchi": [
+    [
+     "Galdieri Auto",
+     "https://www.galdieriauto.it/"
+    ],
+    [
+     "Galdieri Car Service",
+     "https://www.galdiericarservice.it/"
+    ],
+    [
+     "Fiat (concessionaria dal 1989)",
+     "https://www.galdieriauto.it/fiat/"
+    ],
+    [
+     "Fiat Professional",
+     "https://www.galdieriauto.it/"
+    ],
+    [
+     "Abarth",
+     "https://www.galdieriauto.it/"
+    ],
+    [
+     "Alfa Romeo",
+     "https://www.galdieriauto.it/alfaromeo/"
+    ],
+    [
+     "Lancia",
+     "https://www.galdieriauto.it/lancia/"
+    ],
+    [
+     "Jeep",
+     "https://www.galdieriauto.it/jeep/"
+    ],
+    [
+     "Peugeot",
+     "https://www.galdieriauto.it/chi-siamo/"
+    ],
+    [
+     "Citroën",
+     "https://www.galdieriauto.it/chi-siamo/"
+    ],
+    [
+     "DS",
+     "https://www.galdieriauto.it/chi-siamo/"
+    ],
+    [
+     "Škoda",
+     "https://www.galdieriauto.it/chi-siamo/"
+    ],
+    [
+     "BYD",
+     "https://www.galdieriauto.it/dolphin-g/"
+    ],
+    [
+     "Omoda",
+     "https://www.galdieriauto.it/omoda/"
+    ],
+    [
+     "Jaecoo",
+     "https://www.galdieriauto.it/jaecoo/"
+    ],
+    [
+     "Leapmotor (sede di Monteforte Irpino)",
+     "https://www.galdieriauto.it/diventa-partner/"
+    ],
+    [
+     "Dongfeng",
+     "https://www.galdieriauto.it/diventa-partner/"
+    ],
+    [
+     "Foton",
+     "https://www.galdieriauto.it/foton/"
+    ],
+    [
+     "EMC (Eurasia Motor Company)",
+     "https://www.galdieriauto.it/eurasia-motor-company/"
+    ],
+    [
+     "EVO",
+     "https://www.galdieriauto.it/diventa-partner/"
+    ],
+    [
+     "Focaccia Group (allestimenti)",
+     "https://www.galdieriauto.it/focaccia-group/"
+    ],
+    [
+     "Lamberet (furgonature frigorifere)",
+     "https://www.galdieriauto.it/lamberet-soluzioni-trasporto-refrigerato/"
+    ],
+    [
+     "BRC e Prins (impianti GPL)",
+     "https://www.galdiericarservice.it/servizi/"
+    ],
+    [
+     "Usato Selection",
+     "https://www.galdieriauto.it/"
+    ],
+    [
+     "My Garage (portale per dealer)",
+     "https://www.galdieriauto.it/diventa-partner/"
+    ],
+    [
+     "Boat Experience",
+     "https://www.galdieriauto.it/boat-experience/"
+    ]
+   ],
+   "n": [
+    24,
+    "https://www.galdieriauto.it/"
+   ],
+   "top": [
+    "Concessionaria Fiat dal 1989, oggi 18 marchi tra Stellantis e costruttori cinesi in 8 sedi (Salerno, Avellino, Benevento, Napoli)",
+    "https://www.galdieriauto.it/chi-siamo/"
+   ],
+   "rete": [
+    0,
+    "Nessuna stazione di servizio sui siti di Galdieri Auto e Car Service",
+    "https://www.galdieriauto.it/"
+   ],
+   "aut": [
+    0,
+    "Nessuna area di servizio sui siti di Galdieri Auto e Car Service",
+    "https://www.galdieriauto.it/"
+   ],
+   "gnl": [
+    1,
+    "Car Service installa impianti GPL BRC e Prins e revisiona le auto a GPL e metano",
+    "https://www.galdiericarservice.it/servizi/"
+   ],
+   "ele": [
+    0,
+    "Vende auto elettriche e plug-in (BYD, Leapmotor, Omoda, Jaecoo) ma nessuna wallbox o colonnina in offerta",
+    "https://www.galdieriauto.it/chi-siamo/"
+   ],
+   "adb": [
+    0,
+    "Nessun AdBlue o additivo in vendita sui siti di Auto e Car Service",
+    "https://www.galdiericarservice.it/servizi/"
+   ],
+   "card": [
+    0,
+    "Nessuna fuel card sui siti di Auto e Car Service",
+    "https://www.galdieriauto.it/"
+   ],
+   "ingr": [
+    0,
+    "Nessuna fornitura di carburanti all'ingrosso",
+    "https://www.galdieriauto.it/"
+   ],
+   "lub": [
+    0,
+    "L'olio entra solo nel tagliando; nessuna vendita di lubrificanti",
+    "https://www.galdieriauto.it/prenota-tagliando-salerno/"
+   ],
+   "luce": [
+    0,
+    "Nessuna offerta luce e gas",
+    "https://www.galdieriauto.it/"
+   ],
+   "clean": [
+    0,
+    "Nessun prodotto o servizio di pulizia e sanificazione",
+    "https://www.galdiericarservice.it/servizi/"
+   ],
+   "nuovo": [
+    1,
+    "Auto nuove di 18 marchi: Fiat, Jeep, Alfa Romeo, Lancia, Peugeot, Citroën, DS, Škoda, BYD, Omoda, Jaecoo e altri",
+    "https://www.galdieriauto.it/auto-nuove/"
+   ],
+   "usato": [
+    1,
+    "Usato e km0 multimarca, sede Usato Selection a Mercogliano",
+    "https://www.galdieriauto.it/auto-usate/"
+   ],
+   "vc": [
+    1,
+    "Fiat Professional e furgoni Citroën e Peugeot; allestimenti Focaccia Group e furgonature frigo Lamberet",
+    "https://www.galdieriauto.it/lamberet-soluzioni-trasporto-refrigerato/"
+   ],
+   "off": [
+    1,
+    "Galdieri Car Service: officine autorizzate a Fisciano, Fuorni e Atripalda, carrozzeria, pneumatici, cristalli, ricambi",
+    "https://www.galdiericarservice.it/servizi/"
+   ],
+   "nlt": [
+    1,
+    "Noleggio a lungo termine per privati e aziende dalle sedi di Fisciano e Fuorni",
+    "https://www.galdieriauto.it/noleggio-auto-salerno/"
+   ],
+   "nbt": [
+    1,
+    "Noleggio a breve termine dalle sedi di Fisciano e Fuorni",
+    "https://www.galdieriauto.it/noleggio-auto-salerno/"
+   ],
+   "fin": [
+    1,
+    "Finanziamenti su nuovo, km0 e usato; polizze RC auto (iscrizione RUI E000114046)",
+    "https://www.galdieriauto.it/servizi-finanziari-salerno/"
+   ],
+   "servizi": [
+    [
+     "Auto nuove di 18 marchi",
+     "https://www.galdieriauto.it/auto-nuove/"
+    ],
+    [
+     "Auto km0",
+     "https://www.galdieriauto.it/auto-km0/"
+    ],
+    [
+     "Usato multimarca e sede Usato Selection a Mercogliano",
+     "https://www.galdieriauto.it/auto-usate/"
+    ],
+    [
+     "Configuratore online",
+     "https://www.galdieriauto.it/configura-la-tua-auto/"
+    ],
+    [
+     "Valutazione e permuta dell'usato",
+     "https://www.galdieriauto.it/valuta-la-tua-auto/"
+    ],
+    [
+     "Veicoli commerciali Fiat Professional e promo furgoni",
+     "https://www.galdieriauto.it/promo-veicoli-commerciali-ottobre26/"
+    ],
+    [
+     "Allestimenti speciali Focaccia Group (dealer per Salerno e provincia)",
+     "https://www.galdieriauto.it/focaccia-group/"
+    ],
+    [
+     "Furgonature frigorifere Lamberet (dealer per la Campania)",
+     "https://www.galdieriauto.it/lamberet-soluzioni-trasporto-refrigerato/"
+    ],
+    [
+     "Finanziamenti su nuovo, km0 e usato",
+     "https://www.galdieriauto.it/servizi-finanziari-salerno/"
+    ],
+    [
+     "Polizze RC auto e tutela legale (iscrizione RUI E000114046)",
+     "https://www.galdieriauto.it/servizi-assicurativi-migliore-soluzione-polizza-auto/"
+    ],
+    [
+     "Noleggio a breve e lungo termine dalle sedi di Fisciano e Fuorni",
+     "https://www.galdieriauto.it/noleggio-auto-salerno/"
+    ],
+    [
+     "Tagliando e assistenza autorizzata a Fisciano, Fuorni e Atripalda",
+     "https://www.galdieriauto.it/assistenza-ricambi-salerno/"
+    ],
+    [
+     "Carrozzeria e verniciatura a forno",
+     "https://www.galdieriauto.it/carrozzeria-salerno/"
+    ],
+    [
+     "Riparazione e sostituzione cristalli",
+     "https://www.galdieriauto.it/cristalli-auto-salerno/"
+    ],
+    [
+     "Pneumatici con misuratore Tyre Profiler",
+     "https://www.galdieriauto.it/pneumatici-auto-salerno/"
+    ],
+    [
+     "Centro revisioni MCTC",
+     "https://www.galdieriauto.it/centro-revisioni-salerno/"
+    ],
+    [
+     "Revisione auto a GPL e a metano",
+     "https://www.galdiericarservice.it/revisione-auto-con-impianto-gpl/"
+    ],
+    [
+     "Installazione impianti GPL BRC e Prins",
+     "https://www.galdiericarservice.it/servizi/"
+    ],
+    [
+     "Manutenzione in convenzione con Leasys, Ald, Leaseplan, Athlon, Unipol Rental, Volkswagen Leasing, Santander",
+     "https://www.galdiericarservice.it/servizi/"
+    ],
+    [
+     "Doppi comandi, gancio traino, adattamento per disabili, trasformazione autocarro",
+     "https://www.galdiericarservice.it/servizi/"
+    ],
+    [
+     "Ricambi e accessori originali e multimarca al dettaglio",
+     "https://www.galdiericarservice.it/servizi/"
+    ],
+    [
+     "Auto sostitutiva",
+     "https://www.galdieriauto.it/assistenza-ricambi-salerno/"
+    ],
+    [
+     "Portale My Garage per concessionari partner (stock prenotabile)",
+     "https://www.galdieriauto.it/diventa-partner/"
+    ],
+    [
+     "Boat Experience: noleggio barca con skipper in Costiera Amalfitana",
+     "https://www.galdieriauto.it/boat-experience/"
+    ]
+   ]
+  },
+  "rent": {
+   "marchi": [
+    [
+     "Galdieri Rent (noleggio lungo termine)",
+     "https://galdierirent.it/"
+    ],
+    [
+     "Galdieri Rent breve termine",
+     "https://brevetermine.galdierirent.it/noleggio-breve-termine/"
+    ],
+    [
+     "Noleggio medio termine",
+     "https://brevetermine.galdierirent.it/che-cose-il-medio-termine-e-come-funziona/"
+    ],
+    [
+     "Freewheeling (stock in pronta consegna)",
+     "https://brevetermine.galdierirent.it/freewheeling/"
+    ],
+    [
+     "Point Galdieri Rent (rete affiliata)",
+     "https://galdierirent.it/i-nostri-point"
+    ],
+    [
+     "Convenzioni Galdieri Rent",
+     "https://galdierirent.it/convenzioni"
+    ],
+    [
+     "Leasys (casa locatrice)",
+     "https://brevetermine.galdierirent.it/assistenza-nel-noleggio-lungo-termine/"
+    ],
+    [
+     "Arval (casa locatrice)",
+     "https://brevetermine.galdierirent.it/assistenza-nel-noleggio-lungo-termine/"
+    ]
+   ],
+   "n": [
+    13,
+    "https://galdierirent.it/"
+   ],
+   "top": [
+    "Noleggio lungo termine venduto da una rete di Point affiliati, come broker con 9 mandati di case locatrici",
+    "https://brevetermine.galdierirent.it/chi-siamo/"
+   ],
+   "rete": [
+    0,
+    "Nessuna stazione di servizio sui siti di Galdieri Rent",
+    "https://galdierirent.it/"
+   ],
+   "aut": [
+    0,
+    "Nessuna area di servizio sui siti di Galdieri Rent",
+    "https://galdierirent.it/"
+   ],
+   "gnl": [
+    0,
+    "Nessuna offerta di GPL, metano o GNL",
+    "https://galdierirent.it/"
+   ],
+   "ele": [
+    0,
+    "Noleggia auto elettriche ma carburante e ricarica sono esclusi dal canone",
+    "https://galdierirent.it/noleggio-lungo-termine"
+   ],
+   "adb": [
+    0,
+    "Nessun AdBlue o additivo",
+    "https://galdierirent.it/"
+   ],
+   "card": [
+    0,
+    "Nessuna fuel card: il carburante è escluso dal canone",
+    "https://galdierirent.it/noleggio-lungo-termine"
+   ],
+   "ingr": [
+    0,
+    "Nessuna fornitura di carburanti",
+    "https://galdierirent.it/"
+   ],
+   "lub": [
+    0,
+    "Nessuna vendita di lubrificanti",
+    "https://galdierirent.it/"
+   ],
+   "luce": [
+    0,
+    "Nessuna offerta luce e gas",
+    "https://galdierirent.it/"
+   ],
+   "clean": [
+    0,
+    "Nessun prodotto o servizio di pulizia",
+    "https://galdierirent.it/"
+   ],
+   "nuovo": [
+    0,
+    "Noleggia auto nuove ma non le vende",
+    "https://galdierirent.it/"
+   ],
+   "usato": [
+    0,
+    "Nessuna vendita di usato (le parole auto usate compaiono solo come etichette del blog)",
+    "https://galdierirent.it/blog"
+   ],
+   "vc": [
+    1,
+    "Furgoni a noleggio lungo termine, per esempio Fiat Scudo Van da 436 euro al mese più IVA",
+    "https://galdierirent.it/noleggio-lungo-termine/fiat/scudo"
+   ],
+   "off": [
+    0,
+    "Nessuna officina propria: la manutenzione è nel canone della casa locatrice",
+    "https://galdierirent.it/noleggio-lungo-termine"
+   ],
+   "nlt": [
+    1,
+    "Noleggio lungo termine per privati, partite IVA e aziende: oltre 90 offerte, 21 marchi, 54 Point affiliati",
+    "https://galdierirent.it/"
+   ],
+   "nbt": [
+    1,
+    "Noleggio breve termine con ritiro in aeroporti e stazioni (Capodichino, Fiumicino, Malpensa e altri), più medio termine",
+    "https://brevetermine.galdierirent.it/noleggio-breve-termine/"
+   ],
+   "fin": [
+    0,
+    "RCA e Kasko sono dentro il canone; nessun finanziamento o polizza venduti a parte",
+    "https://brevetermine.galdierirent.it/che-cose-il-medio-termine-e-come-funziona/"
+   ],
+   "servizi": [
+    [
+     "Noleggio lungo termine per privati",
+     "https://galdierirent.it/noleggio-lungo-termine/offerte/offerte-privati"
+    ],
+    [
+     "Noleggio lungo termine per aziende e partite IVA",
+     "https://galdierirent.it/noleggio-lungo-termine/offerte/offerte-aziende"
+    ],
+    [
+     "Offerte senza anticipo",
+     "https://galdierirent.it/noleggio-lungo-termine/senza-anticipo"
+    ],
+    [
+     "Offerte in pronta consegna",
+     "https://galdierirent.it/noleggio-lungo-termine/pronta-consegna"
+    ],
+    [
+     "Consulente virtuale in 9 domande",
+     "https://galdierirent.it/trova-veicolo"
+    ],
+    [
+     "Convenzioni con ordini, enti e associazioni",
+     "https://galdierirent.it/convenzioni"
+    ],
+    [
+     "Rete di 54 Point affiliati in 13 regioni",
+     "https://galdierirent.it/i-nostri-point"
+    ],
+    [
+     "Affiliazione: apri un Point in zona esclusiva",
+     "https://galdierirent.it/apri-un-point"
+    ],
+    [
+     "Noleggio breve termine con ritiro in aeroporti e stazioni",
+     "https://brevetermine.galdierirent.it/noleggio-breve-termine/"
+    ],
+    [
+     "Noleggio medio termine da 9 a 24 mesi",
+     "https://brevetermine.galdierirent.it/che-cose-il-medio-termine-e-come-funziona/"
+    ],
+    [
+     "Affiliazione: apri un punto di noleggio breve termine",
+     "https://brevetermine.galdierirent.it/apri-il-tuo-punto-noleggio-breve-termine/"
+    ],
+    [
+     "Freewheeling: stock di oltre 1.000 veicoli multimarca in pronta consegna",
+     "https://brevetermine.galdierirent.it/freewheeling/"
+    ],
+    [
+     "Assistenza durante il contratto (numero verde e numeri delle case locatrici)",
+     "https://brevetermine.galdierirent.it/assistenza-nel-noleggio-lungo-termine/"
+    ]
+   ]
+  }
+ },
+ "an": [
+  "Il gruppo copre tutte le 17 voci della gamma, ma quasi ognuna da una sola divisione: Petroli 11 (tutta l'energia, dalla pompa al contratto luce e gas), Auto 8 (la vita del veicolo, dalla vendita all'officina), Rent 3 (noleggio). Le voci doppie sono solo 5: noleggio lungo e breve (Auto e Rent), veicoli commerciali (vendita e allestimenti da Auto, furgoni a noleggio da Rent), officina (Car Service e le officine nelle aree di servizio Petroli), GPL e metano (Petroli li vende, Car Service installa e revisiona gli impianti). Il doppione sul noleggio è solo apparente: il marchio e i siti di Rent sono di Galdieri Auto S.r.l. (in fondo «© Galdieri Auto S.r.l.», P.IVA 02590540650), mentre flotta e contratti stanno in Sistem Rental S.r.l. (P.IVA 02406230652), società del gruppo con sede a Bolzano (piè di pagina di rentalbusiness.galdierirent.it e privacy policy di galdierigroup.it).",
+  "Il percorso del cliente c'è già nei luoghi, non ancora nell'offerta. Auto vende 18 marchi in 8 sedi, Rent noleggia con 9 mandati di case locatrici e 54 Point affiliati, Petroli rifornisce con 11 stazioni e la carta IP Plus, Car Service ripara, anche in convenzione con Leasys, Ald, Leaseplan, Athlon e Unipol Rental. A Fuorni (SS18 km 62+173) stazione Galdieri Petroli e concessionaria con officina hanno lo stesso indirizzo; a Lancusi (SR88 km 10+400) stanno sede Auto e sede Rent, a poca distanza dal deposito. Nessun sito però lega i passaggi: chi compra l'auto non trova una carta carburante del gruppo, il canone Rent esclude carburante e ricarica senza indicare le stazioni Galdieri, Car Service non rimanda alle colonnine Energy.",
+  "Il buco più evidente è la ricarica elettrica. Auto vende BYD, Leapmotor e plug-in Omoda e Jaecoo, Car Service si dice certificata per i veicoli ad alto voltaggio, Energy vende wallbox, colonnine e il loro noleggio operativo: eppure la wallbox non compare accanto all'auto elettrica (0 per Auto alla voce ricarica). Lo stesso vale per le flotte: la fuel card IP Plus (circa 1.200 clienti, 21 milioni di litri) resta dentro Petroli, mentre le aziende e le partite IVA le servono Auto e Rent. Carta carburante e wallbox offerte insieme al contratto sono le vendite incrociate più immediate.",
+  "Luce e gas sono il punto più fragile della gamma Petroli. Il sito di Energy li presenta come consulenza tramite il partner Smart Agency, che confronta più fornitori; la pagina «La strada» di galdierigroup.it parla invece di un ramo dedicato alla «vendita all'ingrosso e al dettaglio di energia elettrica e gas». Prima di spingere l'offerta conviene decidere cosa è davvero: rivendita propria o segnalazione a un partner. Anche Cleaning vende prodotti (Flowey, Kent, DPI) e non servizi di pulizia: il nome promette più di quello che c'è in pagina.",
+  "Per la riorganizzazione del marchio pesano le incoerenze tra siti. Rent dichiara 92 touch point (home e guida), 54 Point affiliati (pagina dei Point, 54 schede nella mappa del sito) e oltre 100 point con 5 sedi (pagina «chi siamo» del breve termine e galdierigroup.it). Le colonnine sono in 7 stazioni su 11 per Energy e galdierigroup.it, in tutte le 11 per la storia di Petroli, in 10 impianti per la pagina delle stazioni. galdierigroup.it dà ad Auto 3 sedi, galdieriauto.it ne elenca 8 in 4 province. La home di Rent mette il bollo nel canone, la sua guida dice che dal 2021 non c'è più. Restano online anche pagine modello: galdieripetroli.it/faq/ con testo segnaposto in inglese e /wireframes/.",
+  "Il sito di Auto porta anche attività lontane dall'auto: Boat Experience (barca con skipper in Costiera Amalfitana), serate a Napoli, il portale My Garage che apre lo stock ad altri concessionari. Le pagine di officina sono doppie, su galdieriauto.it e su galdiericarservice.it, con la stessa partita IVA. Nell'architettura gruppo + 6 marchi servono tre decisioni: dove sta la barca (con Rent, se è noleggio), se Car Service tiene un sito suo o diventa una sezione di Auto, e quanto spazio dare ai marchi cinesi accanto a quelli Stellantis."
+ ]
+}

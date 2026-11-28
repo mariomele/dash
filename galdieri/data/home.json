@@ -1,0 +1,87 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "n": "Frasi di sintesi scritte dall'orchestratore leggendo i dati e le analisi della dashboard; ogni numero viene dalla sezione indicata.",
+ "sintesi": {
+  "gruppo": {
+   "t": "Tre società operative sotto Galdieri Holding Real Estate: Auto fa l'83% dei ricavi e il 78% dell'utile, Rent ha la rete più fitta, Petroli è la capogruppo storica ma con ricavi in calo.",
+   "s": "val"
+  },
+  "confronto": {
+   "t": "Auto fa 680 M€ di ricavi e 6,8 M€ di utile; Petroli 105 M€ e 1,4 M€; Rent (Sistem Rental) 35 M€ e 0,5 M€.",
+   "s": "val"
+  },
+  "storico": {
+   "t": "Petroli scende da 187,5 a 105,3 M€ fra 2022 e 2025; Auto e Rent crescono, ma una parte dei ricavi di Auto sono vendite a Rent.",
+   "s": "val"
+  },
+  "gamma": {
+   "t": "Petroli ha l'offerta più larga (carburanti, ingrosso, energia, pulizia), Auto vende auto nuove, usate e officina, Rent noleggio breve e lungo: poche cose sono vendute insieme.",
+   "s": "val"
+  },
+  "stabilimenti": {
+   "t": "113 punti: quasi tutti della rete Rent (point e stazioni); Petroli e Auto sono concentrati fra Salerno e Avellino.",
+   "s": "val"
+  },
+  "osint": {
+   "t": "Ultimi segnali: premi alla crescita di Rent, bilancio di sostenibilità e parità di genere per Auto, ricerca di commerciali per il noleggio a lungo termine.",
+   "s": "val"
+  },
+  "standing": {
+   "t": "Auto ha il marchio più forte (68/100), Petroli 45, Rent 32: Rent ha pubblico e sito migliori ma poca notorietà fuori dal nome.",
+   "s": "val"
+  },
+  "marchio": {
+   "t": "Sette marchi, sette aspetti: nessuno usa il fucsia del gruppo e nessun logo supera 3/10 sulla scala mondiale.",
+   "s": "val"
+  },
+  "sito": {
+   "t": "Sette siti scollegati: Rent è il migliore (3,82), Petroli il penultimo (2,12) con foto sgranate e nessun pulsante di contatto.",
+   "s": "val"
+  },
+  "social": {
+   "t": "Rent ha il 59% dei follower del gruppo, Auto il marketing più costante; l'Instagram di Petroli è fermo dal 2023.",
+   "s": "val"
+  },
+  "engag": {
+   "t": "Per Auto funzionano i reel di prodotto il pomeriggio (85 interazioni medie contro 16 al mattino) e il basket (112 contro 49).",
+   "s": "val"
+  },
+  "pubblicita": {
+   "t": "Annunci attivi: Rent 16 su Meta e 2 su Google, Auto 10 su Meta (con Car Service) e nessuno su Google, Petroli nessuno.",
+   "s": "val"
+  },
+  "seo": {
+   "t": "Rent è cercato quasi solo per nome (galdieri rent 18.100 ricerche al mese); Petroli ha circa 1.100 visite al mese.",
+   "s": "val"
+  },
+  "seo2": {
+   "t": "Ricerche scoperte: «noleggio auto salerno» (2.400) e «noleggio lungo termine partita iva» (880), dove Rent non compare; «gasolio agricolo» (3.600) per Petroli.",
+   "s": "val"
+  },
+  "reputazione": {
+   "t": "Voti Google medi pesati sulle recensioni: Rent 4,45, Auto 4,27, Petroli 4,00; il punto debole è Capodichino (3,6 su 454).",
+   "s": "val"
+  },
+  "llmm": {
+   "t": "Le risposte AI citano Auto in 8 risposte su 40; Rent mai sul noleggio a lungo termine, Galdieri mai su noleggio, GNL e gasolio.",
+   "s": "val"
+  },
+  "amarca": {
+   "t": "4 maestri su 7 propongono una firma comune (la G fucsia su tutti i marchi) e tre divisioni con i servizi sotto; 4 su 7 toglierebbero «Group».",
+   "s": "val"
+  },
+  "asales": {
+   "t": "Leva principale: vendere insieme quello che il gruppo già ha (carta IP Plus, wallbox Energy, officina, noleggio) in un pacchetto «Flotta Galdieri».",
+   "s": "val"
+  },
+  "amkt": {
+   "t": "Prima un sistema di marca di gruppo (G fucsia + mestiere, un colore per divisione), poi Petroli online e Rent sulle ricerche non di marca.",
+   "s": "val"
+  },
+  "apov": {
+   "t": "Media dei voti di 11 figure: Auto 6,0, Rent 5,6, Petroli 4,9, gruppo 5,1. Nessuna divisione prende 8.",
+   "s": "val"
+  }
+ }
+}

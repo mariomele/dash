@@ -1,0 +1,713 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "crit": [
+  [
+   "rid",
+   "Riduzione",
+   "Regge a 16 px (favicon, avatar), su un adesivo della pensilina o un ricamo?"
+  ],
+  [
+   "mono",
+   "Un colore",
+   "Funziona in un solo colore e in negativo senza perdere l'idea?"
+  ],
+  [
+   "dist",
+   "Distintività",
+   "Si distingue dai marchi del settore (compagnie petrolifere, case auto, noleggiatori)?"
+  ],
+  [
+   "tipo",
+   "Costruzione",
+   "Lettere, spaziature e segno sono disegnati con cura e in proporzione?"
+  ],
+  [
+   "sist",
+   "Sistema",
+   "Fa famiglia con il logo di gruppo e con gli altri 5 marchi?"
+  ],
+  [
+   "sett",
+   "Codici di settore",
+   "Dice subito il mestiere senza cadere nel cliché?"
+  ],
+  [
+   "dur",
+   "Durata",
+   "Reggerà 10 anni senza sembrare datato?"
+  ],
+  [
+   "prem",
+   "Premium",
+   "Comunica qualità e affidabilità sopra la media locale?"
+  ],
+  [
+   "ess",
+   "Essenzialità",
+   "Ha solo ciò che serve, senza ombre, fili e dettagli in più?"
+  ]
+ ],
+ "regola": "Media semplice dei 9 criteri (1-5). Classe: Riferimento da 4,0, Solido da 3,3, Nella norma da 2,8, Debole da 2,1, sotto Da rifare. Global logo index = (media − 1,75) × 2,2, arrotondato, da 1 a 10 (il 9-10 è dei 10 loghi mondiali). La posizione segue la media.",
+ "by": "Lettura dei 7 loghi del Gruppo Galdieri (marchio di gruppo + 6 marchi) presi dall'intestazione dei siti il 28/11/2026, guardati a grandezza piena e a 16-32 px.",
+ "teamBy": "Panel simulato di 7 ruoli: tipografo, brand strategist, art director digitale, esperto di marchi registrati, cliente del target (automobilista o azienda con flotta, secondo il marchio), designer di insegne e ambienti (stazioni, showroom, officine, point, mezzi), responsabile di rete retail. Sono ruoli, non persone o studi reali. Taratura severa: nessuno sconto al cliente.",
+ "top": [
+  "Apple",
+  "Nike",
+  "Coca-Cola",
+  "McDonald's",
+  "Google",
+  "Mercedes-Benz",
+  "FedEx",
+  "Starbucks",
+  "Disney",
+  "IBM"
+ ],
+ "topSrc": "https://celerart.com/blog/the-10-greatest-logos-of-all-time-and-why-they-work-so-well",
+ "mondoNota": "Scala Mondo severa, la stessa di siti e social: 10 i migliori al mondo, 8 i migliori industriali, 6 eccellente per il settore, 4 corretto ma ordinario, 3 datato. Nessun logo del gruppo supera 3.",
+ "n": "Il cruscotto ha 3 «aziende» (le divisioni petroli, auto, rent): le viste dei loghi mostrano solo i loro 3 marchi principali. I voti di Galdieri Group, Energy, Cleaning e Car Service sono qui sotto le chiavi gruppo, energy, cleaning, carservice (campo div = divisione) e riassunti in cliente.sottomarchi.",
+ "classifica": [
+  [
+   1,
+   "auto",
+   "Galdieri Auto",
+   3,
+   "Nella norma",
+   3
+  ],
+  [
+   2,
+   "cleaning",
+   "Galdieri Cleaning",
+   2.89,
+   "Nella norma",
+   3
+  ],
+  [
+   3,
+   "gruppo",
+   "Galdieri Group",
+   2.67,
+   "Debole",
+   2
+  ],
+  [
+   4,
+   "petroli",
+   "Galdieri Petroli",
+   2.56,
+   "Debole",
+   2
+  ],
+  [
+   5,
+   "rent",
+   "Galdieri Rent",
+   2.44,
+   "Debole",
+   2
+  ],
+  [
+   6,
+   "energy",
+   "Galdieri Energy",
+   2.22,
+   "Debole",
+   1
+  ],
+  [
+   7,
+   "carservice",
+   "Galdieri Car Service",
+   2.11,
+   "Debole",
+   1
+  ]
+ ],
+ "logos": {
+  "gruppo": {
+   "c": {
+    "rid": 3,
+    "mono": 2,
+    "dist": 3,
+    "tipo": 3,
+    "sist": 1,
+    "sett": 3,
+    "dur": 3,
+    "prem": 2,
+    "ess": 4
+   },
+   "v": "Il logo più curato del gruppo, ma il suo fucsia e il suo carattere geometrico non compaiono in nessuno dei 6 marchi.",
+   "pro": [
+    "Il fucsia è una tinta rara fra i marchi di carburanti, auto e noleggio: è un patrimonio.",
+    "G nel quadrato arrotondato: un segno compatto già pronto per favicon e avatar.",
+    "GALDIERI bold e GROUP light: gerarchia chiara fra nome e descrittore."
+   ],
+   "contro": [
+    "Tre colori (fucsia, filo arancio, grigio): in un colore solo il filo sparisce e resta un G qualsiasi.",
+    "Carattere geometrico in maiuscolo, diverso dal sans umanista usato da tutti i marchi: il gruppo non firma la famiglia.",
+    "La G è quella di un carattere da catalogo, senza un dettaglio proprio."
+   ],
+   "fix": "Fare del G fucsia il segno di firma di tutti i marchi e togliere il filo arancio; un solo carattere per gruppo e marchi.",
+   "u": [
+    "https://www.galdierigroup.it/website/wp-content/uploads/2021/05/Logo-Galdieri-Group-Pos.svg"
+   ],
+   "div": null,
+   "nome": "Galdieri Group"
+  },
+  "petroli": {
+   "c": {
+    "rid": 2,
+    "mono": 3,
+    "dist": 2,
+    "tipo": 2,
+    "sist": 3,
+    "sett": 4,
+    "dur": 3,
+    "prem": 2,
+    "ess": 2
+   },
+   "v": "Un emblema da compagnia petrolifera locale, con la pompa dentro una G a filo: si legge il mestiere, non il marchio.",
+   "pro": [
+    "Il blu e la pompa dicono carburanti in un attimo.",
+    "Galdieri bold + PETROLI regular è la stessa grammatica di Energy e Cleaning: c'è un inizio di sistema.",
+    "In un solo colore blu il logotipo regge."
+   ],
+   "contro": [
+    "La pompa dentro la G a filo si impasta sotto i 32 px.",
+    "Blu e arancio del sito sono quelli di IP, il partner: in stazione il marchio Galdieri sparisce dietro la compagnia.",
+    "Tre elementi (riquadro, G, pompa) dove ne basterebbe uno."
+   ],
+   "fix": "Togliere la pompa e il riquadro, tenere una G piena firmata dal segno di gruppo; colore proprio diverso dal blu IP.",
+   "u": [
+    "https://www.galdieripetroli.it/wp-content/uploads/2023/07/Logo-Galdieri-Petroli-Web-Positivo-uai-258x37.png"
+   ],
+   "div": "petroli",
+   "nome": "Galdieri Petroli"
+  },
+  "energy": {
+   "c": {
+    "rid": 2,
+    "mono": 2,
+    "dist": 2,
+    "tipo": 2,
+    "sist": 3,
+    "sett": 4,
+    "dur": 2,
+    "prem": 1,
+    "ess": 2
+   },
+   "v": "Il fulmine sulla G è il cliché dell'elettrico e appesantisce un marchio che non sa se vende colonnine o luce e gas.",
+   "pro": [
+    "L'arancio è caldo e visibile, e lo lega alla linea arancio del logo di gruppo.",
+    "Stessa struttura di Petroli e Cleaning: Galdieri bold + descrittore in maiuscolo.",
+    "Si capisce subito che parla di energia."
+   ],
+   "contro": [
+    "Fulmine sovrapposto con ombre e fili: a piccola misura diventa un groviglio.",
+    "Il fulmine è il segno di metà dei marchi dell'elettrico: distintività quasi nulla.",
+    "Sembra un logo del 2010: invecchierà prima degli altri."
+   ],
+   "fix": "Eliminare il fulmine, tenere la G del sistema e affidare l'energia al colore e al descrittore.",
+   "u": [
+    "https://www.galdierienergy.it/website/wp-content/uploads/2021/01/cropped-Logo-Galdieri-Energy.png"
+   ],
+   "div": "petroli",
+   "nome": "Galdieri Energy"
+  },
+  "cleaning": {
+   "c": {
+    "rid": 3,
+    "mono": 3,
+    "dist": 2,
+    "tipo": 3,
+    "sist": 3,
+    "sett": 4,
+    "dur": 3,
+    "prem": 2,
+    "ess": 3
+   },
+   "v": "Il più ordinato dei tre emblemi: G turchese tonda e logotipo leggero, ma esiste solo in bianco su grigio scuro.",
+   "pro": [
+    "G tonda e piena: regge meglio delle altre a piccola misura.",
+    "Il turchese dice pulizia senza cadere nella goccia d'acqua più banale.",
+    "CLEANING light bilancia bene Galdieri bold."
+   ],
+   "contro": [
+    "Pubblicato solo in negativo: su carta intestata e flaconi bianchi manca la versione positiva.",
+    "Turchese e scudo sono codici comuni dei detergenti.",
+    "Lo scudo dentro la G è un dettaglio che a 16 px si perde."
+   ],
+   "fix": "Pubblicare la versione positiva e quella a un colore; usare la G come modello per gli altri emblemi del gruppo.",
+   "u": [
+    "https://www.galdiericleaning.it/wp-content/uploads/2022/05/Logo-Galdieri-Cleaning-Trasparente-Header.png"
+   ],
+   "div": "petroli",
+   "nome": "Galdieri Cleaning"
+  },
+  "auto": {
+   "c": {
+    "rid": 2,
+    "mono": 4,
+    "dist": 2,
+    "tipo": 3,
+    "sist": 3,
+    "sett": 3,
+    "dur": 4,
+    "prem": 2,
+    "ess": 4
+   },
+   "v": "Logotipo pulito e leggibile, senza segno: corretto per una concessionaria, ma non firma il gruppo e non ha nulla da usare in piccolo.",
+   "pro": [
+    "Sans umanista ben spaziato, leggibile su ogni fondo.",
+    "Bianco su blu, un colore solo: regge su insegne e piastre targa.",
+    "Stessa grammatica di Rent e Car Service (Galdieri bold + descrittore)."
+   ],
+   "contro": [
+    "Nessun segno: la favicon è una «g» in un file JPG a parte.",
+    "Accanto ai 18 marchi auto della home non si distingue da un qualsiasi dealer.",
+    "Il blu non è quello di Petroli né il fucsia del gruppo."
+   ],
+   "fix": "Affiancare il segno G di gruppo al logotipo e fissare un solo blu (o il colore di gruppo) per Auto e Car Service.",
+   "u": [
+    "https://cdnwp.dealerk.com/db9dcb90/uploads/sites/2/2024/10/logo-galdieriauto-no-brand.png"
+   ],
+   "div": "auto",
+   "nome": "Galdieri Auto"
+  },
+  "carservice": {
+   "c": {
+    "rid": 1,
+    "mono": 3,
+    "dist": 1,
+    "tipo": 2,
+    "sist": 2,
+    "sett": 3,
+    "dur": 3,
+    "prem": 2,
+    "ess": 2
+   },
+   "v": "Il marchio si chiama Car Service ma il logo dice «Galdieri AutoService», in tre pesi e due colori su una riga lunghissima.",
+   "pro": [
+    "Stesso sans di Auto: si capisce la parentela con la concessionaria.",
+    "L'azzurro su «Service» indica il servizio.",
+    "Leggibile a misura grande."
+   ],
+   "contro": [
+    "Nome nel logo diverso da dominio, social e report (Car Service, CarService): tre nomi per un marchio.",
+    "Proporzione 12 a 1: sotto i 150 px è illeggibile, nessun segno compatto.",
+    "Tre pesi e due colori in una parola: l'occhio non sa dove fermarsi."
+   ],
+   "fix": "Decidere un nome (Galdieri Car Service o Galdieri Service) e ridisegnarlo come gli altri: Galdieri bold + un descrittore.",
+   "u": [
+    "https://www.galdiericarservice.it/wp-content/uploads/2024/07/gas-bianco-blu.webp"
+   ],
+   "div": "auto",
+   "nome": "Galdieri Car Service"
+  },
+  "rent": {
+   "c": {
+    "rid": 2,
+    "mono": 3,
+    "dist": 3,
+    "tipo": 2,
+    "sist": 2,
+    "sett": 3,
+    "dur": 2,
+    "prem": 2,
+    "ess": 3
+   },
+   "v": "Un logotipo che cambia carattere a metà parola, con un rosso che nessun altro marchio del gruppo usa: il sito è moderno, il logo no.",
+   "pro": [
+    "Il rosso dà energia e si vede bene sul fondo nero del sito.",
+    "Galdieri bold resta lo stesso degli altri marchi.",
+    "Breve e leggibile a media misura."
+   ],
+   "contro": [
+    "«rent» corsivo minuscolo in un altro carattere: due loghi incollati.",
+    "Il rosso è un codice molto usato nel noleggio e non compare in nessun altro marchio del gruppo.",
+    "Esiste solo in negativo; sito e alt del logo lo scrivono «Galdierirent» tutto attaccato."
+   ],
+   "fix": "Riportare «Rent» nel carattere di famiglia e scegliere se il rosso resta un colore di divisione dentro un sistema di gruppo.",
+   "u": [
+    "https://galdierirent.it/images/logo/galdierirent.webp"
+   ],
+   "div": "rent",
+   "nome": "Galdieri Rent"
+  }
+ },
+ "team": {
+  "gruppo": {
+   "k": "Debole",
+   "e": "Il colore giusto che nessuno usa",
+   "v": "Il logo più curato del gruppo, ma il suo fucsia e il suo carattere geometrico non compaiono in nessuno dei 6 marchi.",
+   "x": [
+    [
+     "Tipografo",
+     3,
+     "GALDIERI e GROUP ben spaziati; la G è un carattere geometrico qualsiasi, nessun disegno proprio."
+    ],
+    [
+     "Brand strategist",
+     2,
+     "È il marchio ombrello ma non ombreggia niente: nessun marchio lo porta né ne prende il colore."
+    ],
+    [
+     "Art director digitale",
+     3,
+     "Il quadrato con la G funziona come avatar; serve una versione senza filo."
+    ],
+    [
+     "Esperto di marchi registrati",
+     3,
+     "Il fucsia è la parte distintiva, da proteggere nel complesso del marchio; GALDIERI GROUP a parole è debole."
+    ],
+    [
+     "Cliente (automobilista)",
+     2,
+     "Conosco Galdieri per i distributori e la concessionaria: questo logo rosa non l'ho mai visto."
+    ],
+    [
+     "Designer di insegne e ambienti",
+     3,
+     "Su vetrine, adesivi e mezzi regge per il fucsia; il filo arancio sottile si perde in stampa e su un'insegna luminosa."
+    ],
+    [
+     "Responsabile di rete retail",
+     2,
+     "In stazione, in concessionaria e nei point il cliente non lo vede mai."
+    ]
+   ],
+   "g": 2,
+   "w": 2,
+   "wv": "Pulito ma generico nel disegno: lontano dai marchi mondiali, vale per il colore raro.",
+   "lez": "Il fucsia è l'unico elemento davvero distintivo del gruppo: oggi è chiuso nel sito istituzionale.",
+   "m": 2.67
+  },
+  "petroli": {
+   "k": "Debole",
+   "e": "Il mestiere si legge, il marchio no",
+   "v": "Un emblema da compagnia petrolifera locale, con la pompa dentro una G a filo: si legge il mestiere, non il marchio.",
+   "x": [
+    [
+     "Tipografo",
+     3,
+     "Galdieri bold ben disegnato; PETROLI in maiuscolo regular è corretto ma anonimo."
+    ],
+    [
+     "Brand strategist",
+     2,
+     "Capogruppo storica che parla come un rivenditore: nessun segno della storia o della famiglia."
+    ],
+    [
+     "Art director digitale",
+     2,
+     "A 16 px la pompa scompare; il file pubblicato è largo 258 px e sgranato."
+    ],
+    [
+     "Esperto di marchi registrati",
+     2,
+     "Pompa e G sono elementi comuni nel settore: poco proteggibili."
+    ],
+    [
+     "Cliente (automobilista)",
+     3,
+     "Lo riconosco dal nome Galdieri, non dal disegno."
+    ],
+    [
+     "Designer di insegne e ambienti",
+     2,
+     "Su cisterne e pensiline la G con la pompa diventa una macchia; il riquadro a filo non si vernicia bene."
+    ],
+    [
+     "Responsabile di rete retail",
+     2,
+     "In stazione comanda la bandiera IP: il cliente ricorda la compagnia, non Galdieri."
+    ]
+   ],
+   "g": 2,
+   "w": 2,
+   "wv": "Emblema locale con dettagli che non reggono: in fondo alla scala mondiale.",
+   "lez": "",
+   "m": 2.56
+  },
+  "energy": {
+   "k": "Debole",
+   "e": "Fulmine di troppo",
+   "v": "Il fulmine sulla G è il cliché dell'elettrico e appesantisce un marchio che non sa se vende colonnine o luce e gas.",
+   "x": [
+    [
+     "Tipografo",
+     2,
+     "ENERGY grigio e Galdieri arancio non hanno lo stesso peso visivo; il fulmine rompe la G."
+    ],
+    [
+     "Brand strategist",
+     2,
+     "Il gruppo la presenta come luce e gas, il sito come colonnine: il logo non scioglie il dubbio."
+    ],
+    [
+     "Art director digitale",
+     2,
+     "Il ritaglio del file pubblicato è approssimativo; manca un segno pulito per l'avatar."
+    ],
+    [
+     "Esperto di marchi registrati",
+     1,
+     "Fulmine + G: elementi descrittivi, difficili da difendere."
+    ],
+    [
+     "Cliente (azienda con flotta)",
+     3,
+     "Capisco che è energia, ma non che è dei Galdieri dei distributori."
+    ],
+    [
+     "Designer di insegne e ambienti",
+     2,
+     "Sulle colonnine e sugli adesivi il simbolo con ombre si stampa male."
+    ],
+    [
+     "Responsabile di rete retail",
+     2,
+     "Nelle stazioni con colonnina compare accanto a IP e Galdieri Petroli: tre marchi in un metro."
+    ]
+   ],
+   "g": 1,
+   "w": 1,
+   "wv": "Clip-art dell'elettrico: al livello più basso della scala mondiale.",
+   "lez": "",
+   "m": 2.22
+  },
+  "cleaning": {
+   "k": "Nella norma",
+   "e": "Il segno più riuscito, solo in negativo",
+   "v": "Il più ordinato dei tre emblemi: G turchese tonda e logotipo leggero, ma esiste solo in bianco su grigio scuro.",
+   "x": [
+    [
+     "Tipografo",
+     3,
+     "Logotipo equilibrato, la G tonda è la più riuscita della famiglia."
+    ],
+    [
+     "Brand strategist",
+     3,
+     "Ruolo chiaro, ma è una linea di prodotti distribuiti (Flowey, Kent), non un marchio con prodotti propri."
+    ],
+    [
+     "Art director digitale",
+     3,
+     "Buon avatar; il file pubblicato è piccolo (235 px)."
+    ],
+    [
+     "Esperto di marchi registrati",
+     2,
+     "Elementi descrittivi del settore pulizia; proteggibile solo nel complesso."
+    ],
+    [
+     "Cliente (azienda con flotta)",
+     3,
+     "Pulito e credibile, ma non capisco che è lo stesso gruppo dei distributori."
+    ],
+    [
+     "Designer di insegne e ambienti",
+     3,
+     "Funziona sul furgone e sulla cisterna; manca la versione positiva per i mezzi bianchi e la carta intestata."
+    ],
+    [
+     "Responsabile di rete retail",
+     3,
+     "Non ha un punto vendita suo: il cliente lo vede solo sui mezzi e nei documenti, e lì è riconoscibile."
+    ]
+   ],
+   "g": 3,
+   "w": 3,
+   "wv": "Ordinato ma comune: un logo di settore nella norma, lontano dai riferimenti.",
+   "lez": "",
+   "m": 2.89
+  },
+  "auto": {
+   "k": "Nella norma",
+   "e": "Pulito e muto",
+   "v": "Logotipo pulito e leggibile, senza segno: corretto per una concessionaria, ma non firma il gruppo e non ha nulla da usare in piccolo.",
+   "x": [
+    [
+     "Tipografo",
+     3,
+     "Buona tenuta del sans umanista; Galdieri e Auto attaccati si leggono bene."
+    ],
+    [
+     "Brand strategist",
+     3,
+     "È la divisione più grande del gruppo con il logo più muto: nessuna storia, nessun segno."
+    ],
+    [
+     "Art director digitale",
+     2,
+     "Niente da mettere in un avatar o in una favicon."
+    ],
+    [
+     "Esperto di marchi registrati",
+     2,
+     "«Galdieri Auto» in un carattere da catalogo: si protegge solo il nome."
+    ],
+    [
+     "Cliente (automobilista)",
+     3,
+     "Chiaro e affidabile, ma uguale a tante concessionarie."
+    ],
+    [
+     "Designer di insegne e ambienti",
+     4,
+     "Sulle cornici targa e sulle insegne è l'unico che regge in un colore."
+    ],
+    [
+     "Responsabile di rete retail",
+     3,
+     "In showroom comandano i marchi dei costruttori: giusto restare sobri, ma nelle 8 sedi manca un segno Galdieri che leghi gli spazi."
+    ]
+   ],
+   "g": 3,
+   "w": 3,
+   "wv": "Logotipo corretto ma generico: un marchio locale ordinario sulla scala mondiale.",
+   "lez": "Il logotipo più solido del gruppo è anche quello senza segno: il G di gruppo può dargli la firma che manca.",
+   "m": 3
+  },
+  "carservice": {
+   "k": "Debole",
+   "e": "Tre nomi per un marchio",
+   "v": "Il marchio si chiama Car Service ma il logo dice «Galdieri AutoService», in tre pesi e due colori su una riga lunghissima.",
+   "x": [
+    [
+     "Tipografo",
+     2,
+     "Bold, light e colore nella stessa riga: costruzione confusa."
+    ],
+    [
+     "Brand strategist",
+     1,
+     "Il nome non coincide con il dominio e i social: è il caso più grave di incoerenza del gruppo."
+    ],
+    [
+     "Art director digitale",
+     2,
+     "Nessuna versione corta; il file pubblicato è alto 40 px."
+    ],
+    [
+     "Esperto di marchi registrati",
+     1,
+     "«Auto Service» è descrittivo e non registrabile da solo."
+    ],
+    [
+     "Cliente (automobilista)",
+     2,
+     "Non so se è un'officina della concessionaria o un'altra ditta."
+    ],
+    [
+     "Designer di insegne e ambienti",
+     2,
+     "Su tute, furgoni e insegna dell'officina la riga lunga diventa minuscola."
+    ],
+    [
+     "Responsabile di rete retail",
+     2,
+     "In officina il cliente legge Auto Service, in fattura Galdieri Auto, online Car Service."
+    ]
+   ],
+   "g": 1,
+   "w": 1,
+   "wv": "Incoerente e lungo: all'ultimo gradino della scala mondiale.",
+   "lez": "",
+   "m": 2.11
+  },
+  "rent": {
+   "k": "Debole",
+   "e": "Due caratteri incollati, un rosso fuori famiglia",
+   "v": "Un logotipo che cambia carattere a metà parola, con un rosso che nessun altro marchio del gruppo usa: il sito è moderno, il logo no.",
+   "x": [
+    [
+     "Tipografo",
+     2,
+     "Il corsivo di «rent» non ha rapporto con Galdieri bold: la giuntura si vede."
+    ],
+    [
+     "Brand strategist",
+     3,
+     "La divisione con il pubblico nazionale e la comunicazione più viva: merita un logo all'altezza del sito."
+    ],
+    [
+     "Art director digitale",
+     2,
+     "Il sito 2025 è moderno, il logo sembra di dieci anni prima."
+    ],
+    [
+     "Esperto di marchi registrati",
+     2,
+     "Rosso + «rent» descrittivo: si protegge solo il nome Galdieri."
+    ],
+    [
+     "Cliente (azienda con flotta)",
+     3,
+     "Mi ricorda un noleggio qualsiasi; non so che dietro c'è un gruppo di famiglia con oltre 70 anni di storia."
+    ],
+    [
+     "Designer di insegne e ambienti",
+     2,
+     "Su adesivi delle auto e insegne dei point il corsivo sottile soffre."
+    ],
+    [
+     "Responsabile di rete retail",
+     3,
+     "Nei point in affiliazione il rosso si nota, ma è un codice comune del noleggio: il cliente non lo lega a Galdieri."
+    ]
+   ],
+   "g": 2,
+   "w": 2,
+   "wv": "Debole nel disegno: in basso nella scala mondiale, lontano dal livello del suo sito.",
+   "lez": "Il sito di Rent è il più moderno del gruppo: il logo è rimasto indietro.",
+   "m": 2.44
+  }
+ },
+ "cliente": {
+  "sintesi": "Sette loghi, quattro lingue visive. Il marchio di gruppo ha l'unico colore davvero raro del settore, il fucsia, e un carattere geometrico in maiuscolo; ma nessuno dei 6 marchi lo usa. Petroli, Energy e Cleaning hanno ciascuno un emblema con la G disegnata in modo diverso (a filo con la pompa, con il fulmine, tonda con lo scudo) e tre colori diversi (blu, arancio, turchese); Auto, Car Service e Rent sono solo logotipi in un sans umanista, con un blu, un azzurro e un rosso. La grammatica «Galdieri bold + descrittore» è l'unico filo comune ed è un buon punto di partenza. Classifica del panel: Auto 3,00 e Cleaning 2,89 nella norma; Group 2,67, Petroli 2,56, Rent 2,44, Energy 2,22 e Car Service 2,11 deboli. Nessun logo supera 3 sulla scala mondiale. Galdieri Petroli, la capogruppo storica (1951 per il suo sito, 1952 per quello di gruppo), è quarta su sette e in stazione si confonde con i colori IP.",
+  "sottomarchi": "Voti dei marchi fuori dalle 3 divisioni (media dei 9 criteri, classe, Global): Galdieri Group 2,67 Debole 2/10 (fucsia raro ma isolato); Galdieri Cleaning 2,89 Nella norma 3/10 (la G più riuscita, solo in negativo); Galdieri Energy 2,22 Debole 1/10 (fulmine cliché, ruolo incerto fra colonnine e luce e gas); Galdieri Car Service 2,11 Debole 1/10 (il logo dice «AutoService», dominio e social «Car Service»: tre nomi per un marchio). Il ruolo del fucsia: oggi è solo del gruppo e del sito istituzionale; usato come firma comune (G fucsia accanto a ogni logotipo) darebbe al gruppo l'unico segno riconoscibile in tutte le stazioni, concessionarie e point, lasciando a ogni divisione il proprio colore di servizio.",
+  "rischi": [
+   "Sette loghi che non si riconoscono fra loro: il cliente della stazione, quello della concessionaria e quello del noleggio non sanno di parlare con lo stesso gruppo, e il valore di 70 anni di storia non passa da un marchio all'altro.",
+   "Car Service ha tre nomi (logo, dominio, report): ricerche, recensioni e citazioni si disperdono.",
+   "In stazione Galdieri Petroli usa blu e arancio come IP: se il mandato con la compagnia cambia, il marchio Galdieri non ha un colore proprio da portare con sé.",
+   "Energy ha un ruolo incerto (colonnine sul suo sito, luce e gas sul sito di gruppo): un restyling senza decidere il ruolo rifarebbe la stessa confusione.",
+   "Loghi pubblicati in file piccoli (258 px, 235 px, 40 px di altezza) e spesso solo in negativo: senza un kit di file ufficiali ogni fornitore li ridisegna a modo suo."
+  ],
+  "mosse": [
+   [
+    "Adottare il G fucsia del gruppo come segno comune di firma, accanto a ogni logotipo e da solo in favicon e avatar",
+    "alto",
+    "medio"
+   ],
+   [
+    "Un solo carattere per tutti (il sans umanista di Galdieri bold, già in 6 loghi su 7) e una regola fissa: Galdieri bold + descrittore regular",
+    "alto",
+    "basso"
+   ],
+   [
+    "Togliere pompa, fulmine e scudo dagli emblemi: il mestiere lo dicono il descrittore e il colore di divisione",
+    "medio",
+    "medio"
+   ],
+   [
+    "Fissare un colore per divisione (blu Petroli diverso da IP, arancio Energy, turchese Cleaning, blu Auto, rosso Rent) dentro una tavolozza di gruppo con il fucsia come firma",
+    "medio",
+    "basso"
+   ],
+   [
+    "Decidere il nome di Car Service e allineare logo, dominio, social e documenti",
+    "alto",
+    "basso"
+   ],
+   [
+    "Pubblicare un kit minimo: positivo, negativo, un colore, versione corta, misure minime, file vettoriali per insegne, pensiline e mezzi",
+    "medio",
+    "basso"
+   ]
+  ]
+ }
+}

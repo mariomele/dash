@@ -1,0 +1,694 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "domande": [
+  "Il logo di gruppo va ritoccato o ridisegnato da capo, e il fucsia resta il colore del gruppo?",
+  "Serve un segno comune che firmi tutti i marchi in stazione, in concessionaria, nei point e sui mezzi, e da dove si ricava?",
+  "Pompa, fulmine e scudo negli emblemi di Petroli, Energy e Cleaning: si tengono, si ridisegnano o si tolgono?",
+  "Un carattere e una regola sola per i sette loghi, o ogni marchio resta com'è?",
+  "Quanti marchi deve avere il gruppo davanti al cliente: sette come oggi, tre divisioni o un nome solo? (capitolo 2)",
+  "«Galdieri Group», «Gruppo Galdieri» o solo «Galdieri»? E Car Service con quale nome? (il nome)"
+ ],
+ "premesse": [
+  {
+   "s": "val",
+   "t": "Per il panel dei sette mestieri nessuno dei sette loghi supera «Nella norma»: Auto 3,00 e Cleaning 2,89; Group 2,67, Petroli 2,56, Rent 2,44, Energy 2,22 e Car Service 2,11 sono deboli. Nessuno supera 3 su 10 sulla scala mondiale.",
+   "f": "brandx.json, sezione Loghi e marchio"
+  },
+  {
+   "s": "dic",
+   "t": "Il fucsia del gruppo (#e63484) non compare in nessuno dei 6 marchi; ogni marchio ha un colore suo: blu Petroli (#0054DC), arancio Energy (#FE612B), turchese Cleaning (#00C6CF), blu Auto (#0E7BBF), azzurro Car Service (#358ECB), rosso Rent (#E31E24).",
+   "f": "brand.json",
+   "u": "https://www.galdierigroup.it/website/wp-content/uploads/2021/05/Logo-Galdieri-Group-Pos.svg"
+  },
+  {
+   "s": "dic",
+   "t": "Petroli, Energy e Cleaning hanno tre emblemi con la G disegnata in tre modi (a filo con la pompa, con il fulmine, tonda con lo scudo); Auto, Car Service e Rent sono solo logotipi. L'unico filo comune è la grammatica «Galdieri in neretto + descrittore».",
+   "f": "brand.json, brandx.json",
+   "u": "https://www.galdierigroup.it/i-brand/"
+  },
+  {
+   "s": "dic",
+   "t": "Lo stesso marchio di officina ha tre nomi: «AutoService» nel logo, «Car Service» nel dominio e nei social, «CarService» nel report di sostenibilità.",
+   "f": "brand.json",
+   "u": "https://www.galdiericarservice.it/"
+  },
+  {
+   "s": "dic",
+   "t": "Il sito di Galdieri Petroli usa blu e arancio vicini a quelli di IP, la compagnia di cui porta la bandiera: in stazione il marchio Galdieri si confonde con quello del partner.",
+   "f": "brand.json",
+   "u": "https://www.galdieripetroli.it/"
+  },
+  {
+   "s": "dic",
+   "t": "Galdieri Rent è un marchio di Galdieri Auto S.r.l., mentre flotta e contratti stanno in Sistem Rental S.r.l. (Bolzano), società del gruppo: marchio e società non coincidono.",
+   "f": "aziende.json, brand.json",
+   "u": "https://cdnwp.dealerk.com/db9dcb90/uploads/sites/2/2026/01/Bilancio-sostenibilita-Galdieri-Auto-2024-13-Web.pdf"
+  },
+  {
+   "s": "ver",
+   "t": "Ricavi 2025: Galdieri Auto S.r.l. 680,05 M€, C. Galdieri & Figli S.p.A. (Petroli) 105,32 M€, Sistem Rental S.r.l. (Rent) 35,27 M€. La divisione storica è la più piccola delle due grandi.",
+   "f": "aziende.json, sezione Economia",
+   "u": "https://www.reportaziende.it/galdieri_auto_srl_sa_02590540650"
+  },
+  {
+   "s": "val",
+   "t": "Fra i sette siti Rent è primo (3,82), Petroli penultimo (2,12) ed Energy ultimo (1,97); nessun sito dei marchi mostra il gruppo o porta agli altri marchi.",
+   "f": "sito.json, sezione Siti"
+  },
+  {
+   "s": "dic",
+   "t": "Traffico organico stimato al mese: galdieriauto.it circa 25.000 visite, galdierirent.it circa 20.000, galdieripetroli.it circa 1.100, galdierigroup.it circa 110. Il sito di gruppo quasi non viene trovato.",
+   "f": "seo.json, sezione SEO",
+   "u": "https://docs.dataforseo.com/v3/dataforseo_labs/google/domain_rank_overview/live/"
+  }
+ ],
+ "oggi": {
+  "titolo": "Sette marchi, quattro lingue visive, nessuna famiglia",
+  "fatto": "Il Gruppo Galdieri ha un logo di gruppo fucsia che nessun marchio usa, tre emblemi con tre G diverse, tre logotipi senza segno e sette colori. Il cliente della stazione, quello della concessionaria e quello del noleggio non sanno di parlare con la stessa famiglia.",
+  "frase": "Il valore di oltre 70 anni di storia c'è, ma non passa da un marchio all'altro.",
+  "kpi": [
+   {
+    "n": "2,67",
+    "t": "voto del panel al logo di gruppo: terzo su sette, «Debole», Global 2 su 10",
+    "s": "val",
+    "f": "sezione Loghi e marchio",
+    "um": "/5"
+   },
+   {
+    "n": "0",
+    "t": "marchi che usano il fucsia del gruppo",
+    "s": "val",
+    "f": "conteggio sui colori dei 7 loghi, brand.json",
+    "um": "/6"
+   },
+   {
+    "n": "3",
+    "t": "per lo stesso marchio di officina: AutoService, Car Service, CarService",
+    "s": "val",
+    "f": "conteggio su logo, dominio e report, brand.json",
+    "um": " nomi"
+   },
+   {
+    "n": "110",
+    "t": "stimate al mese su galdierigroup.it, contro circa 25.000 di galdieriauto.it",
+    "s": "est",
+    "f": "stima DataForSEO, sezione SEO",
+    "um": " visite"
+   }
+  ]
+ },
+ "opzioni": [
+  {
+   "id": "A",
+   "nome": "Firma comune: un segno G di gruppo su tutti",
+   "sintesi": "Si tengono i sei logotipi «Galdieri + descrittore», ripuliti in un solo carattere. Pompa, fulmine e scudo escono. Un segno G di gruppo, ricavato da quello di oggi e ridisegnato con cura, firma ogni marchio e vive da solo in favicon, avatar e mezzi. Il fucsia è il colore della firma; ogni divisione tiene un colore di servizio dentro una tavolozza unica.",
+   "tree": {
+    "top": "Segno G fucsia + Galdieri",
+    "kids": [
+     "Logotipi «Galdieri + descrittore» in un solo carattere",
+     "Fuori pompa, fulmine e scudo",
+     "Fucsia per la firma, un colore di servizio per divisione"
+    ]
+   },
+   "pro": "Tiene il nome Galdieri e la grammatica che i clienti già vedono, e porta il fucsia, l'unico elemento raro del gruppo, in tutte le stazioni, concessionarie e point. Si applica a ogni ristampa e a ogni rifacimento d'insegna, senza spegnere niente.",
+   "contro": "Se il segno G resta quello da catalogo di oggi, la firma non diventa riconoscibile. Nelle stazioni a bandiera IP la firma può stare solo su cassa, cartelli, mezzi e divise. Accanto ai marchi dei costruttori in showroom c'è poco spazio.",
+   "comporta": {
+    "cliente": "Vede gli stessi nomi, più ordinati, con lo stesso segno fucsia in stazione, in concessionaria, in officina e nel point.",
+    "scaffale": "In stazione il segno va su cassa, cartelli e mezzi (la pensilina resta IP); in concessionaria su facciata, totem e cornici targa; nei point sulle vetrofanie.",
+    "digitale": "Una favicon sola, avatar coerenti sui 7 profili, un piè di pagina comune «un marchio Galdieri» su tutti i siti.",
+    "costo": "Medio: ridisegno del segno, pulizia di 7 logotipi, manuale; insegne nei cicli di manutenzione.",
+    "tempo": "4-6 mesi per file e regole; 12-24 mesi per insegne e mezzi.",
+    "rischio": "Basso. Il rischio vero è un segno troppo timido."
+   },
+   "liv": {
+    "costo": 2,
+    "tempo": 2,
+    "breve": 1,
+    "lungo": 1,
+    "beneficio": 3
+   }
+  },
+  {
+   "id": "B",
+   "nome": "Ridisegno da capo di un sistema unico",
+   "sintesi": "Nuovo segno di gruppo, nuovo logotipo, nuovo carattere: tutti i sette marchi ridisegnati insieme con le stesse regole. Il fucsia resta come patrimonio, ma tutto il resto si rifà.",
+   "tree": {
+    "top": "Nuova identità Galdieri",
+    "kids": [
+     "Segno e logotipo nuovi, disegnati apposta",
+     "Un carattere proprio per tutti",
+     "Stesse regole per stazioni, showroom, officine, point, mezzi"
+    ]
+   },
+   "pro": "È l'unica strada che dà al gruppo un'immagine all'altezza dei suoi 820 milioni di ricavi delle tre società e del sito di Rent. Toglie in un colpo i tre nomi di Car Service, i tre emblemi diversi e i loghi esistenti solo in negativo.",
+   "contro": "Costa di più e chiede tempo: 8 sedi auto, 11 stazioni, i point di Rent in affiliazione, mezzi e divise da rifare. Butta via anche ciò che funziona (il logotipo di Auto, la G di Cleaning). Senza aver deciso l'architettura si rischia di ridisegnare sette marchi che poi si riducono a tre.",
+   "comporta": {
+    "cliente": "Vede un gruppo nuovo, riconoscibile ovunque; per un periodo convivono insegne vecchie e nuove.",
+    "scaffale": "Rifacimento di insegne, totem, vetrofanie e mezzi in tutta la rete, con l'accordo dei point affiliati e i limiti della bandiera IP.",
+    "digitale": "Nuovi file, siti e profili da riallineare tutti insieme.",
+    "costo": "Alto.",
+    "tempo": "12-18 mesi per il sistema, 24-36 per la rete.",
+    "rischio": "Medio: perdita del riconoscimento locale se il nuovo segno non ricorda il vecchio."
+   },
+   "liv": {
+    "costo": 3,
+    "tempo": 3,
+    "breve": 2,
+    "lungo": 1,
+    "beneficio": 3
+   }
+  },
+  {
+   "id": "C",
+   "nome": "Ritocco marchio per marchio",
+   "sintesi": "Ogni marchio si sistema da solo: si sceglie il nome di Car Service, si riporta «Rent» nel carattere di famiglia, si toglie il fulmine a Energy, si pubblicano le versioni positive. Nessuna firma comune.",
+   "tree": {
+    "top": "Sette loghi ripuliti",
+    "kids": [
+     "Car Service: un nome solo",
+     "Rent: un carattere solo",
+     "Energy senza fulmine, versioni positive per tutti"
+    ]
+   },
+   "pro": "Costa poco, si fa in fretta e corregge gli errori più visibili.",
+   "contro": "Lascia sette marchi che non si riconoscono fra loro: il problema principale, la famiglia che non si vede, resta intero.",
+   "comporta": {
+    "cliente": "Vede loghi più puliti, ma ancora sette immagini diverse.",
+    "scaffale": "Ritocchi alle insegne solo dove cambia il nome (officina).",
+    "digitale": "File nuovi per 3-4 marchi.",
+    "costo": "Basso.",
+    "tempo": "2-4 mesi.",
+    "rischio": "Basso nel breve, alto nel lungo: si spende senza costruire un gruppo."
+   },
+   "liv": {
+    "costo": 1,
+    "tempo": 1,
+    "breve": 1,
+    "lungo": 2,
+    "beneficio": 1
+   }
+  },
+  {
+   "id": "D",
+   "nome": "Restare fermi",
+   "sintesi": "Nessun cambio: i sette loghi restano come sono.",
+   "tree": {
+    "top": "Sette loghi di oggi",
+    "kids": [
+     "Fucsia solo nel sito di gruppo",
+     "Tre nomi per Car Service",
+     "Tre G diverse negli emblemi"
+    ]
+   },
+   "pro": "Nessun costo e nessun rischio di perdere il riconoscimento locale, che oggi poggia sul nome Galdieri più che sui loghi.",
+   "contro": "Ogni nuovo servizio, sede o point aggiunge un'immagine in più; il gruppo continua a non vedersi e Car Service continua a disperdere ricerche e recensioni su tre nomi.",
+   "comporta": {
+    "cliente": "Non cambia niente.",
+    "scaffale": "Non cambia niente.",
+    "digitale": "Non cambia niente.",
+    "costo": "Nessuno oggi.",
+    "tempo": "Nessuno.",
+    "rischio": "Alto nel lungo: il disordine cresce con il gruppo."
+   },
+   "liv": {
+    "costo": 0,
+    "tempo": 0,
+    "breve": 0,
+    "lungo": 3,
+    "beneficio": 0
+   }
+  }
+ ],
+ "arch": {
+  "titolo": "Capitolo 2 · L'architettura dei marchi del Gruppo Galdieri",
+  "domande": [
+   "Chi firma davanti al cliente: il gruppo, la divisione o il singolo marchio?",
+   "Energy e Cleaning restano marchi o diventano servizi di Galdieri Petroli?",
+   "Car Service resta un marchio o diventa il servizio di assistenza di Galdieri Auto?",
+   "Galdieri Rent, che vende in tutta Italia con una società propria, resta un marchio forte a sé?"
+  ],
+  "oggi": {
+   "fatto": "Un gruppo con sette marchi «Galdieri + descrittore» senza regole comuni: tre divisioni (Petroli, Auto, Rent), tre sottomarchi (Energy e Cleaning di Petroli, Car Service di Auto) e un marchio di gruppo che quasi nessuno vede. Dietro, quattro società: C. Galdieri & Figli S.p.A., Galdieri Auto S.r.l., Sistem Rental S.r.l. e la holding Galdieri Holding Real Estate S.r.l.",
+   "frase": "Il cliente vede sette marchi, la legge quattro società, il gruppo si presenta come una famiglia."
+  },
+  "opzioni": [
+   {
+    "id": "a",
+    "nome": "Tre divisioni con la firma del gruppo",
+    "sintesi": "Davanti al cliente tre marchi guida: Galdieri Petroli, Galdieri Auto, Galdieri Rent, tutti con la firma del gruppo. Energy e Cleaning diventano servizi di Petroli, Car Service il servizio di assistenza di Auto, scritti come descrittori nello stesso carattere.",
+    "tree": {
+     "top": "Galdieri (firma di gruppo)",
+     "kids": [
+      "Galdieri Petroli · carburanti, energia, pulizia",
+      "Galdieri Auto · vendita e assistenza",
+      "Galdieri Rent · noleggio"
+     ]
+    },
+    "pro": "Segue i tre mestieri e le tre società principali, toglie tre marchi deboli (Energy 2,22, Car Service 2,11, Cleaning 2,89 ma con pochi clienti) e lascia a Rent, che vende in tutta Italia, un nome forte.",
+    "contro": "Energy e Cleaning perdono un nome proprio; chi li ha scelti per un servizio specifico deve ritrovarli dentro Petroli.",
+    "comporta": {
+     "cliente": "Tre nomi chiari, una firma comune.",
+     "scaffale": "Insegne delle divisioni con la firma; servizi come scritte sotto.",
+     "digitale": "Tre siti principali, i domini dei servizi rimandano alle pagine delle divisioni.",
+     "costo": "Medio.",
+     "tempo": "6-12 mesi.",
+     "rischio": "Basso."
+    },
+    "liv": {
+     "costo": 2,
+     "tempo": 2,
+     "breve": 1,
+     "lungo": 1,
+     "beneficio": 3
+    }
+   },
+   {
+    "id": "b",
+    "nome": "Galdieri monolitico: un marchio, tanti mestieri",
+    "sintesi": "Un nome solo davanti al cliente, Galdieri, con il mestiere come descrittore (carburanti, auto, noleggio, energia, pulizia, assistenza). Le società restano nei testi legali.",
+    "tree": {
+     "top": "Galdieri",
+     "kids": [
+      "Galdieri · carburanti",
+      "Galdieri · auto e assistenza",
+      "Galdieri · noleggio"
+     ]
+    },
+    "pro": "La regola più semplice: un nome, un segno, un colore. Ogni cliente di un mestiere diventa cliente del gruppo.",
+    "contro": "Rent vende in tutta Italia a un pubblico che non conosce le stazioni salernitane; un problema in un mestiere tocca tutti gli altri.",
+    "comporta": {
+     "cliente": "Un nome solo ovunque.",
+     "scaffale": "Stessa insegna per stazioni, showroom, officine e point.",
+     "digitale": "Un sito di gruppo con sezioni per mestiere.",
+     "costo": "Alto.",
+     "tempo": "12-24 mesi.",
+     "rischio": "Medio."
+    },
+    "liv": {
+     "costo": 3,
+     "tempo": 3,
+     "breve": 2,
+     "lungo": 2,
+     "beneficio": 2
+    }
+   },
+   {
+    "id": "c",
+    "nome": "Sette marchi, con regole comuni",
+    "sintesi": "Restano tutti e sette i marchi, ma con lo stesso carattere, la stessa firma e una tavolozza unica.",
+    "tree": {
+     "top": "Galdieri Group",
+     "kids": [
+      "Petroli, Energy, Cleaning",
+      "Auto, Car Service",
+      "Rent"
+     ]
+    },
+    "pro": "Nessun marchio sparisce; ogni servizio tiene il suo nome.",
+    "contro": "Sette marchi per un gruppo con tre mestieri sono troppi: i sottomarchi deboli costano senza portare clienti.",
+    "comporta": {
+     "cliente": "Sette nomi più ordinati.",
+     "scaffale": "Insegne ritoccate.",
+     "digitale": "Sette siti da tenere vivi.",
+     "costo": "Medio.",
+     "tempo": "6-12 mesi.",
+     "rischio": "Basso nel breve, medio nel lungo."
+    },
+    "liv": {
+     "costo": 2,
+     "tempo": 2,
+     "breve": 1,
+     "lungo": 2,
+     "beneficio": 1
+    }
+   },
+   {
+    "id": "d",
+    "nome": "Restare fermi",
+    "sintesi": "Sette marchi senza regole comuni, come oggi.",
+    "tree": {
+     "top": "Oggi",
+     "kids": [
+      "Sette marchi",
+      "Nessuna regola",
+      "Gruppo invisibile"
+     ]
+    },
+    "pro": "Nessun costo.",
+    "contro": "Il disordine cresce con ogni nuovo servizio.",
+    "comporta": {
+     "cliente": "Niente.",
+     "scaffale": "Niente.",
+     "digitale": "Niente.",
+     "costo": "Nessuno.",
+     "tempo": "Nessuno.",
+     "rischio": "Alto nel lungo."
+    },
+    "liv": {
+     "costo": 0,
+     "tempo": 0,
+     "breve": 0,
+     "lungo": 3,
+     "beneficio": 0
+    }
+   }
+  ],
+  "risposta": "Tre divisioni con la firma del gruppo (strada a, quattro lenti su sette): Galdieri Petroli, Galdieri Auto e Galdieri Rent davanti al cliente, con lo stesso segno di gruppo; Energy e Cleaning diventano servizi di Petroli, Car Service il servizio di assistenza di Auto. Vignelli, Studio Dumbar e Wolff Olins vogliono un passo in più, un Galdieri monolitico (b): è la strada da riaprire se fra due anni la firma comune ha funzionato e Rent non ha bisogno di un nome a sé.",
+  "convergenza": "Tutte e sette le lenti dicono che sette marchi sono troppi per tre mestieri e che Car Service non può avere tre nomi; nessuna sceglie di tenerli tutti (c) o di restare fermi (d). Si dividono su quanto ridurre: Pentagram, LoveFrom, Aaker e Landor tengono tre divisioni con la firma del gruppo, perché Rent vende in tutta Italia e Auto vive accanto ai marchi dei costruttori; Vignelli, Dumbar e Wolff Olins vogliono un nome solo, perché la famiglia è il vero patrimonio."
+ },
+ "lenti": [
+  {
+   "chi": "Massimo Vignelli",
+   "tipo": "Modernismo",
+   "sk": "vignelli",
+   "img": "vignelli.jpg",
+   "cr": "Foto: Wikimassimovignelli, CC BY-SA 4.0, Wikimedia Commons",
+   "storia": "Designer italiano (Milano 1931 – New York 2014). Nel 1965 co-fonda Unimark International e nel 1971, con la moglie Lella, Vignelli Associates a New York. Firma l'identità di American Airlines (1967), la mappa della metropolitana di New York (1972), Knoll e Bloomingdale's; nel 2010 raccoglie le sue regole nel Vignelli Canon.",
+   "perche": "È il riferimento mondiale della disciplina applicata alle marche, ed è italiano. Il Gruppo Galdieri ha sette loghi, sette colori e tre G diverse: è il disordine che il Canon insegna a togliere.",
+   "base": "Principi del Vignelli Canon (2010) e identità come American Airlines e Knoll: disciplina, appropriatezza, nessuna ambiguità; pochi caratteri e pochi colori; disegnare per durare, non per la moda.",
+   "scelta": "A",
+   "architettura": "Un gruppo, un nome, una regola. Davanti al cliente basta Galdieri con il mestiere accanto; sette marchi per tre mestieri sono rumore. Le società stanno nei testi legali.",
+   "logo": "Non serve inventare: la grammatica «Galdieri + descrittore» c'è già in sei loghi su sette. Va resa una sola, con un carattere solo. Il segno G di gruppo si ridisegna con rigore e diventa la firma di tutti. Pompa, fulmine e scudo escono: il mestiere lo dice la parola.",
+   "linee": "Energy, Cleaning e Car Service non sono marchi, sono mestieri: si scrivono come descrittori nello stesso carattere. Un colore per divisione solo nella grafica, mai dentro il logo.",
+   "nome": {
+    "v": "togliere",
+    "x": "Basta «Galdieri»: «Group» è una parola in più, e per giunta in inglese, mentre il sito stesso scrive «Gruppo Galdieri». Car Service diventa assistenza di Galdieri Auto."
+   },
+   "arch": {
+    "scelta": "b",
+    "x": "Un nome solo, Galdieri, con il mestiere come descrittore: è l'unica struttura che si spiega in una riga."
+   },
+   "per": {
+    "petroli": "Fuori la pompa e la G a filo; un colore proprio, lontano dal blu di IP.",
+    "auto": "Il logotipo regge già: va solo firmato con il segno di gruppo.",
+    "rent": "«Rent» torna nel carattere di famiglia; il rosso esce dal logo."
+   }
+  },
+  {
+   "chi": "Pentagram",
+   "tipo": "Identità",
+   "sk": "pentagram",
+   "img": "pentagram.svg",
+   "cr": "",
+   "storia": "Studio fondato a Londra nel 1972 da Alan Fletcher, Colin Forbes, Theo Crosby, Kenneth Grange e Mervyn Kurlansky. È di proprietà dei suoi partner e si presenta come il più grande studio di design indipendente al mondo, con sedi tra cui Londra e New York. Tra i suoi lavori: Citi e Mastercard (2016).",
+   "perche": "Costruisce sistemi in cui un marchio madre regge più attività diverse, su mezzi, insegne e schermi insieme. Il Gruppo Galdieri ha il marchio madre e le attività, ma non ha un'idea visiva che le tenga insieme.",
+   "base": "Un'idea su misura per ogni cliente, portata in tutto il sistema; logotipo e carattere che nascono dal carattere dell'azienda; un marchio madre che regge più divisioni con un linguaggio comune.",
+   "scelta": "B",
+   "architettura": "Il gruppo firma, le tre divisioni parlano: Galdieri Petroli, Galdieri Auto, Galdieri Rent come marchi guida, i servizi sotto. Rent vende in tutta Italia e merita un nome forte.",
+   "logo": "Un ritocco non basta: oggi il segno G è una lettera da catalogo e il fucsia vive solo nel sito istituzionale. Serve un'idea propria, per esempio la strada (il sito di gruppo racconta la sua storia come «la strada», dal primo distributore di Fisciano), da cui ricavare segno, carattere e motivo grafico per stazioni, showroom e point.",
+   "linee": "Tre divisioni con lo stesso disegno e un colore ciascuna; Energy, Cleaning e Car Service come linee di servizio scritte sotto, non come loghi.",
+   "nome": {
+    "v": "dipende",
+    "x": "«Group» si può togliere se il segno nuovo è abbastanza forte da firmare da solo; altrimenti «Gruppo Galdieri» in italiano. Car Service va deciso subito."
+   },
+   "arch": {
+    "scelta": "a",
+    "x": "Tre divisioni guidate dal gruppo: rispetta i tre mestieri e le tre società."
+   },
+   "per": {
+    "petroli": "Il nuovo segno deve vivere accanto alla bandiera IP senza confondersi.",
+    "auto": "Un sistema sobrio che lasci spazio ai marchi dei costruttori in showroom.",
+    "rent": "Il sito di Rent è il punto di partenza per il linguaggio digitale del gruppo."
+   }
+  },
+  {
+   "chi": "Studio Dumbar",
+   "tipo": "Identità",
+   "sk": "dumbar",
+   "img": "dumbar-logo.svg",
+   "cr": "",
+   "storia": "Studio olandese fondato da Gert Dumbar all'Aia nel 1977, tra i nomi della scuola olandese del design di sistema. Oggi fa parte di DEPT® (Studio Dumbar/DEPT®). Ha disegnato, tra le altre, l'identità della polizia olandese e quella di PostNL.",
+   "perche": "Lavora su marchi che vivono su mezzi, divise e schermi e riduce le varianti a una. Il Gruppo Galdieri ha cisterne, auto a noleggio, furgoni di officina e sette profili social: è lì che oggi non si riconosce.",
+   "base": "Ridurre le varianti a una e dare una sola regola di colore; un motivo grafico ricavato dalla geometria del logo che vive in movimento su digitale, stampa e mezzi (es. PostNL: un solo logo, arancio e bianco, niente gradienti).",
+   "scelta": "B",
+   "architettura": "Un nome solo e una regola sola. Le divisioni si distinguono per colore, non per logo.",
+   "logo": "Ridisegnare il segno di gruppo partendo dal fucsia, togliere filo e ombre, e ricavarne un motivo grafico che vive sui mezzi della flotta, sulle cisterne e sugli schermi. Un solo logo, una versione in positivo e una in negativo, niente varianti.",
+   "linee": "Nessun sottomarchio con un logo proprio: Energy, Cleaning e Car Service sono parole, e il colore di divisione vive solo nel motivo grafico.",
+   "nome": {
+    "v": "togliere",
+    "x": "Un segno forte non ha bisogno di «Group». Galdieri e basta, e Car Service diventa assistenza Galdieri Auto."
+   },
+   "arch": {
+    "scelta": "b",
+    "x": "Un marchio, tanti mestieri: è la scelta più facile da tenere in ordine su mezzi e schermi."
+   },
+   "per": {
+    "petroli": "Le cisterne sono il mezzo più visibile della divisione: il motivo grafico parte da lì.",
+    "auto": "Furgoni di officina e auto di cortesia con lo stesso motivo.",
+    "rent": "Le auto della flotta portano il marchio in tutta Italia: sono l'insegna più grande del gruppo."
+   },
+   "wd": 1
+  },
+  {
+   "chi": "LoveFrom",
+   "tipo": "Oggetto e marchio",
+   "sk": "lovefrom",
+   "img": "lovefrom.png",
+   "cr": "",
+   "storia": "Collettivo creativo fondato nel 2019 da Jony Ive con Marc Newson, con sede a San Francisco. Ive è stato per oltre vent'anni il capo del design di Apple (iMac, iPod, iPhone); Newson è uno dei designer industriali più noti al mondo. Collabora con Ferrari dal 2021 e con Airbnb.",
+   "perche": "Lega il marchio agli oggetti che il cliente tocca: qui sono la pistola dell'erogatore, la chiave dell'auto consegnata, il portachiavi del noleggio, la ricevuta dell'officina. È lì che una famiglia fa sentire la cura prima del logo.",
+   "base": "Ricostruita dal lavoro pubblico di Ive e Newson e dai progetti di LoveFrom: semplicità come chiarezza, non come mancanza; cura dei dettagli che nessuno vede; prodotti che portano il marchio in silenzio, con la loro forma.",
+   "scelta": "A",
+   "architettura": "Tre divisioni con la firma del gruppo. Il cliente non deve studiare un organigramma: deve sentire che dietro c'è la stessa cura.",
+   "logo": "Tenere ciò che c'è e farlo bene: un solo carattere disegnato con cura, il segno G ridisegnato nei dettagli e un fucsia fissato con i codici per stampa, insegna luminosa e schermo. Oggi i loghi sono pubblicati in file piccoli e spesso solo in negativo: la prima cura è un kit ufficiale.",
+   "linee": "I servizi si riconoscono dagli oggetti, non dai loghi: cartellina di consegna dell'auto, ricevuta dell'officina, contratto di noleggio con lo stesso disegno.",
+   "nome": {
+    "v": "togliere",
+    "x": "Meno parole, più cura: «Galdieri» con il segno basta. Ma Car Service va deciso prima di stampare un solo oggetto."
+   },
+   "arch": {
+    "scelta": "a",
+    "x": "Tre divisioni: abbastanza poche da curarle tutte bene."
+   },
+   "per": {
+    "petroli": "Erogatore, cassa e scontrino sono gli oggetti dove la firma Galdieri può vivere anche sotto la bandiera IP.",
+    "auto": "La consegna dell'auto è il momento da curare: cartellina, chiave, cornice targa.",
+    "rent": "Il contratto e il kit di benvenuto del noleggio portano il gruppo a casa del cliente."
+   }
+  },
+  {
+   "chi": "David Aaker",
+   "tipo": "Teoria",
+   "sk": "aaker",
+   "img": "aaker.jpg",
+   "cr": "Foto: Prophet, CC BY 2.0, Wikimedia Commons",
+   "storia": "Professore emerito alla Haas School of Business dell'Università di Berkeley e vicepresidente di Prophet, spesso chiamato il padre del branding moderno. Ha scritto Managing Brand Equity (1991), Building Strong Brands (1996) e, con Erich Joachimsthaler, Brand Leadership (2000).",
+   "perche": "È il teorico dell'architettura di marca: lo spettro fra marchio unico e marchi garantiti è la domanda vera di un gruppo con tre mestieri, sette marchi e quattro società.",
+   "base": "Il modello di identità di marca di «Building Strong Brands» (1996): il marchio come prodotto, organizzazione, persona e simbolo, e il simbolo come patrimonio che si accumula. Lo spettro delle relazioni tra marchi di «Brand Leadership» (2000): marchio unico, marchi garantiti, sottomarchi, marchi indipendenti.",
+   "scelta": "A",
+   "architettura": "Marchi garantiti: tre divisioni con la firma del gruppo. Auto e Rent hanno pubblici diversi (il cliente locale, l'azienda con flotta in tutta Italia) e un marchio unico li costringerebbe a parlare allo stesso modo. I sottomarchi deboli diventano descrittori.",
+   "logo": "Il simbolo è un patrimonio che si accumula: il fucsia e il nome Galdieri ci sono già, non vanno buttati. Si ritocca, si toglie ciò che confonde (pompa, fulmine, il secondo carattere di Rent) e si comincia a usare il segno comune in modo costante.",
+   "linee": "Energy e Cleaning hanno pochi clienti e un ruolo incerto: tenerli come marchi costa più di quanto rende. Diventano servizi di Petroli. Car Service diventa assistenza di Galdieri Auto.",
+   "nome": {
+    "v": "dipende",
+    "x": "Prima di togliere «Group» bisogna sapere se «Galdieri» da solo è registrabile e difendibile: il cognome ha omonimi nelle ricerche."
+   },
+   "arch": {
+    "scelta": "a",
+    "x": "Marchi garantiti: il gruppo garantisce, le divisioni vendono."
+   },
+   "per": {
+    "petroli": "Energy e Cleaning dentro Petroli, come servizi.",
+    "auto": "Car Service dentro Auto, come assistenza.",
+    "rent": "Rent resta marchio guida con la firma del gruppo: ha il pubblico più lontano dalla casa."
+   }
+  },
+  {
+   "chi": "Wolff Olins",
+   "tipo": "Identità aziendale",
+   "sk": "wolffolins",
+   "img": "wolffolins.svg",
+   "cr": "",
+   "storia": "Studio fondato a Londra nel 1965 da Michael Wolff e Wally Olins. Olins ha scritto The Corporate Personality (1978) e Corporate Identity (1989) e definiva l'identità «la strategia resa visibile». Fra i lavori: BT (1991) e Prudential (1986); più di recente Uber, con cui lavora dal 2017 anche sull'architettura di marca.",
+   "perche": "L'abbiamo scelto perché qui la domanda è di gruppo: un'azienda di famiglia che dalla benzina è passata alle auto, al noleggio e all'energia. Per Olins l'identità deve dire cosa è diventata l'azienda. È la lente più netta.",
+   "base": "La classificazione di Olins delle identità (monolitica, garantita, a marchi) in Corporate Identity (1989); il passaggio di Uber «da app a società di mobilità», dove l'identità segue la strategia dell'azienda.",
+   "scelta": "B",
+   "architettura": "Monolitico: Galdieri è una famiglia della mobilità, e deve presentarsi come una cosa sola. Le divisioni sono mestieri dello stesso nome.",
+   "logo": "Ritoccare sette loghi senza decidere cosa è il gruppo è cosmesi. Serve una nuova identità che dica «mobilità» e non «distributore», disegnata insieme alla strategia: se il gruppo vuole crescere fuori dalla Campania con Rent, l'immagine deve reggere fuori dalla Campania.",
+   "linee": "Nessun sottomarchio: carburanti, energia, pulizia, auto, assistenza e noleggio sono i mestieri di Galdieri.",
+   "nome": {
+    "v": "togliere",
+    "x": "«Group» è un'etichetta, non un'identità: il nome è Galdieri."
+   },
+   "arch": {
+    "scelta": "b",
+    "x": "Monolitico: la famiglia è il patrimonio, e il patrimonio si mostra intero."
+   },
+   "per": {
+    "petroli": "La divisione storica diventa il primo mestiere di un gruppo della mobilità, non il marchio di un distributore.",
+    "auto": "La divisione più grande (680 M€ di ricavi nel 2025) porta il nome di famiglia senza aggettivi.",
+    "rent": "Il noleggio è il mestiere che porta il nome fuori dalla Campania: deve portare l'identità intera."
+   }
+  },
+  {
+   "chi": "Landor",
+   "tipo": "Marchio e punto vendita",
+   "sk": "landor",
+   "img": "landor.svg",
+   "cr": "",
+   "storia": "Agenzia di marca fondata a San Francisco nel 1941 da Walter Landor, tra i primi a usare la ricerca sui consumatori nel design. Fa naming, architettura di marca e progetto dei punti vendita; nel 2021 si è unita a Fitch, specialista dei negozi, e dal 2023 è tornata a chiamarsi Landor. Fa parte di WPP.",
+   "perche": "L'abbiamo scelto per la rete: il marchio del gruppo si vede soprattutto in stazione, in concessionaria e nei point di noleggio, e Landor progetta insieme marchio e punto vendita. È la lente che guarda i luoghi prima del logo.",
+   "base": "Il principio di Walter Landor «la confezione deve parlare da sola», qui letto sul punto vendita: stazione, showroom, officina e point come confezione del marchio. Naming e architettura di marca come servizi della stessa agenzia.",
+   "scelta": "A",
+   "architettura": "Tre divisioni con la firma del gruppo: in stazione comanda la bandiera IP, in showroom i costruttori, nei point l'affiliato. Il gruppo può firmare, non sostituire: una struttura monolitica sarebbe impossibile da applicare.",
+   "logo": "Ritocco e firma comune, pensati per i luoghi: il segno G deve reggere su cassa e cartelli di una stazione IP, su una facciata accanto a Fiat o Jeep, su una vetrofania di un point affiliato. Prima di ridisegnare, un censimento delle insegne.",
+   "linee": "Servizi come scritte sotto la divisione, con un sistema di cartelli comune: «Galdieri Petroli · energia» alla colonnina, «Galdieri Auto · assistenza» all'ingresso dell'officina.",
+   "nome": {
+    "v": "tenere",
+    "x": "Nei point e nei rapporti con le flotte «Group» dice che dietro c'è una realtà grande: si può scrivere in italiano, «Gruppo Galdieri», ma non toglierlo."
+   },
+   "arch": {
+    "scelta": "a",
+    "x": "Tre divisioni: è l'unica struttura che si applica nei luoghi così come sono."
+   },
+   "per": {
+    "petroli": "La firma Galdieri vive su cassa, cartelli, divise e cisterne: la pensilina resta IP.",
+    "auto": "Sulla facciata la firma sta accanto ai marchi dei costruttori, mai sopra.",
+    "rent": "Kit d'insegna unico per i point affiliati, con la firma del gruppo."
+   },
+   "wd": 1
+  }
+ ],
+ "intro": "Per rispondere non ci siamo fidati di un solo punto di vista: abbiamo interpellato, in modo virtuale, sette riferimenti mondiali che guardano il gruppo da angoli diversi. Il maestro del modernismo italiano (Massimo Vignelli), due grandi studi di identità (Pentagram a Londra e New York, Studio Dumbar in Olanda), il collettivo che lega oggetto e marchio (LoveFrom), il teorico dell'architettura di marca (David Aaker) e, per un gruppo della mobilità con più divisioni, uno studio di identità aziendale (Wolff Olins, Londra) e un'agenzia che progetta marchio e punto vendita insieme (Landor, San Francisco). Ogni lente legge l'architettura dei marchi, il logo e la coerenza fra le divisioni.",
+ "avviso": "Ogni lente guarda la domanda dal punto di vista di uno studio o di un autore diverso, ricostruito dai principi e dai progetti che quello studio ha pubblicato: Vignelli dal suo Canon e dalle sue identità, Pentagram, Studio Dumbar, Wolff Olins e Landor dai loro casi e siti, LoveFrom dai progetti pubblici di Ive e Newson, Aaker dai suoi libri. Non sono pareri degli studi sul Gruppo Galdieri e nessuno di loro è stato consultato. I giudizi sono severi quanto quelli del panel dei loghi.",
+ "convergenza": "Sul logo le sette lenti sono d'accordo su quattro cose: il fucsia è l'unico patrimonio visivo raro del gruppo e va portato su tutti i marchi; serve un segno comune che firmi stazioni, concessionarie, officine, point e mezzi; pompa, fulmine e il secondo carattere di Rent escono; Car Service deve avere un nome solo. Si dividono su quanto cambiare: Vignelli, LoveFrom, Aaker e Landor scelgono la firma comune su ciò che c'è (A), perché la grammatica «Galdieri + descrittore» esiste già e nei luoghi il gruppo può firmare, non sostituire; Pentagram, Dumbar e Wolff Olins il ridisegno da capo (B), perché il segno G di oggi è una lettera da catalogo e un gruppo da oltre 800 milioni di ricavi delle tre società merita un'idea propria. Nessuna sceglie il ritocco marchio per marchio (C) né di restare fermi (D). Sull'architettura quattro lenti vogliono tre divisioni con la firma del gruppo, tre un Galdieri monolitico. Sul nome: quattro togliere «Group», due dipende, una tenere.",
+ "nome": {
+  "domanda": "Togliere «Group» e firmare solo «Galdieri»? E Car Service con quale nome?",
+  "sintesi": "La domanda sul nome qui non è un articolo ma la parola «Group», in inglese, nel logo di gruppo, mentre il sito stesso scrive «Il Gruppo Galdieri è la famiglia Galdieri». «Togliere» vuol dire firmare solo «Galdieri» con il segno; «tenere» vuol dire tenere un descrittore di gruppo, anche in italiano. Quattro lenti dicono togliere, due dipende, una tenere. Insieme si decide il nome dell'officina, che oggi ne ha tre. Prima di togliere «Group» va verificato che «Galdieri» da solo sia registrabile e difendibile.",
+  "pro": [
+   "Il nome che il cliente conosce è Galdieri: «galdieri rent» e «galdieri auto» sono le ricerche di marca più cercate.",
+   "«Group» è in inglese mentre il sito scrive «Gruppo Galdieri»: oggi il nome del gruppo è già doppio.",
+   "Un nome corto sta in un segno, in una favicon e su una cassa; «Galdieri Group» con il filo arancio no.",
+   "La famiglia è il racconto del gruppo («la famiglia Galdieri»): il cognome da solo lo dice meglio."
+  ],
+  "contro": [
+   "«Galdieri» da solo ha omonimi (persone, un agriturismo): nelle ricerche e nelle risposte AI si confonde.",
+   "Con le aziende e le flotte una parola di gruppo dice che dietro c'è una realtà grande.",
+   "Il marchio «Galdieri» da solo non è stato verificato nei registri: va controllato prima di investire.",
+   "Togliere una parola dal logo di gruppo cambia poco se i marchi delle divisioni non portano la firma."
+  ],
+  "dati": [
+   {
+    "s": "dic",
+    "t": "Il logo di gruppo dice «Galdieri Group»; la home di galdierigroup.it apre con «Il Gruppo Galdieri è la famiglia Galdieri».",
+    "u": "https://www.galdierigroup.it/",
+    "f": "brand.json"
+   },
+   {
+    "s": "dic",
+    "t": "Fra le ricerche che citano il gruppo, «galdieri rent» ha circa 18.100 ricerche al mese, «galdieri auto» 5.400, «galdieri» da solo 2.900.",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/llm_mentions/search/live/",
+    "f": "llmm.json"
+   },
+   {
+    "s": "dic",
+    "t": "«galdieri» da solo comprende omonimi (l'agriturismo Tenuta Baroni Galdieri, persone con lo stesso cognome): nelle tendenze e nelle risposte AI sono stati tolti a mano.",
+    "u": "https://trends.google.it/trends/explore?date=today%205-y&geo=IT&q=noleggio%20lungo%20termine,noleggio%20auto,auto%20km%200,gasolio%20agricolo,distributore%20benzina",
+    "f": "trends.json, llmm.json"
+   },
+   {
+    "s": "dic",
+    "t": "Due descrittori in italiano (Petroli, Auto) e cinque in inglese (Group, Energy, Cleaning, Car Service, Rent).",
+    "u": "https://www.galdierigroup.it/i-brand/",
+    "f": "brand.json"
+   },
+   {
+    "s": "dic",
+    "t": "L'officina si chiama «AutoService» nel logo, «Car Service» nel dominio e nei social, «CarService» nel report di sostenibilità.",
+    "u": "https://www.galdiericarservice.it/",
+    "f": "brand.json"
+   }
+  ],
+  "verifica": [
+   "Registrabilità di «Galdieri» da solo come marchio nelle classi di carburanti, energia, auto, assistenza e noleggio (UIBM, EUIPO, TMview: non letti, gli strumenti bloccano gli script) e marchi simili già depositati.",
+   "Quali marchi Galdieri sono già registrati e da quale società del gruppo.",
+   "Disponibilità di domini e nomi social per un nome di gruppo corto.",
+   "Nome dell'officina: scegliere fra Galdieri Car Service e Galdieri Auto assistenza e controllare dominio e social del nome scelto."
+  ]
+ },
+ "risposta": "Capitolo 1, il logo: firma comune (strada A, quattro lenti su sette). I sei logotipi «Galdieri + descrittore» restano, ripuliti in un solo carattere; pompa, fulmine e il secondo carattere di Rent escono; il segno G di gruppo si ridisegna con cura e diventa la firma fucsia di tutti i marchi, da solo in favicon, avatar e mezzi. Ogni divisione tiene un colore di servizio dentro una tavolozza unica. Pentagram, Dumbar e Wolff Olins vogliono di più, un ridisegno da capo (B): è la strada da aprire se fra un anno la firma non si riconosce. Capitolo 2, l'architettura: tre divisioni con la firma del gruppo (Petroli, Auto, Rent), con Energy e Cleaning come servizi di Petroli e Car Service come assistenza di Auto. Il nome: «Group» esce se la verifica di «Galdieri» come marchio va bene; l'officina prende un nome solo.",
+ "logo": {
+  "proposta": [
+   {
+    "t": "Il segno di gruppo",
+    "x": "Il G fucsia di oggi si ridisegna con un dettaglio proprio, senza filo arancio. Vive da solo in favicon, avatar, mezzi e cassa, e accanto a ogni logotipo come firma."
+   },
+   {
+    "t": "Il carattere",
+    "x": "Un solo carattere per tutti, il sans di «Galdieri» in neretto già presente in sei loghi su sette, con una regola fissa: Galdieri in neretto, mestiere in regolare. Fuori il geometrico maiuscolo del gruppo e il corsivo di «rent»."
+   },
+   {
+    "t": "Il colore",
+    "x": "Il fucsia #e63484 come colore della firma, con i codici per stampa, insegna luminosa e schermo. Un colore di servizio per divisione, dentro una tavolozza unica, usato nella grafica e non dentro la firma; per Petroli un blu lontano da quello di IP."
+   },
+   {
+    "t": "Gli emblemi",
+    "x": "Pompa, fulmine e scudo escono: il mestiere lo dicono la parola e il colore. La G tonda di Cleaning, la più riuscita, è il punto di partenza per il disegno del segno."
+   },
+   {
+    "t": "I nomi nei loghi",
+    "x": "Un nome solo per l'officina, scritto allo stesso modo in logo, dominio, social e documenti. «Group» si toglie o si scrive in italiano dopo la verifica del marchio."
+   },
+   {
+    "t": "I file e le regole",
+    "x": "Un kit minimo: positivo, negativo, un colore, versione corta, misure minime, file vettoriali per insegne, pensiline, cisterne, auto della flotta e divise. Oggi i loghi sono pubblicati in file piccoli e spesso solo in negativo."
+   }
+  ]
+ },
+ "passi": [
+  {
+   "fase": "0-3 mesi",
+   "x": "Verificare nei registri i marchi Galdieri già depositati, la registrabilità di «Galdieri» da solo e i marchi simili. Scegliere il nome dell'officina. Decidere l'architettura (tre divisioni con firma del gruppo) e scriverla in una pagina. Censire insegne, mezzi e punti dove il gruppo può firmare (stazioni IP, showroom, point affiliati)."
+  },
+  {
+   "fase": "3-6 mesi",
+   "x": "Ridisegno del segno di gruppo, pulizia dei sei logotipi in un carattere solo, tavolozza, kit di file e manuale minimo. Una favicon sola, avatar coerenti sui profili, piè di pagina comune «un marchio Galdieri» su tutti i siti; galdierigroup.it con i marchi e i link."
+  },
+  {
+   "fase": "6-12 mesi",
+   "x": "La firma su mezzi, cisterne, divise, cassa e cartelli delle stazioni, facciate delle concessionarie e vetrofanie dei point alla prima manutenzione. Energy e Cleaning portati dentro il sito di Petroli, l'officina dentro quello di Auto; i vecchi domini rimandano alle pagine nuove."
+  },
+  {
+   "fase": "12-24 mesi",
+   "x": "Misurare: ricerche del nome di gruppo, visite di galdierigroup.it, clienti che usano più di una divisione, riconoscimento del segno senza il nome. Se la firma non si riconosce, aprire la strada B (ridisegno da capo); se la firma funziona, valutare il Galdieri monolitico."
+  }
+ ],
+ "rischi": [
+  "Ridisegnare i loghi prima di decidere l'architettura: si rifanno sette marchi che poi diventano tre.",
+  "Togliere «Group» senza aver verificato «Galdieri» come marchio: si costruisce su un nome che può non essere difendibile.",
+  "Un segno timido: se resta la G da catalogo di oggi, la firma comune non si vede e la strada A diventa un ritocco.",
+  "Stazioni a bandiera IP, showroom dei costruttori e point affiliati hanno regole proprie: la firma va concordata, non imposta.",
+  "Spegnere Energy e Cleaning senza avvisare i loro clienti e senza rimandare i domini: si perdono contatti e ricerche."
+ ],
+ "fonti": [
+  "https://www.galdierigroup.it/",
+  "https://www.galdierigroup.it/i-brand/",
+  "https://www.galdieripetroli.it/",
+  "https://www.galdierienergy.it/",
+  "https://www.galdiericleaning.it/",
+  "https://www.galdieriauto.it/",
+  "https://www.galdiericarservice.it/",
+  "https://galdierirent.it/",
+  "https://www.galdierigroup.it/website/wp-content/uploads/2021/05/Logo-Galdieri-Group-Pos.svg",
+  "https://cdnwp.dealerk.com/db9dcb90/uploads/sites/2/2026/01/Bilancio-sostenibilita-Galdieri-Auto-2024-13-Web.pdf",
+  "https://www.reportaziende.it/galdieri_auto_srl_sa_02590540650",
+  "https://www.reportaziende.it/carmine_galdieri_figli_spa_in_breve_cgaldieri_figli_spa_sa_00851290650",
+  "https://www.reportaziende.it/sistem_rental_srl_bz_02406230652",
+  "https://docs.dataforseo.com/v3/dataforseo_labs/google/domain_rank_overview/live/",
+  "https://docs.dataforseo.com/v3/ai_optimization/llm_mentions/search/live/",
+  "https://www.pentagram.com/about",
+  "https://www.studiodumbar.com/work/postnl",
+  "https://www.lovefrom.com/",
+  "https://www.wolffolins.com/",
+  "https://en.wikipedia.org/wiki/Wolff_Olins",
+  "https://landor.com/",
+  "https://en.wikipedia.org/wiki/Landor_Associates",
+  "Massimo Vignelli, The Vignelli Canon, Lars Müller Publishers, 2010",
+  "Wally Olins, Corporate Identity, Thames & Hudson, 1989",
+  "David Aaker, Building Strong Brands, Free Press, 1996",
+  "David Aaker, Erich Joachimsthaler, Brand Leadership, Free Press, 2000",
+  "https://commons.wikimedia.org/wiki/File:Massimo_Vignelli_2.jpg",
+  "https://commons.wikimedia.org/wiki/File:DavidAaker.jpg"
+ ]
+}

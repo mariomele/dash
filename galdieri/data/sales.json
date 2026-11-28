@@ -1,0 +1,843 @@
+{
+ "gruppo": {
+  "n": "Analisi scritta il 28/11/2026 da un agente nel ruolo di direttore commerciale della mobilità (concessionarie, reti carburanti ed extrarete, noleggio), leggendo solo i file della dashboard. Fase 1: niente concorrenti; le «battlecard» parlano alle divisioni sorelle, cioè alle vendite incrociate e ai clienti in comune. Gli obiettivi dei KPI sono giudizi, non dati. Mancano nei dati: i clienti in comune fra le divisioni, la quota dei ricavi di Auto venduta a Rent, i margini per prodotto e per canale, l'elenco dei clienti IP Plus, il ruolo di Ground S.r.l. (i ricavi di Rent sono quelli della sola Sistem Rental S.r.l.).",
+  "at": "2026-11-28",
+  "s": "val",
+  "sintesi": "Tre società che vendono in gran parte agli stessi clienti (automobilisti, aziende, flotte e partite IVA della Campania), ma ognuna per conto suo. Auto è il motore (680,05 M€, +62,8% sul 2024), Rent cresce più in fretta (35,27 M€, quasi cinque volte il 2021) ma con margini sottili, Petroli perde ricavi da tre anni (105,32 M€, -43,8% dal 2022). La mossa commerciale più rapida è un'offerta unica per aziende e partite IVA: veicolo in acquisto o a noleggio, carta carburante IP Plus, wallbox Energy e officina Car Service, venduti da una sola persona. Oggi nessun sito del gruppo collega questi passaggi.",
+  "swot": {
+   "forza": [
+    "Copre tutta la vita del veicolo: 17 voci di gamma su 17, dall'auto al carburante all'officina (Gamma prodotti).",
+    "Auto è il motore: 680,05 M€ di ricavi nel 2025, 213 dipendenti, 18 marchi in 8 sedi (Il gruppo, Storico).",
+    "Rent ha una rete nazionale in affiliazione: 54 point in 13 regioni e 31 stazioni di breve termine (Stabilimenti).",
+    "Luoghi già in comune: a Fuorni stazione Petroli e concessionaria allo stesso indirizzo, a Lancusi sede Auto e sede Rent vicino al deposito (Gamma prodotti)."
+   ],
+   "debolezza": [
+    "Ognuno vende il suo: solo 5 voci di gamma su 17 sono condivise e nessun sito rimanda agli altri marchi (Gamma prodotti, Sito web).",
+    "Petroli è quasi invisibile online: circa 1.100 visite stimate al mese, Instagram fermo dal 13/11/2023, nessun annuncio attivo (Google e SEO, Social, Pubblicità attive).",
+    "Margini sottili in tutte e tre le società: utile sui ricavi 1,3% Petroli, 1,0% Auto, 1,5% Rent (Il gruppo).",
+    "Citati in 10 risposte AI su 40, di cui 8 per Auto (Risposte AI in dettaglio)."
+   ],
+   "opportunita": [
+    "Flotte e partite IVA: la carta IP Plus ha circa 1.200 clienti e 21 milioni di litri, ma la vende solo Petroli (Gamma prodotti).",
+    "Elettrico: Auto vende BYD, Leapmotor e plug-in, Energy vende wallbox e colonnine, ma le due offerte non sono unite (Gamma prodotti).",
+    "Car Service è già convenzionata con Leasys, Ald, Leaseplan, Athlon e Unipol Rental: il noleggio porta già clienti in officina (Gamma prodotti).",
+    "Enti pubblici: forniture già ottenute di gasolio (Università di Napoli, Comunità Montana Alento Monte Stella) e di furgoni a noleggio (Salerno Pulita) (OSINT)."
+   ],
+   "minaccia": [
+    "Ricavi di Petroli in calo per il terzo anno: 187,54 → 105,32 M€ (Storico).",
+    "Rent lavora come broker con 9 mandati: le case locatrici (Leasys, Arval) sono partner e insieme i nomi che le AI citano al posto di Galdieri (Gamma prodotti, Risposte AI in dettaglio).",
+    "Recensioni deboli dove passano più clienti nuovi: Rent Capodichino 3,6 su 454 (Reputazione e AI).",
+    "Struttura poco leggibile per il cliente business: marchio Rent di Galdieri Auto S.r.l., contratti in Sistem Rental S.r.l. a Bolzano, Ground S.r.l. allo stesso indirizzo con ruolo da verificare (Il gruppo)."
+   ]
+  },
+  "punti": [
+   {
+    "t": "Un'offerta unica per aziende e partite IVA",
+    "x": "Le tre divisioni servono gli stessi clienti business con prodotti separati: Rent noleggia a partite IVA e aziende, Auto vende veicoli commerciali con allestimenti Focaccia e furgonature Lamberet, Petroli ha la carta IP Plus. Nessuna offerta li tiene insieme e il cliente deve parlare con tre aziende.",
+    "dati": "IP Plus circa 1.200 clienti e 21 milioni di litri; Rent con offerte aziende e partite IVA; Auto con Fiat Professional, Focaccia e Lamberet",
+    "az": "Creare un pacchetto «Flotta Galdieri» (veicolo in acquisto o a noleggio, carta IP Plus, manutenzione Car Service) con un solo referente commerciale per i clienti con almeno 3 veicoli.",
+    "pr": 1,
+    "imp": 5,
+    "sf": 3,
+    "sez": "gamma"
+   },
+   {
+    "t": "Elettrico chiavi in mano",
+    "x": "Auto vende elettriche e plug-in (BYD, Leapmotor, Omoda, Jaecoo) ma alla voce ricarica ha 0; Energy vende wallbox, colonnine e il loro noleggio operativo. Un annuncio Meta di Auto promette già una «easyWallbox inclusa», che non è un prodotto Energy.",
+    "dati": "voce ricarica: Auto 0, Petroli 1; annuncio Meta di Galdieri Auto del 29/09/2026",
+    "az": "Mettere la wallbox Energy con installazione e pratiche incentivi in ogni preventivo di elettrica o plug-in, venduta da Auto o noleggiata da Rent.",
+    "pr": 1,
+    "imp": 4,
+    "sf": 2,
+    "sez": "gamma"
+   },
+   {
+    "t": "Fermare il calo di Petroli con i clienti delle sorelle",
+    "x": "I ricavi di Petroli scendono da tre anni e l'ingrosso vale circa il 70% del fatturato secondo il sito. Le aziende che comprano furgoni e allestimenti da Auto, o noleggiano da Rent, consumano gasolio: sono la lista di contatti più vicina.",
+    "dati": "ricavi Petroli 187,54 M€ (2022) → 105,32 M€ (2025); deposito oltre 2 milioni di litri",
+    "az": "Passare a Petroli, con il consenso del cliente, le aziende di Auto e Rent con veicoli commerciali per un'offerta gasolio con consegna o carta IP Plus.",
+    "pr": 1,
+    "imp": 4,
+    "sf": 2,
+    "sez": "storico"
+   },
+   {
+    "t": "Decidere chi firma le offerte di gruppo",
+    "x": "Il marchio Rent è di Galdieri Auto S.r.l., flotta e contratti stanno in Sistem Rental S.r.l. a Bolzano, gli annunci Google di Auto e Rent li paga Galdieri Auto S.r.l.; Ground S.r.l. fa noleggio allo stesso indirizzo di Sistem Rental. Un pacchetto con tre prodotti ha bisogno di sapere chi fattura cosa.",
+    "dati": "P.IVA 02590540650 (Auto e marchio Rent), 02406230652 (Sistem Rental), 03154390219 (Ground, ruolo da verificare)",
+    "az": "Prima di lanciare offerte combinate, scrivere quale società fattura ogni parte e chiarire il ruolo di Ground S.r.l.",
+    "pr": 1,
+    "imp": 3,
+    "sf": 2,
+    "sez": "gruppo"
+   },
+   {
+    "t": "Far lavorare i luoghi che già condividiamo",
+    "x": "A Fuorni stazione Petroli e concessionaria con officina hanno lo stesso indirizzo; a Lancusi ci sono sede Auto e sede Rent a poca distanza dal deposito. Il canone Rent esclude carburante e ricarica senza indicare le stazioni Galdieri.",
+    "dati": "Fuorni SS18 km 62+173; Lancusi SR88 km 10+400",
+    "az": "Nel kit di consegna di Auto e Rent mettere la mappa delle 11 stazioni e uno sconto sul primo pieno o sulla prima ricarica; contare quanti lo usano.",
+    "pr": 2,
+    "imp": 3,
+    "sf": 1,
+    "sez": "gamma"
+   },
+   {
+    "t": "L'officina come ponte fra noleggio e acquisto",
+    "x": "Car Service ha officine a Fisciano, Fuorni e Atripalda ed è convenzionata con Leasys, Ald, Leaseplan, Athlon, Unipol Rental, Volkswagen Leasing e Santander. Rent non ha officina propria e lavora con Leasys e Arval fra le case locatrici.",
+    "dati": "Car Service 7 convenzioni con società di noleggio; Rent voce officina 0",
+    "az": "Indicare Car Service come officina di riferimento ai clienti Rent della Campania, dove la casa locatrice lo consente.",
+    "pr": 2,
+    "imp": 3,
+    "sf": 2,
+    "sez": "gamma"
+   },
+   {
+    "t": "La rete Rent vende anche il resto del gruppo in Campania",
+    "x": "Rent cerca consulenti commerciali con partita IVA a Marcianise, Benevento, Battipaglia, Bisaccia e in Molise. Sono persone che entrano dalle aziende: possono portare anche carta IP Plus e wallbox.",
+    "dati": "annunci di ricerca del 17/11/2026; 20 dei 54 point in Campania",
+    "az": "Dare ai consulenti NLT della Campania il listino IP Plus ed Energy con una provvigione dedicata.",
+    "pr": 2,
+    "imp": 3,
+    "sf": 2,
+    "sez": "osint"
+   },
+   {
+    "t": "Un ufficio gare per carburante, veicoli e noleggio",
+    "x": "Le gare trovate sono poche e piccole, ma toccano tutte e tre le divisioni: gasolio agricolo e da riscaldamento a enti campani, 10 furgoni a noleggio per Salerno Pulita, veicoli speciali Focaccia per trasporto sanitario e sicurezza.",
+    "dati": "4 voci gare in OSINT (1.707,75 €, 1.376,10 €, 27.000 €, CIG B5CE557D26)",
+    "az": "Una persona che segua le gare per tutto il gruppo, partendo dagli enti già serviti e proponendo a ciascuno anche i prodotti delle sorelle.",
+    "pr": 2,
+    "imp": 3,
+    "sf": 3,
+    "sez": "osint"
+   },
+   {
+    "t": "Farsi trovare dove si cerca il prodotto, non solo il nome",
+    "x": "Rent arriva 5° per «noleggio lungo termine» ma manca su «noleggio lungo termine partita iva» e «noleggio auto salerno»; Petroli manca su «gasolio agricolo». Il traffico di Rent e Auto viene in gran parte dalle ricerche del nome.",
+    "dati": "880, 2.400 e 3.600 ricerche al mese senza un dominio Galdieri nei primi 10",
+    "az": "Tre pagine commerciali con modulo di richiesta: noleggio per partite IVA, noleggio a Salerno, gasolio agricolo in Campania.",
+    "pr": 2,
+    "imp": 3,
+    "sf": 2,
+    "sez": "seo"
+   },
+   {
+    "t": "Sistemare le recensioni dei punti più visti",
+    "x": "Le schede con molte recensioni sono il primo contatto per i clienti nuovi. Rent ha 5,0 a Fisciano ma 3,6 a Capodichino; fra le sedi Auto la più bassa è Peugeot Benevento.",
+    "dati": "Rent Capodichino 3,6 su 454; Peugeot Benevento 3,9 su 100; colonnina Energy 2,6 su 7",
+    "az": "Rispondere a tutte le recensioni negative delle tre schede e chiedere la recensione a fine contratto o consegna.",
+    "pr": 2,
+    "imp": 3,
+    "sf": 2,
+    "sez": "reputazione"
+   }
+  ],
+  "batt": [],
+  "piano": [
+   [
+    "0-3 mesi",
+    [
+     "Decidere quale società fattura le offerte combinate e chiarire il ruolo di Ground S.r.l.",
+     "Wallbox Energy nei preventivi delle elettriche di Auto e Rent.",
+     "Scheda IP Plus per venditori di veicoli commerciali e consulenti Rent.",
+     "Risposte alle recensioni di Rent Capodichino."
+    ]
+   ],
+   [
+    "3-6 mesi",
+    [
+     "Lancio del pacchetto «Flotta Galdieri» per clienti con almeno 3 veicoli.",
+     "Pagine noleggio partite IVA, noleggio a Salerno e gasolio agricolo.",
+     "Mappa delle stazioni e sconto sul primo pieno nel kit di consegna di Auto e Rent.",
+     "Car Service officina di riferimento per i clienti Rent in Campania."
+    ]
+   ],
+   [
+    "6-12 mesi",
+    [
+     "Ufficio gare di gruppo.",
+     "Elenco comune dei clienti business (oggi il dato non c'è) per contare chi compra da più divisioni.",
+     "Provvigioni dei consulenti NLT anche su IP Plus ed Energy."
+    ]
+   ]
+  ],
+  "kpi": [
+   [
+    "Clienti che comprano da almeno 2 divisioni",
+    "dato non presente",
+    "da misurare con un elenco clienti comune",
+    "gruppo"
+   ],
+   [
+    "Ricavi di Petroli",
+    "105,32 M€ (2025, -20,8%)",
+    "fermare il calo",
+    "storico"
+   ],
+   [
+    "Clienti della carta IP Plus",
+    "circa 1.200",
+    "nuovi clienti portati da Auto e Rent",
+    "gamma"
+   ],
+   [
+    "Elettriche vendute o noleggiate con wallbox Energy",
+    "offerta non presente",
+    "proposta in ogni preventivo",
+    "gamma"
+   ],
+   [
+    "Risposte AI che citano il gruppo",
+    "10 su 40",
+    "più citazioni per Rent e Petroli",
+    "geo2"
+   ],
+   [
+    "Voto Google di Rent Capodichino",
+    "3,6 su 454",
+    "4,0 o più",
+    "reputazione"
+   ]
+  ]
+ },
+ "per": {
+  "petroli": {
+   "n": "Analisi scritta il 28/11/2026 da un agente nel ruolo di direttore commerciale della mobilità (concessionarie, reti carburanti ed extrarete, noleggio), leggendo solo i file della dashboard. Fase 1: niente concorrenti; le «battlecard» parlano alle divisioni sorelle, cioè alle vendite incrociate e ai clienti in comune. Gli obiettivi dei KPI sono giudizi, non dati. Mancano nei dati: i clienti in comune fra le divisioni, la quota dei ricavi di Auto venduta a Rent, i margini per prodotto e per canale, l'elenco dei clienti IP Plus, il ruolo di Ground S.r.l. (i ricavi di Rent sono quelli della sola Sistem Rental S.r.l.).",
+   "at": "2026-11-28",
+   "s": "val",
+   "sintesi": "Petroli è la capogruppo ma è la divisione che perde terreno: ricavi da 187,54 M€ (2022) a 105,32 M€ (2025), utile da 4,13 a 1,37 M€ in un anno. Il cuore è l'ingrosso (circa il 70% del fatturato secondo il sito), venduto quasi senza presenza online: circa 1.100 visite stimate al mese, nessun annuncio, assente da «gasolio agricolo» e «distributore benzina salerno». Le sorelle Auto e Rent hanno proprio i clienti che servono a Petroli: aziende con furgoni e flotte, automobilisti di Salerno e Avellino, chi passa all'elettrico. Carta IP Plus e wallbox Energy sono i due prodotti da far vendere a loro.",
+   "swot": {
+    "forza": [
+     "Beni che le sorelle non hanno: deposito da oltre 2 milioni di litri, 11 stazioni, 2 aree sull'A2, primo GNL su rete autostradale dal 2018 (Gamma prodotti, OSINT).",
+     "Agenzia IP Plus per la Campania: circa 1.200 clienti e 21 milioni di litri (Gamma prodotti).",
+     "Aree autostradali con molto passaggio: Baronissi Ovest 4,0 su 2.945 recensioni, Baronissi Est 4,0 su 1.952 (Reputazione e AI).",
+     "Certificazioni ISO 9001, 14001 e 45001 e bilancio di sostenibilità dal 2022, utili nelle gare e con le aziende (Loghi e marchio)."
+    ],
+    "debolezza": [
+     "Ricavi -43,8% in tre anni e utile sceso da 4,13 a 1,37 M€ (Storico).",
+     "Quasi invisibile su Google: 54 parole posizionate, circa 1.137 visite stimate al mese, sito più lento del gruppo (Lighthouse 73) (SEO in dettaglio).",
+     "Nessun canale commerciale digitale: 0 annunci, Instagram fermo dal 13/11/2023, LinkedIn senza post recenti (Pubblicità attive, Social).",
+     "Energy debole: luce e gas come consulenza tramite il partner Smart Agency, colonnina con 2,6 su 7 recensioni, mai nominato dalle AI (Gamma prodotti, Reputazione e AI)."
+    ],
+    "opportunita": [
+     "I clienti business di Auto (veicoli commerciali, furgoni frigo Lamberet, allestimenti Focaccia) e di Rent (partite IVA e aziende) sono clienti naturali di IP Plus e del gasolio (Gamma prodotti).",
+     "Le elettriche vendute da Auto (BYD, Leapmotor, Omoda, Jaecoo) chiedono una wallbox: Energy la vende, Auto no (Gamma prodotti).",
+     "«gasolio agricolo» ha 3.600 ricerche al mese e cresce del 193% sull'anno su Google Trends, su una base bassa, con picco a marzo (Google e SEO, Google Trends).",
+     "Forniture pubbliche già ottenute per gasolio agricolo e da riscaldamento (OSINT)."
+    ],
+    "minaccia": [
+     "Per il gasolio in Campania le AI citano altri fornitori (Piccirillo, Petrone, Fabozzi e altri), mai Galdieri (Risposte AI in dettaglio).",
+     "Nessuna risposta AI sul GNL per camion sulla A2 nomina Galdieri: due attribuiscono le aree di Baronissi a Q8 o ad Api-Ip (Risposte AI in dettaglio).",
+     "Le schede Google delle stazioni portano il dominio della compagnia (gruppoapi.com): il cliente vede IP, non Galdieri (Reputazione e AI).",
+     "Margine all'1,3% con ricavi in calo: poco spazio per gli sconti (Il gruppo, Storico)."
+    ]
+   },
+   "punti": [
+    {
+     "t": "IP Plus dentro ogni trattativa business di Auto e Rent",
+     "x": "Auto vende veicoli commerciali e allestimenti, Rent noleggia a partite IVA e aziende con il carburante escluso dal canone. Sono clienti che fanno rifornimento ogni settimana e oggi nessuno propone loro la carta del gruppo.",
+     "dati": "IP Plus circa 1.200 clienti e 21 milioni di litri; Rent: carburante escluso dal canone; Auto: Fiat Professional, Focaccia, Lamberet",
+     "az": "Dare ai venditori di commerciali di Auto e ai consulenti Rent una scheda IP Plus con un riferimento diretto in Petroli e una domanda fissa nel preventivo: «chi vi fornisce il carburante?».",
+     "pr": 1,
+     "imp": 5,
+     "sf": 2,
+     "sez": "gamma"
+    },
+    {
+     "t": "La wallbox Energy con ogni elettrica del gruppo",
+     "x": "Auto vende elettriche e plug-in ma non ha un'offerta di ricarica, e un suo annuncio promette una «easyWallbox inclusa» che non è di Energy. Energy ha wallbox, colonnine, installazione, pratiche per gli incentivi e noleggio operativo.",
+     "dati": "voce ricarica: Auto 0, Petroli 1; annuncio Meta di Galdieri Auto del 29/09/2026",
+     "az": "Accordo interno con Auto e Rent: preventivo wallbox Energy con installazione in ogni ordine o contratto di elettrica e plug-in; per le aziende, colonnina in noleggio operativo.",
+     "pr": 1,
+     "imp": 4,
+     "sf": 2,
+     "sez": "gamma"
+    },
+    {
+     "t": "Ingrosso: partire dalle aziende già clienti del gruppo",
+     "x": "Il calo dei ricavi pesa soprattutto sull'ingrosso, che vale circa il 70% del fatturato. Le aziende che comprano furgoni frigo e allestimenti da Auto sono trasportatori e artigiani: comprano gasolio, serbatoi e AdBlue.",
+     "dati": "ricavi 187,54 M€ (2022) → 105,32 M€ (2025); deposito oltre 2 milioni di litri; serbatoi Portetank e Miniporter; Air1 AdBlue",
+     "az": "Con il consenso dei clienti, incrociare le aziende di Auto con il listino ingrosso e proporre gasolio con consegna, serbatoio e AdBlue. L'elenco clienti di Auto non è nei dati della dashboard.",
+     "pr": 1,
+     "imp": 4,
+     "sf": 2,
+     "sez": "storico"
+    },
+    {
+     "t": "Prendere «gasolio agricolo» prima di marzo",
+     "x": "È la parola di categoria con più ricerche per Petroli e nessun dominio Galdieri compare. Le ricerche hanno il picco a marzo e sono cresciute nell'ultimo anno.",
+     "dati": "3.600 ricerche al mese; Google Trends +193% sull'anno (indice medio basso, 2,4); picco a marzo; fonti dell'AI Overview: Eni, Confagricoltura e altri",
+     "az": "Una pagina «Gasolio agricolo a Salerno e Avellino» con consegna, quantità minime e modulo di richiesta, online entro febbraio.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 2,
+     "sez": "seo"
+    },
+    {
+     "t": "La pagina IP Plus è già quasi in prima pagina",
+     "x": "Petroli arriva 16° per «ip plus» e 17° per «ip plus online»: sono le parole con più ricerche dove il sito c'è già. Una pagina pensata per le aziende può portare richieste senza spesa.",
+     "dati": "«ip plus» 4.400 ricerche al mese, 16°; «ip plus online» 1.900, 17°",
+     "az": "Rifare /ip-plus/ con i vantaggi per le aziende (fattura quindicinale, pagamento a 20 giorni) e un modulo «Richiedi la carta».",
+     "pr": 2,
+     "imp": 3,
+     "sf": 1,
+     "sez": "seo2"
+    },
+    {
+     "t": "Portare in stazione i clienti di Auto e Rent",
+     "x": "A Fuorni stazione e concessionaria hanno lo stesso indirizzo; il canone Rent esclude carburante e ricarica senza indicare le stazioni Galdieri. Ogni auto consegnata dal gruppo è un cliente che può fare il pieno da noi.",
+     "dati": "Fuorni SS18 km 62+173; 11 stazioni in provincia di Salerno; colonnine nella rete",
+     "az": "Nel kit di consegna di Auto e Rent: mappa delle 11 stazioni e buono sul primo pieno o sulla prima ricarica, con un codice per contarli.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 1,
+     "sez": "gamma"
+    },
+    {
+     "t": "GNL per i camion: un primato che nessuno conosce",
+     "x": "Baronissi Est ha il primo impianto GNL su rete autostradale (2018), ma per «gnl camion» nessun dominio Galdieri compare e nessuna risposta AI nomina Galdieri. Auto, come dealer Lamberet e Focaccia, parla con le aziende di trasporto.",
+     "dati": "LNG a Baronissi Est dal 21/06/2018, doppio erogatore h24; 0 citazioni AI sulla domanda GNL; Auto dealer Lamberet per la Campania",
+     "az": "Una pagina sul GNL di Baronissi Est e una proposta IP Plus per le aziende di trasporto che Auto incontra con Lamberet e Focaccia.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 2,
+     "sez": "geo2"
+    },
+    {
+     "t": "Usare il canale LinkedIn di Rent per farsi conoscere dalle aziende",
+     "x": "Petroli ha 933 follower su LinkedIn e nessun post recente; Rent ne ha 8.446 e pubblica 6 post al mese per un pubblico di aziende e partite IVA, lo stesso di IP Plus e dell'ingrosso.",
+     "dati": "LinkedIn: Petroli 933 follower, nessun post; Rent 8.446 e 6 post al mese",
+     "az": "Un post al mese sulla pagina di Rent con un'offerta di gruppo (carta IP Plus, wallbox Energy), finché Petroli non ha un suo calendario.",
+     "pr": 2,
+     "imp": 2,
+     "sf": 1,
+     "sez": "social"
+    },
+    {
+     "t": "Gare pubbliche insieme alle sorelle",
+     "x": "Petroli ha forniture di gasolio agricolo all'Università di Napoli e di gasolio da riscaldamento a una comunità montana; Galdieri Auto ha noleggiato 10 furgoni a Salerno Pulita. Sono enti che comprano più cose.",
+     "dati": "affidamenti di 1.707,75 € e 1.376,10 €; determina con CIG B5CE557D26; furgoni a noleggio per 27.000 €",
+     "az": "Proporre agli enti già serviti anche noleggio e veicoli delle sorelle, e chiedere ad Auto e Rent di segnalare i loro enti per il gasolio.",
+     "pr": 3,
+     "imp": 3,
+     "sf": 3,
+     "sez": "osint"
+    },
+    {
+     "t": "Decidere cosa vende Energy su luce e gas",
+     "x": "Il sito di Energy presenta luce e gas come consulenza tramite Smart Agency, il sito di gruppo parla di vendita all'ingrosso e al dettaglio. Prima di offrirla ai clienti delle sorelle bisogna sapere cosa si firma.",
+     "dati": "gamma: luce e gas come consulenza con partner; Energy mai nominato in 40 risposte AI",
+     "az": "Scegliere fra rivendita propria e segnalazione al partner, poi scrivere un'unica offerta da dare ai venditori di Auto e Rent.",
+     "pr": 2,
+     "imp": 2,
+     "sf": 1,
+     "sez": "gamma"
+    }
+   ],
+   "batt": [
+    {
+     "id": "auto",
+     "loro": "Vende auto nuove, km0 e usate di 18 marchi in 8 sedi, veicoli commerciali allestiti con Focaccia e Lamberet, elettriche BYD e Leapmotor; 213 dipendenti.",
+     "noi": "Tutto quello che serve dopo la consegna: carburante, carta IP Plus per le flotte, wallbox e colonnine Energy, GPL e metano in stazione, AdBlue e serbatoi per le aziende.",
+     "risposta": "Al cliente in comune: «Con il furgone ti diamo anche il carburante: carta IP Plus attiva dal primo giorno. Se l'auto è elettrica, la wallbox Energy te la installiamo noi.»"
+    },
+    {
+     "id": "rent",
+     "loro": "Noleggio a lungo termine per privati, partite IVA e aziende con 54 point in 13 regioni; carburante e ricarica sono esclusi dal canone.",
+     "noi": "11 stazioni in provincia di Salerno con colonnine, carta IP Plus con fattura quindicinale e pagamento a 20 giorni, wallbox Energy anche in noleggio operativo.",
+     "risposta": "«Il canone non comprende il carburante: con la carta IP Plus lo paghi con una fattura ogni 15 giorni. Se noleggi elettrico, ti installiamo la wallbox.»"
+    }
+   ],
+   "piano": [
+    [
+     "0-3 mesi",
+     [
+      "Scheda IP Plus e referente Petroli per i venditori di commerciali di Auto e per i consulenti Rent.",
+      "Preventivo wallbox Energy in ogni ordine di elettrica di Auto e Rent.",
+      "Mappa delle stazioni e buono sul primo pieno nel kit di consegna.",
+      "Pagina «Gasolio agricolo» online entro febbraio."
+     ]
+    ],
+    [
+     "3-6 mesi",
+     [
+      "Nuova pagina IP Plus con modulo per le aziende.",
+      "Decisione su luce e gas di Energy e offerta unica per le sorelle.",
+      "Proposta gasolio, serbatoi e AdBlue alle aziende clienti di Auto che lo accettano."
+     ]
+    ],
+    [
+     "6-12 mesi",
+     [
+      "Pagina e proposta GNL per le aziende di trasporto incontrate da Auto.",
+      "Gare seguite insieme ad Auto e Rent.",
+      "Un calendario LinkedIn di Petroli, partendo dai post ospitati da Rent."
+     ]
+    ]
+   ],
+   "kpi": [
+    [
+     "Ricavi di C. Galdieri & Figli",
+     "105,32 M€ (2025)",
+     "fermare il calo",
+     "storico"
+    ],
+    [
+     "Clienti della carta IP Plus",
+     "circa 1.200",
+     "nuovi clienti portati da Auto e Rent, da contare a parte",
+     "gamma"
+    ],
+    [
+     "Wallbox Energy vendute con un'auto del gruppo",
+     "dato non presente",
+     "da misurare",
+     "gamma"
+    ],
+    [
+     "Posizione per «gasolio agricolo»",
+     "assente",
+     "prima pagina in Campania",
+     "seo"
+    ],
+    [
+     "Posizione per «ip plus»",
+     "16°",
+     "prime 10",
+     "seo2"
+    ],
+    [
+     "Visite stimate al mese su galdieripetroli.it",
+     "circa 1.137",
+     "in crescita dopo le nuove pagine",
+     "seo"
+    ]
+   ]
+  },
+  "auto": {
+   "n": "Analisi scritta il 28/11/2026 da un agente nel ruolo di direttore commerciale della mobilità (concessionarie, reti carburanti ed extrarete, noleggio), leggendo solo i file della dashboard. Fase 1: niente concorrenti; le «battlecard» parlano alle divisioni sorelle, cioè alle vendite incrociate e ai clienti in comune. Gli obiettivi dei KPI sono giudizi, non dati. Mancano nei dati: i clienti in comune fra le divisioni, la quota dei ricavi di Auto venduta a Rent, i margini per prodotto e per canale, l'elenco dei clienti IP Plus, il ruolo di Ground S.r.l. (i ricavi di Rent sono quelli della sola Sistem Rental S.r.l.).",
+   "at": "2026-11-28",
+   "s": "val",
+   "sintesi": "Auto è la divisione più grande e quella che è cresciuta di più in valore: 680,05 M€ di ricavi (+62,8% sul 2024), 6,81 M€ di utile, da 118 a 213 dipendenti in quattro anni, 18 marchi in 8 sedi fra Salerno, Avellino, Benevento e Napoli. Vince su Google in zona (1° nel riquadro mappe per «concessionaria fiat salerno», 2° per «jeep salerno») e nelle risposte AI (8 delle 10 citazioni del gruppo). Ma il margine è il più basso del gruppo (1,0%) e i ricavi oscillano (537 → 418 → 680 M€). Le sorelle danno quello che manca dopo la vendita: Rent il noleggio e una rete nazionale, Petroli carburante, carta per le flotte e wallbox. Il passo commerciale è vendere «auto più servizi del gruppo» invece della sola auto.",
+   "swot": {
+    "forza": [
+     "Crescita: ricavi quasi triplicati dal 2021 (236,62 → 680,05 M€), dipendenti da 118 a 213 (Storico).",
+     "Primo su Google in zona: 1° nel riquadro mappe per «concessionaria fiat salerno», 2° per «jeep salerno»; circa 25.000 visite stimate al mese (Google e SEO).",
+     "Gamma larga: 18 marchi fra Stellantis e cinesi, Usato Selection, veicoli commerciali con Focaccia e Lamberet, officine, finanziamenti e polizze (Gamma prodotti).",
+     "Instagram più attivo del gruppo: 5,7 post al mese e 46,6 interazioni medie; i reel rendono 68 interazioni contro 41 delle foto (Social, Engagement per tipo di post)."
+    ],
+    "debolezza": [
+     "Margine più basso del gruppo: 1,0% (6,81 M€ su 680,05 M€) (Il gruppo).",
+     "Ricavi altalenanti: 537,18 M€ nel 2023, 417,66 nel 2024, 680,05 nel 2025; dentro ci sono le vendite al canale flotte e noleggio, non separabili (Storico).",
+     "Nessuna offerta di ricarica, pur vendendo BYD, Leapmotor e plug-in (Gamma prodotti).",
+     "Nessun annuncio Google attivo: l'ultimo dei 31 in archivio è del 31/07/2026 (Pubblicità attive)."
+    ],
+    "opportunita": [
+     "Le aziende che comprano veicoli commerciali e allestimenti hanno bisogno anche di carburante e manutenzione: carta IP Plus e Car Service completano il pacchetto (Gamma prodotti).",
+     "Car Service è convenzionata con 7 società di noleggio (Leasys, Ald, Leaseplan, Athlon, Unipol Rental, Volkswagen Leasing, Santander): il noleggio porta già lavoro in officina (Gamma prodotti).",
+     "Le ricerche di «auto km 0» hanno il picco a gennaio (Google Trends).",
+     "Fotovoltaico a Lancusi e Fuorni (94,6 kW), bilanci di sostenibilità e certificazione per la parità di genere: argomenti per le aziende e gli enti (OSINT)."
+    ],
+    "minaccia": [
+     "Per «concessionaria Fiat e Jeep a Salerno» le AI citano anche Unicar e Ferrajoli Auto; per «jeep salerno» l'AI Overview mette Unicar prima (Risposte AI in dettaglio, Google e SEO).",
+     "Recensioni più basse in alcune sedi: Peugeot Benevento 3,9 su 100, Salerno via delle Calabrie 4,0 su 743 (Reputazione e AI).",
+     "Ricavi molto legati alle vendite verso Rent: il report di sostenibilità conta 564,1 M€ di auto nuove «comprensivo del canale flotte/rent» (Il gruppo)."
+    ]
+   },
+   "punti": [
+    {
+     "t": "Il veicolo commerciale venduto già pronto a lavorare",
+     "x": "Auto vende furgoni Fiat Professional, Citroën e Peugeot con allestimenti Focaccia e furgonature frigo Lamberet. Sono clienti business che fanno rifornimento ogni settimana e portano il mezzo in officina: il gruppo ha la carta IP Plus e Car Service.",
+     "dati": "Auto: veicoli commerciali, dealer Lamberet per la Campania e Focaccia; IP Plus circa 1.200 clienti e 21 milioni di litri",
+     "az": "Pacchetto «pronto a lavorare»: furgone, carta IP Plus attiva alla consegna e piano di manutenzione Car Service, in un solo preventivo.",
+     "pr": 1,
+     "imp": 5,
+     "sf": 2,
+     "sez": "gamma"
+    },
+    {
+     "t": "Elettrica con la wallbox del gruppo",
+     "x": "Auto vende BYD, Leapmotor e plug-in Omoda e Jaecoo ma alla voce ricarica ha 0. Un annuncio di Auto promette una «easyWallbox inclusa» di un altro marchio, mentre Energy vende wallbox con installazione e pratiche per gli incentivi.",
+     "dati": "voce ricarica: Auto 0; annuncio Meta del 29/09/2026; Energy: wallbox, colonnine, noleggio operativo",
+     "az": "Nel preventivo di ogni elettrica o plug-in, la wallbox Energy installata; per le aziende, la colonnina in noleggio operativo.",
+     "pr": 1,
+     "imp": 4,
+     "sf": 2,
+     "sez": "gamma"
+    },
+    {
+     "t": "Il preventivo non chiuso passa a Rent",
+     "x": "Chi non compra spesso non vuole immobilizzare soldi. Rent ha oltre 90 offerte con 9 mandati di case locatrici e ha sede a Lancusi, accanto alla sede di Auto.",
+     "dati": "Rent: oltre 90 offerte, 9 mandati, sede di Fisciano 5,0 su 712 recensioni",
+     "az": "Ogni preventivo di acquisto non chiuso, con il consenso del cliente, passa a un consulente Rent entro 48 ore con un'offerta di noleggio su un modello simile.",
+     "pr": 1,
+     "imp": 4,
+     "sf": 1,
+     "sez": "gamma"
+    },
+    {
+     "t": "Più servizi per ogni auto venduta",
+     "x": "Con l'1,0% di utile sui ricavi, ogni servizio in più conta: finanziamento, polizza (Auto è iscritta al RUI), tagliandi Car Service, carta IP Plus, wallbox Energy. La dashboard non dice quanti servizi si aggiungono oggi a ogni vendita.",
+     "dati": "utile 6,81 M€ su 680,05 M€; finanziamenti e polizze RUI E000114046",
+     "az": "Misurare per ogni auto venduta quanti servizi del gruppo si aggiungono e darne un obiettivo ai venditori.",
+     "pr": 2,
+     "imp": 4,
+     "sf": 2,
+     "sez": "gruppo"
+    },
+    {
+     "t": "Riaccendere Google nei mesi di picco",
+     "x": "Gli annunci Google di galdieriauto.it sono fermi dal 31/07/2026, mentre Rent, con lo stesso inserzionista Galdieri Auto S.r.l., ne ha 2 attivi. Le ricerche di «auto km 0» hanno il picco a gennaio e Usato Selection è già in campagna su Meta.",
+     "dati": "Google: 0 annunci attivi, 31 in archivio; Meta: 9 annunci attivi; picco «auto km 0» a gennaio",
+     "az": "Campagne Google su km0, Usato Selection e «jeep salerno» da gennaio.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 2,
+     "sez": "pubblicita"
+    },
+    {
+     "t": "Car Service officina di riferimento dei clienti Rent",
+     "x": "Rent non ha un'officina e lavora con case locatrici come Leasys; Car Service è già convenzionata con Leasys e altre 6 società di noleggio, con officine a Fisciano, Fuorni e Atripalda.",
+     "dati": "Car Service: 7 convenzioni con società di noleggio; Rent voce officina 0",
+     "az": "Accordo con Rent perché i suoi clienti della Campania facciano tagliandi e riparazioni da Car Service, dove la casa locatrice lo consente.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 2,
+     "sez": "gamma"
+    },
+    {
+     "t": "Recensioni delle sedi più nuove",
+     "x": "Fisciano ha 4,3 su 1.258 e Agnano 4,9 su 112, ma Peugeot Benevento è a 3,9 e Salerno via delle Calabrie a 4,0 su 743. Sono le schede che vede chi cerca una concessionaria vicino a casa.",
+     "dati": "Peugeot Benevento 3,9 su 100; Galdieri Auto Salerno 4,0 su 743; Fisciano 4,3 su 1.258",
+     "az": "Risposte a tutte le recensioni negative di Benevento e Salerno e richiesta di recensione alla consegna.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 2,
+     "sez": "reputazione"
+    },
+    {
+     "t": "Enti pubblici: veicoli speciali più noleggio e carburante",
+     "x": "Auto è dealer Focaccia per veicoli di trasporto accessibile, sanitario e di sicurezza, e Galdieri Auto ha già noleggiato 10 furgoni a Salerno Pulita. Agli enti si può proporre veicolo, noleggio e carburante insieme.",
+     "dati": "Focaccia Group dal 13/03/2026; Salerno Pulita, 10 furgoni a noleggio per 27.000 € (2022)",
+     "az": "Offerta per enti campani: veicolo speciale Focaccia, in acquisto o noleggio Rent, con carta IP Plus.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 3,
+     "sez": "osint"
+    },
+    {
+     "t": "Separare le vendite a Rent da quelle al mercato",
+     "x": "Il fatturato di Auto comprende le auto vendute al canale flotte e noleggio, che il report non separa. Senza questa cifra non si sa quanto cresce davvero la vendita ai clienti finali.",
+     "dati": "564,1 M€ di auto nuove «comprensivo del canale flotte/rent» (report di sostenibilità 2025)",
+     "az": "Nei numeri interni, separare le vendite a Rent e alle flotte da quelle a privati e aziende, e fissare obiettivi su ciascuna.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 1,
+     "sez": "storico"
+    },
+    {
+     "t": "Irpinia: presentare anche Rent",
+     "x": "Auto ha 4 sedi in provincia di Avellino e sostiene l'Avellino Basket; Rent cerca un consulente a Bisaccia. Le sedi irpine possono essere il punto d'incontro per il noleggio in zona.",
+     "dati": "4 sedi Auto in provincia di Avellino; ricerca consulenti Rent a Bisaccia (17/11/2026)",
+     "az": "Nelle sedi di Atripalda, Mercogliano e Monteforte Irpino, un giorno a settimana con il consulente Rent di zona.",
+     "pr": 3,
+     "imp": 2,
+     "sf": 1,
+     "sez": "stabilimenti"
+    }
+   ],
+   "batt": [
+    {
+     "id": "petroli",
+     "loro": "Carburante e ingrosso, carta IP Plus (circa 1.200 clienti), wallbox e colonnine Energy, GPL e metano in 11 stazioni della provincia di Salerno.",
+     "noi": "Il veicolo: 18 marchi, commerciali allestiti, elettriche, finanziamento, polizza e officina in 3 sedi.",
+     "risposta": "«Ti consegniamo il furgone pronto a lavorare: carta carburante IP Plus attiva e, se è elettrico, wallbox installata da Galdieri Energy.»"
+    },
+    {
+     "id": "rent",
+     "loro": "Noleggio a lungo termine con 9 mandati e oltre 90 offerte, 54 point in 13 regioni, 5,0 su 712 recensioni a Fisciano.",
+     "noi": "Acquisto, permuta, usato e km0 in 8 sedi; officina autorizzata a Fisciano, Fuorni e Atripalda.",
+     "risposta": "«Compra o noleggia, decidi tu: stesso gruppo, stessa sede a Lancusi, e per l'assistenza resti da Car Service.»"
+    }
+   ],
+   "piano": [
+    [
+     "0-3 mesi",
+     [
+      "Passaggio dei preventivi non chiusi a un consulente Rent.",
+      "Wallbox Energy nel preventivo di ogni elettrica e plug-in.",
+      "Campagne Google su km0 e Usato Selection da gennaio.",
+      "Scheda IP Plus per i venditori di commerciali."
+     ]
+    ],
+    [
+     "3-6 mesi",
+     [
+      "Pacchetto «pronto a lavorare» per i veicoli commerciali.",
+      "Accordo con Rent per l'assistenza Car Service dei suoi clienti in Campania.",
+      "Piano recensioni per Benevento e Salerno."
+     ]
+    ],
+    [
+     "6-12 mesi",
+     [
+      "Offerta per enti con Focaccia, Rent e IP Plus.",
+      "Misura dei servizi del gruppo per auto venduta, con obiettivi ai venditori.",
+      "Vendite a Rent separate da quelle al mercato nei numeri interni."
+     ]
+    ]
+   ],
+   "kpi": [
+    [
+     "Ricavi di Galdieri Auto",
+     "680,05 M€ (2025)",
+     "crescita con margine sopra l'1,0%",
+     "storico"
+    ],
+    [
+     "Utile sui ricavi",
+     "1,0%",
+     "in salita",
+     "gruppo"
+    ],
+    [
+     "Servizi del gruppo per auto venduta",
+     "dato non presente",
+     "da misurare",
+     "gamma"
+    ],
+    [
+     "Annunci Google attivi",
+     "0 (ultimo il 31/07/2026)",
+     "campagne attive nei mesi di picco",
+     "pubblicita"
+    ],
+    [
+     "Voto Google di Peugeot Benevento",
+     "3,9 su 100",
+     "4,3 come Fisciano",
+     "reputazione"
+    ],
+    [
+     "Citazioni nelle risposte AI",
+     "8 su 40",
+     "anche ChatGPT e Claude su km0 e assistenza",
+     "geo2"
+    ]
+   ]
+  },
+  "rent": {
+   "n": "Analisi scritta il 28/11/2026 da un agente nel ruolo di direttore commerciale della mobilità (concessionarie, reti carburanti ed extrarete, noleggio), leggendo solo i file della dashboard. Fase 1: niente concorrenti; le «battlecard» parlano alle divisioni sorelle, cioè alle vendite incrociate e ai clienti in comune. Gli obiettivi dei KPI sono giudizi, non dati. Mancano nei dati: i clienti in comune fra le divisioni, la quota dei ricavi di Auto venduta a Rent, i margini per prodotto e per canale, l'elenco dei clienti IP Plus, il ruolo di Ground S.r.l. (i ricavi di Rent sono quelli della sola Sistem Rental S.r.l.).",
+   "at": "2026-11-28",
+   "s": "val",
+   "sintesi": "Rent è la divisione che cresce di più: i ricavi di Sistem Rental passano da 7,41 M€ (2021) a 35,27 M€ (2025), +45,5% nell'ultimo anno, con il primo posto fra i broker al Kinto Grande Slam 2026 e il 57° posto in Leader della Crescita 2027. Ha la rete più estesa (54 point in 13 regioni, 31 stazioni di breve termine) e il marketing più attivo (16 annunci Meta, LinkedIn con 8.446 follower e 6 post al mese). Il margine resta sottile (1,5%) e i dipendenti sono scesi da 84 a 79 mentre i ricavi crescevano. Sul mercato aperto è debole: assente da «noleggio lungo termine partita iva» e «noleggio auto salerno», citato in 1 risposta AI su 40. Le sorelle danno a Rent quello che un broker non ha: veicoli e officina (Auto), carburante e ricarica (Petroli).",
+   "swot": {
+    "forza": [
+     "Crescita: ricavi quasi quintuplicati dal 2021, +45,5% nel 2025 (Storico).",
+     "Rete in affiliazione: 54 point in 13 regioni (20 in Campania) più 31 stazioni di breve termine in aeroporti e stazioni (Stabilimenti).",
+     "Riconoscimenti recenti: 1° fra i broker al Kinto Grande Slam 2026, 57° su 500 in Leader della Crescita 2027 (OSINT).",
+     "Comunicazione più attiva del gruppo: 16 annunci Meta e 2 Google attivi, LinkedIn 8.446 follower e 6 post al mese, sito migliore del gruppo (3,82) (Pubblicità attive, Social, Sito web)."
+    ],
+    "debolezza": [
+     "Margine 1,5%: utile 0,545 M€ su 35,27 M€ (Il gruppo).",
+     "Traffico quasi tutto dal nome: le prime parole sono «galdieri rent» e le sedi; assente da «noleggio lungo termine partita iva» (880 ricerche al mese) e «noleggio auto salerno» (2.400) (Google e SEO).",
+     "Recensioni a due velocità: 5,0 su 712 a Fisciano, 3,6 su 454 a Capodichino, 1,3 su 6 a Napoli (Reputazione e AI).",
+     "Instagram poco usato: 1,3 post al mese su 13.926 follower (Social)."
+    ],
+    "opportunita": [
+     "Il canone esclude carburante e ricarica: carta IP Plus e wallbox Energy sono servizi aggiuntivi già pronti nel gruppo (Gamma prodotti).",
+     "Un'officina in casa: Car Service ha 3 officine ed è convenzionata con Leasys, una delle case locatrici di Rent (Gamma prodotti).",
+     "Rete commerciale in crescita: ricerca di consulenti NLT con partita IVA in Campania e in Molise (OSINT).",
+     "«noleggio lungo termine» ha 74.000 ricerche al mese e Rent è già 5°; il picco delle ricerche è a gennaio (Google e SEO, Google Trends)."
+    ],
+    "minaccia": [
+     "Le AI citano Arval, Leasys, Ayvens, Kinto: le case locatrici, cioè i partner di Rent, prendono la visibilità (Risposte AI in dettaglio).",
+     "Ricerche di «noleggio lungo termine» in leggero calo: -4% sull'anno (Google Trends).",
+     "Nel 2024 Rent ha dovuto smentire un presunto furto di dati dei clienti: tema delicato con le aziende (OSINT).",
+     "Perimetro poco chiaro: marchio di Galdieri Auto S.r.l., contratti in Sistem Rental S.r.l. a Bolzano, Ground S.r.l. allo stesso indirizzo con ruolo da verificare (Il gruppo)."
+    ]
+   },
+   "punti": [
+    {
+     "t": "Al canone aggiungere la carta carburante del gruppo",
+     "x": "Il canone di Rent esclude carburante e ricarica. Petroli è agenzia IP Plus per la Campania, con fattura ogni 15 giorni e pagamento a 20 giorni: un servizio in più per partite IVA e aziende, che oggi va a un'altra compagnia.",
+     "dati": "Rent: carburante escluso dal canone; IP Plus circa 1.200 clienti e 21 milioni di litri",
+     "az": "In ogni preventivo per partite IVA e aziende, una riga «Carta carburante IP Plus» attivata da Petroli.",
+     "pr": 1,
+     "imp": 5,
+     "sf": 2,
+     "sez": "gamma"
+    },
+    {
+     "t": "Wallbox Energy per chi noleggia elettrico",
+     "x": "Rent noleggia auto elettriche ma la ricarica resta fuori dal canone; Energy vende wallbox e colonnine anche in noleggio operativo, con installazione e pratiche per gli incentivi.",
+     "dati": "Rent voce ricarica 0; Energy: wallbox, colonnine, noleggio operativo",
+     "az": "Per ogni elettrica a noleggio, preventivo wallbox Energy nello stesso contatto; per le aziende, colonnina in noleggio operativo.",
+     "pr": 1,
+     "imp": 4,
+     "sf": 2,
+     "sez": "gamma"
+    },
+    {
+     "t": "Prendere le ricerche di prodotto, non solo quelle del nome",
+     "x": "Rent è 5° per «noleggio lungo termine» con il blog, ma manca su «noleggio lungo termine partita iva» e su «noleggio auto salerno», dove Galdieri non compare né negli organici né nel riquadro mappe né nell'AI Overview.",
+     "dati": "«noleggio lungo termine partita iva» 880 ricerche al mese; «noleggio auto salerno» 2.400; fonti dell'AI Overview: Finrent, Leasys, Ayvens e altri",
+     "az": "Due pagine: noleggio per partite IVA con esempi di canone, noleggio a Salerno con la sede di Fisciano (5,0 su 712 recensioni).",
+     "pr": 1,
+     "imp": 4,
+     "sf": 2,
+     "sez": "seo"
+    },
+    {
+     "t": "Capodichino: il punto con più clienti nuovi va sistemato",
+     "x": "Capodichino ha 454 recensioni e un voto di 3,6, contro il 5,0 di Fisciano. Per la domanda sul noleggio a Capodichino le AI citano Hertz, Europcar, Sixt e Avis; Rent compare in una sola risposta su quattro.",
+     "dati": "Galdieri Rent Capodichino 3,6 su 454; Napoli 1,3 su 6; 1 citazione su 4 modelli per Capodichino",
+     "az": "Rispondere a ogni recensione negativa, capire le cause più citate e chiedere la recensione alla riconsegna.",
+     "pr": 1,
+     "imp": 4,
+     "sf": 2,
+     "sez": "reputazione"
+    },
+    {
+     "t": "Car Service per la manutenzione dei clienti in Campania",
+     "x": "Rent non ha officina propria: la manutenzione è nel canone della casa locatrice. Car Service ha officine a Fisciano, Fuorni e Atripalda ed è convenzionata con Leasys, una delle case con cui Rent lavora.",
+     "dati": "Rent voce officina 0; Car Service convenzionata con 7 società di noleggio, fra cui Leasys",
+     "az": "Indicare Car Service come officina consigliata ai clienti Rent della Campania, dove la casa locatrice lo permette.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 2,
+     "sez": "gamma"
+    },
+    {
+     "t": "I nuovi consulenti NLT vendono anche il gruppo",
+     "x": "Rent cerca consulenti con partita IVA a Marcianise, Benevento, Battipaglia, Bisaccia e in Molise. Entrano dalle aziende e possono portare carta IP Plus, wallbox e i veicoli in pronta consegna di Auto.",
+     "dati": "annunci del 17/11/2026; 20 dei 54 point in Campania",
+     "az": "Formazione d'ingresso sui prodotti delle sorelle e provvigione dedicata su IP Plus ed Energy.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 2,
+     "sez": "osint"
+    },
+    {
+     "t": "Usare lo stock di Auto per la consegna rapida",
+     "x": "Auto mostra circa 1.033 veicoli in «Trova la tua auto» e Rent ha già una sezione «pronta consegna» e lo stock Freewheeling. Le auto di Auto possono accorciare i tempi, se le case locatrici le accettano.",
+     "dati": "Auto: 1.033 veicoli in ricerca sul sito; Rent: offerte in pronta consegna, Freewheeling oltre 1.000 veicoli",
+     "az": "Verificare con le case locatrici quali auto di Auto possono entrare nelle offerte di Rent in pronta consegna.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 3,
+     "sez": "gamma"
+    },
+    {
+     "t": "Margine per canale prima di aprire altri point",
+     "x": "I ricavi crescono del 45,5% con meno dipendenti (79 contro 84): la crescita passa dalla rete affiliata. Il margine però resta all'1,5% e la dashboard non dice quale canale (point, sedi, breve termine) guadagna di più.",
+     "dati": "ricavi 35,27 M€, utile 0,545 M€, 79 dipendenti (2025); 54 point, 7 sedi, 31 stazioni di breve termine",
+     "az": "Calcolare il margine per canale e aprire nuovi point solo dove rende.",
+     "pr": 2,
+     "imp": 3,
+     "sf": 2,
+     "sez": "storico"
+    },
+    {
+     "t": "Nuovi point dove il marchio è già cercato",
+     "x": "Le ricerche di «galdieri rent» sono fortissime in Campania e poi in Sardegna e Sicilia, dove Rent ha già pagine di ritiro per il breve termine (Olbia, Cagliari, Catania).",
+     "dati": "Google Trends «galdieri rent» per regione: Campania 100, Sardegna 61, Sicilia 33",
+     "az": "Cercare affiliati per il lungo termine in Sardegna e Sicilia, vicino alle stazioni di breve termine.",
+     "pr": 3,
+     "imp": 3,
+     "sf": 3,
+     "sez": "trends"
+    },
+    {
+     "t": "Mettere i premi nelle trattative con le aziende",
+     "x": "Il primo posto al Kinto Grande Slam 2026 e il 57° posto in Leader della Crescita 2027 sono prove di solidità per un'azienda che sceglie a chi affidare la flotta. Oggi stanno su LinkedIn, non nei preventivi.",
+     "dati": "Kinto Grande Slam 2026, 1° fra i broker; Leader della Crescita 2027, 57° su 500 (il tasso di crescita della classifica non torna con i bilanci: usare la posizione, non la percentuale)",
+     "az": "Inserire i due riconoscimenti nella pagina aziende e nei preventivi per partite IVA.",
+     "pr": 3,
+     "imp": 2,
+     "sf": 1,
+     "sez": "osint"
+    }
+   ],
+   "batt": [
+    {
+     "id": "auto",
+     "loro": "Vende 18 marchi in 8 sedi, usato e km0 con finanziamento; noleggia anche dalle sedi di Fisciano e Fuorni e ha l'officina Car Service.",
+     "noi": "Noleggio con 9 mandati e oltre 90 offerte, 54 point in 13 regioni, un consulente che sceglie l'offerta per il cliente.",
+     "risposta": "Al cliente che esita sull'acquisto: «Se non vuoi immobilizzare soldi, un'auto simile la trovi a canone fisso con Rent, e l'assistenza resta a Lancusi.»"
+    },
+    {
+     "id": "petroli",
+     "loro": "11 stazioni in provincia di Salerno, carta IP Plus per le aziende, wallbox e colonnine Energy.",
+     "noi": "Clienti partite IVA e aziende in 13 regioni, con carburante e ricarica fuori dal canone.",
+     "risposta": "«Al canone aggiungi la carta IP Plus: carburante con una fattura ogni 15 giorni e pagamento a 20. Se noleggi elettrico, la wallbox te la installiamo noi.»"
+    }
+   ],
+   "piano": [
+    [
+     "0-3 mesi",
+     [
+      "Riga carta IP Plus e preventivo wallbox Energy nei preventivi per aziende.",
+      "Piano di risposta alle recensioni di Capodichino.",
+      "Campagna sul noleggio a lungo termine a gennaio, picco delle ricerche.",
+      "Premi nella pagina aziende e nei preventivi."
+     ]
+    ],
+    [
+     "3-6 mesi",
+     [
+      "Pagine noleggio per partite IVA e noleggio a Salerno.",
+      "Accordo con Car Service per la manutenzione dei clienti in Campania.",
+      "Formazione dei nuovi consulenti NLT sui prodotti del gruppo."
+     ]
+    ],
+    [
+     "6-12 mesi",
+     [
+      "Margine per canale (point, sedi, breve termine).",
+      "Nuovi point in Sardegna e Sicilia vicino alle stazioni di breve termine.",
+      "Offerte in pronta consegna con lo stock di Auto, dove le case locatrici lo accettano."
+     ]
+    ]
+   ],
+   "kpi": [
+    [
+     "Ricavi di Sistem Rental",
+     "35,27 M€ (2025, +45,5%)",
+     "crescita con margine sopra l'1,5%",
+     "storico"
+    ],
+    [
+     "Posizione per «noleggio lungo termine»",
+     "5°",
+     "primi 3",
+     "seo"
+    ],
+    [
+     "Posizione per «noleggio lungo termine partita iva»",
+     "assente",
+     "prima pagina",
+     "seo"
+    ],
+    [
+     "Voto Google di Capodichino",
+     "3,6 su 454",
+     "4,0 o più",
+     "reputazione"
+    ],
+    [
+     "Contratti con carta IP Plus o wallbox Energy",
+     "dato non presente",
+     "da misurare",
+     "gamma"
+    ],
+    [
+     "Citazioni nelle risposte AI",
+     "1 su 40",
+     "presenti sul noleggio a Salerno",
+     "geo2"
+    ]
+   ]
+  }
+ }
+}

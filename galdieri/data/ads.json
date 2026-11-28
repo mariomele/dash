@@ -1,0 +1,135 @@
+{
+ "n": "Letto il 28/11/2026. Meta: annunci attivi in Italia nella Libreria inserzioni (per pagina). Google: Centro trasparenza annunci per dominio, regione Italia; «attivo» = mostrato negli ultimi 7 giorni. Sotto-marchi come canali in più: auto.meta2 = Galdieri Car Service, petroli.meta2/meta3 = Galdieri Energy/Cleaning. Gli annunci Google di galdieriauto.it e galdierirent.it fanno capo allo stesso inserzionista, GALDIERI AUTO - S.R.L. Nessuna cifra di spesa.",
+ "az": {
+  "petroli": {
+   "meta": {
+    "n": 0,
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=408156169327165",
+    "nota": "La pagina C. Galdieri & Figli SpA non ha annunci attivi."
+   },
+   "meta2": {
+    "n": 0,
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=102087158651623",
+    "sub": "Galdieri Energy"
+   },
+   "meta3": {
+    "n": 0,
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=101775475355672",
+    "sub": "Galdieri Cleaning"
+   },
+   "google": {
+    "n": 0,
+    "es": [],
+    "s": "dic",
+    "u": "https://adstransparency.google.com/?region=IT&domain=galdieripetroli.it",
+    "nota": "Nessun annuncio per galdieripetroli.it, galdierienergy.it e galdiericleaning.it."
+   }
+  },
+  "auto": {
+   "meta": {
+    "n": 9,
+    "dal": "2026-09-29",
+    "es": [
+     {
+      "d": "2026-09-29",
+      "t": "Tutto più facile. A partire da lei.\nAgile in città, con posto per chi ami. Elettrica, con easyWallbox inclusa: la ricarica è a casa tua dal ",
+      "f": "dinamico",
+      "u": "https://www.facebook.com/ads/library/?id=1414545070810833"
+     },
+     {
+      "d": "2026-11-12",
+      "t": "Un’Alfa Romeo non si racconta. Si guida.\nLo scudetto, i fari full LED, il selettore Alfa DNA che cambia il carattere dell’auto con un gesto.",
+      "f": "immagine",
+      "u": "https://www.facebook.com/ads/library/?id=2212433356373030"
+     },
+     {
+      "d": "2026-11-24",
+      "t": "Crediamo che ogni auto usata abbia una storia.\nE che meriti una voce sincera a raccontarla.\nPer questo, con Usato Selection, ciascuna vettur",
+      "f": "video",
+      "u": "https://www.facebook.com/ads/library/?id=1047425158390032"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=100800596677754",
+    "nota": "Annunci attivi in Italia nella Libreria inserzioni Meta, letti il 28/11/2026."
+   },
+   "meta2": {
+    "n": 1,
+    "dal": "2026-11-25",
+    "sub": "Galdieri Car Service",
+    "es": [
+     {
+      "d": "2026-11-25",
+      "t": "⛽ Risparmia sul carburante, non sulla strada da percorrere! Con Galdieri Service, passare al GPL è facile",
+      "f": "carosello",
+      "u": "https://www.facebook.com/ads/library/?id=1465930585510453"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=237983003051672"
+   },
+   "google": {
+    "n": 0,
+    "es": [],
+    "arch": 31,
+    "s": "dic",
+    "u": "https://adstransparency.google.com/advertiser/AR17065733176887869441?region=IT",
+    "nota": "galdieriauto.it: circa 31 annunci in archivio (inserzionista GALDIERI AUTO - S.R.L.), l'ultimo mostrato il 31/07/2026: nessuno attivo. galdiericarservice.it: nessun annuncio."
+   }
+  },
+  "rent": {
+   "meta": {
+    "n": 16,
+    "dal": "2026-10-30",
+    "es": [
+     {
+      "d": "2026-10-30",
+      "t": "Crediamo che la mobilità debba aprirti nuove strade, non complicarti la vita ogni giorno.\nInvece spesso ci si mette proprio l’auto: un impre",
+      "f": "video",
+      "u": "https://www.facebook.com/ads/library/?id=2984827045203514"
+     },
+     {
+      "d": "2026-11-09",
+      "t": "Guarda caso, l’hai trovata.\nEd è la migliore.\nIl tuo consulente Galdieri Rent l’ha già scelta tra migliaia di proposte di noleggio a lungo t",
+      "f": "immagine",
+      "u": "https://www.facebook.com/ads/library/?id=1126558596784843"
+     },
+     {
+      "d": "2026-11-11",
+      "t": "Dietro le quinte del noleggio. 🎬\nLa fiducia nasce da ciò che vedi. Per questo [nome] ti mostra COME lavorano i nostri consulenti esperti.\nOg",
+      "f": "video",
+      "u": "https://www.facebook.com/ads/library/?id=1143266395061690"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=1441619342772755",
+    "nota": "Annunci attivi in Italia nella Libreria inserzioni Meta, letti il 28/11/2026."
+   },
+   "google": {
+    "n": 2,
+    "dal": "2026-11-18",
+    "arch": 53,
+    "s": "dic",
+    "u": "https://adstransparency.google.com/advertiser/AR17065733176887869441?region=IT",
+    "nota": "galdierirent.it: circa 53 annunci in archivio, pagati da GALDIERI AUTO - S.R.L.; 2 video mostrati negli ultimi 7 giorni. Testo degli annunci non letto.",
+    "es": [
+     {
+      "d": "2026-11-27",
+      "t": "Annuncio video (testo non letto)",
+      "f": "video",
+      "u": "https://adstransparency.google.com/advertiser/AR17065733176887869441/creative/CR01712482943579979777?region=IT"
+     },
+     {
+      "d": "2026-11-18",
+      "t": "Annuncio video (testo non letto)",
+      "f": "video",
+      "u": "https://adstransparency.google.com/advertiser/AR17065733176887869441/creative/CR01250267634155388929?region=IT"
+     }
+    ]
+   }
+  }
+ }
+}

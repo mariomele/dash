@@ -1,0 +1,5 @@
+{
+  "petroli": { "q": ["\"Galdieri Petroli\"", "\"Galdieri Energy\"", "\"Galdieri Cleaning\"", "\"Gruppo Galdieri\"", "\"Galdieri\" Baronissi", "\"Galdieri\" carburanti"], "k": ["galdieri petroli", "galdieri energy", "galdieri cleaning", "gruppo galdieri", "galdieri&petrol|carburant|area di servizio|stazione|benzin|gasolio|gnl|lng|metano|energy|baronissi|distribut"] },
+  "auto": { "q": ["\"Galdieri Auto\"", "\"Galdieri Car Service\"", "\"Galdieri\" concessionaria"], "k": ["galdieri auto", "galdieri car", "galdieri&concessionari|stellantis|fiat|jeep|alfa|lancia|abarth|auto"] },
+  "rent": { "q": ["\"Galdieri Rent\""], "k": ["galdieri rent", "galdieri&noleggi|rent"] }
+}

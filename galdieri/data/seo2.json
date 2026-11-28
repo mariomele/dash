@@ -1,0 +1,447 @@
+{
+ "at": "2026-11-28",
+ "s": "dic",
+ "u": "https://docs.dataforseo.com/v3/dataforseo_labs/google/ranked_keywords/live/",
+ "dom": {
+  "petroli": {
+   "d": "galdieripetroli.it",
+   "pos": {
+    "1": 2,
+    "2_3": 4,
+    "4_10": 3,
+    "11_20": 9,
+    "21_50": 22,
+    "51_100": 14
+   },
+   "bl": {
+    "rank": 118,
+    "rd": 68,
+    "bl": 95,
+    "spam": 44
+   },
+   "int": {
+    "info": 6,
+    "comm": 0,
+    "trans": 5,
+    "nav": 19
+   },
+   "int_n": 30,
+   "kw": [
+    [
+     "ip baronissi ovest",
+     880,
+     1,
+     "/baronissi-ovest/"
+    ],
+    [
+     "autogrill baronissi ovest",
+     1900,
+     2,
+     "/baronissi-ovest/"
+    ],
+    [
+     "ip baronissi est",
+     880,
+     2,
+     "/baronissi-est/"
+    ],
+    [
+     "area di servizio baronissi",
+     170,
+     1,
+     "/baronissi-ovest/"
+    ],
+    [
+     "autogrill baronissi est",
+     1300,
+     4,
+     "/baronissi-est/"
+    ],
+    [
+     "ip plus",
+     4400,
+     16,
+     "/ip-plus/"
+    ],
+    [
+     "salerno tangenziale",
+     1600,
+     6,
+     "/tangenziale-salerno/"
+    ],
+    [
+     "ip plus online",
+     1900,
+     17,
+     "/ip-plus/"
+    ],
+    [
+     "tangenziale di salerno",
+     1300,
+     7,
+     "/tangenziale-salerno/"
+    ],
+    [
+     "tabella gradazione olio motore",
+     70,
+     2,
+     "/wp-content/uploads/2020/03/Catalogo-Lube-Completo-13.06.2018.pdf"
+    ],
+    [
+     "prossima stazione di servizio",
+     480,
+     32,
+     "/10-regole-doro-per-il-successo-di-una-stazione-di-servizio/"
+    ],
+    [
+     "galdieri fuorni",
+     140,
+     5,
+     "/salerno-fuorni/"
+    ]
+   ],
+   "s": "dic",
+   "u": "https://www.galdieripetroli.it/"
+  },
+  "auto": {
+   "d": "galdieriauto.it",
+   "pos": {
+    "1": 58,
+    "2_3": 67,
+    "4_10": 191,
+    "11_20": 396,
+    "21_50": 1044,
+    "51_100": 277
+   },
+   "bl": {
+    "rank": 308,
+    "rd": 169,
+    "bl": 4745,
+    "spam": 1
+   },
+   "int": {
+    "info": 5,
+    "comm": 0,
+    "trans": 16,
+    "nav": 9
+   },
+   "int_n": 30,
+   "kw": [
+    [
+     "hyundai i20",
+     90500,
+     1,
+     "/auto/usate+km0/tutte-citta/hyundai/i20/"
+    ],
+    [
+     "galdieri auto",
+     5400,
+     1,
+     "/"
+    ],
+    [
+     "galdieri auto fisciano",
+     4400,
+     1,
+     "/"
+    ],
+    [
+     "galdieri auto salerno",
+     4400,
+     1,
+     "/auto/km0+nuove-pronta-consegna/salerno/"
+    ],
+    [
+     "panda fiat",
+     201000,
+     1,
+     "/auto/nuove-pronta-consegna+usate/tutte-citta/fiat/panda/"
+    ],
+    [
+     "galdieri",
+     2900,
+     1,
+     "/"
+    ],
+    [
+     "i20 hyundai",
+     6600,
+     1,
+     "/auto/usate+km0/tutte-citta/hyundai/i20/"
+    ],
+    [
+     "picanto kia",
+     4400,
+     1,
+     "/auto/tutte-tipologie/tutte-citta/kia/picanto/"
+    ],
+    [
+     "galdieri fisciano",
+     590,
+     1,
+     "/"
+    ],
+    [
+     "fiat 1100 r",
+     1000,
+     1,
+     "/fiat-1100-r-tendenze-auto-vintage-sulla-neve/"
+    ],
+    [
+     "jeep avenger",
+     246000,
+     39,
+     "/auto/tutte-tipologie/tutte-citta/jeep/avenger/"
+    ],
+    [
+     "500x usata",
+     8100,
+     6,
+     "/auto/usate/tutte-citta/fiat/500x/"
+    ]
+   ],
+   "s": "dic",
+   "u": "https://www.galdieriauto.it/"
+  },
+  "rent": {
+   "d": "galdierirent.it",
+   "pos": {
+    "1": 47,
+    "2_3": 34,
+    "4_10": 229,
+    "11_20": 392,
+    "21_50": 565,
+    "51_100": 117
+   },
+   "bl": {
+    "rank": 239,
+    "rd": 290,
+    "bl": 2043,
+    "spam": 7
+   },
+   "int": {
+    "info": 1,
+    "comm": 2,
+    "trans": 18,
+    "nav": 9
+   },
+   "int_n": 30,
+   "kw": [
+    [
+     "galdieri rent",
+     18100,
+     1,
+     "/noleggio-lungo-termine/campania/point-fuorigrotta"
+    ],
+    [
+     "galdieri rent fiumicino",
+     1900,
+     1,
+     "/sedi-direzionali/roma-fiumicino"
+    ],
+    [
+     "galdieri rent malpensa",
+     1900,
+     1,
+     "/sedi-direzionali/milano-malpensa"
+    ],
+    [
+     "galdieri rent olbia",
+     1900,
+     1,
+     "/sedi-direzionali/olbia-costa-smeralda"
+    ],
+    [
+     "galdieri rent capodichino",
+     1300,
+     1,
+     "/sedi-direzionali/napoli-capodichino"
+    ],
+    [
+     "galdieri rent venezia marco polo",
+     1300,
+     1,
+     "/sedi-direzionali/venezia-marco-polo"
+    ],
+    [
+     "ferrari f40",
+     49500,
+     14,
+     "/blog/ferrari-f40-ultima-nata"
+    ],
+    [
+     "galdieri rent cagliari",
+     1300,
+     1,
+     "/sedi-direzionali/cagliari-elmas"
+    ],
+    [
+     "galdieri",
+     2900,
+     2,
+     "/"
+    ],
+    [
+     "galdieri rent roma termini",
+     480,
+     1,
+     "/sedi-direzionali/roma-termini"
+    ],
+    [
+     "jaguar f type",
+     18100,
+     5,
+     "/blog/jaguar-f-type-erede-spirituale-della-e-type"
+    ],
+    [
+     "galdieri rent catania aeroporto",
+     390,
+     1,
+     "/sedi-direzionali/catania-fontanarossa"
+    ]
+   ],
+   "s": "dic",
+   "u": "https://www.galdierirent.it/"
+  }
+ },
+ "gap": {
+  "gruppoapi.com": [
+   [
+    "prezzo medio benzina oggi",
+    2900,
+    7
+   ],
+   [
+    "fatturazione ip",
+    2400,
+    1
+   ],
+   [
+    "prezzo medio benzina",
+    1900,
+    6
+   ],
+   [
+    "gasolio hvo",
+    1900,
+    8
+   ]
+  ],
+  "gruppoautoscala.com": [
+   [
+    "smart forfour automobile",
+    18100,
+    1
+   ],
+   [
+    "sportequipe 6 gt",
+    14800,
+    3
+   ],
+   [
+    "autosalone usato vicino a me",
+    12100,
+    4
+   ],
+   [
+    "sportequipe 8 gt",
+    12100,
+    10
+   ],
+   [
+    "peugeot 108",
+    12100,
+    2
+   ],
+   [
+    "opel corsa prezzo",
+    6600,
+    10
+   ],
+   [
+    "sandero",
+    6600,
+    10
+   ],
+   [
+    "mg auto prezzo",
+    4400,
+    2
+   ]
+  ],
+  "leasys.com": [
+   [
+    "revisione auto",
+    60500,
+    9
+   ],
+   [
+    "auto euro",
+    18100,
+    9
+   ],
+   [
+    "4 stagioni gomme",
+    18100,
+    10
+   ],
+   [
+    "costi revisione auto",
+    14800,
+    5
+   ],
+   [
+    "calze da neve",
+    12100,
+    6
+   ],
+   [
+    "revisione autoveicoli ogni quanto",
+    9900,
+    2
+   ],
+   [
+    "spie macchina gialle",
+    9900,
+    6
+   ],
+   [
+    "esame patente b",
+    9900,
+    5
+   ],
+   [
+    "revisione auto quando scade",
+    9900,
+    6
+   ]
+  ]
+ },
+ "lh": {
+  "petroli": {
+   "perf": 73,
+   "seo": 92,
+   "acc": 83,
+   "url": "https://www.galdieripetroli.it/",
+   "n": "LCP 3,0 s, risposta del server 3,2 s (WordPress)"
+  },
+  "auto": {
+   "perf": 95,
+   "seo": 92,
+   "acc": 91,
+   "url": "https://www.galdieriauto.it/"
+  },
+  "rent": {
+   "perf": 93,
+   "seo": 92,
+   "acc": 97,
+   "url": "https://www.galdierirent.it/"
+  }
+ },
+ "gapvs": {
+  "gruppoapi.com": "petroli",
+  "gruppoautoscala.com": "auto",
+  "leasys.com": "rent"
+ },
+ "n": "DataForSEO Labs (Google Italia): fasce di posizione da domain_rank_overview; intento e parole dalle 30 parole con più visite stimate di ogni sito (ranked_keywords); link da Backlinks (bulk ranks, referring domains, backlinks, spam score). Le tabelle «occasioni» non mettono a confronto concorrenti: per ogni divisione mostrano chi vince la ricerca di categoria (galdierirent.it → leasys.com, galdieriauto.it → gruppoautoscala.com, galdieripetroli.it → gruppoapi.com) e le parole dove quel sito è in prima pagina e il nostro no, tolte le ricerche del suo marchio (domain_intersection, letto il 28/11/2026). Lighthouse desktop sulla home, 28/11/2026."
+}

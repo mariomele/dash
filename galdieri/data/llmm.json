@@ -1,0 +1,477 @@
+{
+ "at": "2026-11-28",
+ "s": "dic",
+ "u": "https://docs.dataforseo.com/v3/ai_optimization/llm_mentions/search/live/",
+ "loc": "Italia, italiano",
+ "r": {
+  "rent": {
+   "g": {
+    "tot": 172,
+    "q": [
+     [
+      "galdieri rent",
+      18100
+     ],
+     [
+      "suv cinese",
+      9900
+     ],
+     [
+      "noleggio auto cagliari",
+      8100
+     ],
+     [
+      "galdieri auto",
+      5400
+     ],
+     [
+      "noleggio auto lamezia terme",
+      5400
+     ],
+     [
+      "galdieri auto fisciano",
+      4400
+     ],
+     [
+      "galdieri auto salerno",
+      4400
+     ],
+     [
+      "autojolly frosinone",
+      3600
+     ],
+     [
+      "galdieri",
+      2900
+     ],
+     [
+      "galdieri rent olbia",
+      1900
+     ],
+     [
+      "galdieri rent fiumicino",
+      1900
+     ],
+     [
+      "galdieri rent malpensa",
+      1900
+     ],
+     [
+      "omoda 9 noleggio lungo termine",
+      1600
+     ],
+     [
+      "noleggio auto rimini",
+      1600
+     ],
+     [
+      "noleggio auto milano malpensa",
+      1600
+     ],
+     [
+      "rental car cagliari",
+      1600
+     ],
+     [
+      "rent a car cagliari",
+      1600
+     ],
+     [
+      "galdieri rent bari aeroporto",
+      1600
+     ],
+     [
+      "autonoleggio lamezia terme",
+      1300
+     ],
+     [
+      "galdieri rent capodichino",
+      1300
+     ]
+    ],
+    "src": [
+     [
+      "www.google.com",
+      44
+     ],
+     [
+      "galdierirent.it",
+      15
+     ],
+     [
+      "it.trustpilot.com",
+      6
+     ],
+     [
+      "www.facebook.com",
+      5
+     ],
+     [
+      "www.youtube.com",
+      5
+     ],
+     [
+      "www.avisautonoleggio.it",
+      5
+     ],
+     [
+      "www.sicilybycar.it",
+      5
+     ],
+     [
+      "www.europcar.it",
+      5
+     ]
+    ]
+   },
+   "c": {
+    "tot": 2,
+    "q": [
+     [
+      "what is the cheapest car rental company in pisa?",
+      24
+     ],
+     [
+      "what is the cheapest car hire company at rome ciampino airport?",
+      16
+     ]
+    ],
+    "src": [
+     [
+      "visitteo.com",
+      2
+     ],
+     [
+      "carrentalbrain.com",
+      1
+     ],
+     [
+      "www.easyterra.com",
+      1
+     ]
+    ]
+   }
+  },
+  "auto": {
+   "g": {
+    "tot": 267,
+    "q": [
+     [
+      "galdieri rent",
+      18100
+     ],
+     [
+      "noleggio auto cagliari",
+      8100
+     ],
+     [
+      "suzuki jimny prezzo",
+      6600
+     ],
+     [
+      "renault 5 alpine",
+      6600
+     ],
+     [
+      "galdieri auto",
+      5400
+     ],
+     [
+      "noleggio auto lamezia terme",
+      5400
+     ],
+     [
+      "galdiero auto",
+      5400
+     ],
+     [
+      "galdieri auto fisciano",
+      4400
+     ],
+     [
+      "galdieri auto salerno",
+      4400
+     ],
+     [
+      "byd seal 6 dm-i",
+      3600
+     ],
+     [
+      "autojolly frosinone",
+      3600
+     ],
+     [
+      "galdieri",
+      2900
+     ],
+     [
+      "concessionario omoda vicino a me",
+      2400
+     ],
+     [
+      "concessionaria omoda vicino a me",
+      2400
+     ],
+     [
+      "autogrill baronissi ovest",
+      1900
+     ],
+     [
+      "galdieri rent olbia",
+      1900
+     ],
+     [
+      "galdieri rent fiumicino",
+      1900
+     ],
+     [
+      "galdieri rent malpensa",
+      1900
+     ],
+     [
+      "byd atto 2 dm-i prezzo",
+      1600
+     ],
+     [
+      "omoda 9 noleggio lungo termine",
+      1600
+     ]
+    ],
+    "src": [
+     [
+      "www.google.com",
+      23
+     ],
+     [
+      "www.facebook.com",
+      10
+     ],
+     [
+      "galdierirent.it",
+      9
+     ],
+     [
+      "www.galdieriauto.it",
+      6
+     ],
+     [
+      "it.trustpilot.com",
+      5
+     ],
+     [
+      "www.youtube.com",
+      4
+     ],
+     [
+      "www.instagram.com",
+      3
+     ],
+     [
+      "www.cheautocompro.it",
+      3
+     ]
+    ]
+   },
+   "c": {
+    "tot": 0,
+    "q": [],
+    "src": []
+   }
+  },
+  "petroli": {
+   "g": {
+    "tot": 2,
+    "q": [
+     [
+      "autogrill baronissi ovest",
+      1900
+     ],
+     [
+      "ip baronissi ovest",
+      880
+     ]
+    ],
+    "src": [
+     [
+      "www.google.com",
+      2
+     ],
+     [
+      "www.tripadvisor.it",
+      1
+     ],
+     [
+      "www.galdieripetroli.it",
+      1
+     ],
+     [
+      "www.waze.com",
+      1
+     ],
+     [
+      "www.plugshare.com",
+      1
+     ],
+     [
+      "restaurantguru.it",
+      1
+     ],
+     [
+      "www.prezzibenzina.it",
+      1
+     ],
+     [
+      "www.italianapetroli.it",
+      1
+     ]
+    ]
+   },
+   "c": {
+    "tot": 0,
+    "q": [],
+    "src": []
+   }
+  },
+  "gruppo": {
+   "g": {
+    "tot": 365,
+    "q": [
+     [
+      "galdieri rent",
+      18100
+     ],
+     [
+      "suv cinese",
+      9900
+     ],
+     [
+      "noleggio auto cagliari",
+      8100
+     ],
+     [
+      "suzuki jimny prezzo",
+      6600
+     ],
+     [
+      "renault 5 alpine",
+      6600
+     ],
+     [
+      "galdieri auto",
+      5400
+     ],
+     [
+      "noleggio auto lamezia terme",
+      5400
+     ],
+     [
+      "galdiero auto",
+      5400
+     ],
+     [
+      "galdieri auto fisciano",
+      4400
+     ],
+     [
+      "galdieri auto salerno",
+      4400
+     ],
+     [
+      "byd seal 6 dm-i",
+      3600
+     ],
+     [
+      "autojolly frosinone",
+      3600
+     ],
+     [
+      "galdieri",
+      2900
+     ],
+     [
+      "concessionario omoda vicino a me",
+      2400
+     ],
+     [
+      "concessionaria omoda vicino a me",
+      2400
+     ],
+     [
+      "autogrill baronissi ovest",
+      1900
+     ],
+     [
+      "galdieri rent olbia",
+      1900
+     ],
+     [
+      "galdieri rent fiumicino",
+      1900
+     ]
+    ],
+    "src": [
+     [
+      "www.google.com",
+      23
+     ],
+     [
+      "www.facebook.com",
+      11
+     ],
+     [
+      "www.youtube.com",
+      8
+     ],
+     [
+      "galdierirent.it",
+      6
+     ],
+     [
+      "www.instagram.com",
+      5
+     ],
+     [
+      "www.galdieriauto.it",
+      5
+     ],
+     [
+      "it.trustpilot.com",
+      4
+     ],
+     [
+      "www.autoscout24.it",
+      3
+     ]
+    ]
+   },
+   "c": {
+    "tot": 2,
+    "q": [
+     [
+      "what is the cheapest car rental company in pisa?",
+      24
+     ],
+     [
+      "what is the cheapest car hire company at rome ciampino airport?",
+      16
+     ]
+    ],
+    "src": [
+     [
+      "visitteo.com",
+      2
+     ],
+     [
+      "carrentalbrain.com",
+      1
+     ],
+     [
+      "www.easyterra.com",
+      1
+     ]
+    ]
+   }
+  }
+ },
+ "n": "Ricerche: «galdieri rent», «galdieri auto», «galdieri petroli» e «galdieri» da solo (riga «gruppo»). Le ricerche si sovrappongono (una risposta su Galdieri Rent compare anche in «galdieri»): i totali non si sommano. Omonimi tolti dalla riga «gruppo» (28/11/2026, verifica dati): su Google 2 risposte su 20 lette (un indirizzo in via Filomena Galdieri, l'agriturismo Tenuta Baroni Galdieri), su ChatGPT 1 su 3 (il paroliere Michele Galdieri, con le sue fonti shazam.com e wikipedia); i totali sono scesi di 2 e di 1. Le fonti di Google restano quelle lette, perché non si sa a quale risposta appartengono. «galdiero auto» (cognome diverso) resta nella riga auto: la risposta nomina Galdieri Auto. «galdieri petroli» ha solo 2 risposte, entrambe sull'area di servizio di Baronissi."
+}

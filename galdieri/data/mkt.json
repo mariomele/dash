@@ -1,0 +1,240 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "n": "Analisi Marketing scritta da un agente (valutazione) nel ruolo di direttore marketing con 20 anni nella mobilità: retail automotive, reti carburanti, noleggio. Quattro letture: il gruppo intero e ognuna delle tre divisioni dal suo punto di vista (le altre due sono sorelle: stesso pubblico, stessa marca da tenere coerente).",
+ "gruppo": {
+  "at": "2026-11-28",
+  "s": "val",
+  "n": "Valutazione di un agente nel ruolo di direttore marketing della mobilità. Basata su aziende, brand, brandx, sito, social, posts, ads, seo, seo2, reput, geo2, llmm, trends, gamma, osint e qa.md, tutti del 28/11/2026. Le medie dei voti Google per divisione sono pesate sulle recensioni delle 30 schede della pagina Reputazione. Mancano: traffico vero dei siti, contatti e contratti per canale, data dell'ultimo post Facebook, testo degli annunci Google, Instagram di Galdieri Cleaning. Nessuna stima di spesa pubblicitaria. Gli obiettivi dei KPI sono proposte, non previsioni.",
+  "sintesi": "Il Gruppo Galdieri ha tre marchi forti in tre mestieri diversi, ma non ha ancora una marca di gruppo che il cliente riconosca. Sette loghi e quattro lingue visive: il fucsia del gruppo, l'unico colore raro del settore, non compare in nessuno dei 6 marchi; nessun logo supera 3 su 10 sulla scala mondiale e il migliore, Galdieri Auto, prende 3,00 su 5. Anche i siti non si parlano: galdierigroup.it non porta ai 6 marchi e nessun sito di marchio mostra il gruppo. La forza digitale è tutta in Auto e Rent: insieme circa 45.000 visite stimate al mese da Google, 25 annunci Meta attivi, 8 citazioni su 40 nelle risposte AI per Auto. Petroli, la capogruppo, è quasi invisibile online: 1.137 visite, Instagram fermo dal 13/11/2023, nessun annuncio, 1 citazione AI. Il pubblico c'è (oltre 95.000 follower fra Facebook, Instagram e LinkedIn dei tre marchi principali), ma ogni divisione parla solo al suo. Le priorità: decidere l'architettura (un segno comune, un carattere, un colore per divisione), dare a Petroli una voce digitale, legare i percorsi del cliente (auto, carta carburante, ricarica, noleggio) e prendersi le domande dove le AI oggi citano altri.",
+  "swot": {
+   "forza": [
+    "Tre marchi già cercati per nome: «galdieri rent» 18.100 ricerche al mese, «galdieri auto» 5.400, «galdieri» 2.900",
+    "Rent ha il sito migliore del gruppo (3,82 su 5, Solido) e Auto è la più citata dalle AI (8 risposte su 40)",
+    "Un pubblico social largo: Facebook 37.798 (Rent) e 23.525 (Auto), LinkedIn di Rent 8.446 con 6 post al mese",
+    "Voti Google buoni dove ci sono molte recensioni: Rent Fisciano 5,0 su 712, Auto Fisciano 4,3 su 1.258",
+    "Storia lunga e documentata (dal 1951-1952, libro di famiglia) e certificazioni vere: ISO 9001, 14001, 45001 in Petroli, parità di genere UNI/PdR 125 in Auto",
+    "Una grammatica di nome già comune a tutti i marchi: «Galdieri + mestiere»"
+   ],
+   "debolezza": [
+    "Nessun sistema di marca: 7 loghi, G disegnate in tre modi, il fucsia di gruppo usato solo dal gruppo",
+    "Petroli quasi assente online: 1.137 visite stimate, 54 parole su Google, nessun annuncio, Instagram fermo dal 2023",
+    "Car Service ha tre nomi (AutoService nel logo, Car Service nel dominio, CarService nel report)",
+    "Siti scollegati: galdierigroup.it non porta ai 6 marchi, nessun marchio firma «Galdieri Group»",
+    "Numeri che non tornano fra i siti: point Rent 92, 54 o «oltre 100»; colonnine in 7, 10 o 11 stazioni"
+   ],
+   "opportunita": [
+    "Vendite incrociate già pronte: carta carburante IP Plus (circa 1.200 clienti) e wallbox Energy offerte a chi compra o noleggia un'auto",
+    "GNL in autostrada: Galdieri ha il primo impianto LNG su rete autostradale (Baronissi Est, 2018) ma su 4 AI nessuna lo cita per la A2",
+    "Un segno comune: il G fucsia accanto a ogni logotipo renderebbe riconoscibile il gruppo in stazioni, concessionarie e point",
+    "Pubblico condiviso in Campania: Rent ha il 100 di interesse su Google in Campania, Auto vende in 4 province campane, Petroli ha 11 stazioni nel Salernitano"
+   ],
+   "minaccia": [
+    "Le AI rispondono con altri nomi: 0 citazioni Galdieri nelle 8 risposte sul noleggio a lungo termine (Arval, Leasys, Ayvens) e 0 su gasolio e GNL",
+    "In stazione Petroli usa blu e arancio di IP: se cambia il mandato, il marchio Galdieri non ha un colore suo",
+    "Le AI sbagliano attribuzione: Gemini dà Baronissi Est a Q8 e Claude a Api-Ip",
+    "Recensioni deboli dove passano molti clienti nuovi: Rent Capodichino 3,6 su 454"
+   ]
+  },
+  "punti": [
+   {"t": "Decidere l'architettura di marca prima del restyling", "x": "Oggi ogni marchio ha logo, colore e carattere suoi: chi fa rifornimento, chi compra l'auto e chi la noleggia non sa di parlare con lo stesso gruppo. La base per un sistema c'è già: «Galdieri bold + mestiere» in 6 loghi su 7 e un fucsia che nel settore non usa nessuno.", "dati": "Loghi: Auto 3,00, Cleaning 2,89, Gruppo 2,67, Petroli 2,56, Rent 2,44, Energy 2,22, Car Service 2,11; nessuno oltre 3/10 sulla scala mondiale", "az": "Scegliere un sistema «marca di gruppo + mestiere»: G fucsia come firma comune accanto a ogni logotipo, un solo carattere, un colore di servizio per divisione; scriverlo in un manuale prima di rifare i loghi.", "pr": 1, "imp": 5, "sf": 3, "sez": "marchio"},
+   {"t": "Un colore per divisione dentro una tavolozza di gruppo", "x": "Sulla ruota dei colori del gruppo ci sono già tre blu (Petroli, Auto, Car Service), due arance (Energy e il filo del gruppo), un turchese, un rosso e il fucsia. Restano liberi il verde, il viola e il giallo. Il blu di Petroli è quello di IP e il rosso di Rent è quello di Avis ed Europcar.", "dati": "Colori: Petroli #0054DC, Auto #0E7BBF, Car Service #358ECB, Energy #FE612B, Cleaning #00C6CF, Rent #E31E24, Gruppo #e63484", "az": "Tenere il fucsia solo per la firma di gruppo; dare a Petroli un blu diverso da IP; decidere se il rosso resta a Rent come colore di divisione; evitare il verde come colore generico «green».", "pr": 2, "imp": 4, "sf": 2, "sez": "marchio"},
+   {"t": "Un nome solo per Car Service", "x": "Logo, dominio e report usano tre nomi diversi: ricerche, recensioni e citazioni si disperdono. È la correzione più economica di tutta la riorganizzazione.", "dati": "Logo «Galdieri AutoService», dominio e social «Car Service», report «CarService»; logo 2,11, ultimo su 7", "az": "Scegliere «Galdieri Car Service» e allineare logo, schede Google, social, firma email e report entro tre mesi.", "pr": 1, "imp": 3, "sf": 1, "sez": "marchio"},
+   {"t": "Collegare i siti: il gruppo deve portare ai marchi", "x": "galdierigroup.it ha l'identità più forte ma racconta solo la famiglia e non porta a nessun marchio; nessun sito di marchio mostra il gruppo. È l'occasione più semplice per far passare il valore di 70 anni di storia da un marchio all'altro.", "dati": "Sito di gruppo 2,56 su 5 (Azione 1/5, Cosa fa 2/5); 114 visite stimate al mese, nessuna parola in top 10", "az": "Mettere in home di galdierigroup.it i 6 marchi con mestiere e link e una riga di numeri; in ogni sito di marchio una firma «un marchio Galdieri Group» con link.", "pr": 1, "imp": 4, "sf": 1, "sez": "sito"},
+   {"t": "Dare una voce digitale alla capogruppo", "x": "Petroli fa più di 100 M€ di ricavi ma online pesa meno di un singolo point di Rent: sito penultimo, Instagram fermo, LinkedIn senza post, YouTube senza video.", "dati": "Petroli: 1.137 visite stimate al mese contro 25.044 di Auto e 20.096 di Rent; sito 2,12 su 5; Instagram fermo dal 13/11/2023", "az": "Rifare il primo schermo di galdieripetroli.it (foto vera della rete, «Trova la stazione», «Preventivo ingrosso») e riaprire LinkedIn con 2 post al mese per aziende e flotte.", "pr": 1, "imp": 4, "sf": 3, "sez": "sito"},
+   {"t": "Prendersi le risposte AI sul noleggio e sull'energia", "x": "Le AI citano Galdieri quasi solo per la concessionaria. Sul noleggio a lungo termine e su gasolio, GNL, luce e gas rispondono sempre con altri nomi, usando come fonte siti di confronto e directory.", "dati": "Citati in 10 risposte su 40: Auto 8, Rent 1, Petroli 1, Energy 0; domande sul noleggio 0 su 8; fonti più usate finrent.it, facile.it, leasys.com, paginegialle.it, federmetano.it", "az": "Scrivere su ogni sito pagine-risposta chiare (chi siamo, dove, cosa offriamo, numeri) e farsi elencare sulle fonti che le AI leggono: Federmetano e i siti dei prezzi per il GNL, i portali di confronto per il noleggio, Pagine Gialle per gasolio e ingrosso.", "pr": 1, "imp": 4, "sf": 3, "sez": "geo2"},
+   {"t": "Correggere chi gestisce Baronissi nelle risposte AI", "x": "L'AI Overview di Google dice correttamente che le due aree sono di Galdieri, ma Gemini attribuisce Baronissi Est a Q8 e Claude le aree ad Api-Ip. È un problema di fonti: la scheda Google di Baronissi Est porta al dominio della compagnia.", "dati": "IP Baronissi Ovest 4,0 su 2.945 e Est 4,0 su 1.952; la scheda Est rimanda a gruppoapi.com", "az": "Chiedere a IP di indicare «gestita da Galdieri Petroli» nelle schede, aggiungere una pagina per area su galdieripetroli.it con indirizzo e servizi, e aggiornare Waze e Tripadvisor.", "pr": 2, "imp": 3, "sf": 2, "sez": "geo2"},
+   {"t": "Vendite incrociate fra divisioni, prima di tutto nella comunicazione", "x": "I luoghi del percorso cliente ci sono già (Lancusi e Fuorni ospitano più divisioni), ma nessun sito li lega: chi compra un'elettrica da Auto non vede la wallbox Energy, chi noleggia non vede le stazioni Galdieri, le aziende di Rent non vedono la carta carburante IP Plus.", "dati": "Gamma: 17 voci coperte ma quasi ognuna da una sola divisione (Petroli 11, Auto 8, Rent 3); IP Plus circa 1.200 clienti e 21 milioni di litri; Auto 0 alla voce ricarica", "az": "Una pagina e una campagna «Galdieri per la tua flotta» con noleggio, carta carburante, officina e ricarica; un banner wallbox nelle schede delle auto elettriche e plug-in.", "pr": 2, "imp": 4, "sf": 3, "sez": "gamma"},
+   {"t": "Pubblicità: tutto il gruppo pesa su due marchi", "x": "Gli annunci attivi sono solo di Rent e Auto; Petroli, Energy e Cleaning non ne hanno né su Meta né su Google. Auto non ha annunci Google attivi dal 31/07/2026. Lo stesso inserzionista (Galdieri Auto S.r.l.) paga per Auto e Rent: c'è già un centro unico che può coordinare.", "dati": "Annunci attivi: Rent 16 Meta e 2 Google, Auto 9 Meta, Car Service 1 Meta, Petroli/Energy/Cleaning 0", "az": "Un calendario unico degli annunci di gruppo con una regola di firma comune; un primo test locale per Petroli (ingrosso e gasolio agricolo su Google, ricerca stazione su Meta).", "pr": 2, "imp": 3, "sf": 2, "sez": "pubblicita"},
+   {"t": "Un solo numero per ogni fatto, su tutti i siti", "x": "Il cliente legge 92, 54 o «oltre 100» point Rent; colonnine in 7, 10 o 11 stazioni; Auto con 3 o 8 sedi; il bollo nel canone sì e no. Nella riorganizzazione di marca queste incoerenze pesano più del logo.", "dati": "Gamma e Il gruppo: cifre non allineate fra galdierirent.it, galdierigroup.it, galdieripetroli.it e galdierienergy.it; pagine modello ancora online (/faq/, /wireframes/)", "az": "Un foglio unico dei numeri del gruppo, aggiornato ogni trimestre, da cui prendono i dati siti, social e materiali; togliere le pagine modello.", "pr": 2, "imp": 3, "sf": 1, "sez": "gamma"},
+   {"t": "Tono di voce: un'impronta comune, tre accenti", "x": "Auto e Rent hanno già una voce vicina ed emozionale, da manifesto; Petroli parla da comunicato. Un'impronta comune («Crediamo che…», territorio, persone vere) può tenere insieme i tre marchi lasciando a ciascuno il suo accento.", "dati": "Tono: Rent vicino 4 ed emozionale 4, Auto vicino 4 ed emozionale 4, Petroli istituzionale 2 e tecnico 2 (scala 1-5)", "az": "Scrivere una guida del tono di gruppo in una pagina: tre parole chiave comuni, cosa si dice e cosa no, e un esempio per divisione.", "pr": 3, "imp": 3, "sf": 1, "sez": "tono"}
+  ],
+  "piano": [
+   ["0-3 mesi", ["Decidere il nome di Car Service e allinearlo ovunque", "Home di galdierigroup.it con i 6 marchi e i numeri; firma di gruppo in ogni sito", "Foglio unico dei numeri; togliere pagine modello e cifre in conflitto", "Brief del restyling: sistema «G fucsia + mestiere», un carattere, un colore per divisione"]],
+   ["3-6 mesi", ["Nuovi loghi e manuale minimo (positivo, negativo, un colore, insegne e mezzi)", "Primo schermo nuovo di galdieripetroli.it e pagine per area e stazione", "Pagine-risposta per le AI e iscrizione alle fonti (Federmetano, portali di confronto, directory)", "Calendario annunci di gruppo e primo test per Petroli"]],
+   ["6-12 mesi", ["Campagna «Galdieri per la tua flotta» con noleggio, carta carburante, officina e ricarica", "Insegne nuove a partire da Lancusi e Fuorni, dove le divisioni stanno vicine", "Secondo giro di misure: citazioni AI, visite, voti Google, follower per divisione"]]
+  ],
+  "kpi": [
+   ["Loghi del gruppo con la firma comune", "0 su 6", "6 su 6", "marchio"],
+   ["Citazioni Galdieri nelle 40 risposte AI", "10", "18", "geo2"],
+   ["Visite stimate da Google, sito Petroli", "1.137 al mese", "4.000 al mese", "seo"],
+   ["Siti di marchio che firmano il gruppo", "0 su 6", "6 su 6", "sito"],
+   ["Divisioni con annunci attivi", "2 su 3", "3 su 3", "pubblicita"],
+   ["Voto medio pesato delle schede Google di Rent", "4,45", "4,6", "reputazione"],
+   ["Nomi in uso per l'officina", "3", "1", "marchio"]
+  ]
+ },
+ "per": {
+  "petroli": {
+   "at": "2026-11-28",
+   "s": "val",
+   "n": "Lettura dal punto di vista di Galdieri Petroli (C. Galdieri & Figli S.p.A., con i sottomarchi Energy e Cleaning). Auto e Rent sono sorelle: stesso pubblico in Campania e stessa marca di gruppo da tenere coerente. Valutazione di un agente su aziende, brand, brandx, sito, social, posts, ads, seo, seo2, reput, geo2, llmm, trends, gamma, osint e qa.md del 28/11/2026. Il voto Google viene da una sola scheda autostradale (qa.md); le altre stazioni non sono coperte. Nessuna stima di spesa pubblicitaria.",
+   "sintesi": "Petroli è la capogruppo e il marchio più antico, ma online è il più debole dei tre: 1.137 visite stimate al mese da Google, 54 parole, sito penultimo (2,12 su 5), Instagram fermo dal 13/11/2023, LinkedIn senza post, nessun annuncio, 1 citazione su 40 nelle risposte AI. I suoi due sottomarchi stanno peggio: Energy ha il sito ultimo (1,97) e un ruolo incerto fra colonnine e luce e gas; Cleaning ha 274 follower su Facebook e un sito che vale 0,15 visite al mese. Eppure Petroli ha fatti forti che nessuno racconta: il primo LNG su rete autostradale, 145.000 tonnellate movimentate, ISO 9001, 14001 e 45001, un vertice presente ai forum del settore. In stazione il marchio si confonde con i colori di IP. Le sorelle hanno ciò che manca a Petroli: Auto e Rent insieme hanno oltre 60.000 fan su Facebook e un inserzionista attivo. Le priorità: un colore proprio, un sito che porti a «Trova la stazione» e «Preventivo ingrosso», il GNL e l'ingrosso raccontati dove le AI cercano, e un ruolo chiaro per Energy.",
+   "swot": {
+    "forza": [
+     "Primato vero da raccontare: primo impianto LNG su rete autostradale (Baronissi Est, 2018)",
+     "Aree autostradali molto viste: IP Baronissi Ovest 4,0 su 2.945 recensioni e Est 4,0 su 1.952",
+     "Certificazioni ISO 9001, 14001 e 45001 e un bilancio di sostenibilità 2022 con l'Università di Salerno",
+     "Il vertice parla in pubblico sul futuro dei carburanti (Forum Fuels Mobility 2023, Futurmotive, Oil&nonOil)"
+    ],
+    "debolezza": [
+     "Online quasi invisibile: 1.137 visite stimate al mese, 9 parole in top 10",
+     "Sito penultimo (2,12 su 5): foto sgranate, slider, nessun pulsante di contatto, notizie ferme al 2022",
+     "Social fermi: Instagram dal 13/11/2023, LinkedIn senza post, YouTube senza video",
+     "Colori del sito uguali a quelli di IP: logo 2,56 su 5, quarto su sette",
+     "Sito lento: Lighthouse 73, risposta del server 3,2 secondi; backlink con spam score 44"
+    ],
+    "opportunita": [
+     "GNL per camion: su 4 AI nessuna cita Galdieri per la A2; le fonti sono federmetano.it, snam.it e i siti dei prezzi",
+     "Gasolio agricolo: 3.600 ricerche al mese e interesse su Google triplicato in un anno (da un livello basso), Galdieri assente",
+     "Gasolio HVO: «gasolio hvo» 1.900 ricerche al mese, Petroli lo vende nel canale extrarete dal 2023 ma non ha una pagina che si posizioni",
+     "Le sorelle portano pubblico: Auto e Rent hanno 61.323 fan su Facebook contro i 2.752 di Petroli"
+    ],
+    "minaccia": [
+     "Le AI attribuiscono le aree di Baronissi a Q8 (Gemini) e ad Api-Ip (Claude)",
+     "Se cambia il mandato con IP, il marchio Galdieri non ha un colore suo da portare in stazione",
+     "Energy con un voto di 2,6 su 7 recensioni sulla colonnina di Salerno: il primo contatto con l'elettrico è negativo"
+    ]
+   },
+   "punti": [
+    {"t": "Un colore Galdieri in stazione, diverso da IP", "x": "Blu e arancio del sito sono quelli della compagnia: in stazione il cliente vede IP, non Galdieri. Nel nuovo sistema di gruppo Petroli deve avere un colore di divisione suo e la firma G fucsia.", "dati": "Colori sito Petroli #0054DC e #F4872B; logo 2,56 su 5, Debole; la pompa dentro la G si impasta sotto i 32 px", "az": "Nel restyling: G piena senza pompa né riquadro, firma di gruppo, un blu Petroli lontano da quello di IP; partire da pensiline e totem di Lancusi e Fuorni.", "pr": 1, "imp": 5, "sf": 3, "sez": "marchio"},
+    {"t": "Rifare il primo schermo di galdieripetroli.it", "x": "È il sito della capogruppo e il penultimo dei sette. Sotto lo slider ci sono fatti forti, ma il primo schermo non dice il mestiere e non ha un'azione.", "dati": "Sito 2,12 su 5: Immagini 1/5, Azione 1/5, Impostazione moderna 2/5; Lighthouse 73", "az": "Foto nitida della rete, titolo sul mestiere, due pulsanti («Trova la stazione», «Preventivo ingrosso»), numeri subito sotto (dal 1951, 11 stazioni, 145.000 tonnellate); hosting più veloce.", "pr": 1, "imp": 4, "sf": 2, "sez": "sito"},
+    {"t": "Una pagina per ogni stazione e area di servizio", "x": "Le uniche parole forti di Petroli sono i nomi delle aree di Baronissi. Le altre 8 stazioni stradali non hanno pagine che si posizionano e non compaiono per «distributore benzina salerno».", "dati": "54 parole su Google, le migliori «ip baronissi ovest» (880, 1°) e «autogrill baronissi ovest» (1.900, 2°); nessuna stazione Galdieri nel local pack di Salerno", "az": "Una pagina per stazione con indirizzo, orari, carburanti, colonnine e servizi; collegarle alle schede Google e chiedere a IP di indicare «gestita da Galdieri Petroli».", "pr": 1, "imp": 4, "sf": 2, "sez": "seo"},
+    {"t": "Raccontare il GNL dove le AI cercano", "x": "Galdieri ha il primo LNG su rete autostradale, ma alla domanda sul GNL per camion sulla A2 nessuna delle 4 AI lo cita. Le fonti che usano sono siti di settore e di prezzi.", "dati": "Domanda 5 (GNL sulla A2): 0 citazioni su 4; fonti federmetano.it, snam.it, metanoauto.com, prezzidistributori.it, viabilita.autostrade.it", "az": "Pagina GNL con orari, prezzi e accessibilità per mezzi pesanti; iscrizione su Federmetano e sui siti dei prezzi; un comunicato alle testate dell'autotrasporto.", "pr": 1, "imp": 4, "sf": 2, "sez": "geo2"},
+    {"t": "Ingrosso e gasolio agricolo: farsi trovare su Google", "x": "L'ingrosso è metà del mestiere di Petroli ma online non esiste: nessuna parola per gasolio agricolo, nessun pulsante di preventivo, 0 su 4 citazioni AI per i fornitori in Campania (che citano Piccirillo e altri concorrenti locali).", "dati": "«gasolio agricolo» 3.600 ricerche al mese, +193% sull'anno in Google Trends (da un livello basso); Petroli assente; domanda 4 sulle AI: 0 su 4", "az": "Pagine ingrosso per agricoltura, industria e riscaldamento con modulo di preventivo; scheda su Pagine Gialle e Kompass, che le AI usano come fonte; un test di annunci Google locali in autunno.", "pr": 1, "imp": 4, "sf": 2, "sez": "trends"},
+    {"t": "Decidere il ruolo di Energy prima del restyling", "x": "Il sito di Energy vende colonnine, il sito di gruppo dice luce e gas; i contenuti sono fermi al 2023-2024 e il logo con il fulmine è fra i più deboli. Rifare il logo senza decidere il ruolo rifarebbe la stessa confusione.", "dati": "Sito Energy 1,97 su 5, ultimo; logo 2,22, Debole 1/10; Instagram 353 follower e 1 post in 6 mesi; colonnina di Salerno 2,6 su 7 recensioni", "az": "Scegliere un mestiere (ricarica per aziende e condomini con il canale Auto) e scriverlo nel titolo; togliere le novità scadute; rispondere alle recensioni della colonnina.", "pr": 2, "imp": 3, "sf": 2, "sez": "sito"},
+    {"t": "Riaprire LinkedIn, il canale delle aziende", "x": "Il pubblico di Petroli sono anche autotrasportatori, aziende agricole ed enti. LinkedIn ha 933 follower e nessun post; Rent, la sorella, con 6 post al mese è arrivata a 8.446.", "dati": "LinkedIn Petroli 933 follower, nessun post recente; Rent 8.446 e 6 post al mese", "az": "2 post al mese: il vertice ai forum di settore, il GNL, l'HVO, le certificazioni ISO, il bilancio di sostenibilità; ricondivisi dalla pagina di Rent e di Auto.", "pr": 2, "imp": 3, "sf": 1, "sez": "social"},
+    {"t": "Usare il pubblico delle sorelle", "x": "Chi compra l'auto da Galdieri Auto o la noleggia da Galdieri Rent fa rifornimento: è il pubblico più vicino che Petroli possa avere. Oggi nessun contenuto lo collega alle stazioni.", "dati": "Facebook: Rent 37.798 e Auto 23.525, Petroli 2.752; Instagram: Rent 13.926 e Auto 4.956, Petroli 872", "az": "Un post al mese nei canali di Auto e Rent con le stazioni Galdieri (mappa, servizi, carta IP Plus); un buono carburante alla consegna dell'auto.", "pr": 2, "imp": 3, "sf": 1, "sez": "social"},
+    {"t": "Cleaning: un nome che promette quello che c'è", "x": "Cleaning vende prodotti (Flowey, Kent, DPI), non servizi di pulizia; il sito non ha un pulsante di contatto e quasi tutte le foto sono stock. Il logo è però il più riuscito dei tre emblemi Petroli.", "dati": "Logo Cleaning 2,89, secondo su sette; sito 2,50; 0,15 visite stimate al mese; Facebook 274; Instagram non disponibile", "az": "Pulsante «Chiedi un preventivo» nel primo schermo, foto vere di prodotti e interventi; usare la sua G come modello per gli altri emblemi del gruppo.", "pr": 3, "imp": 2, "sf": 1, "sez": "marchio"}
+   ],
+   "piano": [
+    ["0-3 mesi", ["Primo schermo nuovo di galdieripetroli.it con «Trova la stazione» e «Preventivo ingrosso»", "Schede Google delle stazioni con «gestita da Galdieri Petroli»", "Riaprire LinkedIn con 2 post al mese", "Decidere il ruolo di Energy"]],
+    ["3-6 mesi", ["Pagine per stazione, GNL, HVO e ingrosso agricolo", "Iscrizione su Federmetano, siti dei prezzi, Pagine Gialle e Kompass", "Primo test di annunci Google locali per ingrosso e gasolio agricolo", "Brief del colore Petroli dentro il sistema di gruppo"]],
+    ["6-12 mesi", ["Nuove insegne e pensiline a partire da Lancusi e Fuorni", "Buono carburante con le consegne di Auto e i contratti Rent", "Secondo bilancio di sostenibilità raccontato su sito e LinkedIn"]]
+   ],
+   "kpi": [
+    ["Visite stimate da Google, galdieripetroli.it", "1.137 al mese", "4.000 al mese", "seo"],
+    ["Parole in top 10", "9", "40", "seo2"],
+    ["Citazioni AI di Petroli ed Energy (40 risposte)", "1", "6", "geo2"],
+    ["Post LinkedIn al mese", "0", "2", "social"],
+    ["Voto del sito Petroli", "2,12", "3,3", "sito"],
+    ["Lighthouse prestazioni della home", "73", "90", "seo2"],
+    ["Annunci attivi Petroli, Energy, Cleaning", "0", "almeno 1 campagna", "pubblicita"]
+   ]
+  },
+  "auto": {
+   "at": "2026-11-28",
+   "s": "val",
+   "n": "Lettura dal punto di vista di Galdieri Auto (Galdieri Auto S.r.l., con il sottomarchio Car Service). Petroli e Rent sono sorelle: il marchio Rent è di Galdieri Auto S.r.l. e lo stesso inserzionista paga gli annunci Google dei due siti. Valutazione di un agente su aziende, brand, brandx, sito, social, posts, ads, seo, seo2, reput, geo2, llmm, trends, gamma, osint e qa.md del 28/11/2026. Nessuna stima di spesa pubblicitaria.",
+   "sintesi": "Galdieri Auto è la divisione più grande (680 M€ di ricavi nel 2025) e quella con il marketing più completo: 25.044 visite stimate al mese da Google, 2.033 parole, 8 citazioni su 40 nelle risposte AI (tutte quelle sulla concessionaria Fiat e Jeep a Salerno), Instagram con 5,7 post al mese e 9 annunci Meta attivi. Il punto debole è il marchio: un logotipo senza segno che sparisce accanto ai 18 marchi auto della home, nessun claim, un sito da piattaforma per concessionarie (2,88 su 5) dove Galdieri è il nome più piccolo. Car Service ha tre nomi e il logo ultimo dei sette. Sui social rendono i reel di prodotto, il basket di Avellino e il pomeriggio; la voce è già vicina ed emozionale. Le sorelle offrono vendite che Auto oggi non comunica: la wallbox di Energy accanto alle elettriche, la carta carburante di Petroli per le partite IVA, il noleggio di Rent. Le priorità: un primo schermo con il messaggio della concessionaria, il segno di gruppo accanto al logotipo, un nome solo per l'officina e le vendite incrociate sulle elettriche.",
+   "swot": {
+    "forza": [
+     "La più citata dalle AI: 4 su 4 alla domanda sulla concessionaria Fiat e Jeep a Salerno, e l'AI Overview di Google la nomina per prima",
+     "Google: 25.044 visite stimate al mese, 316 parole in top 10, 1° su «panda fiat» e «hyundai i20»",
+     "Instagram vivo: 5,7 post al mese, 46,6 interazioni medie, reel di prodotto oltre 16.000 visualizzazioni medie",
+     "Voti Google solidi su molte schede: Fisciano 4,3 su 1.258, Pozzuoli Omoda & Jaecoo 4,9 su 112",
+     "Radicamento locale riconosciuto: Avellino Basket, Premio Troisi, certificazione per la parità di genere"
+    ],
+    "debolezza": [
+     "Logotipo senza segno e senza claim: sparisce fra i 18 marchi auto della home",
+     "Sito 2,88 su 5: offerte dei costruttori al posto di un messaggio proprio, 4 pulsanti fissi, Estero 1/5",
+     "Car Service con tre nomi e logo 2,11, ultimo su sette",
+     "Nessun annuncio Google attivo dal 31/07/2026 (31 in archivio)",
+     "TikTok fermo dal 28/08/2026"
+    ],
+    "opportunita": [
+     "Elettriche e plug-in (BYD, Leapmotor, Omoda, Jaecoo) vendute senza la wallbox Energy accanto: Auto ha 0 alla voce ricarica",
+     "Usato: «autosalone usato vicino a me» 12.100 ricerche al mese, vinte da altri; il reel Usato Selection è il post con più interazioni",
+     "Il basket rende più del prodotto: 112 interazioni medie sui post in collaborazione contro 49 degli altri",
+     "Domande AI sul km 0 e sul tagliando multimarca: citata solo 2 volte su 4 in ciascuna"
+    ],
+    "minaccia": [
+     "Il marchio della concessionaria resta in secondo piano rispetto ai costruttori: se cambia un mandato, il valore resta al costruttore",
+     "Concorrenti locali nominati dalle AI accanto a Galdieri (Unicar, Ferrajoli Auto)",
+     "Schede Google più deboli nelle sedi nuove: Peugeot Benevento 3,9 su 100"
+    ]
+   },
+   "punti": [
+    {"t": "Un primo schermo con il messaggio della concessionaria", "x": "La home apre con lo slider delle offerte dei costruttori e la fila dei 18 marchi: Galdieri è il nome più piccolo della pagina e non c'è un numero sul gruppo. Chi arriva non capisce perché scegliere Galdieri invece di un altro dealer.", "dati": "Sito 2,88 su 5: Prove 2/5, Marca 2/5, Estero 1/5; nessun claim di marca", "az": "Un primo schermo fisso: «Dal 1989, 8 sedi in Campania, 18 marchi, usato garantito», con «Trova la tua auto» e «Prenota un appuntamento»; le offerte subito sotto; meno pulsanti fissi.", "pr": 1, "imp": 4, "sf": 2, "sez": "sito"},
+    {"t": "Il segno di gruppo accanto al logotipo", "x": "Il logotipo è pulito ma senza segno: la favicon è una «g» in un file a parte. Con la firma G fucsia di gruppo Auto avrebbe un segno compatto per avatar, insegne e mezzi, e porterebbe il gruppo in ogni sede.", "dati": "Logo Auto 3,00, il migliore dei sette ma solo 3/10 sulla scala mondiale; blu #0E7BBF diverso da Petroli e dal gruppo", "az": "Nel restyling: «Galdieri Auto» nel carattere di famiglia con il G fucsia; un solo blu per Auto e Car Service.", "pr": 1, "imp": 4, "sf": 2, "sez": "marchio"},
+    {"t": "Un nome solo per l'officina", "x": "Il logo dice AutoService, dominio e social Car Service, il report CarService, e i post firmano «Galdieri Service». Le recensioni dell'officina sono buone ma disperse.", "dati": "Car Service Lancusi 4,5 su 33, Salerno 4,9 su 30; logo 2,11, ultimo; sito 2,68", "az": "Scegliere «Galdieri Car Service», rifare il logo come gli altri (Galdieri bold + mestiere) e allineare schede Google, social e sito; togliere il popup GPL all'apertura.", "pr": 1, "imp": 3, "sf": 1, "sez": "marchio"},
+    {"t": "Wallbox e ricarica accanto a ogni elettrica", "x": "Auto vende BYD, Leapmotor e plug-in Omoda e Jaecoo, Energy vende wallbox e colonnine, ma i due siti non si citano. È la vendita incrociata più immediata del gruppo e un argomento di marca: «Galdieri ti porta anche l'energia».", "dati": "Gamma: Auto 0 alla voce ricarica; i reel Omoda e Jaecoo hanno fino a 26.735 visualizzazioni", "az": "Un riquadro «Ricarica a casa con Galdieri Energy» nelle schede delle elettriche e plug-in, e un reel che segue la consegna di un'auto con la sua wallbox.", "pr": 1, "imp": 4, "sf": 2, "sez": "gamma"},
+    {"t": "Sui social: reel di prodotto al pomeriggio, e più basket", "x": "I reel rendono più delle foto, il prodotto più delle date di chiusura, i post sul basket più di tutto. I post fra le 12 e le 17 rendono cinque volte quelli del mattino.", "dati": "Instagram, 24 post: reel 68 interazioni medie contro foto 41; prodotto 68, stagionale 16; collaborazioni 112 contro 49; 12-17: 85 su 12 post, prima delle 12: 16 su 8", "az": "Tenere 4-5 reel al mese su modelli e usato nel primo pomeriggio; un racconto di stagione con l'Avellino Basket; meno post solo di servizio (chiusure, auguri) sul profilo principale.", "pr": 2, "imp": 3, "sf": 1, "sez": "engag"},
+    {"t": "Usato: farsi trovare da chi cerca vicino", "x": "Il reel Usato Selection è il post con più interazioni dei 24 ed è anche un annuncio attivo. Sulle ricerche generiche di usato però vince un altro sito.", "dati": "Usato Selection 155 mi piace, primo post; «autosalone usato vicino a me» 12.100 ricerche al mese, prima pagina per gruppoautoscala.com e non per galdieriauto.it", "az": "Una pagina Usato Selection per ogni sede, con la ricerca per città e la garanzia scritta in chiaro; collegarla alle schede Google delle sedi.", "pr": 2, "imp": 3, "sf": 2, "sez": "seo2"},
+    {"t": "Riaccendere Google Ads sulle ricerche locali", "x": "Auto ha 9 annunci Meta attivi ma nessuno su Google dal 31/07/2026, mentre Rent, con lo stesso inserzionista, ne ha 2. Le ricerche «concessionaria fiat salerno» e «jeep salerno» sono piccole ma sono le più vicine all'acquisto.", "dati": "Google: 31 annunci in archivio, 0 attivi; Auto 4° su «concessionaria fiat salerno» (210 al mese) e 2° su «jeep salerno» (110)", "az": "Annunci su marchio + città per le 8 sedi, con il messaggio della concessionaria e non solo l'offerta del costruttore.", "pr": 2, "imp": 3, "sf": 2, "sez": "pubblicita"},
+    {"t": "Partite IVA: Auto, Rent e carta carburante insieme", "x": "Auto vende veicoli commerciali e allestimenti (Focaccia, Lamberet), Rent noleggia furgoni, Petroli ha la carta IP Plus. Il reel per chi lavora («Il tuo lavoro ha un nuovo collega») ha 70.166 visualizzazioni ma solo 16 interazioni: interessa, ma non porta a un'offerta.", "dati": "Reel veicoli commerciali 70.166 visualizzazioni; IP Plus circa 1.200 clienti; Rent con 3 voci di gamma", "az": "Una pagina «Per chi lavora» con acquisto, noleggio, officina e carta carburante, e un modulo unico per le aziende.", "pr": 3, "imp": 3, "sf": 2, "sez": "gamma"},
+    {"t": "Recensioni delle sedi nuove", "x": "Le sedi storiche hanno voti alti, le nuove sono più deboli o con poche recensioni. Le AI usano le schede Google come fonte per le domande sul tagliando e sul km 0.", "dati": "Peugeot Benevento 3,9 su 100; Galdieri Auto Salerno 4,0 su 743; citata 2 volte su 4 per km 0 e per tagliando multimarca", "az": "Rispondere a tutte le recensioni e chiedere un voto dopo ogni consegna e tagliando, partendo da Benevento e Salerno.", "pr": 3, "imp": 2, "sf": 1, "sez": "reputazione"}
+   ],
+   "piano": [
+    ["0-3 mesi", ["Nome unico per Car Service e via il popup GPL", "Primo schermo nuovo di galdieriauto.it con il messaggio della concessionaria", "Riquadro wallbox Energy nelle schede delle elettriche", "Piano social: reel al pomeriggio, racconto con l'Avellino Basket"]],
+    ["3-6 mesi", ["Annunci Google su marchio + città per le 8 sedi", "Pagine Usato Selection per sede", "Pagina «Per chi lavora» con Rent e carta carburante", "Programma recensioni per Benevento e Salerno"]],
+    ["6-12 mesi", ["Nuovo logo con il segno di gruppo e insegne a partire da Lancusi e Fuorni", "Riaprire TikTok con una serie fissa (consegne, officina)", "Secondo giro di misure su citazioni AI, visite e voti"]]
+   ],
+   "kpi": [
+    ["Citazioni AI di Galdieri Auto (40 risposte)", "8", "12", "geo2"],
+    ["Visite stimate da Google, galdieriauto.it", "25.044 al mese", "30.000 al mese", "seo"],
+    ["Voto del sito Auto", "2,88", "3,5", "sito"],
+    ["Annunci Google attivi", "0", "8 (uno per sede)", "pubblicita"],
+    ["Interazioni medie per post Instagram", "46,6", "60", "social"],
+    ["Voto della scheda Google di Benevento", "3,9", "4,3", "reputazione"],
+    ["Nomi in uso per l'officina", "3", "1", "marchio"]
+   ]
+  },
+  "rent": {
+   "at": "2026-11-28",
+   "s": "val",
+   "n": "Lettura dal punto di vista di Galdieri Rent (marchio di Galdieri Auto S.r.l., flotta e contratti in Sistem Rental S.r.l.). Petroli e Auto sono sorelle: stesso inserzionista per gli annunci Google, stesso pubblico in Campania. Valutazione di un agente su aziende, brand, brandx, sito, social, posts, ads, seo, seo2, reput, geo2, llmm, trends, gamma, osint e qa.md del 28/11/2026. Il numero di point non è allineato fra le fonti (92, 54, «oltre 100»). Nessuna stima di spesa pubblicitaria.",
+   "sintesi": "Rent è il marchio più moderno del gruppo e quello con più pubblico: il sito migliore dei sette (3,82 su 5), 37.798 fan su Facebook, 13.926 follower su Instagram, LinkedIn con 8.446 follower e 6 post al mese, 16 annunci Meta e 2 Google attivi, voto 5,0 su 712 recensioni a Fisciano. Ma è un marchio cercato quasi solo per nome: le prime parole su Google sono «galdieri rent» e le sue sedi negli aeroporti, mentre sulle ricerche di categoria è 5° per «noleggio lungo termine» e assente per «partita iva» e «noleggio auto salerno». Le AI non lo nominano mai fra le società di noleggio a lungo termine (0 su 8 risposte). Il logo è debole (2,44) e il rosso non appartiene a nessun altro marchio del gruppo: è il marchio che si allontana di più dalla famiglia. Le sorelle danno a Rent quello che i grandi noleggiatori non hanno: una concessionaria con 18 marchi, un'officina convenzionata e una rete di stazioni. Le priorità: entrare nelle risposte AI e nelle ricerche di categoria, portare il marchio nel sistema di gruppo senza perdere la modernità, e curare le recensioni negli aeroporti.",
+   "swot": {
+    "forza": [
+     "Il sito migliore del gruppo: 3,82 su 5, Solido, primo per Cosa fa, Azione e Impostazione moderna",
+     "Il pubblico più grande: Facebook 37.798, Instagram 13.926, LinkedIn 8.446 con 6 post al mese",
+     "Il marchio più cercato del gruppo: «galdieri rent» 18.100 al mese, +6% sull'anno in Google Trends",
+     "Riconoscimenti recenti: primi al Kinto Grande Slam 2026 fra i broker, 57° su 500 in Leader della Crescita 2027",
+     "Voce vicina, emozionale e di valori (4 su 5 su tre assi): il manifesto «Crediamo che la mobilità debba aprirti nuove strade»"
+    ],
+    "debolezza": [
+     "Traffico quasi tutto di marca: le prime 12 parole sono «galdieri rent» e le sedi; sul blog parole fuori tema (Ferrari F40, Jaguar F-Type)",
+     "Logo 2,44, Debole: «rent» corsivo in un altro carattere e un rosso fuori dalla famiglia",
+     "Instagram poco nutrito: 1,3 post al mese e 0,35 interazioni ogni 100 follower",
+     "Sito senza segno del gruppo e con la chat che copre il pulsante sul telefono"
+    ],
+    "opportunita": [
+     "«noleggio lungo termine» 74.000 ricerche al mese con Rent 5°: salire di poche posizioni vale molto",
+     "«noleggio lungo termine partita iva» 880 e «noleggio auto salerno» 2.400 al mese: Rent assente",
+     "Le domande sulle revisioni, le spie e i costi dell'auto (fino a 60.500 al mese) portano visite a leasys.com: contenuti che Rent e Car Service possono scrivere",
+     "Il pacchetto di gruppo che i grandi noleggiatori non hanno: auto di 18 marchi, officina Car Service, carta carburante e stazioni Petroli"
+    ],
+    "minaccia": [
+     "Le AI rispondono con Arval, Leasys, Ayvens anche alla domanda su Salerno: 0 citazioni su 8",
+     "Recensioni deboli dove passano più clienti nuovi: Capodichino 3,6 su 454, Napoli via Argine 1,3 su 6",
+     "Interesse per «noleggio lungo termine» in calo del 4% sull'anno"
+    ]
+   },
+   "punti": [
+    {"t": "Entrare nelle risposte AI sul noleggio a lungo termine", "x": "Su 8 risposte alle domande «migliori società di noleggio a lungo termine» e «noleggio a lungo termine a Salerno», nessuna nomina Galdieri Rent. Le AI leggono siti di confronto, associazioni e i siti dei grandi noleggiatori.", "dati": "Domande 1 e 2: 0 su 8; fonti finrent.it, facile.it, aniasa.it, leasys.com, noleggiodream.it, grupponoviello.it; Rent citata solo da Claude per Capodichino", "az": "Pagine chiare su chi è Galdieri Rent (broker con 9 mandati, point in 13 regioni, premi) e una pagina per città; farsi elencare su portali di confronto e guide al noleggio; rispondere alle recensioni su Trustpilot, che le AI usano come fonte.", "pr": 1, "imp": 5, "sf": 3, "sez": "geo2"},
+    {"t": "Le ricerche di categoria: partita IVA e città", "x": "Rent è 5° per la ricerca più grande del settore, ma sparisce sulle varianti più vicine al contratto. Le pagine per città esistono come sedi, non come risposta a «noleggio a lungo termine a…».", "dati": "«noleggio lungo termine» 74.000 al mese, Rent 5°; «noleggio lungo termine partita iva» 880 e «noleggio auto salerno» 2.400, Rent assente; traffico stimato 20.096 visite, quasi tutto di marca", "az": "Una pagina «Noleggio a lungo termine per partita IVA» e una per ogni città con point; legare il blog al noleggio e smettere con gli articoli fuori tema.", "pr": 1, "imp": 4, "sf": 2, "sez": "seo"},
+    {"t": "Portare Rent nel sistema di gruppo senza perdere la modernità", "x": "Rent è il marchio più moderno ma il più lontano dalla famiglia: «rent» corsivo in un altro carattere, rosso che nessun altro marchio usa, nessun segno del gruppo nel sito. Nel restyling è il marchio che rischia di più, e quello che può insegnare di più agli altri.", "dati": "Logo Rent 2,44, quinto su sette; rosso #E31E24 come Avis ed Europcar; sito 3,82 senza firma di gruppo", "az": "«Galdieri Rent» nel carattere di famiglia con il G fucsia; decidere se il rosso resta come colore di divisione; usare l'impostazione del sito di Rent come modello per gli altri siti.", "pr": 1, "imp": 4, "sf": 2, "sez": "marchio"},
+    {"t": "Recensioni negli aeroporti", "x": "Le sedi del breve termine negli aeroporti sono quelle che vedono più clienti nuovi e che le AI e i portali leggono per prime. Capodichino ha il voto più basso fra le schede con molte recensioni.", "dati": "Capodichino 3,6 su 454; Napoli via Argine 1,3 su 6; Mercogliano 3,7 su 6; Fisciano 5,0 su 712", "az": "Rispondere a tutte le recensioni di Capodichino entro 48 ore, chiedere il voto alla riconsegna e capire i 3 motivi più citati nelle recensioni negative.", "pr": 1, "imp": 3, "sf": 1, "sez": "reputazione"},
+    {"t": "Instagram: più dietro le quinte, più spesso", "x": "Instagram ha il pubblico più grande del gruppo ma 1,3 post al mese. Il post che rende di più è il dietro le quinte dei consulenti; un reel con il manifesto ha superato le 76.000 visualizzazioni.", "dati": "Instagram 13.926 follower, 1,3 post al mese, 0,35 interazioni ogni 100 follower; dietro le quinte 98 interazioni, reel manifesto 76.776 visualizzazioni; pomeriggio 62 interazioni medie, mattina 32", "az": "4 reel al mese nel primo pomeriggio: consulenti, consegne, clienti partite IVA; riprendere la serie ironica di TikTok (2,83 interazioni ogni 100 follower).", "pr": 2, "imp": 3, "sf": 1, "sez": "engag"},
+    {"t": "LinkedIn e premi: il canale che già funziona", "x": "LinkedIn è il canale più vivo del gruppo e quello giusto per flotte e partite IVA. I premi recenti sono buone prove, ma restano lì: il sito e le schede non li mostrano.", "dati": "LinkedIn 8.446 follower, 6 post al mese; Kinto Grande Slam 2026 primo posto; Leader della Crescita 2027 57° su 500; Le Fonti Awards 2020", "az": "Una riga di premi e numeri nel primo schermo del sito e nella pagina per le aziende; ricondividere i post di Rent dalle pagine di Auto e Petroli.", "pr": 2, "imp": 3, "sf": 1, "sez": "social"},
+    {"t": "Il pacchetto che i grandi noleggiatori non hanno", "x": "Rent è un broker, come molti. Ciò che lo distingue è il gruppo: auto di 18 marchi, officina Car Service già in convenzione con Leasys, Ald, Leaseplan, Athlon e Unipol Rental, stazioni Petroli e carta carburante. Oggi il canone esclude carburante e ricarica senza nominare le stazioni Galdieri.", "dati": "Gamma: Rent 3 voci, Auto 8, Petroli 11; 9 mandati di case locatrici; IP Plus circa 1.200 clienti", "az": "Un'offerta «Galdieri Rent + carta carburante + officina Galdieri» per partite IVA in Campania, raccontata negli annunci Meta già attivi.", "pr": 2, "imp": 4, "sf": 3, "sez": "gamma"},
+    {"t": "Un numero solo per la rete", "x": "Il cliente legge 92 touch point in home, 54 point nella pagina dei point, «oltre 100» sul sito di gruppo e «oltre 110» nella descrizione per Google. In un mercato dove la fiducia è tutto, un numero che cambia da pagina a pagina toglie credibilità.", "dati": "Rete Rent: 92 (54 point + 7 sedi direzionali + 31 stazioni breve termine) contro «oltre 100» e «oltre 110»", "az": "Scegliere il numero e la sua spiegazione (point, sedi, stazioni) e usarlo uguale in sito, Google, social e sito di gruppo.", "pr": 3, "imp": 2, "sf": 1, "sez": "sito"}
+   ],
+   "piano": [
+    ["0-3 mesi", ["Chat chiusa all'apertura e firma di gruppo nel sito", "Numero unico della rete su tutti i canali", "Risposte alle recensioni di Capodichino", "4 reel al mese su Instagram, nel primo pomeriggio"]],
+    ["3-6 mesi", ["Pagina per partita IVA e pagine per città", "Iscrizione a portali di confronto e guide al noleggio; Trustpilot curato", "Premi e numeri nel primo schermo", "Offerta con carta carburante e officina Galdieri negli annunci Meta"]],
+    ["6-12 mesi", ["Nuovo logo nel carattere di famiglia con il segno di gruppo", "Guide su revisioni, spie e costi dell'auto con Car Service", "Secondo giro di misure su citazioni AI e posizioni di categoria"]]
+   ],
+   "kpi": [
+    ["Citazioni AI sul noleggio a lungo termine (8 risposte)", "0", "3", "geo2"],
+    ["Posizione su «noleggio lungo termine»", "5°", "3°", "seo"],
+    ["Posizione su «noleggio lungo termine partita iva»", "assente", "prima pagina", "seo"],
+    ["Voto della scheda Google di Capodichino", "3,6", "4,2", "reputazione"],
+    ["Post Instagram al mese", "1,3", "4", "social"],
+    ["Voto del logo Rent", "2,44", "3,3", "marchio"],
+    ["Interesse su Google per «galdieri rent», ultimi 12 mesi sui 12 prima", "+6%", "+15%", "trends"]
+   ]
+  }
+ }
+}

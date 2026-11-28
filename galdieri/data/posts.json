@@ -1,0 +1,949 @@
+{
+ "n": "Post Instagram (e TikTok) degli ultimi 6 mesi (dal 28/05/2026), al massimo 24 per account, letti il 28/11/2026. ig2 = sotto-marchio (auto.ig2 Galdieri Car Service, petroli.ig2 Galdieri Energy). Petroli: nessun post negli ultimi 6 mesi (Instagram fermo dal 2023); Galdieri Cleaning: profilo non disponibile. h = ora italiana. Temi: promo, prodotto, servizio, evento, territorio, valori, persone, stagionale, altro. col = collaborazione o partnership pagata dichiarata. I nomi dei dipendenti nelle didascalie sono sostituiti da [nome].",
+ "at": "2026-11-28",
+ "temi_s": "val",
+ "az": {
+  "petroli": {
+   "ig": {
+    "fol": 872,
+    "p": []
+   },
+   "ig2": {
+    "fol": 353,
+    "p": [
+     {
+      "d": "2026-08-15",
+      "h": 0,
+      "f": "foto",
+      "l": 0,
+      "c": 0,
+      "t": "⚡ LA RICARICA PIÙ ATTESA DELL'ANNO. Stacchiamo la spina del lavoro. Attacchiamo quella del relax. Oggi si ricarica solo da fonti rinnovabili",
+      "tag": [],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/DcCVo9-DB7J/"
+     }
+    ]
+   }
+  },
+  "auto": {
+   "ig": {
+    "fol": 4956,
+    "p": [
+     {
+      "d": "2026-11-24",
+      "h": 13,
+      "f": "reel",
+      "l": 155,
+      "c": 1,
+      "v": 16297,
+      "t": "Crediamo che ogni auto usata abbia una storia. E che meriti una voce sincera a raccontarla. Per questo, con Usato Selection, ciascuna vettur",
+      "tag": [
+       "UsatoSelection",
+       "GaldieriAuto",
+       "DaFamigliaAFamiglia",
+       "AutoUsate",
+       "Campania"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgH7wfIDOAm/"
+     },
+     {
+      "d": "2026-11-19",
+      "h": 12,
+      "f": "reel",
+      "l": 54,
+      "c": 0,
+      "v": 26735,
+      "t": "Un tocco, mille ingranaggi, una sola strada. Dietro ogni tuo gesto, JAECOO 8 SHS-P mette in moto un’ingegneria che lavora per te: sospension",
+      "tag": [
+       "OmodaJaecoo",
+       "OmodaJaecooItalia",
+       "creatoconai"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df7AGWfIt8P/"
+     },
+     {
+      "d": "2026-11-11",
+      "h": 13,
+      "f": "foto",
+      "l": 23,
+      "c": 2,
+      "t": "Lancia Gamma è in Tour per una presentazione in anteprima esclusiva. Un viaggio nel design, innovazione ed eleganza italiana. Un evento escl",
+      "tag": [],
+      "tema": "evento",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfmgM3WlePH/"
+     },
+     {
+      "d": "2026-11-09",
+      "h": 15,
+      "f": "foto",
+      "l": 115,
+      "c": 0,
+      "t": "Uniti nella tana dei lupi! 🐺 Mercoledì 11 novembre la serata comincia prima. Dalle 19:00 Galdieri Auto ti aspetta al PalaDelMauro con un ape",
+      "tag": [
+       "GaldieriAuto",
+       "AvellinoBasket",
+       "SiVinceInsieme"
+      ],
+      "tema": "evento",
+      "col": true,
+      "u": "https://www.instagram.com/p/DfhlRU3lFrO/"
+     },
+     {
+      "d": "2026-11-09",
+      "h": 11,
+      "f": "reel",
+      "l": 8,
+      "c": 0,
+      "v": 1761,
+      "t": "Esplora strade nuove con chi le conosce a memoria. Dal 1989 Galdieri Auto ti accompagna nella scelta dell’auto giusta per te. E ora ti porta",
+      "tag": [],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfhFiXLDmvX/"
+     },
+     {
+      "d": "2026-10-31",
+      "h": 0,
+      "f": "foto",
+      "l": 7,
+      "c": 0,
+      "t": "La tua auto deve arrivare senza fare rumore. Da Galdieri Auto è così dal 1989. Condizioni chiare prima della firma. Dopo la consegna, nessun",
+      "tag": [],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfItsHOD2tP/"
+     },
+     {
+      "d": "2026-10-28",
+      "h": 10,
+      "f": "reel",
+      "l": 54,
+      "c": 0,
+      "v": 13185,
+      "t": "Lei ha la forza. Tu il carattere. Noi ci mettiamo il cuore. OMODA 7 SHS-P. Due motori. Novantadue chilometri in elettrico. Otto anni di gara",
+      "tag": [
+       "OmodaJaecoo",
+       "OmodaJaecooItalia",
+       "creatoconai"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfCECi3D0TD/"
+     },
+     {
+      "d": "2026-10-27",
+      "h": 15,
+      "f": "carosello",
+      "l": 24,
+      "c": 0,
+      "t": "Per noi il mezzo con cui lavori deve aiutarti a crescere. Per questo, da Galdieri Auto, ti affianchiamo nella scelta con l’esperienza di chi",
+      "tag": [],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfAGdeUG_cW/"
+     },
+     {
+      "d": "2026-10-21",
+      "h": 15,
+      "f": "foto",
+      "l": 53,
+      "c": 0,
+      "t": "Cambio di programma. ☔🐺 L’APERITANA di stasera è ANNULLATO: il maltempo ci ha fatto rimandare il tuo primo tiro. Ma la tana resta aperta: al",
+      "tag": [],
+      "tema": "evento",
+      "col": false,
+      "u": "https://www.instagram.com/p/DewgR8HlJbC/"
+     },
+     {
+      "d": "2026-10-16",
+      "h": 14,
+      "f": "foto",
+      "l": 105,
+      "c": 3,
+      "t": "Il primo tiro è tuo. 🏀 Galdieri Auto, al fianco dei lupi, apre la tana in anticipo: mercoledì 21 ottobre ti aspettiamo all’APERITANA, prima ",
+      "tag": [],
+      "tema": "evento",
+      "col": true,
+      "u": "https://www.instagram.com/p/Deje8_eAXl4/"
+     },
+     {
+      "d": "2026-10-09",
+      "h": 10,
+      "f": "reel",
+      "l": 24,
+      "c": 0,
+      "v": 1535,
+      "t": "Più raro è il sogno, più conta chi lo trova. Il suo era nerazzurro e da oggi può guidarlo. 💙🖤 Sealion 7 Inter Edition: SUV 100% elettrico, B",
+      "tag": [
+       "GaldieriAuto",
+       "BYD",
+       "InterEdition",
+       "suvelettricovolkswagen"
+      ],
+      "tema": "persone",
+      "col": false,
+      "u": "https://www.instagram.com/p/DeRG117gsEa/"
+     },
+     {
+      "d": "2026-10-07",
+      "h": 17,
+      "f": "reel",
+      "l": 16,
+      "c": 0,
+      "v": 70166,
+      "t": "Il tuo lavoro ha un nuovo collega. Lo scegli tra più marchi, in un solo posto. Ti consigliamo quello giusto per come lavori. Lo facciamo dal",
+      "tag": [],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/DeMuZy3jT82/"
+     },
+     {
+      "d": "2026-09-30",
+      "h": 9,
+      "f": "reel",
+      "l": 17,
+      "c": 0,
+      "v": 1011,
+      "t": "Di giorno la noti. Di notte la riconosci. OMODA 9 SHS-P cambia carattere: centoquarantacinque chilometri in elettrico, in un grigio opaco ch",
+      "tag": [
+       "OmodaJaecoo",
+       "OmodaJaecooItalia",
+       "creatoconai"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/Dd50-4kisKU/"
+     },
+     {
+      "d": "2026-09-29",
+      "h": 14,
+      "f": "reel",
+      "l": 13,
+      "c": 0,
+      "v": 805,
+      "t": "Come affronti le sfide, lo decidi tu. A tutto il resto ci pensa Galdieri Auto. C’è un momento in cui il mondo si zittisce e resta soltanto l",
+      "tag": [
+       "EMC212",
+       "GaldieriAuto",
+       "fuoristrada",
+       "emc",
+       "creatoconai"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/Dd3x-7bI_YN/"
+     },
+     {
+      "d": "2026-09-17",
+      "h": 17,
+      "f": "foto",
+      "l": 75,
+      "c": 0,
+      "t": "🐺🏀 Il lupo perde il pelo, ma non la fame. Domenica 27 settembre il campionato riapre la tana: Avellino Basket vs Elachem Vigevano 1955. Si r",
+      "tag": [
+       "GaldieriAuto",
+       "AvellinoBasket",
+       "CucinaAggregativa",
+       "SiVinceInsieme"
+      ],
+      "tema": "territorio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DdZOyahFGYF/"
+     },
+     {
+      "d": "2026-09-16",
+      "h": 10,
+      "f": "foto",
+      "l": 8,
+      "c": 0,
+      "t": "IL TALENTO SI FA STRADA. Torna il Premio Massimo Troisi nella città che l'ha visto nascere: cortile pieno, palco acceso, applausi fino a mez",
+      "tag": [],
+      "tema": "territorio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DdV6Ds5j27D/"
+     },
+     {
+      "d": "2026-09-11",
+      "h": 17,
+      "f": "reel",
+      "l": 36,
+      "c": 0,
+      "v": 8151,
+      "t": "Ci sono profumi, canzoni, strade che sanno di casa. E noi di Galdieri Auto li custodiamo da generazioni. Con le stesse persone, la stessa cu",
+      "tag": [
+       "OmodaJaecoo",
+       "OmodaJaecooItalia",
+       "creatoconai"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DdJtai6RFly/"
+     },
+     {
+      "d": "2026-08-25",
+      "h": 14,
+      "f": "reel",
+      "l": 342,
+      "c": 2,
+      "v": 20393,
+      "t": "Ogni volta che scegli un’auto, decidi quale versione di te lasciare a casa. JAECOO 8 SHS-P le porta tutte. Tre file, sette posti, e spazio p",
+      "tag": [
+       "OmodaJaecoo",
+       "OmodaJaecooItalia",
+       "creatoconai"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/DcdrlxBIRkf/"
+     },
+     {
+      "d": "2026-08-15",
+      "h": 0,
+      "f": "foto",
+      "l": 8,
+      "c": 0,
+      "t": "Spegniamo i motori, accendiamo l'estate. ☀️ Un anno di chilometri, scadenze e semafori. Ora apri l'ombrellone, metti i pensieri in sosta e g",
+      "tag": [],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/DcCVniwDheq/"
+     },
+     {
+      "d": "2026-08-11",
+      "h": 15,
+      "f": "foto",
+      "l": 32,
+      "c": 0,
+      "t": "Chiudiamo le saracinesche, ma solo per un po'. 🌊 Ci trovi fino a venerdì 14, alle 13:00. Poi un po' di mare, dal 15 al 23 agosto. Tu scrivic",
+      "tag": [],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/Db5vOreHHHf/"
+     },
+     {
+      "d": "2026-08-07",
+      "h": 17,
+      "f": "foto",
+      "l": 13,
+      "c": 0,
+      "t": "Build your... summer 🩵 Piscina. Tramonto. Zero pensieri. Il 14 agosto Galdieri Auto e BYD ti aspettano alla Masseria Nobile con un fresco be",
+      "tag": [
+       "BuildYourSummer",
+       "BYD",
+       "GaldieriAuto",
+       "PoolParty"
+      ],
+      "tema": "evento",
+      "col": false,
+      "u": "https://www.instagram.com/p/DbvpvgCHMIW/"
+     },
+     {
+      "d": "2026-08-05",
+      "h": 14,
+      "f": "reel",
+      "l": 49,
+      "c": 0,
+      "v": 20814,
+      "t": "La noti al primo sguardo. E il design è solo l’inizio. OMODA 7 SHS-P: sali a bordo e vivi il piacere di premere l’acceleratore e sentirla ri",
+      "tag": [
+       "OmodaJaecoo",
+       "OmodaJaecooItalia",
+       "creatoconai"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/DbqJdc9KN8Q/"
+     },
+     {
+      "d": "2026-08-04",
+      "h": 10,
+      "f": "foto",
+      "l": 3,
+      "c": 1,
+      "t": "Il sole tocca il mare e tutto si colora d'oro. Giovedì 6, dalle 20:00, Galdieri Auto accende la notte più luminosa dell'estate insieme a OMO",
+      "tag": [],
+      "tema": "evento",
+      "col": false,
+      "u": "https://www.instagram.com/p/DbnLUDinIcZ/"
+     },
+     {
+      "d": "2026-07-28",
+      "h": 15,
+      "f": "reel",
+      "l": 47,
+      "c": 1,
+      "v": 17999,
+      "t": "Sai già che la vuoi! OMODA 7 SHS-P, ibrido plug-in: 92 km in elettrico per la città, oltre 1.200 km quando viaggi. Da Galdieri Auto trovi pi",
+      "tag": [
+       "OmodaJaecoo",
+       "OmodaJaecooItalia",
+       "creatoconai"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/DbVn02iodso/"
+     }
+    ]
+   },
+   "ig2": {
+    "fol": 598,
+    "p": [
+     {
+      "d": "2026-11-27",
+      "h": 15,
+      "f": "foto",
+      "l": 13,
+      "c": 0,
+      "t": "Ci prendiamo una piccola pausa! Lunedì 7 dicembre il team Galdieri Service si ferma per il ponte dell'Immacolata. Ci rivediamo mercoledì 9 d",
+      "tag": [],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgP5ueGJfoW/"
+     },
+     {
+      "d": "2026-10-31",
+      "h": 0,
+      "f": "foto",
+      "l": 13,
+      "c": 1,
+      "t": "CI SONO RUMORI CHE FANNO PIÙ PAURA DI UN FANTASMA! Cigolii, sibili, colpi sordi in curva… La tua auto ti sta mandando un segnale. Non ignora",
+      "tag": [],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfItr9TDDaH/"
+     },
+     {
+      "d": "2026-10-30",
+      "h": 14,
+      "f": "carosello",
+      "l": 9,
+      "c": 0,
+      "t": "⛽ Risparmia sul carburante, non sulla strada da percorrere! Con Galdieri Service, passare al GPL è facile: tu porti l’auto, a tutto il resto",
+      "tag": [],
+      "tema": "promo",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfHqOddla1f/"
+     },
+     {
+      "d": "2026-10-13",
+      "h": 14,
+      "f": "reel",
+      "l": 9,
+      "c": 0,
+      "v": 3907,
+      "t": "Un Service solido al tuo fianco. Tre officine in Campania, tecnici sempre aggiornati: tutto per darti il meglio. Oggi il meglio si chiama GP",
+      "tag": [
+       "GPL",
+       "ImpiantiGPL",
+       "GaldieriService",
+       "Salerno",
+       "Avellino"
+      ],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/Deb1pYGgb5f/"
+     },
+     {
+      "d": "2026-09-29",
+      "h": 14,
+      "f": "foto",
+      "l": 4,
+      "c": 0,
+      "t": "Fare il pieno costa sempre di più. Ma c'è un modo per spendere meno. È il momento di cambiare carburante. ⛽➡️ Da Galdieri Service installiam",
+      "tag": [
+       "ImpiantoGPL",
+       "GaldieriService",
+       "OfficinaMultimarca",
+       "Salerno"
+      ],
+      "tema": "promo",
+      "col": false,
+      "u": "https://www.instagram.com/p/Dd30BAqFFZV/"
+     },
+     {
+      "d": "2026-08-15",
+      "h": 0,
+      "f": "foto",
+      "l": 14,
+      "c": 0,
+      "t": "Pressione perfetta, anche oggi. ✔️ È tempo di gonfiabili, infradito e zero fretta. La tua auto è pronta: al check ci abbiamo pensato noi. Or",
+      "tag": [],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/DcCVnLlDBEx/"
+     },
+     {
+      "d": "2026-08-12",
+      "h": 10,
+      "f": "foto",
+      "l": 8,
+      "c": 0,
+      "t": "Galdieri Service resterà chiuso per ferie estive dal 15 al 23 agosto. ☀️ Ci prendiamo una pausa per ricaricare le energie e tornare più pron",
+      "tag": [],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/Db7wdz-HLvg/"
+     },
+     {
+      "d": "2026-08-07",
+      "h": 16,
+      "f": "foto",
+      "l": 9,
+      "c": 1,
+      "t": "RITROVA LA FORMA. La tua auto torna come il primo giorno. Una grandinata, una portiera aperta male, una manovra stretta: la carrozzeria camb",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DbvjkqrHDjh/"
+     },
+     {
+      "d": "2026-08-03",
+      "h": 11,
+      "f": "carosello",
+      "l": 16,
+      "c": 0,
+      "t": "Una verniciatura fatta bene si vede subito: colore uniforme, superfici che si integrano alla perfezione, zero differenze di tono. Per arriva",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DbknixmjIJG/"
+     },
+     {
+      "d": "2026-07-29",
+      "h": 14,
+      "f": "foto",
+      "l": 11,
+      "c": 0,
+      "t": "Galdieri Service è PARTNER UFFICIALE — Dodge · Ram Da oggi la tua americana la assistiamo noi: · tecnici certificati · diagnostica avanzata ",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DbYG3OHnNB8/"
+     },
+     {
+      "d": "2026-07-27",
+      "h": 11,
+      "f": "foto",
+      "l": 25,
+      "c": 1,
+      "t": "Gli pneumatici svolgono un ruolo fondamentale per la sicurezza, la stabilità e l'efficienza del veicolo. Per questo è importante che ogni in",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DbSl8DCiBeI/"
+     },
+     {
+      "d": "2026-07-20",
+      "h": 11,
+      "f": "carosello",
+      "l": 28,
+      "c": 0,
+      "t": "Quando hai fatto l'ultimo tagliando? La tua auto se lo ricorda. Il tagliando non serve solo a mantenere alte le prestazioni del veicolo. È u",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DbAkYjTDx-Y/"
+     },
+     {
+      "d": "2026-07-13",
+      "h": 10,
+      "f": "foto",
+      "l": 6,
+      "c": 0,
+      "t": "Un lavaggio fatto bene si vede. E si sente. Non è solo pulizia: è cura di ogni superficie dell'auto. Dalla carrozzeria agli interni, occorro",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DauhoxWnFcT/"
+     },
+     {
+      "d": "2026-07-06",
+      "h": 11,
+      "f": "carosello",
+      "l": 22,
+      "c": 0,
+      "t": "Un intervento efficace inizia dall'accettazione. 🔧 È il primo momento in cui la tua auto entra da noi. Prima di sollevare il cofano, ascolti",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DaclXJtlDe5/"
+     },
+     {
+      "d": "2026-07-01",
+      "h": 17,
+      "f": "foto",
+      "l": 22,
+      "c": 0,
+      "t": "Ci vediamo a Castel'in Fest! Dal 3 al 7 luglio siamo a Castel San Giorgio: tra musica, food e festa in piazza. E per te un regalo che, con l",
+      "tag": [],
+      "tema": "evento",
+      "col": false,
+      "u": "https://www.instagram.com/p/DaQYo62HKwn/"
+     },
+     {
+      "d": "2026-06-29",
+      "h": 11,
+      "f": "foto",
+      "l": 64,
+      "c": 5,
+      "t": "Le auto di oggi comunicano attraverso numerose centraline che controllano motore, sicurezza, consumi e prestazioni. Tradurre questi dati ric",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DaKfrOJDBhI/"
+     },
+     {
+      "d": "2026-06-23",
+      "h": 11,
+      "f": "foto",
+      "l": 15,
+      "c": 0,
+      "t": "☀️ Pronti a partire? Mare, montagna o on the road: la tua auto è la prima compagna di viaggio. Da Galdieri Service la prepariamo al meglio. ",
+      "tag": [],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/DZ7IZZAj2sB/"
+     },
+     {
+      "d": "2026-06-22",
+      "h": 12,
+      "f": "carosello",
+      "l": 50,
+      "c": 0,
+      "t": "Cosa succede davvero quando la tua auto entra in officina? In Galdieri Service ogni intervento parte da un processo preciso, costruito per g",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DZ4lEwQnM59/"
+     },
+     {
+      "d": "2026-06-15",
+      "h": 11,
+      "f": "foto",
+      "l": 45,
+      "c": 0,
+      "t": "🔧 Struttura operativa, risultati concreti. L’ordine non è solo una questione organizzativa: è il primo passo per offrire un servizio affidab",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DZmcopzj44t/"
+     },
+     {
+      "d": "2026-06-12",
+      "h": 11,
+      "f": "foto",
+      "l": 77,
+      "c": 0,
+      "t": "Galdieri Car Service: l’eccellenza After Sales premiata da Stellantis Durante la convention Stellantis svoltasi a Bari, Galdieri Auto S.r.l.",
+      "tag": [],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DZeuQacDTEc/"
+     },
+     {
+      "d": "2026-06-10",
+      "h": 11,
+      "f": "foto",
+      "l": 11,
+      "c": 0,
+      "t": "🌬️ L'aria che respiri nella tua auto è davvero pulita? Il filtro abitacolo è un componente fondamentale per il comfort e la qualità dell'ari",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DZZpGQZDYgV/"
+     }
+    ]
+   },
+   "tt": {
+    "fol": 2320,
+    "p": [
+     {
+      "d": "2026-08-28",
+      "h": 15,
+      "f": "video",
+      "l": 17,
+      "c": 2,
+      "v": 1177,
+      "sh": 0,
+      "t": "Una carica a settimana. OMODA 9 SHS-P entra nel tuo quotidiano e lo alleggerisce: 145 km in elettrico, tutto quello che ti serve. E nel week",
+      "tag": [
+       "OmodaJaecoo",
+       "OmodaJaecooItalia",
+       "creatoconai"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.tiktok.com/@galdieri.auto/video/7679081887935024416"
+     },
+     {
+      "d": "2026-08-05",
+      "h": 14,
+      "f": "video",
+      "l": 16,
+      "c": 2,
+      "v": 1231,
+      "sh": 0,
+      "t": "La noti al primo sguardo. E il design è solo l'inizio. OMODA 7 SHS-P: sali a bordo e vivi il piacere di premere l'acceleratore e sentirla ri",
+      "tag": [
+       "OmodaJaecoo",
+       "OmodaJaecooItalia",
+       "creatoconai"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.tiktok.com/@galdieri.auto/video/7670526214100028705"
+     },
+     {
+      "d": "2026-07-29",
+      "h": 15,
+      "f": "video",
+      "l": 2,
+      "c": 0,
+      "v": 447,
+      "sh": 0,
+      "t": "Sai già che la vuoi! OMODA 7 SHS-P, ibrido plug-in: 92 km in elettrico per la città, oltre 1.200 km quando viaggi. Da Galdieri Auto trovi pi",
+      "tag": [
+       "OmodaJaecoo",
+       "OmodaJaecooItalia",
+       "creatoconai"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.tiktok.com/@galdieri.auto/video/7667944161294798113"
+     }
+    ]
+   }
+  },
+  "rent": {
+   "ig": {
+    "fol": 13926,
+    "p": [
+     {
+      "d": "2026-11-13",
+      "h": 10,
+      "f": "reel",
+      "l": 13,
+      "c": 0,
+      "v": 2164,
+      "t": "Crediamo che la mobilità debba aprirti strade, non complicarti il lavoro. Alcuni imprevisti fanno parte del mestiere. Per tutto il resto, ci",
+      "tag": [
+       "GaldieriRent",
+       "NoleggioALungoTermine",
+       "VeicoliCommerciali",
+       "PartitaIVA"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfrRDBbj2SR/"
+     },
+     {
+      "d": "2026-11-11",
+      "h": 14,
+      "f": "reel",
+      "l": 93,
+      "c": 5,
+      "v": 13940,
+      "t": "Dietro le quinte del noleggio. 🎬 La fiducia nasce da ciò che vedi. Per questo [nome] ti mostra COME lavorano i nostri consulenti esperti",
+      "tag": [],
+      "tema": "persone",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfmoVvvpYTo/"
+     },
+     {
+      "d": "2026-10-31",
+      "h": 0,
+      "f": "reel",
+      "l": 24,
+      "c": 0,
+      "v": 2531,
+      "t": "Per noi la tua mobilità non deve trasformarsi in un film horror. Deve aprirti possibilità. 📞 Con Galdieri Rent si parte da te, con soluzioni",
+      "tag": [
+       "GaldieriRent",
+       "NoleggioALungoTermine",
+       "NoleggioAuto",
+       "Halloween",
+       "Halloween2026"
+      ],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfItujviMMY/"
+     },
+     {
+      "d": "2026-10-27",
+      "h": 15,
+      "f": "reel",
+      "l": 54,
+      "c": 4,
+      "v": 76776,
+      "t": "Crediamo che la mobilità debba aprirti nuove strade, non complicarti la vita ogni giorno. Invece spesso ci si mette proprio l’auto: un impre",
+      "tag": [
+       "GaldieriRent",
+       "NoleggioALungoTermine",
+       "mobilità",
+       "creatoconai"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfAHcEQDMcE/"
+     },
+     {
+      "d": "2026-08-15",
+      "h": 0,
+      "f": "foto",
+      "l": 35,
+      "c": 23,
+      "t": "L'estate si attraversa. Quello che serve è già a bordo. In un solo canone. Ci abbiamo pensato mesi fa. Ora sali e parti: questa è la tua Sum",
+      "tag": [],
+      "tema": "stagionale",
+      "col": false,
+      "u": "https://www.instagram.com/p/DcCVnKXjdL4/"
+     },
+     {
+      "d": "2026-07-09",
+      "h": 15,
+      "f": "reel",
+      "l": 25,
+      "c": 5,
+      "v": 6041,
+      "t": "Spaventano tutti. Con noi, perdono ogni potere. Da oltre un decennio siamo la tranquillità di chi guida. Ovunque tu vada, siamo già lì: oltr",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DakuPKrMFBq/"
+     }
+    ]
+   },
+   "tt": {
+    "fol": 1603,
+    "p": [
+     {
+      "d": "2026-09-20",
+      "h": 14,
+      "f": "video",
+      "l": 12,
+      "c": 2,
+      "v": 936,
+      "sh": 1,
+      "t": "E se i sedili fossero stati neri? «Buongiorno, mi faccia un pieno di carbone.» 😅 Per fortuna c'è ChatGPT. 🚗🤖 Consulente AI — Ep. 4 (2/2) #no",
+      "tag": [
+       "noleggiolungotermine",
+       "noleggioauto",
+       "chatgpt",
+       "comicita",
+       "sketchcomici"
+      ],
+      "tema": "persone",
+      "col": false,
+      "u": "https://www.tiktok.com/@galdierirent/video/7687198754612579606"
+     },
+     {
+      "d": "2026-09-19",
+      "h": 14,
+      "f": "video",
+      "l": 17,
+      "c": 5,
+      "v": 1068,
+      "sh": 2,
+      "t": "Cambio automatico, cambio manuale… e poi c'è il suo. Prima insufficienza dell'anno. 😅🚗🤖 Consulente AI — Ep. 4 (1/2) #noleggiolungotermine #n",
+      "tag": [
+       "noleggiolungotermine",
+       "noleggioauto",
+       "chatgpt",
+       "comicita",
+       "sketchcomici"
+      ],
+      "tema": "persone",
+      "col": false,
+      "u": "https://www.tiktok.com/@galdierirent/video/7687198275073494294"
+     },
+     {
+      "d": "2026-09-18",
+      "h": 14,
+      "f": "video",
+      "l": 28,
+      "c": 17,
+      "v": 979,
+      "sh": 27,
+      "t": "Lezione del giorno: non si urla contro ChatGPT. Il perché è negli ultimi 3 secondi. 🚗🤖 Consulente AI — Ep. 3 #noleggiolungotermine #noleggio",
+      "tag": [
+       "noleggiolungotermine",
+       "noleggioauto",
+       "chatgpt",
+       "comicita",
+       "sketchcomici"
+      ],
+      "tema": "persone",
+      "col": false,
+      "u": "https://www.tiktok.com/@galdierirent/video/7686854048888196374"
+     },
+     {
+      "d": "2026-09-16",
+      "h": 17,
+      "f": "video",
+      "l": 17,
+      "c": 11,
+      "v": 547,
+      "sh": 2,
+      "t": "Ma quindi è vero che la cliente non deve pagare nulla? Per fortuna c'è ChatGPT. 🚗🤖 Consulente AI — Ep. 2 (2/3) #noleggiolungotermine #nolegg",
+      "tag": [
+       "noleggiolungotermine",
+       "noleggioauto",
+       "chatgpt",
+       "comicita",
+       "sketchcomici"
+      ],
+      "tema": "persone",
+      "col": false,
+      "u": "https://www.tiktok.com/@galdierirent/video/7686150494179446049"
+     },
+     {
+      "d": "2026-09-16",
+      "h": 13,
+      "f": "video",
+      "l": 20,
+      "c": 12,
+      "v": 726,
+      "sh": 15,
+      "t": "Cosa fare se un cliente ti dice che gli hanno rubato l'auto: 1. Mantieni la calma 2. Vai nel panico 3. Apri ChatGPT 🚗🤖 Consulente AI — Ep. 2",
+      "tag": [
+       "noleggiolungotermine",
+       "noleggioauto",
+       "chatgpt",
+       "comicita",
+       "sketchcomici"
+      ],
+      "tema": "persone",
+      "col": false,
+      "u": "https://www.tiktok.com/@galdierirent/video/7686089596228111649"
+     },
+     {
+      "d": "2026-09-15",
+      "h": 13,
+      "f": "video",
+      "l": 47,
+      "c": 12,
+      "v": 875,
+      "sh": 25,
+      "t": "La cliente aspetta l’auto. Il consulente aspetta che ChatGPT lo salvi. 🚗🤖 Consulente AI — Ep. 1 #noleggiolungotermine #noleggioauto #chatgpt",
+      "tag": [
+       "noleggiolungotermine",
+       "noleggioauto",
+       "chatgpt",
+       "comicita",
+       "sketchcomici"
+      ],
+      "tema": "persone",
+      "col": false,
+      "u": "https://www.tiktok.com/@galdierirent/video/7685724446224665889"
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,541 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "n": "Schermate del 28/11/2026 con Chromium automatico (Playwright): computer 1440×900, telefono 390×844 e home intera dopo scorrimento lento. Banner cookie: «Rifiuta tutto» su Galdieri Rent, chiusura senza consenso (X di Iubenda) su Galdieri Auto e Car Service; galdierigroup.it e galdierienergy.it offrono solo «I Agree»/«Accetto» e il banner è stato tolto dalla pagina con uno script, senza accettare; galdieripetroli.it e galdiericleaning.it non mostravano un banner. Il banner cookie non viene mai valutato. Il popup «Passa al GPL» di Car Service e la chat aperta di Rent sono stati lasciati: sono la prima cosa che vede il cliente e pesano su Pulizia e Telefono. Nelle foto intere alcune sezioni animate restano vuote (Focus di Petroli, primo blocco di Energy): non pesano su Contenuti. Nessun sito ha bloccato il browser automatico. I voti vengono da un panel simulato di 3 esperti web e sono una valutazione indicativa, non un test con utenti. Le «aziende» del cruscotto sono le 3 divisioni: qui ci sono tutti i 7 siti del gruppo, con il campo div della divisione; la riga evidenziata è Galdieri Petroli (capogruppo).",
+ "crit": [
+  [
+   "cosa",
+   "Cosa fa",
+   "Si capisce in 5 secondi cosa vende il marchio e a chi?"
+  ],
+  [
+   "ger",
+   "Gerarchia",
+   "L'occhio sa dove andare? Un titolo, un'immagine, un'azione, in quest'ordine."
+  ],
+  [
+   "img",
+   "Immagini",
+   "Foto vere (stazioni, officine, auto, persone), nitide e ben trattate, non stock né sgranate."
+  ],
+  [
+   "prova",
+   "Prove",
+   "Numeri, anni, sedi, clienti, recensioni visibili subito?"
+  ],
+  [
+   "cta",
+   "Azione",
+   "C'è un'azione chiara (preventivo, appuntamento, contatto, offerta)?"
+  ],
+  [
+   "marca",
+   "Marca",
+   "Il sito è riconoscibile, ha una personalità e si capisce che è del Gruppo Galdieri?"
+  ],
+  [
+   "mob",
+   "Telefono",
+   "Il primo schermo su telefono funziona, senza finestre che coprono?"
+  ],
+  [
+   "int",
+   "Estero",
+   "Lingue e contatti per chi arriva da fuori regione o dall'estero."
+  ],
+  [
+   "pul",
+   "Pulizia",
+   "Niente popup, chat aperte, pulsanti fissi o errori che coprono il contenuto? (il banner cookie non conta)"
+  ],
+  [
+   "vis",
+   "Aspetto visivo",
+   "Tipografia, griglia, spazi, colori, cura del dettaglio, coerenza."
+  ],
+  [
+   "mod",
+   "Impostazione moderna",
+   "Sembra un sito del 2024-2026 o di 8-10 anni fa (slider con frecce, testi piccoli, menu affollati)?"
+  ],
+  [
+   "perc",
+   "Percorso",
+   "Le sezioni sotto guidano il cliente passo per passo fino al contatto."
+  ],
+  [
+   "cont",
+   "Contenuti",
+   "Qualità, utilità e freschezza delle sezioni sotto il primo schermo."
+  ]
+ ],
+ "pesi": {
+  "cosa": 1,
+  "ger": 1,
+  "img": 1.5,
+  "prova": 1,
+  "cta": 1,
+  "marca": 1.5,
+  "mob": 1,
+  "int": 1,
+  "pul": 1,
+  "vis": 2,
+  "mod": 2,
+  "perc": 1.5,
+  "cont": 1.5
+ },
+ "esperti": {
+  "ad": "Art director",
+  "ux": "Esperto UX e conversione",
+  "brand": "Brand designer"
+ },
+ "regola": "Media pesata dei 13 criteri, giudicando tutta la home dal primo schermo al piè di pagina. Pesi: Aspetto visivo 2 e Impostazione moderna 2; Immagini, Marca, Percorso e Contenuti 1,5; gli altri 1. Classi: ≥4 Riferimento, ≥3,3 Solido, ≥2,8 Nella norma, ≥2,1 Debole, altrimenti Da rifare. Indice Mondo dalla media: 5 da 3,6, 4 da 3,3, 3 da 2,8, 2 da 2,1, poi 1.",
+ "items": [
+  {
+   "id": "rent",
+   "nome": "Galdieri Rent",
+   "div": "rent",
+   "u": "https://galdierirent.it/",
+   "img": "logos/sito/rent-d.jpg",
+   "dm": "logos/sito/rent-m.jpg",
+   "full": "logos/sito/rent-full.jpg",
+   "s": "val",
+   "v": {
+    "cosa": 5,
+    "ger": 4,
+    "img": 3,
+    "prova": 4,
+    "cta": 5,
+    "marca": 3,
+    "mob": 3,
+    "int": 3,
+    "pul": 2,
+    "vis": 4,
+    "mod": 5,
+    "perc": 4,
+    "cont": 4
+   },
+   "media": 3.82,
+   "cls": "Solido",
+   "titolo": "«Il Viaggio Esperienziale nel Noleggio Lungo Termine e Breve Termine»",
+   "verd": "Il sito più moderno del gruppo: titolo grande, due pulsanti (Noleggio Lungo, Noleggio Breve), numeri subito sotto (92 touch point, 12+ anni) e una pagina lunga che porta dalle offerte con il canone alle formule, ai marchi, alle città, alle convenzioni, a come funziona e al modulo di preventivo. Pesano la chat aperta da sola sul primo schermo, che sul telefono copre il pulsante, e un'estetica da modello software che non ha niente del Gruppo Galdieri.",
+   "pro": [
+    "Titolo, due azioni e numeri nel primo schermo",
+    "Offerte con il canone mensile e le formule (anticipo zero, pronta consegna)",
+    "Percorso completo fino al modulo di preventivo",
+    "Convenzioni con ordini e casse professionali come prova"
+   ],
+   "contro": [
+    "Chat che si apre da sola e copre il pulsante sul telefono",
+    "«Viaggio Esperienziale» non dice cosa si ottiene: il canone tutto incluso arriva dopo",
+    "Estetica scura da modello software, nessun legame con il gruppo",
+    "Numeri incoerenti: 92 touch point in home, «oltre 110» nella descrizione per Google"
+   ],
+   "fix": "Chat chiusa all'apertura, titolo sul beneficio (canone fisso tutto incluso) e una firma del gruppo nel piè di pagina e nel primo schermo; allineare il numero dei point.",
+   "panel": {
+    "ad": "Tipografia grande e contrasto forte, ben costruito; resta un tema scuro visto molte volte.",
+    "ux": "Il percorso migliore del gruppo: offerte, formule, città e preventivo in sequenza; la chat che si apre da sola costa clic.",
+    "brand": "Il rosso tiene insieme la pagina, ma niente dice Galdieri: potrebbe essere qualsiasi noleggiatore."
+   },
+   "w": 5,
+   "wv": "Buon sito di settore, moderno e con un percorso completo; lontano dai riferimenti mondiali per personalità e cura delle immagini.",
+   "e": "Moderno e completo, ma senza firma di gruppo"
+  },
+  {
+   "id": "auto",
+   "nome": "Galdieri Auto",
+   "div": "auto",
+   "u": "https://www.galdieriauto.it/",
+   "img": "logos/sito/auto-d.jpg",
+   "dm": "logos/sito/auto-m.jpg",
+   "full": "logos/sito/auto-full.jpg",
+   "s": "val",
+   "v": {
+    "cosa": 4,
+    "ger": 3,
+    "img": 3,
+    "prova": 2,
+    "cta": 4,
+    "marca": 2,
+    "mob": 3,
+    "int": 1,
+    "pul": 2,
+    "vis": 3,
+    "mod": 3,
+    "perc": 4,
+    "cont": 3
+   },
+   "media": 2.88,
+   "cls": "Nella norma",
+   "titolo": "Slider di offerte dei costruttori (es. «Tasso zero, anticipo zero e rate da 149 € al mese con rottamazione»)",
+   "verd": "Una home da piattaforma per concessionarie, ordinata e utile: slider di offerte, la fila dei 18 marchi, ricerca per tipo di auto, «Trova la tua auto» con 1.033 veicoli, servizi di vendita, usato e noleggio, assistenza e blog. Ma il marchio Galdieri sparisce fra i loghi dei costruttori, non c'è un numero sul gruppo e i pulsanti laterali fissi (telefono, WhatsApp, chat, accessibilità) affollano lo schermo.",
+   "pro": [
+    "Ricerca dell'auto con filtri subito sotto",
+    "Tutti i marchi in mandato visibili",
+    "Percorso chiaro: nuove, usate, noleggio, assistenza"
+   ],
+   "contro": [
+    "Slider con frecce e offerte dei costruttori al posto di un messaggio proprio",
+    "Nessun numero su sedi, anni e clienti nel primo schermo",
+    "Quattro pulsanti fissi e chat sopra il contenuto",
+    "Il marchio Galdieri è il più piccolo della pagina"
+   ],
+   "fix": "Un primo schermo fisso con il messaggio della concessionaria (sedi, anni, marchi, usato garantito) prima delle offerte; meno pulsanti fissi.",
+   "panel": {
+    "ad": "Pulita ma da modello di piattaforma: nessuna scelta visiva propria.",
+    "ux": "La ricerca auto e il percorso per servizio funzionano; troppi elementi fissi che coprono.",
+    "brand": "In casa propria Galdieri Auto è ospite dei costruttori."
+   },
+   "w": 3,
+   "wv": "Datato o debole in più punti rispetto ai riferimenti mondiali.",
+   "e": "Utile ma anonimo fra i marchi auto"
+  },
+  {
+   "id": "carservice",
+   "nome": "Galdieri Car Service",
+   "div": "auto",
+   "u": "https://www.galdiericarservice.it/",
+   "img": "logos/sito/carservice-d.jpg",
+   "dm": "logos/sito/carservice-m.jpg",
+   "full": "logos/sito/carservice-full.jpg",
+   "s": "val",
+   "v": {
+    "cosa": 3,
+    "ger": 2,
+    "img": 3,
+    "prova": 4,
+    "cta": 4,
+    "marca": 2,
+    "mob": 2,
+    "int": 1,
+    "pul": 1,
+    "vis": 3,
+    "mod": 3,
+    "perc": 3,
+    "cont": 3
+   },
+   "media": 2.68,
+   "cls": "Debole",
+   "titolo": "«Accoglienza, professionalità, passione. Un service di eccellenza per la tua auto.»",
+   "verd": "All'apertura un popup «Passa al GPL» copre tutta la pagina, sul computer e sul telefono. Chiuso, la home ha numeri veri (3 officine, 107 collaboratori, 39 ponti, oltre 5.500 clienti), la promo del mese, un modulo di appuntamento, i marchi assistiti e le foto vere dell'officina. La veste scura è curata ma il titolo è generico e il logo dice «AutoService» mentre il dominio dice Car Service.",
+   "pro": [
+    "Numeri concreti subito sotto il titolo",
+    "Modulo di appuntamento in home",
+    "Foto vere dell'officina e dei servizi",
+    "Tre sedi con indirizzi e telefoni"
+   ],
+   "contro": [
+    "Popup promozionale che copre tutto all'apertura",
+    "Titolo generico («un service di eccellenza»)",
+    "Nome del logo diverso da dominio e social",
+    "Pulsante WhatsApp fisso sopra il contenuto"
+   ],
+   "fix": "Togliere il popup (la promo GPL sta già nella pagina), titolo sul servizio concreto e logo con il nome Car Service.",
+   "panel": {
+    "ad": "Buone foto di officina in una veste scura ordinata; tipografia condensata un po' datata.",
+    "ux": "Il popup all'apertura è il primo errore: chi cerca un appuntamento deve prima chiuderlo.",
+    "brand": "Due nomi diversi nello stesso schermo: il marchio non si fissa."
+   },
+   "w": 2,
+   "wv": "Chiaramente datato o trascurato.",
+   "e": "Numeri veri dietro un popup"
+  },
+  {
+   "id": "gruppo",
+   "nome": "Galdieri Group",
+   "div": null,
+   "u": "https://www.galdierigroup.it/",
+   "img": "logos/sito/gruppo-d.jpg",
+   "dm": "logos/sito/gruppo-m.jpg",
+   "full": "logos/sito/gruppo-full.jpg",
+   "s": "val",
+   "v": {
+    "cosa": 2,
+    "ger": 3,
+    "img": 3,
+    "prova": 2,
+    "cta": 1,
+    "marca": 4,
+    "mob": 3,
+    "int": 1,
+    "pul": 3,
+    "vis": 3,
+    "mod": 3,
+    "perc": 2,
+    "cont": 2
+   },
+   "media": 2.56,
+   "cls": "Debole",
+   "titolo": "«Il percorso delle aziende a gestione familiare: leadership, managerialità e spirito di coesione. Il Gruppo Galdieri è la famiglia Galdieri»",
+   "verd": "Il sito con più personalità: fucsia, titoli con grazie, foto storiche in bianco e nero. Ma la home è corta e racconta solo la famiglia: non dice che il gruppo vende carburanti, auto, noleggio, energia e pulizia, non mostra numeri e non porta ai 6 siti dei marchi. Il blocco con le parole che scorrono (SERVICE, ENERGY, RENT) cambia a ogni visita senza spiegare nulla.",
+   "pro": [
+    "Fucsia e titoli con grazie: l'identità più riconoscibile del gruppo",
+    "Foto storiche vere della famiglia e del primo distributore",
+    "Il libro di famiglia come contenuto proprio"
+   ],
+   "contro": [
+    "Non si capisce cosa fa il gruppo",
+    "Nessun collegamento ai 6 marchi nella home",
+    "Nessun numero (anni, sedi, persone, ricavi)",
+    "Foto stock d'ufficio accanto alle foto storiche"
+   ],
+   "fix": "Aggiungere sotto il titolo i 6 marchi con il loro mestiere e il link, e una riga di numeri del gruppo (dal 1952, sedi, stazioni, point, persone).",
+   "panel": {
+    "ad": "L'unico sito con un'idea visiva (fucsia e serif); impaginazione a blocchi sfalsati di qualche anno fa.",
+    "ux": "Un visitatore non trova i marchi: la home non porta da nessuna parte.",
+    "brand": "Il cuore della marca è qui, ma resta chiuso in un sito che nessun cliente visita."
+   },
+   "w": 2,
+   "wv": "Chiaramente datato o trascurato.",
+   "e": "L'identità più forte, la home più vuota"
+  },
+  {
+   "id": "cleaning",
+   "nome": "Galdieri Cleaning",
+   "div": "petroli",
+   "u": "https://www.galdiericleaning.it/",
+   "img": "logos/sito/cleaning-d.jpg",
+   "dm": "logos/sito/cleaning-m.jpg",
+   "full": "logos/sito/cleaning-full.jpg",
+   "s": "val",
+   "v": {
+    "cosa": 4,
+    "ger": 3,
+    "img": 2,
+    "prova": 1,
+    "cta": 1,
+    "marca": 2,
+    "mob": 3,
+    "int": 1,
+    "pul": 4,
+    "vis": 3,
+    "mod": 3,
+    "perc": 3,
+    "cont": 2
+   },
+   "media": 2.5,
+   "cls": "Debole",
+   "titolo": "«Prodotti per la pulizia professionale, l'igiene e la sanificazione, sicuri per le persone e l'ambiente»",
+   "verd": "Chiaro su cosa vende e a quali settori (stazioni, trasporti, horeca, commerciale, meccanica, sanificazione) e pulito, senza finestre. Ma le foto sono quasi tutte stock (il cartello «Caution wet floor»), non c'è un numero né un pulsante di contatto o preventivo, e la pagina finisce con un'illustrazione generica.",
+   "pro": [
+    "Si capisce subito cosa vende",
+    "Settori serviti in una griglia chiara",
+    "Marchi distribuiti (Flowey, Kent) in evidenza"
+   ],
+   "contro": [
+    "Foto stock al posto di prodotti e clienti veri",
+    "Nessun pulsante di preventivo o contatto nella home",
+    "Nessun numero, nessun cliente",
+    "Slider con frecce nel primo schermo"
+   ],
+   "fix": "Un pulsante «Chiedi un preventivo» nel primo schermo, foto vere di prodotti e interventi, una riga di numeri e clienti.",
+   "panel": {
+    "ad": "Ordinato ma da modello: foto stock e slider tolgono credibilità.",
+    "ux": "Il cliente B2B capisce cosa c'è ma non sa come chiedere un'offerta.",
+    "brand": "Turchese coerente con il logo, nessun legame visibile con il gruppo."
+   },
+   "w": 2,
+   "wv": "Chiaramente datato o trascurato.",
+   "e": "Chiaro ma senza azione né prove"
+  },
+  {
+   "id": "petroli",
+   "nome": "Galdieri Petroli",
+   "div": "petroli",
+   "u": "https://www.galdieripetroli.it/",
+   "img": "logos/sito/petroli-d.jpg",
+   "dm": "logos/sito/petroli-m.jpg",
+   "full": "logos/sito/petroli-full.jpg",
+   "s": "val",
+   "v": {
+    "cosa": 3,
+    "ger": 2,
+    "img": 1,
+    "prova": 3,
+    "cta": 1,
+    "marca": 2,
+    "mob": 3,
+    "int": 1,
+    "pul": 3,
+    "vis": 2,
+    "mod": 2,
+    "perc": 3,
+    "cont": 2
+   },
+   "media": 2.12,
+   "cls": "Debole",
+   "titolo": "Slider: «LNG · Il presente ad energia pulita», «Trasporto carburanti · Vendita all'ingrosso», oli lubrificanti, IP Plus, Supremium diesel, colonnine",
+   "verd": "La capogruppo ha il sito più datato: slider con frecce e foto sgranate a tutto schermo, menu nascosto nell'hamburger e nessun pulsante di contatto. Sotto ci sono fatti forti (145.000 tonnellate movimentate, 11 stazioni, rete ed extrarete, primo LNG in autostrada), ma la sezione Focus resta vuota, le notizie sono ferme al report di sostenibilità 2022 e i colori sono quelli di IP.",
+   "pro": [
+    "Numeri concreti sulla movimentazione e sulla rete",
+    "Settori rete ed extrarete ben separati",
+    "Impegno sociale con associazioni pediatriche"
+   ],
+   "contro": [
+    "Foto del primo schermo sgranate e ingrandite",
+    "Slider con frecce e menu solo a hamburger: impostazione del 2016-2018",
+    "Nessun pulsante di contatto o preventivo per l'ingrosso",
+    "Notizie e report fermi al 2022, sezione Focus vuota"
+   ],
+   "fix": "Rifare il primo schermo con una foto nitida della rete e un titolo sul mestiere, pulsanti «Preventivo ingrosso» e «Trova la stazione», notizie aggiornate.",
+   "panel": {
+    "ad": "Le immagini sgranate a tutto schermo sono l'errore più visibile del gruppo.",
+    "ux": "Chi vuole gasolio all'ingrosso non ha un pulsante: deve cercare i contatti nel piè di pagina.",
+    "brand": "Blu e arancio di IP: la capogruppo sembra un rivenditore della compagnia."
+   },
+   "w": 2,
+   "wv": "Chiaramente datato o trascurato.",
+   "e": "La capogruppo con il sito più datato"
+  },
+  {
+   "id": "energy",
+   "nome": "Galdieri Energy",
+   "div": "petroli",
+   "u": "https://www.galdierienergy.it/",
+   "img": "logos/sito/energy-d.jpg",
+   "dm": "logos/sito/energy-m.jpg",
+   "full": "logos/sito/energy-full.jpg",
+   "s": "val",
+   "v": {
+    "cosa": 3,
+    "ger": 2,
+    "img": 2,
+    "prova": 1,
+    "cta": 3,
+    "marca": 2,
+    "mob": 3,
+    "int": 1,
+    "pul": 2,
+    "vis": 2,
+    "mod": 2,
+    "perc": 2,
+    "cont": 1
+   },
+   "media": 1.97,
+   "cls": "Da rifare",
+   "titolo": "«L'energia è il nostro motore naturale» · «Galdieri Energy è un marchio C. Galdieri & Figli SpA»",
+   "verd": "Il primo schermo è affollato (tre pulsanti arancio, WhatsApp, sette voci di menu) e il titolo non dice cosa si compra. Il sito vende colonnine di ricarica, mentre il sito di gruppo presenta Energy come luce e gas. I contenuti sono fermi: «Anteprima novità 2024» e la fiera Oil&NonOil del 2023 ancora in home; il banner cookie ha solo «Accetto».",
+   "pro": [
+    "Pulsanti Acquista e WhatsApp subito visibili",
+    "Colonnine mostrate con foto di prodotto",
+    "Proposta per pubblico, aziende e privati"
+   ],
+   "contro": [
+    "Contenuti fermi al 2023-2024",
+    "Titolo che non dice il prodotto",
+    "Primo schermo affollato di pulsanti",
+    "Nessun numero, nessuna installazione mostrata"
+   ],
+   "fix": "Decidere il ruolo (colonnine o luce e gas), titolo sul prodotto, togliere le novità scadute e mostrare installazioni vere con numeri.",
+   "panel": {
+    "ad": "Blocchi colorati diversi (arancio, verde, viola, azzurro) senza una regola: nessuna gerarchia.",
+    "ux": "Tre pulsanti uguali in alto: non si sa quale premere.",
+    "brand": "L'arancio del logo c'è, il messaggio no: non è chiaro cosa sia Energy."
+   },
+   "w": 1,
+   "wv": "Da rifare.",
+   "e": "Fermo al 2024 e senza un ruolo chiaro"
+  }
+ ],
+ "cliente": {
+  "testo": "Sette siti, sette aspetti diversi e nessuno che porti agli altri. Galdieri Rent è primo (3,82), moderno e completo ma senza un segno del gruppo; Galdieri Petroli, la capogruppo, è penultimo (2,12) con foto sgranate, slider e nessun pulsante di contatto. Il sito di gruppo ha l'identità più forte (fucsia e titoli con grazie) ma non dice cosa fa il gruppo e non collega i 6 marchi.",
+  "sintesi": "Rent fa da modello per impostazione e percorso; Car Service e Auto hanno numeri e azioni ma li coprono con popup, chat e pulsanti fissi; Petroli, Energy e Cleaning sono i più datati. Il fucsia del gruppo non compare in nessun sito dei marchi.",
+  "mosse": [
+   [
+    "Rifare il primo schermo di galdieripetroli.it: foto nitida della rete, titolo sul mestiere, pulsanti «Preventivo ingrosso» e «Trova la stazione»",
+    "La capogruppo è penultima: foto sgranate e nessuna azione",
+    "medio"
+   ],
+   [
+    "Togliere il popup GPL all'apertura di Car Service e la chat che si apre da sola su Rent",
+    "Coprono il primo schermo e il pulsante sul telefono",
+    "basso"
+   ],
+   [
+    "Su galdierigroup.it mettere i 6 marchi con mestiere e link e una riga di numeri del gruppo",
+    "Oggi la home non porta a nessun marchio",
+    "basso"
+   ],
+   [
+    "Una firma comune in tutti i siti (G fucsia e «un marchio Galdieri Group» nell'intestazione o nel piè di pagina)",
+    "Nessun sito dei marchi mostra il gruppo",
+    "basso"
+   ],
+   [
+    "Aggiornare Energy: decidere il ruolo, togliere le novità 2023-2024 e mostrare installazioni vere",
+    "Contenuti fermi e titolo che non dice il prodotto",
+    "medio"
+   ],
+   [
+    "Un solo modello di sito per Petroli, Energy e Cleaning sulla base di quello di Rent",
+    "I tre siti più datati sono della stessa società",
+    "alto"
+   ]
+  ]
+ },
+ "mondo": {
+  "n": "Scala mondiale 1-10 ancorata e severa, la stessa di loghi e social. 10: le home migliori al mondo (Apple, Stripe, Tesla, Linear, Rivian); 9: gli altri riferimenti (Polestar, Volvo Cars, Octopus Energy, Ionity, Airbnb). 8: i migliori marchi di mobilità ed energia al loro meglio; 6: eccellente per una rete di distributori, una concessionaria o un noleggiatore; 5: buon sito di settore; 4: corretto ma ordinario; 3: datato o debole in più punti; 2: chiaramente datato o trascurato; 1: da rifare. Nel settore nessun sito va oltre 6; chi è Nella norma o Debole sta a 4 o meno.",
+  "top": [
+   {
+    "nome": "Apple",
+    "u": "https://www.apple.com/",
+    "perche": "Un prodotto per schermo, foto perfette, titoli grandi e due sole azioni: il modello di ogni sito di prodotto.",
+    "lg": "apple"
+   },
+   {
+    "nome": "Stripe",
+    "u": "https://stripe.com/",
+    "perche": "Spiega un servizio complesso in una frase, con tipografia curatissima e numeri e clienti subito visibili.",
+    "lg": "stripe"
+   },
+   {
+    "nome": "Tesla",
+    "u": "https://www.tesla.com/",
+    "perche": "Auto a tutto schermo, nome e due pulsanti: il primo schermo più essenziale dell'automotive.",
+    "lg": "tesla"
+   },
+   {
+    "nome": "Linear",
+    "u": "https://linear.app/",
+    "perche": "Fondo scuro, titolo netto e nulla di superfluo: il riferimento dello stile scuro che usa anche Galdieri Rent.",
+    "lg": "linear"
+   },
+   {
+    "nome": "Rivian",
+    "u": "https://rivian.com/",
+    "perche": "Foto e video del prodotto in uso di grande qualità e un tono di marca riconoscibile.",
+    "lg": "rivian"
+   },
+   {
+    "nome": "Polestar",
+    "u": "https://www.polestar.com/",
+    "perche": "Auto elettriche presentate con rigore scandinavo: griglia, foto e un solo colore d'accento.",
+    "lg": "polestar"
+   },
+   {
+    "nome": "Volvo Cars",
+    "u": "https://www.volvocars.com/",
+    "perche": "Casa auto con un percorso chiaro da modello a prova, a offerta, a concessionario.",
+    "lg": "volvo"
+   },
+   {
+    "nome": "Octopus Energy",
+    "u": "https://octopus.energy/",
+    "perche": "Fornitore di luce e gas con personalità: tono vicino, illustrazioni proprie e tariffa in primo piano.",
+    "lg": "octopus"
+   },
+   {
+    "nome": "Ionity",
+    "u": "https://ionity.eu/",
+    "perche": "Rete di ricarica rapida: mappa delle stazioni, prezzi e app in pochi passi.",
+    "lg": "ionity"
+   },
+   {
+    "nome": "Airbnb",
+    "u": "https://www.airbnb.com/",
+    "perche": "La ricerca è il primo schermo: il modello per chi deve far trovare un'auto o un punto vendita.",
+    "lg": "airbnb"
+   }
+  ]
+ }
+}

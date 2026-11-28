@@ -1,0 +1,977 @@
+{
+ "at": "2026-11-28",
+ "s": "dic",
+ "mod": [
+  "ChatGPT",
+  "Gemini",
+  "Perplexity",
+  "Claude"
+ ],
+ "q": [
+  "Quali sono le migliori società di noleggio a lungo termine in Italia?",
+  "Dove noleggiare un'auto a lungo termine a Salerno?",
+  "Qual è una concessionaria Fiat e Jeep affidabile a Salerno?",
+  "Quali sono i fornitori di gasolio per autotrazione e agricolo in Campania?",
+  "Dove fare rifornimento di GNL per camion sulla A2 del Mediterraneo?",
+  "Quali sono le migliori offerte luce e gas per aziende in Campania?",
+  "Dove comprare un'auto km 0 a Salerno o Avellino con finanziamento?",
+  "Quale società di noleggio auto a breve termine scegliere all'aeroporto di Napoli Capodichino?",
+  "Dove fare tagliando e assistenza auto multimarca a Salerno?",
+  "Dove trovare colonnine di ricarica rapida per auto elettriche tra Salerno e Avellino?"
+ ],
+ "r": [
+  {
+   "q": 0,
+   "m": "ChatGPT",
+   "cit": [],
+   "altri": [
+    "Arval",
+    "Ayvens",
+    "Leasys",
+    "Alphabet",
+    "KINTO Italia",
+    "Drivalia",
+    "Volkswagen Leasing",
+    "Mercedes-Benz Lease Italia",
+    "ES Mobility"
+   ],
+   "fonti": [
+    "aniasa.it",
+    "drivo.rent",
+    "blog.finrent.it",
+    "dataforce.de",
+    "facile.it",
+    "guidaconsumatori.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 0,
+   "m": "Gemini",
+   "cit": [],
+   "altri": [
+    "Arval",
+    "BNP Paribas",
+    "Leasys",
+    "Stellantis",
+    "Crédit Agricole",
+    "Ayvens",
+    "ALD Automotive",
+    "LeasePlan",
+    "UnipolRental",
+    "SIXT"
+   ],
+   "fonti": [
+    "facile.it",
+    "mantovauno.it",
+    "leasys.com",
+    "autoappassionati.it",
+    "ayvens.com",
+    "finrent.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 0,
+   "m": "Perplexity",
+   "cit": [],
+   "altri": [
+    "Ayvens",
+    "ALD Automotive",
+    "LeasePlan",
+    "Leasys",
+    "Arval",
+    "UnipolRental",
+    "Drivalia",
+    "Volkswagen Leasing",
+    "Athlon",
+    "Santander"
+   ],
+   "fonti": [
+    "blog.finrent.it",
+    "revenuebase.ai",
+    "ensun.io",
+    "mantovauno.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 0,
+   "m": "Claude",
+   "cit": [],
+   "altri": [
+    "Arval",
+    "Leasys",
+    "Ayvens",
+    "ALD",
+    "LeasePlan",
+    "Volkswagen Leasing",
+    "Athlon",
+    "Drivalia",
+    "Santander",
+    "Yoyomove"
+   ],
+   "fonti": [
+    "oggitreviso.it",
+    "miacar.it",
+    "quiquotidiano.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/claude/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 1,
+   "m": "ChatGPT",
+   "cit": [],
+   "altri": [
+    "Arval",
+    "Leasys",
+    "FADA Car Service"
+   ],
+   "fonti": [
+    "arval.it",
+    "leasys.com",
+    "leaseplan.com"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 1,
+   "m": "Gemini",
+   "cit": [],
+   "altri": [
+    "Arval",
+    "Leasys",
+    "ALD Automotive / Ayvens",
+    "GOcar",
+    "Autosantoro",
+    "Gruppo Del Priore",
+    "Gruppo Noviello",
+    "Auto Due S.r.l.",
+    "Unicar S.r.l.",
+    "Ford Iannone"
+   ],
+   "fonti": [
+    "grupponoviello.it",
+    "horizonautomotive.it",
+    "fordiannone.it",
+    "gocar.it",
+    "autosantoro.it",
+    "autodue.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 1,
+   "m": "Perplexity",
+   "cit": [],
+   "altri": [
+    "Dream NLT",
+    "Ayvens",
+    "Arval",
+    "Leasys",
+    "Alphabet",
+    "Agos Renting",
+    "Volkswagen Bank",
+    "Rpoint Rent",
+    "DCAR Motors"
+   ],
+   "fonti": [
+    "noleggiodream.it",
+    "contactout.com",
+    "skyscanner.com",
+    "uk.trustpilot.com",
+    "centernapoli.it",
+    "kayak.co.uk"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 1,
+   "m": "Claude",
+   "cit": [],
+   "altri": [
+    "Dream NLT",
+    "GOcar",
+    "Drivoo",
+    "Total Rent",
+    "City-Rent",
+    "Gruppo Noviello",
+    "Noleggio Fast"
+   ],
+   "fonti": [
+    "noleggiodream.it",
+    "noleggiofast.it",
+    "grupponoviello.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/claude/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 2,
+   "m": "ChatGPT",
+   "cit": [
+    "auto"
+   ],
+   "altri": [
+    "Unicar S.r.l.",
+    "Ferrajoli Auto"
+   ],
+   "fonti": [
+    "unicarsalerno.it"
+   ],
+   "sent": {
+    "auto": "neu"
+   },
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+   "n": "Tra le opzioni più affidabili in zona Salerno ti consiglierei Unicar S.r.l. (concessionaria ufficiale Jeep a Salerno) e Galdieri Auto S.r.l. (presente tra le concessionarie ufficiali Jeep in provincia di Salerno)."
+  },
+  {
+   "q": 2,
+   "m": "Gemini",
+   "cit": [
+    "auto"
+   ],
+   "altri": [
+    "Stellantis",
+    "Unicar"
+   ],
+   "fonti": [
+    "galdieriauto.it",
+    "galdieri-stellantis.it",
+    "unicarsalerno.it",
+    "unicar-stellantis.it"
+   ],
+   "sent": {
+    "auto": "pos"
+   },
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/",
+   "n": "Galdieri Auto: una delle realtà più note e strutturate della zona, concessionaria ufficiale con sedi a Salerno (zona Fuorni) e Fisciano."
+  },
+  {
+   "q": 2,
+   "m": "Perplexity",
+   "cit": [
+    "auto"
+   ],
+   "altri": [
+    "Fiat",
+    "Jeep",
+    "Youdrive Salerno",
+    "Unicar Salerno"
+   ],
+   "fonti": [
+    "wanderlog.com",
+    "paginegialle.it",
+    "galdieriauto.it",
+    "jeep-unicar.wheree.com",
+    "automoto.it",
+    "linkedin.com"
+   ],
+   "sent": {
+    "auto": "pos"
+   },
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/",
+   "n": "A Salerno, Galdieri Auto è una scelta affidabile: concessionaria ufficiale Fiat e Jeep, con sedi a Fuorni e Fisciano, vendita di veicoli nuovi e usati, officina e assistenza."
+  },
+  {
+   "q": 2,
+   "m": "Claude",
+   "cit": [
+    "auto"
+   ],
+   "altri": [
+    "Abarth",
+    "Alfa Romeo",
+    "Fiat",
+    "Lancia",
+    "Jeep",
+    "Ferrajoli Auto",
+    "UNICAR S.R.L.",
+    "Stellantis"
+   ],
+   "fonti": [
+    "galdieriauto.it",
+    "ferrajoliauto.it",
+    "unicar-stellantis.it"
+   ],
+   "sent": {
+    "auto": "neu"
+   },
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/claude/llm_responses/live/",
+   "n": "Galdieri Auto: concessionaria Abarth, Alfa Romeo, Fiat, Lancia, Jeep, con sede a Fuorni (Salerno) e a Fisciano."
+  },
+  {
+   "q": 3,
+   "m": "ChatGPT",
+   "cit": [],
+   "altri": [
+    "Piccirillo Petroli",
+    "P.Petroli / Petrone Petroli",
+    "Gruppo Fabozzi",
+    "Stiuso Petroli",
+    "Oscar Petroli"
+   ],
+   "fonti": [
+    "piccirillopetroli.com"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 3,
+   "m": "Gemini",
+   "cit": [],
+   "altri": [
+    "Enilive",
+    "Italiana Petroli (IP / Engycalor)",
+    "Q8",
+    "Tamoil",
+    "CTP Petroli",
+    "La 91 Petroli",
+    "Stiuso Petroli",
+    "Fonte Energia",
+    "Campania Lubrificanti",
+    "Beneco"
+   ],
+   "fonti": [],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 3,
+   "m": "Perplexity",
+   "cit": [],
+   "altri": [
+    "Fuel Service Srl",
+    "Marand Srl",
+    "Edil Teco Srl",
+    "Petrolfer Srl",
+    "Francy Carburante Srl",
+    "FD Carburanti Srl",
+    "T.R. Carburanti Srl",
+    "Just Fuel Srl",
+    "Dema Petroli Srl",
+    "Cereagricola Vitillo Snc"
+   ],
+   "fonti": [
+    "lb.kompass.com",
+    "tendersweep.com",
+    "grantender.com",
+    "laroccapetroli.com",
+    "revenuebase.ai",
+    "ted.europa.eu"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 3,
+   "m": "Claude",
+   "cit": [],
+   "altri": [
+    "Ciaramella Stefano Petroli",
+    "Piccirillo Petroli S.r.l.",
+    "IES 1956",
+    "Bacogas",
+    "P.Petroli",
+    "Carburanti Napolitano Antonio"
+   ],
+   "fonti": [
+    "paginegialle.it",
+    "petronepetroli.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/claude/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 4,
+   "m": "ChatGPT",
+   "cit": [],
+   "altri": [
+    "Autostrade per l'Italia"
+   ],
+   "fonti": [
+    "viabilita.autostrade.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 4,
+   "m": "Gemini",
+   "cit": [],
+   "altri": [
+    "Q8",
+    "Snam4Mobility",
+    "Società 4.0",
+    "Eni",
+    "Esso",
+    "Edenred",
+    "UTA"
+   ],
+   "fonti": [
+    "ecomotori.net",
+    "metanoauto.com",
+    "snam.it",
+    "fabiodisconzi.com",
+    "prezzidistributori.it",
+    "prezzibenzina.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 4,
+   "m": "Perplexity",
+   "cit": [],
+   "altri": [
+    "Snam4Mobility",
+    "4.0"
+   ],
+   "fonti": [
+    "eur-lex.europa.eu",
+    "federmetano.it",
+    "cngeurope.com",
+    "en.portnews.ru",
+    "politesi.polimi.it",
+    "meicservices.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 4,
+   "m": "Claude",
+   "cit": [],
+   "altri": [
+    "Api-Ip",
+    "Q8",
+    "Eni",
+    "Agip",
+    "Federmetano"
+   ],
+   "fonti": [
+    "autostradelive.it",
+    "federmetano.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/claude/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 5,
+   "m": "ChatGPT",
+   "cit": [],
+   "altri": [
+    "Enel Energia",
+    "Sorgenia",
+    "Eni Plenitude",
+    "A2A Energia",
+    "E.ON"
+   ],
+   "fonti": [
+    "facile.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 5,
+   "m": "Gemini",
+   "cit": [],
+   "altri": [
+    "Enel Energia",
+    "Eni Plenitude",
+    "Sorgenia",
+    "Edison",
+    "A2A Energia"
+   ],
+   "fonti": [
+    "facile.it",
+    "luce-gas.it",
+    "puntienergia.com",
+    "eniplenitude.com",
+    "sorgenia.it",
+    "a2a.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 5,
+   "m": "Perplexity",
+   "cit": [],
+   "altri": [
+    "Gritti Energia",
+    "Eni Plenitude",
+    "Magis Energia",
+    "Engie Italia",
+    "Sorgenia",
+    "Metanosud Energia"
+   ],
+   "fonti": [
+    "bolin.it",
+    "reaudit.io",
+    "trustpilot.com",
+    "offertachiara.eu",
+    "bollette.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 5,
+   "m": "Claude",
+   "cit": [],
+   "altri": [
+    "Sorgenia",
+    "Edison",
+    "A2A Energia",
+    "Engie",
+    "Alperia Energia",
+    "Octopus Energy",
+    "E.ON",
+    "Enel"
+   ],
+   "fonti": [
+    "selectra.net",
+    "luce-gas.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/claude/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 6,
+   "m": "ChatGPT",
+   "cit": [],
+   "altri": [
+    "Gruppo Farina",
+    "Autoéquipe",
+    "Concessionaria Autocentro",
+    "Sica Auto"
+   ],
+   "fonti": [],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 6,
+   "m": "Gemini",
+   "cit": [
+    "auto"
+   ],
+   "altri": [
+    "Autosantoro",
+    "Casalcar",
+    "Gruppo Noviello",
+    "Gruppo SARA",
+    "G. Benevento Finauto",
+    "Volkswagen"
+   ],
+   "fonti": [
+    "galdieriauto.it",
+    "galdieri-stellantis.it",
+    "autosantoro.it",
+    "casalcar.it",
+    "grupponoviello.it",
+    "grupposara.com"
+   ],
+   "sent": {
+    "auto": "neu"
+   },
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/",
+   "n": "Galdieri Auto (Salerno): offre un ampio parco di vetture km 0 multimarca con opzioni di finanziamento e leasing."
+  },
+  {
+   "q": 6,
+   "m": "Perplexity",
+   "cit": [
+    "auto"
+   ],
+   "altri": [
+    "Youdrive Salerno",
+    "Gruppo Piccirillo",
+    "Gruppo Autoscala",
+    "Stilcar",
+    "L'Autotamigi"
+   ],
+   "fonti": [
+    "youdrive-salerno-concessionaria-ufficiale-evo-nuovo-km0-e.wheree.com",
+    "gruppopiccirillo.it",
+    "galdieriauto.it",
+    "automobile.it",
+    "reteimprese.it",
+    "stilcarauto.com"
+   ],
+   "sent": {
+    "auto": "neu"
+   },
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/",
+   "n": "A Salerno puoi rivolgerti a Youdrive Salerno, Gruppo Piccirillo, Galdieri Auto e Gruppo Autoscala: offrono auto km 0 e formule di finanziamento personalizzate."
+  },
+  {
+   "q": 6,
+   "m": "Claude",
+   "cit": [],
+   "altri": [
+    "Casalcar",
+    "KGM",
+    "Ford NRG",
+    "Autodue",
+    "Volkswagen",
+    "Gruppo Noviello",
+    "Opel",
+    "Citroën",
+    "DS",
+    "Autoservice Store"
+   ],
+   "fonti": [
+    "casalcar.it",
+    "fordnrg.it",
+    "paginebianche.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/claude/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 7,
+   "m": "ChatGPT",
+   "cit": [],
+   "altri": [
+    "Hertz",
+    "Europcar",
+    "Sixt",
+    "Avis",
+    "Budget",
+    "Enterprise",
+    "Maggiore",
+    "Locauto",
+    "Sicily by Car",
+    "Alamo"
+   ],
+   "fonti": [
+    "aeroportodinapoli.it",
+    "aeroporto.net"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 7,
+   "m": "Gemini",
+   "cit": [],
+   "altri": [
+    "Locauto",
+    "Enterprise",
+    "National",
+    "Avis",
+    "Budget",
+    "Hertz",
+    "Thrifty",
+    "Sicily by Car",
+    "Maggiore",
+    "Drivalia"
+   ],
+   "fonti": [
+    "note.com",
+    "uk.trustpilot.com",
+    "rentalcars.com",
+    "discovercars.com"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 7,
+   "m": "Perplexity",
+   "cit": [],
+   "altri": [
+    "Locauto",
+    "Hertz",
+    "Enterprise",
+    "Sixt",
+    "Europcar",
+    "Avis",
+    "Maggiore",
+    "Sicily by Car",
+    "Noleggiare",
+    "Drivalia"
+   ],
+   "fonti": [
+    "naples-international-airport.com",
+    "mycarhirenow.com",
+    "italyrentacar.com",
+    "skyscanner.it",
+    "noleggioautonapoli.net",
+    "gocarrental.com"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 7,
+   "m": "Claude",
+   "cit": [
+    "rent"
+   ],
+   "altri": [
+    "Avis",
+    "Hertz",
+    "Europcar",
+    "Sixt",
+    "Skyscanner",
+    "Ace Rent a Car",
+    "Drivalia",
+    "Surprice",
+    "Autoitalo",
+    "Rental24h"
+   ],
+   "fonti": [
+    "inoleggio.it",
+    "skyscanner.it"
+   ],
+   "sent": {
+    "rent": "pos"
+   },
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/claude/llm_responses/live/",
+   "n": "Secondo i dati di Skyscanner, le società che ricevono il maggior numero di prenotazioni sono Ace Rent a Car, Galdieri Rent e Drivalia, mentre tra le più economiche compaiono Surprice e Ace Rent a Car."
+  },
+  {
+   "q": 8,
+   "m": "ChatGPT",
+   "cit": [],
+   "altri": [
+    "Autofficina Giavarini",
+    "Teknomoto snc",
+    "EMMECI3 SAS"
+   ],
+   "fonti": [
+    "sites.google.com",
+    "play.google.com",
+    "business.google.com",
+    "paginegialle.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 8,
+   "m": "Gemini",
+   "cit": [
+    "auto"
+   ],
+   "altri": [
+    "CRVS (Centro Revisioni Veicoli Salerno)",
+    "Gruppo Noviello",
+    "Auto Due",
+    "Mondial Gomma"
+   ],
+   "fonti": [
+    "centrorevisioniveicolisalerno.com",
+    "crvsalerno.it",
+    "grupponoviello.it",
+    "autodue.it",
+    "mondialgomma.it",
+    "galdieriauto.it"
+   ],
+   "sent": {
+    "auto": "pos"
+   },
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/",
+   "n": "Galdieri Auto: grande polo di assistenza e revisioni in zona industriale con servizi completi per la manutenzione ordinaria."
+  },
+  {
+   "q": 8,
+   "m": "Perplexity",
+   "cit": [
+    "auto"
+   ],
+   "altri": [
+    "Gessato Service",
+    "Esclusiva Srl",
+    "Autofficina C.I.A.T.",
+    "Car Service",
+    "OverCar Garage"
+   ],
+   "fonti": [
+    "virgilio.it",
+    "overcar-garage.wheree.com",
+    "aposto.it",
+    "cercolavoro.com",
+    "paginegialle.it",
+    "galdieriauto.it"
+   ],
+   "sent": {
+    "auto": "neu"
+   },
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/",
+   "n": "Galdieri Auto, sede di Fuorni: service autorizzato e tagliandi multibrand."
+  },
+  {
+   "q": 8,
+   "m": "Claude",
+   "cit": [],
+   "altri": [
+    "CRVS Centro Revisioni",
+    "PuntoPRO",
+    "Autofficina Morinelli",
+    "Rosciano Moto",
+    "Cesarmeccanica",
+    "Maserati",
+    "Suzuki",
+    "Ferrari"
+   ],
+   "fonti": [
+    "centrorevisioniveicolisalerno.com",
+    "puntopro.it",
+    "officinamorinelli.it"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/claude/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 9,
+   "m": "ChatGPT",
+   "cit": [],
+   "altri": [
+    "Enel X Way",
+    "IONITY",
+    "Plenitude On the Road",
+    "Ewiva",
+    "NextCharge"
+   ],
+   "fonti": [
+    "integrazione-nde.enelxway.com"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 9,
+   "m": "Gemini",
+   "cit": [],
+   "altri": [
+    "Enel X Way / Enel On Your Way",
+    "Plenitude / Be Charge",
+    "Free To X",
+    "Tesla Supercharger"
+   ],
+   "fonti": [],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 9,
+   "m": "Perplexity",
+   "cit": [],
+   "altri": [
+    "Go Electric Stations",
+    "A2A",
+    "Enel X Way",
+    "Edison Next",
+    "EVO",
+    "Convergenze",
+    "Plenitude",
+    "Ewiva",
+    "Tesla",
+    "Free To X"
+   ],
+   "fonti": [
+    "chargemap.com",
+    "enel.it",
+    "gruppoa2a.it",
+    "convergenze.it",
+    "evvia.eu",
+    "mobility.enelx.com"
+   ],
+   "sent": {},
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/",
+   "n": ""
+  },
+  {
+   "q": 9,
+   "m": "Claude",
+   "cit": [
+    "petroli"
+   ],
+   "altri": [
+    "Enel X Way",
+    "Free To X",
+    "Go Electric",
+    "Veefil-RT",
+    "Enerbroker",
+    "R-Ev",
+    "Chargemap",
+    "Evvia"
+   ],
+   "fonti": [
+    "it.chargemap.com",
+    "provincia.salerno.it",
+    "energiasrls.it",
+    "la-certificazione-energetica.net",
+    "energeek.it",
+    "chargemap.com"
+   ],
+   "sent": {
+    "petroli": "neu"
+   },
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/claude/llm_responses/live/",
+   "n": "Galdieri Petroli (Gruppo Galdieri): area di servizio Baronissi Est sull'A2/raccordo Salerno-Avellino, con colonnina rapida Veefil-RT."
+  }
+ ],
+ "sent_s": "val",
+ "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+ "ment": {
+  "petroli": {
+   "n": 2,
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/llm_mentions/search/live/"
+  },
+  "auto": {
+   "n": 267,
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/llm_mentions/search/live/"
+  },
+  "rent": {
+   "n": 172,
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/llm_mentions/search/live/"
+  }
+ },
+ "n": "10 domande × 4 modelli (ChatGPT gpt-5.4-mini, Gemini gemini-3.6-flash, Perplexity sonar, Claude claude-haiku-5-5) con DataForSEO LLM Responses e ricerca web, il 28/11/2026; risposta chiesta in italiano, massimo 100 parole, con i nomi delle aziende. Gemini non ha cercato sul web per le domande 4 e 10. Gemini (domanda 4) attribuisce Baronissi Est a Q8 e Claude (domanda 4) le aree IP Baronissi ad Api-Ip: non contate come citazioni Galdieri. Galdieri Energy non è mai nominato. Il tono («come ne parlano») è una valutazione sulla frase che nomina il marchio. Menzioni: risposte AI Overview registrate da DataForSEO LLM Mentions (Italia, italiano), con ricerche sovrapposte fra i marchi"
+}

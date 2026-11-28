@@ -1,0 +1,317 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "cmp": ["petroli", "auto", "rent"],
+ "n": "Fase 1 senza concorrenti: le tre colonne sono le divisioni del gruppo, giudicate da undici figure che decidono su di loro. Ogni figura dà un voto da 1 a 10 a Petroli, Auto e Rent (v) e uno al gruppo nel suo insieme (per.gruppo.v); la critica di ogni divisione sta in per.<divisione>, quella del gruppo in per.gruppo. I testi in alto di ogni scheda valgono per tutte e tre le divisioni. Solo dati già nei file della dashboard (28/11/2026), con la sezione d'origine. Ruolo cambiato rispetto all'elenco del kit: «casa auto mandante» diventa «mandante» (casa auto, compagnia petrolifera, società di noleggio), perché ogni divisione dipende da un mandante diverso: Stellantis e altri marchi per Auto, IP per Petroli, 9 locatrici per Rent. Dati che mancano e pesano: bilancio consolidato di gruppo, ruolo di Ground S.r.l. (30,52 M€, non sommata a Rent), assunzioni di Auto e Petroli, gare ANAC/TED cercate per codice fiscale, voti Google delle altre stazioni Petroli, testi degli annunci Google. Giudizi severi e indicativi: 5 = non convince, 8 = scelta sicura.",
+ "sintesi": "Nessuna divisione arriva a 8 in nessun ruolo: il gruppo convince a metà. Galdieri Auto ha la media più alta (6,0) e vince 4 ruoli su 11 (cliente che compra un'auto, banca, candidato, mandante); Galdieri Rent segue con 5,6 e vince 4 ruoli (flotte, partita IVA, affiliato, chi cerca online); Galdieri Petroli, la capogruppo, è ultima con 4,9 e vince 3 ruoli (automobilista, buyer di gara, giornalista). Il gruppo come insieme prende 5,1. Tutti riconoscono le radici in Campania, la crescita di Auto (ricavi 680,05 M€, dipendenti da 118 a 213 in cinque anni) e di Rent (da 7,41 a 35,27 M€), e i premi recenti di Rent. Le tre debolezze che pesano di più: 1) il gruppo ha tutti i pezzi ma non li lega (nessuna carta carburante con l'auto o il noleggio, wallbox Energy non accanto alle auto elettriche, 7 siti che non si rimandano); 2) numeri che non tornano fra i siti e perimetro societario poco chiaro (point Rent 92, 54 o «oltre 100»; marchio Rent di Galdieri Auto, flotta in Sistem Rental a Bolzano, Ground da chiarire); 3) Petroli in calo (ricavi da 187,54 M€ nel 2022 a 105,32 M€ nel 2025) e quasi invisibile online (1.137 visite stimate, Instagram fermo dal 2023).",
+ "pov": [
+  {
+   "id": "auto-rifornimento",
+   "ruolo": "Automobilista che fa rifornimento",
+   "chi": "Pendolare tra Salerno e Avellino, fa il pieno due volte a settimana, guarda prezzo, comodità e servizi dell'area.",
+   "dom": "Mi conviene fermarmi da Galdieri, e il gruppo mi dà qualcosa in più del pieno?",
+   "v": {"petroli": 6, "auto": 6, "rent": 4},
+   "win": ["petroli", ": le due aree di Baronissi sono le schede più recensite del gruppo (4,0 su 2.945 e 4,0 su 1.952) e offrono GNL e colonnine."],
+   "verd": "Si ferma da Galdieri per comodità, non per scelta: in stazione vede IP, non Galdieri, e nessuna divisione gli offre un motivo per tornare.",
+   "contro": [
+    "Petroli: cercando «distributore benzina salerno» nessuna stazione Galdieri compare nel local pack né negli organici (Google e SEO).",
+    "Rent: il canone esclude carburante e ricarica e non indica le stazioni Galdieri (Gamma prodotti).",
+    "Gruppo: nessuna carta carburante del gruppo per chi compra l'auto o la noleggia (Gamma prodotti)."
+   ],
+   "pro": [
+    "Petroli: IP Baronissi Ovest 4,0 su 2.945 recensioni e Baronissi Est 4,0 su 1.952 (Reputazione e AI).",
+    "Petroli: primo impianto LNG su rete autostradale a Baronissi Est, dal 2018 (OSINT).",
+    "Auto: Car Service ha 4,5 su 33 recensioni a Lancusi e 4,9 su 30 a Salerno (Reputazione e AI)."
+   ],
+   "serve": "Un vantaggio che si vede alla pompa: sconto o punti per chi ha l'auto, il noleggio o il tagliando con Galdieri, e il nome Galdieri accanto a IP.",
+   "dati": "reput.json, seo.json, gamma.json, osint.json",
+   "sez": "reputazione",
+   "per": {
+    "petroli": {"verd": "Buona sosta in autostrada, quasi assente in città: la rete è di 11 punti, tutti in provincia di Salerno, e il marchio si confonde con IP.", "contro": ["La colonnina «Galdieri Energy Charging Station» ha 2,6 su 7 recensioni (Reputazione e AI).", "Le colonnine sono in 7, 10 o 11 stazioni a seconda del sito (Gamma prodotti).", "In stazione Galdieri usa blu e arancio come IP: il marchio non si riconosce (Loghi e marchio)."], "pro": ["Due aree autostradali con migliaia di recensioni e voto 4,0 (Reputazione e AI).", "GNL, colonnine rapide, AdBlue e Supremium Diesel nella stessa rete (Gamma prodotti)."], "serve": "Il marchio Galdieri visibile in stazione e le schede Google di tutte le 11 stazioni curate.", "sez": "reputazione"},
+    "auto": {"verd": "Per lui Auto conta come officina: Car Service va bene, ma non lo intercetta alla pompa.", "contro": ["Car Service ha tre nomi (logo «AutoService», dominio «Car Service», report «CarService») (Loghi e marchio).", "Nessun rimando fra Car Service e le stazioni o le colonnine Energy (Gamma prodotti)."], "pro": ["Car Service: 4,5 su 33 a Lancusi, 4,9 su 30 a Salerno (Reputazione e AI).", "Annuncio Meta attivo per passare al GPL con Car Service (Pubblicità attive)."], "serve": "Il tagliando o l'impianto GPL proposti alla cassa della stazione.", "sez": "reputazione"},
+    "rent": {"verd": "Per chi fa rifornimento Rent non offre nulla: carburante e ricarica sono fuori dal canone e le stazioni del gruppo non sono citate.", "contro": ["Canone senza carburante né ricarica, senza rimando alle stazioni Galdieri (Gamma prodotti).", "Rent Capodichino ha 3,6 su 454 recensioni, il voto più basso fra le schede grandi (Reputazione e AI)."], "pro": ["Rete del breve termine con 31 stazioni in aeroporti e stazioni (OSINT).", "Sede di Fisciano 5,0 su 712 recensioni (Reputazione e AI)."], "serve": "Carta carburante Galdieri inclusa nel noleggio, con le stazioni del gruppo indicate.", "sez": "gamma"},
+    "gruppo": {"v": 5, "verd": "Il gruppo ha pompa, officina e noleggio a pochi chilometri, ma il cliente della stazione non lo sa.", "contro": ["A Fuorni stazione e concessionaria con officina hanno lo stesso indirizzo, senza offerta comune (Gamma prodotti).", "Sette loghi che non si riconoscono fra loro (Loghi e marchio)."], "pro": ["Petroli, Auto e Rent coprono tutte le 17 voci della gamma (Gamma prodotti)."], "serve": "Una tessera unica del gruppo che vale in stazione, in officina e nel noleggio."}
+   }
+  },
+  {
+   "id": "compra-auto",
+   "ruolo": "Cliente che compra un'auto",
+   "chi": "Famiglia di Salerno che cambia l'auto, confronta concessionarie, prezzo, permuta e assistenza, e valuta anche il noleggio.",
+   "dom": "Compro da Galdieri, o noleggio, e mi trovo bene dopo?",
+   "v": {"petroli": 3, "auto": 7, "rent": 6},
+   "win": ["auto", ": 18 marchi in 8 sedi, primo nel local pack per «concessionaria fiat salerno» e voto 4,3 su 1.258 recensioni a Lancusi."],
+   "verd": "Auto è una scelta solida ma non sicura; Rent è l'alternativa credibile per chi non vuole comprare; Petroli non entra mai nella decisione.",
+   "contro": [
+    "Auto: la sede di Salerno ha 4,0 su 743 e Peugeot Benevento 3,9 su 100, sotto la sede di Lancusi (Reputazione e AI).",
+    "Rent: la home mette il bollo nel canone, la guida dice che dal 2021 non c'è più (Gamma prodotti).",
+    "Gruppo: chi compra l'auto elettrica non trova la wallbox Energy accanto all'auto (Gamma prodotti)."
+   ],
+   "pro": [
+    "Auto: primo nel local pack per «concessionaria fiat salerno», e l'AI Overview nomina per prima Galdieri Auto (Google e SEO).",
+    "Auto: citata in 8 risposte AI su 40, più di tutte le altre divisioni (Risposte AI in dettaglio).",
+    "Rent: sito primo fra i sette del gruppo, 3,82 (Sito web)."
+   ],
+   "serve": "Auto, wallbox, assicurazione e tagliando in un'offerta sola, e voti Google alti anche a Salerno e Benevento.",
+   "dati": "reput.json, seo.json, geo2.json, gamma.json, sito.json",
+   "sez": "reputazione",
+   "per": {
+    "petroli": {"verd": "Non vende auto e non aggiunge nulla all'acquisto: voto basso perché per questo cliente non esiste.", "contro": ["Nessuna carta carburante proposta a chi compra l'auto (Gamma prodotti).", "Le colonnine Energy non compaiono sul sito di Auto (Gamma prodotti)."], "pro": ["Wallbox e colonnine Energy esistono già nella gamma Petroli (Gamma prodotti)."], "serve": "Wallbox e carta carburante dentro il contratto d'acquisto dell'auto.", "sez": "gamma"},
+    "auto": {"verd": "La concessionaria più forte del gruppo e ben trovata su Google; pesa la qualità non uniforme fra le sedi e una home fatta solo di offerte.", "contro": ["Home senza claim di marca, apre con le offerte a slider (Loghi e marchio).", "Popup, chat e pulsanti fissi coprono numeri e azioni sul sito (Sito web).", "Il report di sostenibilità dice che non c'è un sistema formalizzato di gestione ambientale (Loghi e marchio)."], "pro": ["18 marchi, Stellantis e cinesi, in 8 sedi fra Salerno, Avellino, Benevento e Pozzuoli (Gamma prodotti).", "Lancusi 4,3 su 1.258; Omoda e Jaecoo Pozzuoli 4,9 su 112 (Reputazione e AI).", "Secondo per «jeep salerno», quarto per «concessionaria fiat salerno» (Google e SEO)."], "serve": "Portare Salerno e Benevento sopra 4,3 e dare alla home un motivo per scegliere Galdieri oltre il prezzo.", "sez": "reputazione"},
+    "rent": {"verd": "Alternativa seria all'acquisto per il privato, con il sito migliore del gruppo; i numeri che cambiano da pagina a pagina frenano la fiducia.", "contro": ["Bollo incluso in home, escluso nella guida (Gamma prodotti).", "Point dichiarati 92, 54 o «oltre 100» (Gamma prodotti)."], "pro": ["Quinto su Google per «noleggio lungo termine», 74.000 ricerche al mese (Google e SEO).", "Sede di Fisciano 5,0 su 712 recensioni (Reputazione e AI)."], "serve": "Un solo numero di point e un canone che dica chiaramente cosa comprende.", "sez": "seo"},
+    "gruppo": {"v": 5, "verd": "Il gruppo potrebbe seguire l'auto per tutta la vita, dalla vendita al rifornimento; oggi ogni divisione vende da sola.", "contro": ["Nessun sito lega acquisto, carburante, ricarica e officina (Gamma prodotti).", "galdierigroup.it non porta a nessuno dei 6 marchi (Sito web)."], "pro": ["Lancusi ha sede Auto e sede Rent a poca distanza dal deposito Petroli (Gamma prodotti)."], "serve": "Un percorso cliente unico sul sito di gruppo: compra o noleggia, ricarica, ripara."}
+   }
+  },
+  {
+   "id": "flotte",
+   "ruolo": "Responsabile flotte di un'azienda",
+   "chi": "Fleet manager di un'azienda campana con 60 veicoli tra auto e furgoni: cerca canone, carte carburante, officine convenzionate e un solo referente.",
+   "dom": "Il Gruppo Galdieri può gestirmi tutta la flotta, dal veicolo al carburante?",
+   "v": {"petroli": 6, "auto": 5, "rent": 6},
+   "win": ["rent", ": porta a 9 case locatrici, è primo fra i broker al Kinto Grande Slam 2026 e parla alle aziende su LinkedIn (8.446 follower, 6 post al mese)."],
+   "verd": "Il gruppo ha tutti i pezzi di un'offerta flotte (canone, furgoni allestiti, carta carburante, officina) ma li vende in tre posti diversi: il fleet manager deve montarseli da solo.",
+   "contro": [
+    "Rent: nessun dominio Galdieri nei primi 10 per «noleggio lungo termine partita iva» (Google e SEO).",
+    "Petroli: la fuel card IP Plus (circa 1.200 clienti) resta dentro Petroli e non viene offerta con il noleggio (Gamma prodotti).",
+    "Gruppo: nessun referente unico né offerta flotte comune sui siti (Gamma prodotti)."
+   ],
+   "pro": [
+    "Rent: primo al Kinto Grande Slam 2026 tra i broker del noleggio (OSINT).",
+    "Auto: dealer Focaccia Group e Lamberet per veicoli speciali e allestimenti (OSINT).",
+    "Petroli: HVO nel canale extrarete e GNL sulla A2 (OSINT)."
+   ],
+   "serve": "Un'offerta flotte di gruppo con canone, carta IP Plus, officine Car Service e un solo contratto quadro.",
+   "dati": "osint.json, gamma.json, seo.json, social.json, aziende.json",
+   "sez": "gamma",
+   "per": {
+    "petroli": {"verd": "Ha la cosa che un fleet manager usa ogni giorno, la carta carburante, ma la vende da sola e con un sito che non aiuta.", "contro": ["Sito penultimo fra i sette (2,12), senza pulsante di contatto (Sito web).", "Rete di 11 stazioni solo in provincia di Salerno (Confronto)."], "pro": ["Agenzia IP Plus per la Campania, circa 1.200 clienti e 21 milioni di litri (Gamma prodotti).", "HVO, GNL, AdBlue e ingrosso extrarete (Gamma prodotti)."], "serve": "Un pulsante «Carta carburante per flotte» e la carta proposta da Rent a ogni contratto aziendale.", "sez": "gamma"},
+    "auto": {"verd": "Forte su furgoni e allestimenti, ma per il noleggio rimanda a Rent e non parla alle flotte come cliente proprio.", "contro": ["Nessuna voce di gara o contratto flotte trovata per Auto (OSINT).", "Il fatturato verso il canale flotte e rent non è separabile nel report (Confronto)."], "pro": ["Focaccia Group e Lamberet per veicoli speciali (OSINT).", "Car Service convenzionata con Leasys, Ald, Leaseplan, Athlon e Unipol Rental (Gamma prodotti)."], "serve": "Una pagina flotte con furgoni allestiti, officina convenzionata e tempi di consegna.", "sez": "osint"},
+    "rent": {"verd": "Il marchio più vicino al fleet manager, ma è un broker di medie dimensioni (35,27 M€, 79 dipendenti) e non si trova sulle ricerche aziendali.", "contro": ["Fuori dai primi 10 per «noleggio lungo termine partita iva»; l'AI Overview cita Finrent, Leasys, Ayvens (Google e SEO).", "Nessuna risposta AI sulle migliori società di noleggio a lungo termine nomina Rent (Risposte AI in dettaglio).", "Smentita pubblica nel 2024 di un presunto attacco al database clienti (OSINT)."], "pro": ["9 mandati di case locatrici, fra cui Leasys e Arval (Gamma prodotti).", "Leader della Crescita 2027: 57° su 500 (OSINT)."], "serve": "Una pagina «flotte aziendali» con casi veri e la carta carburante del gruppo inclusa.", "sez": "seo"},
+    "gruppo": {"v": 5, "verd": "Sulla carta l'unico gruppo campano che può dare veicolo, carburante, ricarica e officina insieme; nei fatti nessuno lo propone.", "contro": ["Carta IP Plus, Rent e Car Service non sono mai offerti insieme (Gamma prodotti).", "Tre siti, tre contatti diversi per la stessa azienda cliente (Sito web)."], "pro": ["Tutte le 17 voci della gamma coperte da almeno una divisione (Gamma prodotti)."], "serve": "Un'offerta flotte firmata Galdieri Group con un referente unico."}
+   }
+  },
+  {
+   "id": "partita-iva",
+   "ruolo": "Partita IVA che valuta il noleggio a lungo termine",
+   "chi": "Artigiano o professionista della provincia di Salerno: guarda canone, anticipo, cosa è incluso e chi lo segue dopo la firma.",
+   "dom": "Noleggio con Galdieri o con un grande nome nazionale?",
+   "v": {"petroli": 4, "auto": 5, "rent": 6},
+   "win": ["rent", ": 54 point affiliati di cui 20 in Campania, sede di Fisciano 5,0 su 712 recensioni e il sito migliore del gruppo."],
+   "verd": "Rent piace per la vicinanza e il consulente, ma su Google e nelle risposte AI la partita IVA trova prima i grandi nomi; le altre divisioni non aggiungono nulla al canone.",
+   "contro": [
+    "Rent: assente nei primi 10 per «noleggio lungo termine partita iva», 880 ricerche al mese (Google e SEO).",
+    "Rent: bollo incluso in home, escluso nella guida (Gamma prodotti).",
+    "Gruppo: canone senza carta carburante del gruppo (Gamma prodotti)."
+   ],
+   "pro": [
+    "Rent: 54 point affiliati in 13 regioni, 20 in Campania (Confronto).",
+    "Rent: sede di Fisciano 5,0 su 712, Napoli Centrale 4,5 su 275 (Reputazione e AI).",
+    "Auto: offerte con TAN e TAEG e permuta su LinkedIn (Social)."
+   ],
+   "serve": "Una pagina per le partite IVA con canone, deducibilità e cosa è incluso, e la carta carburante nel contratto.",
+   "dati": "seo.json, gamma.json, aziende.json, reput.json, social.json",
+   "sez": "seo",
+   "per": {
+    "petroli": {"verd": "Per una partita IVA la carta carburante sarebbe utile, ma Petroli non la propone a chi noleggia: voto basso.", "contro": ["Nessun rimando dalla carta IP Plus al noleggio (Gamma prodotti).", "Nessun annuncio attivo, né Meta né Google (Pubblicità attive)."], "pro": ["Carta IP Plus già usata da circa 1.200 clienti (Gamma prodotti)."], "serve": "La carta proposta dal consulente Rent al momento della firma.", "sez": "gamma"},
+    "auto": {"verd": "Vende e finanzia, ma per il noleggio la partita IVA viene mandata a Rent: Auto resta una seconda scelta.", "contro": ["Annunci Google di galdieriauto.it fermi dal 31/07/2026 (Pubblicità attive).", "TikTok fermo dal 28/08/2026 (Social)."], "pro": ["Offerte TAN e TAEG e permuta su LinkedIn (Social).", "Veicoli commerciali con allestimenti (Gamma prodotti)."], "serve": "Un confronto chiaro acquisto contro noleggio per le partite IVA.", "sez": "social"},
+    "rent": {"verd": "Il prodotto giusto con un consulente vicino, ma non si fa trovare dove la partita IVA cerca e si contraddice su cosa c'è nel canone.", "contro": ["Fuori dai primi 10 per «noleggio lungo termine partita iva» (Google e SEO).", "Bollo: sì in home, no nella guida (Gamma prodotti).", "Rent Capodichino 3,6 su 454 recensioni (Reputazione e AI)."], "pro": ["Sede di Fisciano 5,0 su 712 (Reputazione e AI).", "Consulenti che si mostrano negli annunci «dietro le quinte» (Pubblicità attive)."], "serve": "Una pagina partite IVA ben posizionata e un canone scritto uguale in tutte le pagine.", "sez": "seo"},
+    "gruppo": {"v": 5, "verd": "Un gruppo locale con officine, stazioni e noleggio potrebbe battere i nomi nazionali sul servizio; oggi non lo racconta.", "contro": ["Il canone Rent non cita stazioni né officine del gruppo (Gamma prodotti).", "Il marchio di gruppo non compare in nessun sito dei marchi (Sito web)."], "pro": ["Sedi Auto e Rent nello stesso punto a Lancusi (Gamma prodotti)."], "serve": "«Noleggi con Galdieri, fai il pieno e il tagliando con Galdieri» scritto nel contratto."}
+   }
+  },
+  {
+   "id": "gara",
+   "ruolo": "Buyer di una gara pubblica",
+   "chi": "Funzionario di un ente campano (comune, università, comunità montana) che compra carburante, gasolio da riscaldamento o noleggio di mezzi.",
+   "dom": "Il fornitore è affidabile, in regola e ha già lavorato con enti come il mio?",
+   "v": {"petroli": 6, "auto": 5, "rent": 4},
+   "win": ["petroli", ": tre forniture a enti (Università di Napoli 2021 e 2022, Comunità Montana Alento Monte Stella 2025) e certificazioni ISO 9001, 14001 e 45001."],
+   "verd": "Petroli ha qualche precedente pubblico e le certificazioni giuste, ma su contratti piccoli; Auto è in regola sulla carta senza gare trovate; Rent ha una sola fornitura e un perimetro societario che confonde.",
+   "contro": [
+    "Petroli: solo 3 forniture pubbliche trovate, tutte piccole (OSINT).",
+    "Rent: marchio di Galdieri Auto S.r.l., contratti in Sistem Rental S.r.l. con sede a Bolzano (Il gruppo).",
+    "Gruppo: gare ANAC e TED non cercate per codice fiscale, lo zero può dipendere dalla ricerca (OSINT)."
+   ],
+   "pro": [
+    "Petroli: ISO 9001, ISO 14001, ISO 45001 e bilancio di sostenibilità 2022 (Loghi e marchio).",
+    "Auto: rating di legalità AGCM a due stelle, Modello 231 e certificazione per la parità di genere (OSINT).",
+    "Rent: noleggio a breve di 10 furgoni per Salerno Pulita nel 2022 (OSINT)."
+   ],
+   "serve": "Un elenco pubblico di forniture a enti, certificazioni per tutte e tre le società e un contraente chiaro per il noleggio.",
+   "dati": "osint.json, brand.json, aziende.json",
+   "sez": "osint",
+   "per": {
+    "petroli": {"verd": "Il fornitore più pronto per un ente: certificato e già usato da università ed enti locali, ma su importi piccoli.", "contro": ["Solo 3 voci di gara in OSINT (OSINT).", "Ricavi scesi da 187,54 M€ (2022) a 105,32 M€ (2025) (Storico)."], "pro": ["ISO 9001, 14001, 45001 (Loghi e marchio).", "Forniture di gasolio agricolo e da riscaldamento a Università e Comunità Montana (OSINT)."], "serve": "Una pagina «Enti e pubblica amministrazione» con forniture e certificati scaricabili.", "sez": "osint"},
+    "auto": {"verd": "In regola e con documenti di sostenibilità, ma senza nessuna gara trovata: per un ente resta un fornitore da provare.", "contro": ["Nessuna voce di gara per Auto (OSINT).", "Nessuna certificazione ambientale formalizzata, lo dice il report (Loghi e marchio)."], "pro": ["Rating di legalità AGCM due stelle e Modello 231 (OSINT).", "Certificazione UNI/PdR 125 per la parità di genere (OSINT)."], "serve": "Una prima gara vinta per veicoli o allestimenti speciali.", "sez": "osint"},
+    "rent": {"verd": "Una sola fornitura pubblica e nessuna certificazione propria; per un ente il contraente non è chiaro.", "contro": ["Nessuna certificazione propria trovata (Loghi e marchio).", "Marchio di una società, contratti di un'altra con sede a Bolzano, Ground S.r.l. da chiarire (Il gruppo).", "Smentita nel 2024 di un presunto attacco al database clienti (OSINT)."], "pro": ["10 furgoni a noleggio per Salerno Pulita nel 2022 (OSINT)."], "serve": "Certificazioni ISO per Sistem Rental e una scheda che dica chi firma il contratto.", "sez": "gruppo"},
+    "gruppo": {"v": 5, "verd": "Gruppo in regola su legalità e qualità, ma con documenti sparsi fra società diverse e pochi precedenti pubblici.", "contro": ["Certificazioni diverse per ogni società, nessuna di gruppo (Loghi e marchio).", "Solo 4 voci di gara in tutto il gruppo (OSINT)."], "pro": ["Bilanci di sostenibilità sia di Petroli sia di Auto (OSINT)."], "serve": "Un fascicolo di gruppo per le gare: società, certificati, forniture fatte."}
+   }
+  },
+  {
+   "id": "affiliato",
+   "ruolo": "Gestore di stazione o point affiliato",
+   "chi": "Imprenditore che valuta di aprire un point Galdieri Rent nella sua città, o di gestire una stazione della rete Petroli.",
+   "dom": "Entrare nella rete Galdieri mi fa guadagnare, e la rete mi sostiene?",
+   "v": {"petroli": 5, "auto": 5, "rent": 7},
+   "win": ["rent", ": rete affiliata in crescita (Nuova Tuttauto nel 2026, Car Solution a Riccione nato col supporto di Rent), ricavi da 7,41 a 35,27 M€ in cinque anni."],
+   "verd": "Rent è l'unica divisione che cerca davvero partner e cresce; Petroli ha una rete piccola e in calo; Auto non ha una rete di affiliati.",
+   "contro": [
+    "Rent: utile di 0,545 M€ su 35,27 M€ di ricavi nel 2025 (Confronto).",
+    "Rent: rete dichiarata in tre modi, 92 touch point, 54 point o «oltre 100» (Gamma prodotti).",
+    "Petroli: ricavi -20,8% nel 2025 e -44% dal 2022 (Storico)."
+   ],
+   "pro": [
+    "Rent: 54 point in 13 regioni e nuovi point nel 2026 (OSINT).",
+    "Rent: annunci per consulenti con partita IVA in Campania e Molise (OSINT).",
+    "Petroli: rete rinnovata con il rebranding IP nel 2023 (OSINT)."
+   ],
+   "serve": "Numeri chiari sulla rete e sul guadagno medio di un point; per Petroli, un piano di crescita della rete.",
+   "dati": "aziende.json, storico.json, osint.json, gamma.json",
+   "sez": "confronto",
+   "per": {
+    "petroli": {"verd": "Rete piccola, tutta in provincia di Salerno, con ricavi in calo da tre anni e un marchio che in stazione lascia il posto a IP.", "contro": ["Ricavi da 187,54 a 105,32 M€ tra 2022 e 2025 (Storico).", "Instagram fermo dal 13/11/2023, nessun annuncio attivo (Social)."], "pro": ["Rebranding IP della rete nel 2023 (OSINT).", "Erogatori E-Nozzle e colonnine rapide nella rete (OSINT)."], "serve": "Un piano che dica dove apre la prossima stazione e cosa offre al gestore.", "sez": "storico"},
+    "auto": {"verd": "Non è una rete in affiliazione: per un dealer esterno l'unico aggancio è il portale My Garage.", "contro": ["Nessuna voce di accordo con dealer esterni oltre ai mandati (OSINT).", "Attività lontane dall'auto sul sito, come Boat Experience (Gamma prodotti)."], "pro": ["Il portale My Garage apre lo stock ad altri concessionari (Gamma prodotti).", "Dipendenti da 118 a 213 in cinque anni (Storico)."], "serve": "Regole chiare per i concessionari che usano My Garage.", "sez": "gamma"},
+    "rent": {"verd": "La rete più viva del gruppo e l'unica che recluta, ma con margini sottili e numeri che non tornano fra le pagine.", "contro": ["Utile 2025 di 0,545 M€, perdita nel 2021 (Storico).", "92, 54 o «oltre 100» point a seconda della pagina (Gamma prodotti).", "Ground S.r.l., stesso indirizzo e stesso mestiere, ruolo da chiarire (Il gruppo)."], "pro": ["Ricavi da 7,41 a 35,27 M€ dal 2021 al 2025 (Storico).", "Primo al Kinto Grande Slam 2026 fra i broker (OSINT)."], "serve": "Una pagina per chi vuole aprire un point con numeri veri e il perimetro societario chiarito.", "sez": "storico"},
+    "gruppo": {"v": 5, "verd": "Un partner entra in una divisione, non nel gruppo: oggi non c'è nessun vantaggio dall'essere legati a tre mestieri.", "contro": ["Nessuna offerta incrociata fra le reti (Gamma prodotti).", "Il fucsia del gruppo non compare in nessun marchio (Loghi e marchio)."], "pro": ["Tre società con utile positivo nel 2025 (Confronto)."], "serve": "Un point Rent che venda anche la carta carburante e il tagliando del gruppo."}
+   }
+  },
+  {
+   "id": "banca",
+   "ruolo": "Banca o finanziatore",
+   "chi": "Analista crediti di una banca che valuta una linea per il gruppo o per una singola società.",
+   "dom": "I conti reggono, e capisco bene chi garantisce cosa?",
+   "v": {"petroli": 5, "auto": 7, "rent": 5},
+   "win": ["auto", ": ricavi 680,05 M€ (+62,8%), utile 6,81 M€ e dipendenti in crescita ogni anno dal 2021."],
+   "verd": "Auto regge il gruppo; Petroli è redditizio ma si restringe; Rent cresce in fretta con margini sottili e un perimetro poco chiaro. Manca un numero di gruppo.",
+   "contro": [
+    "Auto: ricavi altalenanti, 537,18 M€ nel 2023, 417,66 nel 2024, 680,05 nel 2025 (Storico).",
+    "Rent: il 61,42% di crescita della classifica Sole 24 Ore non torna con i ricavi, circa 55% l'anno (OSINT).",
+    "Gruppo: nessun bilancio consolidato nei dati, e Ground S.r.l. (30,52 M€) fuori dal perimetro (Il gruppo)."
+   ],
+   "pro": [
+    "Auto: utile positivo e in crescita da 2,26 M€ (2021) a 6,81 M€ (2025) (Storico).",
+    "Petroli: utile positivo in tutti e cinque gli anni (Storico).",
+    "Gruppo: direzione e coordinamento in Galdieri Holding Real Estate S.r.l. (Il gruppo)."
+   ],
+   "serve": "Un bilancio di gruppo con le vendite interne fra Auto e Rent separate e il ruolo di Ground chiarito.",
+   "dati": "storico.json, aziende.json, osint.json",
+   "sez": "storico",
+   "per": {
+    "petroli": {"verd": "Sempre in utile ma con ricavi che scendono da tre anni e pochi dipendenti: rischio basso, crescita assente.", "contro": ["Ricavi da 187,54 a 105,32 M€ tra 2022 e 2025 (Storico).", "Utile da 4,13 M€ (2024) a 1,37 M€ (2025) (Storico)."], "pro": ["Utile positivo in tutti gli anni dal 2021 (Storico).", "ISO 9001, 14001 e 45001 (Loghi e marchio)."], "serve": "Un piano che spieghi il calo dei ricavi (prezzi o volumi) e dove riparte.", "sez": "storico"},
+    "auto": {"verd": "La società più solida del gruppo, ma con margine intorno all'1% e ricavi che saltano di anno in anno.", "contro": ["Ricavi 537,18 → 417,66 → 680,05 M€ fra 2023 e 2025 (Storico).", "Non si sa quanto fatturato sia vendita al canale flotte e rent del gruppo (Confronto)."], "pro": ["Utile 6,81 M€ nel 2025 (Confronto).", "Dipendenti da 118 a 213 in cinque anni (Storico)."], "serve": "Ricavi separati fra vendita a terzi e vendita a Rent.", "sez": "storico"},
+    "rent": {"verd": "Crescita forte ma margini sottili e un perimetro che potrebbe raddoppiare o no: per una banca è il rischio meno leggibile.", "contro": ["Utile sotto 1 M€ ogni anno, perdita nel 2021 (Storico).", "Ground S.r.l., 30,52 M€, stesso indirizzo, ruolo da verificare (Il gruppo).", "Dipendenti da 84 a 79 nel 2025 mentre i ricavi salgono (Storico)."], "pro": ["Ricavi quasi quintuplicati dal 2021 al 2025 (Storico).", "Leader della Crescita 2027, 57° su 500 (OSINT)."], "serve": "Il bilancio di Sistem Rental e Ground letti insieme, con la flotta e il debito.", "sez": "storico"},
+    "gruppo": {"v": 6, "verd": "Tre società in utile e una holding che coordina: un buon cliente, ma si deve sommare tutto a mano.", "contro": ["Nessun numero di gruppo nei dati (Il gruppo).", "Marchio Rent di una società, flotta di un'altra (Il gruppo)."], "pro": ["Petroli, Auto e Sistem Rental tutte in utile nel 2025 (Confronto)."], "serve": "Un bilancio consolidato pubblico."}
+   }
+  },
+  {
+   "id": "candidato",
+   "ruolo": "Candidato che cerca lavoro",
+   "chi": "Venditore o tecnico di officina campano, 30 anni, che guarda stabilità, crescita e come l'azienda tratta le persone.",
+   "dom": "Lavorare da Galdieri mi fa crescere?",
+   "v": {"petroli": 4, "auto": 7, "rent": 6},
+   "win": ["auto", ": 213 dipendenti, 36 in più nel 2025, certificazione per la parità di genere e rating di legalità."],
+   "verd": "Auto è il datore di lavoro più credibile; Rent attira ma cerca soprattutto consulenti con partita IVA; Petroli è piccolo e silenzioso.",
+   "contro": [
+    "Auto: nessun annuncio di lavoro trovato (OSINT).",
+    "Rent: gli annunci trovati cercano consulenti con partita IVA, non dipendenti (OSINT).",
+    "Petroli: LinkedIn con 933 follower e nessun post recente (Social)."
+   ],
+   "pro": [
+    "Auto: certificazione UNI/PdR 125 per la parità di genere (OSINT).",
+    "Auto: dipendenti da 118 (2021) a 213 (2025) (Storico).",
+    "Rent: la pagina LinkedIn più viva del gruppo, 6 post al mese (Social)."
+   ],
+   "serve": "Una pagina «lavora con noi» di gruppo con posizioni aperte e percorsi fra le divisioni.",
+   "dati": "osint.json, storico.json, social.json",
+   "sez": "osint",
+   "per": {
+    "petroli": {"verd": "46 dipendenti in calo e nessun segnale pubblico di assunzione: per un candidato non esiste.", "contro": ["Dipendenti da 50 a 46 nel 2025 (Storico).", "LinkedIn senza post, YouTube senza video (Social)."], "pro": ["ISO 45001 sulla sicurezza sul lavoro (Loghi e marchio).", "Passaggio alla terza generazione nel CdA del 2023 (OSINT)."], "serve": "Raccontare su LinkedIn chi lavora nella rete e nel deposito.", "sez": "social"},
+    "auto": {"verd": "Cresce, è in regola e lo certifica: il posto più sicuro del gruppo, anche se non pubblica le posizioni aperte.", "contro": ["Nessuna voce di assunzione in OSINT (OSINT).", "Dipendenti 2024: 177 per reportaziende, 208 per il report di sostenibilità (Storico)."], "pro": ["Parità di genere UNI/PdR 125 e rating di legalità (OSINT).", "Nuove sedi a Benevento, Agnano e Monteforte Irpino (OSINT)."], "serve": "Pubblicare le posizioni aperte e i percorsi di carriera fra le sedi.", "sez": "osint"},
+    "rent": {"verd": "Ambiente giovane e premiato, ma i posti visibili sono da libero professionista e i dipendenti calano.", "contro": ["Dipendenti da 84 a 79 nel 2025 (Storico).", "Società con sede legale a Bolzano (Il gruppo)."], "pro": ["Annunci per consulenti NLT in Campania e Molise (OSINT).", "Premi recenti: Kinto Grande Slam, Leader della Crescita (OSINT)."], "serve": "Posti da dipendente oltre ai mandati a partita IVA.", "sez": "osint"},
+    "gruppo": {"v": 5, "verd": "Più di 330 dipendenti fra le tre società, ma nessuna voce del gruppo come datore di lavoro.", "contro": ["Solo 2 voci di assunzione in tutto il gruppo (OSINT).", "galdierigroup.it non porta ai marchi (Sito web)."], "pro": ["Certificazione per la parità di genere di Auto, valida come segnale per tutto il gruppo (OSINT)."], "serve": "Una sola pagina lavoro per le tre divisioni."}
+   }
+  },
+  {
+   "id": "mandante",
+   "ruolo": "Mandante: casa auto, compagnia petrolifera, società di noleggio",
+   "chi": "Responsabile rete di Stellantis o di un marchio cinese, area manager IP, account di una società di noleggio che dà il mandato a Rent.",
+   "dom": "Questo partner porta volumi e tiene alto il mio marchio?",
+   "v": {"petroli": 6, "auto": 7, "rent": 6},
+   "win": ["auto", ": 18 marchi in mandato, nuove sedi aperte ogni anno dal 2024 e prima concessionaria che Google e l'AI nominano a Salerno."],
+   "verd": "Auto è un partner che investe e si fa trovare; Petroli tiene bene le aree autostradali ma si restringe; Rent porta contratti e premi ma con sedi di qualità diseguale.",
+   "contro": [
+    "Auto: Peugeot Benevento 3,9 su 100 recensioni (Reputazione e AI).",
+    "Petroli: ricavi -44% dal 2022 (Storico).",
+    "Rent: Capodichino 3,6 su 454 recensioni (Reputazione e AI)."
+   ],
+   "pro": [
+    "Auto: sedi nuove a Benevento, Agnano, Monteforte Irpino e showroom BYD a Lancusi (OSINT).",
+    "Petroli: agenzia IP Plus per la Campania e rebranding IP della rete (OSINT).",
+    "Rent: primo fra i broker al Kinto Grande Slam 2026 (OSINT)."
+   ],
+   "serve": "Voti Google sopra 4,3 in tutte le sedi con il marchio del mandante.",
+   "dati": "osint.json, reput.json, storico.json, seo.json",
+   "sez": "osint",
+   "per": {
+    "petroli": {"verd": "Per IP un buon gestore delle aree autostradali; il calo dei volumi e una rete solo provinciale pesano.", "contro": ["Ricavi da 187,54 a 105,32 M€ (Storico).", "Assente per «distributore benzina salerno» (Google e SEO)."], "pro": ["Baronissi Ovest 4,0 su 2.945 (Reputazione e AI).", "Agenzia IP Plus Campania, circa 1.200 clienti (Gamma prodotti)."], "serve": "Volumi in crescita e schede Google curate su tutte le stazioni.", "sez": "storico"},
+    "auto": {"verd": "Investe in sedi e marchi nuovi e domina le ricerche locali; 18 marchi però rischiano di confondere chi entra in showroom.", "contro": ["Peugeot Benevento 3,9 su 100 (Reputazione e AI).", "18 marchi fra Stellantis e cinesi, senza un claim che li tenga insieme (Loghi e marchio)."], "pro": ["Primo nel local pack per «concessionaria fiat salerno» (Google e SEO).", "Anteprima della nuova Lancia Gamma a Fisciano (OSINT)."], "serve": "Ogni sede di marchio sopra 4,3 e una regola su quanto spazio dare ai marchi cinesi.", "sez": "seo"},
+    "rent": {"verd": "Porta contratti e premi alle locatrici, ma la qualità delle sedi breve termine è diseguale e il marchio vive di ricerche sul proprio nome.", "contro": ["Capodichino 3,6 su 454 recensioni (Reputazione e AI).", "Traffico quasi tutto da ricerche di marca (Google e SEO)."], "pro": ["Kinto Grande Slam 2026, primo fra i broker (OSINT).", "16 annunci Meta attivi (Pubblicità attive)."], "serve": "Portare Capodichino sopra 4,0 e farsi trovare su ricerche senza il nome Galdieri.", "sez": "reputazione"},
+    "gruppo": {"v": 6, "verd": "Un gruppo radicato in Campania con tre canali verso il cliente: utile per un mandante, se le divisioni lavorassero insieme.", "contro": ["Il marchio Galdieri si confonde con IP in stazione (Loghi e marchio).", "Nessuna offerta incrociata fra auto, carburante e noleggio (Gamma prodotti)."], "pro": ["Concessionaria, rete carburanti e noleggio nello stesso territorio (Gamma prodotti)."], "serve": "Un'offerta di gruppo che venda più auto del mandante (noleggio, carta, ricarica)."}
+   }
+  },
+  {
+   "id": "giornalista",
+   "ruolo": "Giornalista economico locale",
+   "chi": "Redattore di economia di un quotidiano campano: cerca numeri, storie e un vertice che parli.",
+   "dom": "C'è una notizia vera sul Gruppo Galdieri, o solo comunicati?",
+   "v": {"petroli": 6, "auto": 6, "rent": 5},
+   "win": ["petroli", ": è la divisione con più voce pubblica (8 voci OSINT di impegno del vertice, primo GNL in autostrada, libro di famiglia)."],
+   "verd": "Materiale ce n'è (crescita di Auto, premi di Rent, storia di Petroli), ma ogni divisione racconta da sola e alcuni numeri non reggono una verifica.",
+   "contro": [
+    "Rent: il 61,42% di crescita della classifica non torna con i bilanci, circa 55% (OSINT).",
+    "Petroli: anno di fondazione 1951 sul suo sito, 1952 su quello di gruppo (Loghi e marchio).",
+    "Gruppo: solo 3 notizie raccolte in automatico, tutte di sport e territorio (Segnali)."
+   ],
+   "pro": [
+    "Petroli: il vertice ai Forum Fuels Mobility 2023 e testimonial di Assopetroli-Assoenergia (OSINT).",
+    "Auto: bilanci di sostenibilità 2024 e 2025, fotovoltaico da 94,6 kW (OSINT).",
+    "Rent: Leader della Crescita 2027, 57° su 500 (OSINT)."
+   ],
+   "serve": "Un numero di gruppo (ricavi e dipendenti totali) e un portavoce per tutte e tre le divisioni.",
+   "dati": "osint.json, brand.json, news.json, storico.json",
+   "sez": "osint",
+   "per": {
+    "petroli": {"verd": "La storia più forte del gruppo e un vertice che va ai convegni, ma le uscite si fermano al 2023 e i ricavi scendono.", "contro": ["Voci di impegno pubblico ferme a fine 2023 (OSINT).", "1951 o 1952: la data cambia fra i siti (Loghi e marchio)."], "pro": ["Primo impianto LNG su rete autostradale nel 2018 (OSINT).", "Libro di famiglia «Quando l'autostrada non c'era» (OSINT)."], "serve": "Una nuova uscita del vertice sulla transizione della rete, con numeri.", "sez": "osint"},
+    "auto": {"verd": "Buoni temi (sostenibilità, parità, sport, cultura), ma i ricavi saltano da un anno all'altro e nessun premio è registrato.", "contro": ["Ricavi 537,18 → 417,66 → 680,05 M€ (Storico).", "Nessun premio trovato (Loghi e marchio)."], "pro": ["Premio Massimo Troisi e Avellino Basket (OSINT).", "Certificazione per la parità di genere e rating di legalità (OSINT)."], "serve": "Spiegare la crescita del 2025 con dati di vendita.", "sez": "storico"},
+    "rent": {"verd": "Notizie fresche e premi, ma un numero di crescita che non torna, una società a Bolzano e una smentita sui dati clienti.", "contro": ["Crescita dichiarata 61,42%, dai bilanci circa 55% (OSINT).", "Smentita nel 2024 di un attacco al database clienti (OSINT).", "Nessuna uscita pubblica del vertice di Rent trovata (OSINT)."], "pro": ["Kinto Grande Slam 2026 e Leader della Crescita 2027 (OSINT).", "Ricavi da 7,41 a 35,27 M€ (Storico)."], "serve": "Un dato di crescita spiegato e un volto che lo racconti.", "sez": "osint"},
+    "gruppo": {"v": 5, "verd": "Settant'anni di storia e tre mestieri: una storia economica che nessuno racconta come gruppo.", "contro": ["Solo 3 notizie in Segnali (Segnali).", "Nessun numero di gruppo pubblico (Il gruppo)."], "pro": ["Memorial dedicato al fondatore e libro di famiglia (OSINT)."], "serve": "Una conferenza stampa di gruppo con i numeri delle tre divisioni."}
+   }
+  },
+  {
+   "id": "online",
+   "ruolo": "Persona che cerca online",
+   "chi": "Chi cerca su Google o chiede a un assistente AI un'auto, un noleggio, un distributore o un'offerta luce e gas in Campania.",
+   "dom": "Trovo Galdieri quando cerco quello che mi serve, senza scrivere il nome?",
+   "v": {"petroli": 3, "auto": 6, "rent": 7},
+   "win": ["rent", ": sito migliore del gruppo (3,82), 20.096 visite stimate al mese, 13.926 follower Instagram e 37.798 su Facebook."],
+   "verd": "Chi cerca il nome Galdieri lo trova; chi cerca il servizio quasi mai. Rent e Auto vivono di ricerche di marca, Petroli è invisibile.",
+   "contro": [
+    "Rent: assente per «noleggio auto salerno» e per «noleggio lungo termine partita iva» (Google e SEO).",
+    "Petroli: assente da gasolio agricolo, gnl camion, distributore benzina salerno, luce e gas aziende (Google e SEO).",
+    "Gruppo: citato in 10 risposte AI su 40; Galdieri Energy mai (Risposte AI in dettaglio)."
+   ],
+   "pro": [
+    "Rent: quinto per «noleggio lungo termine», 74.000 ricerche al mese (Google e SEO).",
+    "Auto: 25.044 visite stimate e 8 citazioni AI su 40 (Google e SEO).",
+    "Rent: un video TikTok del 2025 con 840.800 visualizzazioni (Social)."
+   ],
+   "serve": "Pagine fatte per le ricerche senza il nome (noleggio a Salerno, partita IVA, distributore, gasolio agricolo) e un sito di gruppo che porti ai marchi.",
+   "dati": "seo.json, seo2.json, geo2.json, sito.json, social.json",
+   "sez": "seo",
+   "per": {
+    "petroli": {"verd": "Online quasi non esiste: 1.137 visite stimate, sito lento, profili fermi e pagine modello ancora pubblicate.", "contro": ["Lighthouse 73 e spam score dei link 44 (SEO in dettaglio).", "Instagram fermo dal 13/11/2023, YouTube senza video (Social).", "Pagine modello online: /faq/ con testo segnaposto e /wireframes/ (Gamma prodotti)."], "pro": ["Primo per «ip baronissi ovest» e «area di servizio baronissi» (SEO in dettaglio).", "L'AI Overview su «area di servizio baronissi» cita galdieripetroli.it (Google e SEO)."], "serve": "Una pagina per ogni stazione e una per l'ingrosso, e i profili social riaccesi.", "sez": "seo2"},
+    "auto": {"verd": "Molto traffico, ma in buona parte da ricerche di modelli e dal proprio nome; i social sono vivi solo su Instagram e LinkedIn.", "contro": ["Parole che portano traffico come «hyundai i20» e «panda fiat», non la concessionaria (Google e SEO).", "TikTok fermo dal 28/08/2026 (Social)."], "pro": ["2.033 parole posizionate, 58 al primo posto (SEO in dettaglio).", "8 citazioni su 40 nelle risposte AI (Risposte AI in dettaglio)."], "serve": "Pagine di sede ricche per Salerno, Avellino, Benevento e Pozzuoli.", "sez": "seo2"},
+    "rent": {"verd": "Il marchio digitale più forte del gruppo, ma quasi tutto il traffico arriva da chi lo conosce già.", "contro": ["Assente per «noleggio auto salerno» anche nel local pack (Google e SEO).", "Instagram con 1,3 post al mese (Social).", "Citato in 1 sola risposta AI su 40 (Risposte AI in dettaglio)."], "pro": ["Sito primo, 3,82 (Sito web).", "Facebook 37.798 e LinkedIn 8.446, i più alti del gruppo (Social)."], "serve": "Contenuti per chi cerca il servizio a Salerno e nelle città dei point.", "sez": "seo"},
+    "gruppo": {"v": 4, "verd": "Sette siti con sette aspetti e un sito di gruppo che nessuno trova: online il Gruppo Galdieri non esiste come insieme.", "contro": ["galdierigroup.it: 114 visite stimate, nessuna parola in top 10 (Google e SEO).", "Nessun sito dei marchi mostra il gruppo (Sito web)."], "pro": ["Il sito di gruppo ha l'identità più forte, fucsia e titoli con grazie (Sito web)."], "serve": "Un sito di gruppo che presenti i 6 marchi e una firma comune su tutti i siti."}
+   }
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "n": "Letto il 28/11/2026 (ScrapeCreators). Ogni divisione è un'azienda; i sotto-marchi stanno come canali in più della divisione: petroli.ig2/fb2 = Galdieri Energy, petroli.ig3/fb3 = Galdieri Cleaning, auto.ig2/fb2 = Galdieri Car Service. ppm = post negli ultimi 90 giorni (dal 30/08/2026) diviso 3; eng = interazioni medie per post (mi piace + commenti, su TikTok anche condivisioni); er = eng ÷ follower × 100; reel = quota di reel; top = 3 post con più interazioni. Follower Facebook = mi piace della pagina nella Libreria inserzioni Meta. Tono: punteggi da 1 (primo polo dell'asse) a 5 (secondo polo), letti dalle didascalie, valutazione.",
+ "az": {
+  "petroli": {
+   "ig": {
+    "fol": 872,
+    "ppm": 0.0,
+    "per": "90 giorni",
+    "ult": "2023-11-13",
+    "s": "dic",
+    "u": "https://www.instagram.com/galdieripetroli/",
+    "nota": "Letto il 28/11/2026: 12 post scaricati. Profilo fermo: ultimo post il 13/11/2023, nessun post negli ultimi 6 mesi."
+   },
+   "ig2": {
+    "fol": 353,
+    "ppm": 0.0,
+    "per": "90 giorni",
+    "ult": "2026-08-15",
+    "eng": 0.0,
+    "er": 0.0,
+    "reel": 0.0,
+    "top": [
+     {
+      "d": "2026-08-15",
+      "t": "⚡ LA RICARICA PIÙ ATTESA DELL'ANNO. Stacchiamo la spina del lavoro. Attacchiamo quella del relax. Oggi si ricarica solo da fonti rinnovabili",
+      "l": 0,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DcCVo9-DB7J/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/galdierienergy/",
+    "nota": "Letto il 28/11/2026: 12 post scaricati. Galdieri Energy (ricarica elettrica): un solo post negli ultimi 6 mesi, nessuno negli ultimi 90 giorni. Medie sui 1 post degli ultimi 6 mesi (meno di 3 negli ultimi 90 giorni).",
+    "sub": "Galdieri Energy"
+   },
+   "ig3": {
+    "fol": null,
+    "s": "dic",
+    "u": "https://www.instagram.com/galdiericleaning/",
+    "sub": "Galdieri Cleaning",
+    "nota": "Profilo Instagram non disponibile (letto il 28/11/2026)."
+   },
+   "fb": {
+    "fol": 2752,
+    "s": "dic",
+    "u": "https://www.facebook.com/Galdieripetrolifisciano",
+    "nota": "Pagina «C. Galdieri & Figli SpA»: 2.752 follower dalla pagina Facebook, letti il 28/11/2026; data dell'ultimo post non letta."
+   },
+   "fb2": {
+    "fol": 766,
+    "s": "dic",
+    "u": "https://www.facebook.com/galdierienergy",
+    "sub": "Galdieri Energy",
+    "nota": "Mi piace della pagina dalla Libreria inserzioni Meta, letti il 28/11/2026; data dell'ultimo post non letta."
+   },
+   "fb3": {
+    "fol": 274,
+    "s": "dic",
+    "u": "https://www.facebook.com/galdiericleaning",
+    "sub": "Galdieri Cleaning",
+    "nota": "Mi piace della pagina dalla Libreria inserzioni Meta, letti il 28/11/2026; data dell'ultimo post non letta."
+   },
+   "li": {
+    "fol": 933,
+    "s": "dic",
+    "u": "https://www.linkedin.com/company/galdieripetroli/",
+    "nota": "Pagina «CARMINE GALDIERI & FIGLI - S.P.A. (GALDIERI Petroli)», letta il 28/11/2026; nessun post recente restituito."
+   },
+   "yt": {
+    "fol": 308,
+    "ult": null,
+    "s": "dic",
+    "u": "https://www.youtube.com/@c.galdierifiglispagaldieri3322",
+    "nota": "Canale «C. Galdieri & Figli SpA Galdieripetroli», iscritto dal 07/06/2015: 308 iscritti; nessun video restituito, attività non verificabile (28/11/2026)."
+   },
+   "tono": {
+    "v": {
+     "istituzionale ↔ vicino": 2,
+     "tecnico ↔ emozionale": 2,
+     "locale ↔ nazionale": 2,
+     "promozione ↔ valori": 3,
+     "tradizione ↔ innovazione": 4
+    },
+    "frase": "Voce d'impresa da comunicato: rete di stazioni, ricarica elettrica, sostenibilità e partnership IP; Galdieri Energy aggiunge auguri a tema «energia green». Poco presidiata: Instagram fermo dal 2023.",
+    "temi": [
+     "rete di stazioni e ricarica elettrica",
+     "sostenibilità e bilancio",
+     "auguri di stagione green (Energy)"
+    ],
+    "s": "val"
+   }
+  },
+  "auto": {
+   "ig": {
+    "fol": 4956,
+    "ppm": 5.7,
+    "per": "90 giorni",
+    "ult": "2026-11-24",
+    "eng": 46.6,
+    "er": 0.94,
+    "reel": 0.53,
+    "top": [
+     {
+      "d": "2026-11-24",
+      "t": "Crediamo che ogni auto usata abbia una storia. E che meriti una voce sincera a raccontarla. Per questo, con Usato Selection, ciascuna vettur",
+      "l": 155,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DgH7wfIDOAm/"
+     },
+     {
+      "d": "2026-11-09",
+      "t": "Uniti nella tana dei lupi! 🐺 Mercoledì 11 novembre la serata comincia prima. Dalle 19:00 Galdieri Auto ti aspetta al PalaDelMauro con un ape",
+      "l": 115,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DfhlRU3lFrO/"
+     },
+     {
+      "d": "2026-10-16",
+      "t": "Il primo tiro è tuo. 🏀 Galdieri Auto, al fianco dei lupi, apre la tana in anticipo: mercoledì 21 ottobre ti aspettiamo all’APERITANA, prima ",
+      "l": 105,
+      "c": 3,
+      "u": "https://www.instagram.com/p/Deje8_eAXl4/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/galdieri.auto/",
+    "nota": "Letto il 28/11/2026: 24 post scaricati."
+   },
+   "ig2": {
+    "fol": 598,
+    "ppm": 1.7,
+    "per": "90 giorni",
+    "ult": "2026-11-27",
+    "eng": 9.8,
+    "er": 1.64,
+    "reel": 0.2,
+    "top": [
+     {
+      "d": "2026-10-31",
+      "t": "CI SONO RUMORI CHE FANNO PIÙ PAURA DI UN FANTASMA! Cigolii, sibili, colpi sordi in curva… La tua auto ti sta mandando un segnale. Non ignora",
+      "l": 13,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DfItr9TDDaH/"
+     },
+     {
+      "d": "2026-11-27",
+      "t": "Ci prendiamo una piccola pausa! Lunedì 7 dicembre il team Galdieri Service si ferma per il ponte dell'Immacolata. Ci rivediamo mercoledì 9 d",
+      "l": 13,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DgP5ueGJfoW/"
+     },
+     {
+      "d": "2026-10-30",
+      "t": "⛽ Risparmia sul carburante, non sulla strada da percorrere! Con Galdieri Service, passare al GPL è facile: tu porti l’auto, a tutto il resto",
+      "l": 9,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DfHqOddla1f/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/galdieri.carservice/",
+    "nota": "Letto il 28/11/2026: 24 post scaricati.",
+    "sub": "Galdieri Car Service"
+   },
+   "fb": {
+    "fol": 23525,
+    "s": "dic",
+    "u": "https://www.facebook.com/galdieriauto",
+    "nota": "Mi piace della pagina dalla Libreria inserzioni Meta, letti il 28/11/2026; data dell'ultimo post non letta."
+   },
+   "fb2": {
+    "fol": 2615,
+    "s": "dic",
+    "u": "https://www.facebook.com/galdiericarservice",
+    "sub": "Galdieri Car Service",
+    "nota": "Mi piace della pagina dalla Libreria inserzioni Meta, letti il 28/11/2026; data dell'ultimo post non letta."
+   },
+   "li": {
+    "fol": 2528,
+    "ppm": 3.5,
+    "ult": "2026-11-16",
+    "s": "dic",
+    "u": "https://www.linkedin.com/company/galdieriauto/",
+    "nota": "Letto il 28/11/2026: 10 post dal 04/09 al 16/11/2026 (tour Lancia Gamma, basket Avellino, Škoda Epiq, Premio Troisi, offerte TAN/TAEG, permuta); ppm = 10 post in 85 giorni."
+   },
+   "tt": {
+    "fol": 2320,
+    "ppm": 0.0,
+    "ult": "2026-08-28",
+    "eng": 13.0,
+    "er": 0.56,
+    "views": 952,
+    "s": "dic",
+    "u": "https://www.tiktok.com/@galdieri.auto",
+    "nota": "Letto il 28/11/2026 (10 video scaricati); medie su 3 video degli ultimi 6 mesi. Account ufficiale (stesso nome e bio del marchio); ultimo video il 28/08/2026, nessuno negli ultimi 90 giorni."
+   },
+   "tono": {
+    "v": {
+     "istituzionale ↔ vicino": 4,
+     "tecnico ↔ emozionale": 4,
+     "locale ↔ nazionale": 2,
+     "promozione ↔ valori": 2,
+     "tradizione ↔ innovazione": 3
+    },
+    "frase": "Copy emozionale sul prodotto («Lei ha la forza. Tu il carattere. Noi ci mettiamo il cuore»), molto radicato in Irpinia e Campania (basket Avellino, Premio Troisi, «Dal 1989»), con i marchi cinesi e plug-in come leva di novità; Car Service parla in modo pratico e tecnico.",
+    "temi": [
+     "nuovi modelli OMODA, Jaecoo, BYD",
+     "basket e territorio",
+     "officina e manutenzione (Car Service)"
+    ],
+    "s": "val"
+   }
+  },
+  "rent": {
+   "ig": {
+    "fol": 13926,
+    "ppm": 1.3,
+    "per": "90 giorni",
+    "ult": "2026-11-13",
+    "eng": 48.2,
+    "er": 0.35,
+    "reel": 1.0,
+    "top": [
+     {
+      "d": "2026-11-11",
+      "t": "Dietro le quinte del noleggio. 🎬 La fiducia nasce da ciò che vedi. Per questo [nome] ti mostra COME lavorano i nostri consulenti esperti",
+      "l": 93,
+      "c": 5,
+      "u": "https://www.instagram.com/p/DfmoVvvpYTo/"
+     },
+     {
+      "d": "2026-10-27",
+      "t": "Crediamo che la mobilità debba aprirti nuove strade, non complicarti la vita ogni giorno. Invece spesso ci si mette proprio l’auto: un impre",
+      "l": 54,
+      "c": 4,
+      "u": "https://www.instagram.com/p/DfAHcEQDMcE/"
+     },
+     {
+      "d": "2026-10-31",
+      "t": "Per noi la tua mobilità non deve trasformarsi in un film horror. Deve aprirti possibilità. 📞 Con Galdieri Rent si parte da te, con soluzioni",
+      "l": 24,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DfItujviMMY/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/galdieri_rent/",
+    "nota": "Letto il 28/11/2026: 12 post scaricati."
+   },
+   "fb": {
+    "fol": 37798,
+    "s": "dic",
+    "u": "https://www.facebook.com/galdierirent",
+    "nota": "Mi piace della pagina dalla Libreria inserzioni Meta, letti il 28/11/2026; data dell'ultimo post non letta."
+   },
+   "li": {
+    "fol": 8446,
+    "ppm": 6.0,
+    "ult": "2026-11-26",
+    "s": "dic",
+    "u": "https://www.linkedin.com/company/galdieri-rent/",
+    "nota": "Letto il 28/11/2026: 10 post dal 09/10 al 26/11/2026 (Leader della Crescita 2027 Sole 24 Ore/Statista, 57° posto; primo posto Kinto Grande Slam 2026; ricerca consulenti NLT; broker; convenzioni; manifesto); la pagina si presenta come «Galdieri Rent (Sistem Rental S.r.l.)»."
+   },
+   "tt": {
+    "fol": 1603,
+    "ppm": 2.0,
+    "ult": "2026-09-20",
+    "eng": 45.3,
+    "er": 2.83,
+    "views": 855,
+    "s": "dic",
+    "u": "https://www.tiktok.com/@galdierirent",
+    "nota": "Letto il 28/11/2026 (9 video scaricati); medie su 6 video degli ultimi 90 giorni. Probabile account ufficiale (la bio cita Galdierirent); serie comica «Consulente AI» a settembre 2026; un video del luglio 2025 con 840.800 visualizzazioni."
+   },
+   "tono": {
+    "v": {
+     "istituzionale ↔ vicino": 4,
+     "tecnico ↔ emozionale": 4,
+     "locale ↔ nazionale": 3,
+     "promozione ↔ valori": 4,
+     "tradizione ↔ innovazione": 4
+    },
+    "frase": "Tono da manifesto («Crediamo che la mobilità debba aprirti nuove strade») e dietro le quinte dei consulenti, ironico su TikTok con video fatti con l'AI; su LinkedIn premi e crescita per il pubblico B2B.",
+    "temi": [
+     "noleggio senza pensieri",
+     "consulenti e dietro le quinte",
+     "premi e crescita (LinkedIn)"
+    ],
+    "s": "val"
+   }
+  }
+ }
+}

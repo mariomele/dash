@@ -1,0 +1,119 @@
+{
+ "social": {
+  "at": "2026-11-28",
+  "fonti": {
+   "posts": "9e6eb3f9f4"
+  }
+ },
+ "gamma": {
+  "at": "2026-11-28",
+  "fonti": {
+   "aziende": "207ba90a15"
+  }
+ },
+ "brandx": {
+  "at": "2026-11-28",
+  "fonti": {
+   "brand": "fe40086b72",
+   "sito": "f28bc56e89"
+  }
+ },
+ "sito": {
+  "at": "2026-11-28",
+  "fonti": {
+   "brand": "fe40086b72"
+  }
+ },
+ "pov": {
+  "at": "2026-11-28",
+  "fonti": {
+   "aziende": "207ba90a15",
+   "storico": "7ed351872f",
+   "osint": "ad5e393398",
+   "gamma": "440a463631",
+   "seo": "f26b973f77",
+   "seo2": "5b91be6b08",
+   "geo2": "ee71fc04f0",
+   "reput": "113f90696d",
+   "social": "ce1cba2bbc",
+   "ads": "51b96201e8",
+   "brand": "fe40086b72",
+   "brandx": "21f93339d2",
+   "sito": "f28bc56e89",
+   "news": "3a42b0b120"
+  }
+ },
+ "lenti": {
+  "at": "2026-11-28",
+  "fonti": {
+   "brand": "fe40086b72",
+   "brandx": "21f93339d2",
+   "sito": "f28bc56e89",
+   "aziende": "207ba90a15"
+  }
+ },
+ "mkt": {
+  "at": "2026-11-28",
+  "fonti": {
+   "aziende": "207ba90a15",
+   "brand": "fe40086b72",
+   "brandx": "21f93339d2",
+   "sito": "f28bc56e89",
+   "social": "ce1cba2bbc",
+   "posts": "9e6eb3f9f4",
+   "ads": "51b96201e8",
+   "seo": "f26b973f77",
+   "seo2": "5b91be6b08",
+   "reput": "113f90696d",
+   "geo2": "ee71fc04f0",
+   "llmm": "7576d276dc",
+   "trends": "b7d1ad0804",
+   "gamma": "440a463631",
+   "osint": "ad5e393398"
+  }
+ },
+ "sales": {
+  "at": "2026-11-28",
+  "fonti": {
+   "aziende": "207ba90a15",
+   "storico": "7ed351872f",
+   "gamma": "440a463631",
+   "sedi": "96b8a6a85e",
+   "osint": "ad5e393398",
+   "social": "ce1cba2bbc",
+   "posts": "9e6eb3f9f4",
+   "ads": "51b96201e8",
+   "seo": "f26b973f77",
+   "seo2": "5b91be6b08",
+   "reput": "113f90696d",
+   "geo2": "ee71fc04f0",
+   "trends": "b7d1ad0804",
+   "brand": "fe40086b72",
+   "sito": "f28bc56e89"
+  }
+ },
+ "home": {
+  "at": "2026-11-28",
+  "fonti": {
+   "aziende": "207ba90a15",
+   "storico": "7ed351872f",
+   "gamma": "440a463631",
+   "sedi": "96b8a6a85e",
+   "osint": "ad5e393398",
+   "brand": "fe40086b72",
+   "brandx": "21f93339d2",
+   "sito": "f28bc56e89",
+   "social": "ce1cba2bbc",
+   "posts": "9e6eb3f9f4",
+   "ads": "51b96201e8",
+   "seo": "f26b973f77",
+   "seo2": "5b91be6b08",
+   "reput": "113f90696d",
+   "llmm": "7576d276dc",
+   "sales": "0fccf44341",
+   "mkt": "b60c4053d4",
+   "lenti": "e043fff217",
+   "pov": "2b6008e0b5"
+  }
+ }
+}

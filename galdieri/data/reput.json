@@ -1,0 +1,573 @@
+{
+ "at": "2026-11-28",
+ "s": "dic",
+ "u": "https://docs.dataforseo.com/v3/business_data/business_listings/search/live/",
+ "google": {
+  "petroli": {
+   "v": 4,
+   "r": 2945,
+   "luogo": "IP Baronissi Ovest · Racccordo autostradale SA-AV E841 - KM 6+048, 84081 Baronissi SA",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=17799984214230809243&hl=en&gl=IT",
+   "n": "scheda con più recensioni della divisione; Google Maps letto con DataForSEO Business Listings il 28/11/2026"
+  },
+  "auto": {
+   "v": 4.3,
+   "r": 1258,
+   "luogo": "Galdieri Auto Fisciano · SR88 km 10+400 N*1 84084, di Lancusi SA",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=16772916565175012766&hl=en&gl=IT",
+   "n": "scheda con più recensioni della divisione; Google Maps letto con DataForSEO Business Listings il 28/11/2026"
+  },
+  "rent": {
+   "v": 5,
+   "r": 712,
+   "luogo": "Galdieri Rent · S.S. 88, km 10,400, 84085 Fisciano SA",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=3590723305753663719&hl=en&gl=IT",
+   "n": "scheda con più recensioni della divisione; Google Maps letto con DataForSEO Business Listings il 28/11/2026"
+  }
+ },
+ "sedi": [
+  {
+   "nome": "IP Baronissi Ovest",
+   "div": "petroli",
+   "cat": "Gas station",
+   "luogo": "Racccordo autostradale SA-AV E841 - KM 6+048, 84081 Baronissi SA",
+   "v": 4,
+   "r": 2945,
+   "sito": "galdieripetroli.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=17799984214230809243&hl=en&gl=IT"
+  },
+  {
+   "nome": "IP Baronissi Est",
+   "div": "petroli",
+   "cat": "Gas station",
+   "luogo": "A2, 84081 Baronissi SA",
+   "v": 4,
+   "r": 1952,
+   "sito": "gruppoapi.com",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=12539908121459824940&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Auto Fisciano",
+   "div": "auto",
+   "cat": "Car dealer",
+   "luogo": "SR88 km 10+400 N*1 84084, di Lancusi SA",
+   "v": 4.3,
+   "r": 1258,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=16772916565175012766&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Auto Srl",
+   "div": "auto",
+   "cat": "Car dealer",
+   "luogo": "Via delle Calabrie, 4-18, 84131 Salerno SA",
+   "v": 4,
+   "r": 743,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=12772735293725799739&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Rent",
+   "div": "rent",
+   "cat": "Car rental agency",
+   "luogo": "S.S. 88, km 10,400, 84085 Fisciano SA",
+   "v": 5,
+   "r": 712,
+   "sito": "galdierirent.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=3590723305753663719&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Rent Capodichino",
+   "div": "rent",
+   "cat": "Car rental agency",
+   "luogo": "Cupa Carbone, 44, 80144 Napoli NA",
+   "v": 3.6,
+   "r": 454,
+   "sito": "galdierirent.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=17261238609517427718&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Rent Napoli Centrale",
+   "div": "rent",
+   "cat": "Car rental agency",
+   "luogo": "Corso Meridionale, 19, 80143 Napoli NA",
+   "v": 4.5,
+   "r": 275,
+   "sito": "galdierirent.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=13767769882187560889&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Auto Atripalda",
+   "div": "auto",
+   "cat": "Car dealer",
+   "luogo": "SS7bis, SNC, 83042 Atripalda AV",
+   "v": 4.3,
+   "r": 168,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=9881617495087842559&hl=en&gl=IT"
+  },
+  {
+   "nome": "Omoda & Jaecoo Napoli | Galdieri Auto",
+   "div": "auto",
+   "cat": "Auto broker",
+   "luogo": "IV Traversa Pisciarelli, 2b, 80078 Pozzuoli NA",
+   "v": 4.9,
+   "r": 112,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=3536914494055047063&hl=en&gl=IT"
+  },
+  {
+   "nome": "Peugeot Galdieri Auto",
+   "div": "auto",
+   "cat": "Peugeot dealer",
+   "luogo": "Contrada Piano Morra, 82100 Benevento BN",
+   "v": 3.9,
+   "r": 100,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=3156958985612702497&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Rent Salerno Stazione",
+   "div": "rent",
+   "cat": "Car rental agency",
+   "luogo": "Corso Giuseppe Garibaldi, 33, 84122 Salerno SA",
+   "v": 4.6,
+   "r": 62,
+   "sito": "brevetermine.galdierirent.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=3489621003389196424&hl=en&gl=IT"
+  },
+  {
+   "nome": "Fiat Galdieri Auto",
+   "div": "auto",
+   "cat": "Fiat dealer",
+   "luogo": "Via delle Calabrie, 84131 Salerno SA",
+   "v": 5,
+   "r": 45,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=10139900811978174092&hl=en&gl=IT"
+  },
+  {
+   "nome": "SKODA | Galdieri Auto",
+   "div": "auto",
+   "cat": "Skoda dealer",
+   "luogo": "Via Nicola Santangelo, 83013 Torelli-torrette AV",
+   "v": 4.7,
+   "r": 40,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=5553253405072335581&hl=en&gl=IT"
+  },
+  {
+   "nome": "GALDIERI AUTO S.R.L. Jeep",
+   "div": "auto",
+   "cat": "Jeep dealer",
+   "luogo": "S.R. 18 DELLE CALABRIE KM 62, 84131 Salerno SA",
+   "v": 4.3,
+   "r": 39,
+   "sito": "galdieri-fcagroup.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=1580757649760564978&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Group",
+   "div": "gruppo",
+   "cat": "Corporate office",
+   "luogo": "SR88, 88, 84084 Lancusi SA",
+   "v": 4.4,
+   "r": 39,
+   "sito": "galdierigroup.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=7295532001109671817&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Car Service Lancusi",
+   "div": "auto",
+   "cat": "Car repair and maintenance service",
+   "luogo": "S.R. 88 dei Due Principati, km 10+400, 84084 Lancusi SA",
+   "v": 4.5,
+   "r": 33,
+   "sito": "galdiericarservice.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=13739143609002070809&hl=en&gl=IT"
+  },
+  {
+   "nome": "C. Galdieri & Figli S.p.A.",
+   "div": "petroli",
+   "cat": "Alternative fuel station",
+   "luogo": "Via S.R. 88 dei Due Principati, 9, 84084 Fisciano SA",
+   "v": 4.2,
+   "r": 33,
+   "sito": "galdieripetroli.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=15248498815463721836&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Car Service Salerno",
+   "div": "auto",
+   "cat": "Auto repair shop",
+   "luogo": "Via delle Calabrie, 4-18, 84131 Salerno SA",
+   "v": 4.9,
+   "r": 30,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=9155945441813421620&hl=en&gl=IT"
+  },
+  {
+   "nome": "Jeep Galdieri Auto",
+   "div": "auto",
+   "cat": "Jeep dealer",
+   "luogo": "SR88, km 10+400/N*1, 84084 Lancusi SA",
+   "v": 5,
+   "r": 26,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=16555863306907974410&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Rent Sarno",
+   "div": "rent",
+   "cat": "Car rental agency",
+   "luogo": "Via S. Valentino, 32, 84087 Sarno SA",
+   "v": 4.2,
+   "r": 13,
+   "sito": "galdierirent.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=5713811689566258428&hl=en&gl=IT"
+  },
+  {
+   "nome": "GALDIERI AUTO S.R.L. Alfa Romeo",
+   "div": "auto",
+   "cat": "Car repair and maintenance service",
+   "luogo": "Via S.R. 18 Delle Calabrie, Km 62 + 173, 84131 Salerno SA",
+   "v": 4.5,
+   "r": 12,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=12182250263831710099&hl=en&gl=IT"
+  },
+  {
+   "nome": "Lancia Galdieri Auto",
+   "div": "auto",
+   "cat": "Lancia dealer",
+   "luogo": "SR88, km 10+400/N*1, 84084 Lancusi SA",
+   "v": 5,
+   "r": 11,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=3470118836453002654&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Rent Ercolano",
+   "div": "rent",
+   "cat": "Car rental agency",
+   "luogo": "Via Sacerdote Cozzolino Benedetto, 36, 80056 Ercolano NA",
+   "v": 5,
+   "r": 10,
+   "sito": "galdierirent.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=11973311115771847591&hl=en&gl=IT"
+  },
+  {
+   "nome": "DS Store Galdieri Auto Srl",
+   "div": "auto",
+   "cat": "DS Automobiles dealer",
+   "luogo": "SS7bis, SNC, 83042 Atripalda AV",
+   "v": 5,
+   "r": 9,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=16124000017639952706&hl=en&gl=IT"
+  },
+  {
+   "nome": "GALDIERI AUTO S.R.L. - Jeep",
+   "div": "auto",
+   "cat": "Car dealer",
+   "luogo": "Via Pacello da Mercogliano, 1, 83013 Mercogliano AV",
+   "v": 4.9,
+   "r": 8,
+   "sito": "galdieri-fcagroup.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=11613653839580360369&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Energy Charging Station",
+   "div": "petroli",
+   "cat": "Electric vehicle charging station",
+   "luogo": "84131 Salerno, Province of Salerno",
+   "v": 2.6,
+   "r": 7,
+   "sito": "galdierienergy.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=12255772342834709160&hl=en&gl=IT"
+  },
+  {
+   "nome": "Citroën Galdieri Auto",
+   "div": "auto",
+   "cat": "Citroen dealer",
+   "luogo": "Contrada Piano Morra, 82100 Benevento BN",
+   "v": 5,
+   "r": 7,
+   "sito": "galdieriauto.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=960917853312478637&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Rent Napoli",
+   "div": "rent",
+   "cat": "Car rental agency",
+   "luogo": "Via Argine, 1003, 80147 Napoli NA",
+   "v": 1.3,
+   "r": 6,
+   "sito": "galdierirent.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=16226313270044262334&hl=en&gl=IT"
+  },
+  {
+   "nome": "Galdieri Rent Mercogliano",
+   "div": "rent",
+   "cat": "Car rental agency",
+   "luogo": "Via Pacello da Mercogliano, 1, 83013 Mercogliano AV",
+   "v": 3.7,
+   "r": 6,
+   "sito": "galdierirent.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=18261433088853815211&hl=en&gl=IT"
+  },
+  {
+   "nome": "GALDIERI AUTO S.R.L. Alfa Romeo",
+   "div": "auto",
+   "cat": "Car repair and maintenance service",
+   "luogo": "STRADA STATALE 88, KM 10+400, 84084 Lancusi SA",
+   "v": 4.5,
+   "r": 6,
+   "sito": "galdieri-stellantis.it",
+   "s": "dic",
+   "u": "https://www.google.com/maps?cid=9267355554679658926&hl=en&gl=IT"
+  }
+ ],
+ "n": "Voti Google Maps letti con DataForSEO Business Listings il 28/11/2026: schede con dominio Galdieri entro 60 km da Fisciano (le prime 30 di 63 per numero di recensioni) più IP Baronissi Est (dominio gruppoapi.com, area dichiarata gestita da Galdieri). Esclusi gli omonimi (Tenuta Baroni Galdieri, studi e negozi con lo stesso cognome). Le altre stazioni della rete Petroli non rimandano a un dominio Galdieri e non sono coperte.",
+ "geo": {
+  "n": "6 domande × 2 modelli (ChatGPT gpt-5.4-mini, Gemini gemini-3.6-flash) con DataForSEO LLM Responses, ricerca web attiva, il 28/11/2026; ogni domanda chiedeva risposta in italiano in massimo 100 parole con i nomi delle aziende",
+  "mod": [
+   "ChatGPT",
+   "Gemini"
+  ],
+  "q": [
+   "Quali sono le migliori società di noleggio a lungo termine in Italia?",
+   "Dove noleggiare un'auto a lungo termine a Salerno?",
+   "Qual è una concessionaria Fiat e Jeep affidabile a Salerno?",
+   "Quali sono i fornitori di gasolio per autotrazione e agricolo in Campania?",
+   "Quale società di noleggio auto a breve termine scegliere all'aeroporto di Napoli Capodichino?",
+   "Dove trovare colonnine di ricarica rapida per auto elettriche tra Salerno e Avellino?"
+  ],
+  "r": [
+   {
+    "q": 0,
+    "m": "ChatGPT",
+    "cit": [],
+    "altri": [
+     "Arval",
+     "Ayvens",
+     "Leasys",
+     "Alphabet",
+     "KINTO Italia",
+     "Drivalia",
+     "Volkswagen Leasing",
+     "Mercedes-Benz Lease Italia",
+     "ES Mobility"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 0,
+    "m": "Gemini",
+    "cit": [],
+    "altri": [
+     "Arval",
+     "BNP Paribas",
+     "Leasys",
+     "Stellantis",
+     "Crédit Agricole",
+     "Ayvens",
+     "ALD Automotive",
+     "LeasePlan",
+     "UnipolRental",
+     "SIXT"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   },
+   {
+    "q": 1,
+    "m": "ChatGPT",
+    "cit": [],
+    "altri": [
+     "Arval",
+     "Leasys",
+     "FADA Car Service"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 1,
+    "m": "Gemini",
+    "cit": [],
+    "altri": [
+     "Arval",
+     "Leasys",
+     "ALD Automotive / Ayvens",
+     "GOcar",
+     "Autosantoro",
+     "Gruppo Del Priore",
+     "Gruppo Noviello",
+     "Auto Due S.r.l.",
+     "Unicar S.r.l.",
+     "Ford Iannone"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   },
+   {
+    "q": 2,
+    "m": "ChatGPT",
+    "cit": [
+     "auto"
+    ],
+    "altri": [
+     "Unicar S.r.l.",
+     "Ferrajoli Auto"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 2,
+    "m": "Gemini",
+    "cit": [
+     "auto"
+    ],
+    "altri": [
+     "Stellantis",
+     "Unicar"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   },
+   {
+    "q": 3,
+    "m": "ChatGPT",
+    "cit": [],
+    "altri": [
+     "Piccirillo Petroli",
+     "P.Petroli / Petrone Petroli",
+     "Gruppo Fabozzi",
+     "Stiuso Petroli",
+     "Oscar Petroli"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 3,
+    "m": "Gemini",
+    "cit": [],
+    "altri": [
+     "Enilive",
+     "Italiana Petroli (IP / Engycalor)",
+     "Q8",
+     "Tamoil",
+     "CTP Petroli",
+     "La 91 Petroli",
+     "Stiuso Petroli",
+     "Fonte Energia",
+     "Campania Lubrificanti",
+     "Beneco"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   },
+   {
+    "q": 4,
+    "m": "ChatGPT",
+    "cit": [],
+    "altri": [
+     "Hertz",
+     "Europcar",
+     "Sixt",
+     "Avis",
+     "Budget",
+     "Enterprise",
+     "Maggiore",
+     "Locauto",
+     "Sicily by Car",
+     "Alamo"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 4,
+    "m": "Gemini",
+    "cit": [],
+    "altri": [
+     "Locauto",
+     "Enterprise",
+     "National",
+     "Avis",
+     "Budget",
+     "Hertz",
+     "Thrifty",
+     "Sicily by Car",
+     "Maggiore",
+     "Drivalia"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   },
+   {
+    "q": 5,
+    "m": "ChatGPT",
+    "cit": [],
+    "altri": [
+     "Enel X Way",
+     "IONITY",
+     "Plenitude On the Road",
+     "Ewiva",
+     "NextCharge"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 5,
+    "m": "Gemini",
+    "cit": [],
+    "altri": [
+     "Enel X Way / Enel On Your Way",
+     "Plenitude / Be Charge",
+     "Free To X",
+     "Tesla Supercharger"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   }
+  ]
+ }
+}

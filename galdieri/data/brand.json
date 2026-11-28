@@ -1,0 +1,435 @@
+{
+ "at": "2026-11-28",
+ "n": "Loghi presi il 28/11/2026 dall'intestazione dei 7 siti (Firecrawl branding su 6 siti, 6 crediti, più download diretto); i loghi che esistono solo in bianco (Cleaning, Car Service, Rent, Auto) sono mostrati sul fondo che usa il loro sito. Le «aziende» del cruscotto sono le 3 divisioni (petroli, auto, rent): Galdieri Group, Energy, Cleaning e Car Service hanno qui un id proprio (gruppo, energy, cleaning, carservice) con il campo div della divisione, ma le viste del cruscotto che leggono solo le 3 divisioni li riportano nell'architettura di marca della loro divisione. Certificazioni: pagina Valori di galdieripetroli.it e Bilancio di sostenibilità 2024 di Galdieri Auto. Giudizi = valutazione.",
+ "az": {
+  "gruppo": {
+   "colori": {
+    "v": [
+     "#e63484",
+     "#f6ab40",
+     "#404649"
+    ],
+    "s": "dic",
+    "u": "https://www.galdierigroup.it/website/wp-content/uploads/2021/05/Logo-Galdieri-Group-Pos.svg",
+    "n": "colori scritti nel file SVG del logo"
+   },
+   "yr": {
+    "v": 1952,
+    "s": "dic",
+    "u": "https://www.galdierigroup.it/la-strada/",
+    "n": "1952 primo distributore a Fisciano (galdierigroup.it); il sito di Galdieri Petroli dice «sul mercato petrolifero dal 1951»"
+   },
+   "arch": {
+    "tipo": "Gruppo di famiglia con 6 marchi «Galdieri + descrittore» (architettura ibrida, senza regole comuni)",
+    "marchi": [
+     "Galdieri Petroli",
+     "Galdieri Energy",
+     "Galdieri Cleaning",
+     "Galdieri Auto",
+     "Galdieri Car Service",
+     "Galdieri Rent"
+    ],
+    "s": "dic",
+    "u": "https://www.galdierigroup.it/i-brand/"
+   },
+   "premi": {
+    "v": [],
+    "s": "val",
+    "n": "Nessun premio trovato nelle ricerche del 28/11/2026 (sito, notizie, LinkedIn): lo zero può dipendere dalla ricerca."
+   },
+   "cert": {
+    "v": [],
+    "s": "val",
+    "n": "Il gruppo non ha certificazioni proprie: sono delle società (vedi Petroli e Auto)."
+   },
+   "giudizio": {
+    "legg": 4,
+    "dist": 3,
+    "coer": 2,
+    "dis": 3,
+    "tipo": "Pittogramma + logotipo",
+    "elementi": "G fucsia in un quadrato arrotondato con filo arancio; GALDIERI bold e GROUP light in maiuscole grigie",
+    "n": "Il fucsia è il colore più raro del settore, ma nessuno dei 6 marchi lo usa: il logo di gruppo resta isolato",
+    "s": "val"
+   },
+   "claim": {
+    "v": "Il Gruppo Galdieri è la famiglia Galdieri",
+    "s": "dic",
+    "u": "https://www.galdierigroup.it/"
+   },
+   "div": null,
+   "nome": "Galdieri Group",
+   "logo": {
+    "f": "logos/gruppo.png",
+    "u": "https://www.galdierigroup.it/website/wp-content/uploads/2021/05/Logo-Galdieri-Group-Pos.svg",
+    "s": "dic"
+   }
+  },
+  "petroli": {
+   "colori": {
+    "v": [
+     "#0054DC",
+     "#F4872B",
+     "#3F484C"
+    ],
+    "s": "dic",
+    "u": "https://www.galdieripetroli.it/",
+    "n": "palette del sito letta con Firecrawl branding il 28/11/2026; l'arancio è quello dei pulsanti, il logo è blu e grigio"
+   },
+   "yr": {
+    "v": 1951,
+    "s": "dic",
+    "u": "https://www.galdieripetroli.it/azienda/",
+    "n": "«Sul mercato petrolifero dal 1951»; il sito di gruppo dice 1952"
+   },
+   "arch": {
+    "tipo": "Marchio della capogruppo C. Galdieri & Figli S.p.A. con 2 sottomarchi (Energy «è un marchio C. Galdieri & Figli»)",
+    "marchi": [
+     "Galdieri Petroli",
+     "Galdieri Energy",
+     "Galdieri Cleaning",
+     "IP Plus (agenzia)",
+     "Supremium Diesel (con IP)"
+    ],
+    "s": "dic",
+    "u": "https://www.galdierienergy.it/"
+   },
+   "premi": {
+    "v": [],
+    "s": "val",
+    "n": "Nessun premio trovato nelle ricerche del 28/11/2026 (sito, notizie, LinkedIn): lo zero può dipendere dalla ricerca."
+   },
+   "cert": {
+    "v": [
+     "ISO 9001:2015",
+     "ISO 14001:2015",
+     "ISO 45001",
+     "Bilancio di sostenibilità 2022 (testimonial Assopetroli Assoenergia)"
+    ],
+    "s": "dic",
+    "u": "https://www.galdieripetroli.it/valori/"
+   },
+   "giudizio": {
+    "legg": 3,
+    "dist": 2,
+    "coer": 3,
+    "dis": 2,
+    "tipo": "Emblema + logotipo",
+    "elementi": "G blu a filo in un quadrato con la pompa dentro; Galdieri bold blu e PETROLI regular grigio",
+    "n": "Blu e arancio del sito sono gli stessi del partner IP: il marchio si confonde con quello della compagnia",
+    "s": "val"
+   },
+   "claim": {
+    "v": "Servizi per chi viaggia",
+    "s": "dic",
+    "u": "https://www.galdieripetroli.it/"
+   },
+   "div": "petroli",
+   "nome": "Galdieri Petroli",
+   "logo": {
+    "f": "logos/petroli.png",
+    "u": "https://www.galdieripetroli.it/wp-content/uploads/2023/07/Logo-Galdieri-Petroli-Web-Positivo-uai-258x37.png",
+    "s": "dic"
+   }
+  },
+  "energy": {
+   "colori": {
+    "v": [
+     "#FE612B",
+     "#303133"
+    ],
+    "s": "dic",
+    "u": "https://www.galdierienergy.it/"
+   },
+   "yr": {
+    "v": 2018,
+    "s": "dic",
+    "u": "https://www.galdierigroup.it/la-strada/",
+    "n": "«Attiva dal 2018» (galdierigroup.it)"
+   },
+   "arch": {
+    "tipo": "Sottomarchio di Galdieri Petroli (endorsement scritto: «un marchio C. Galdieri & Figli SpA»)",
+    "marchi": [
+     "Galdieri Energy"
+    ],
+    "s": "dic",
+    "u": "https://www.galdierienergy.it/"
+   },
+   "premi": {
+    "v": [],
+    "s": "val",
+    "n": "Nessun premio trovato nelle ricerche del 28/11/2026 (sito, notizie, LinkedIn): lo zero può dipendere dalla ricerca."
+   },
+   "cert": {
+    "v": [],
+    "s": "val",
+    "n": "nessuna certificazione propria trovata"
+   },
+   "giudizio": {
+    "legg": 3,
+    "dist": 2,
+    "coer": 3,
+    "dis": 2,
+    "tipo": "Emblema + logotipo",
+    "elementi": "G arancio con un fulmine sovrapposto in un quadrato; Galdieri bold arancio e ENERGY regular grigio",
+    "n": "Il fulmine è il segno più usato dell'elettrico; il sito di gruppo la descrive come luce e gas, il suo sito vende colonnine",
+    "s": "val"
+   },
+   "claim": {
+    "v": "L'energia è il nostro motore naturale",
+    "s": "dic",
+    "u": "https://www.galdierienergy.it/"
+   },
+   "div": "petroli",
+   "nome": "Galdieri Energy",
+   "logo": {
+    "f": "logos/energy.png",
+    "u": "https://www.galdierienergy.it/website/wp-content/uploads/2021/01/cropped-Logo-Galdieri-Energy.png",
+    "s": "dic"
+   }
+  },
+  "cleaning": {
+   "colori": {
+    "v": [
+     "#00C6CF",
+     "#38384F",
+     "#001D95"
+    ],
+    "s": "dic",
+    "u": "https://www.galdiericleaning.it/"
+   },
+   "yr": {
+    "v": 2019,
+    "s": "dic",
+    "u": "https://www.galdierigroup.it/la-strada/",
+    "n": "«2019/2020 nascita della linea Galdieri Cleaning»"
+   },
+   "arch": {
+    "tipo": "Sottomarchio di Galdieri Petroli, distributore di Flowey e Kent",
+    "marchi": [
+     "Galdieri Cleaning",
+     "Flowey (distribuito)",
+     "Kent (distribuito)"
+    ],
+    "s": "dic",
+    "u": "https://www.galdiericleaning.it/"
+   },
+   "premi": {
+    "v": [],
+    "s": "val",
+    "n": "Nessun premio trovato nelle ricerche del 28/11/2026 (sito, notizie, LinkedIn): lo zero può dipendere dalla ricerca."
+   },
+   "cert": {
+    "v": [],
+    "s": "val",
+    "n": "il sito parla di detergenti «certificati come ecosostenibili» dei marchi distribuiti, non di certificazioni proprie"
+   },
+   "giudizio": {
+    "legg": 3,
+    "dist": 2,
+    "coer": 3,
+    "dis": 3,
+    "tipo": "Emblema + logotipo",
+    "elementi": "G turchese tonda con uno scudo; Galdieri bold e CLEANING light, bianchi su fondo grigio scuro",
+    "n": "Esiste solo in negativo: su fondo bianco non c'è una versione pubblicata",
+    "s": "val"
+   },
+   "claim": {
+    "v": "Sicuri per le persone e l'ambiente",
+    "s": "dic",
+    "u": "https://www.galdiericleaning.it/"
+   },
+   "div": "petroli",
+   "nome": "Galdieri Cleaning",
+   "logo": {
+    "f": "logos/cleaning.png",
+    "u": "https://www.galdiericleaning.it/wp-content/uploads/2022/05/Logo-Galdieri-Cleaning-Trasparente-Header.png",
+    "s": "dic"
+   }
+  },
+  "auto": {
+   "colori": {
+    "v": [
+     "#0E7BBF",
+     "#034873",
+     "#181D27"
+    ],
+    "s": "dic",
+    "u": "https://www.galdieriauto.it/"
+   },
+   "yr": {
+    "v": 1989,
+    "s": "dic",
+    "u": "https://www.galdierigroup.it/i-brand/",
+    "n": "concessionaria FIAT dal 1989"
+   },
+   "arch": {
+    "tipo": "Concessionaria multimarca con sottomarchio di assistenza; Rent è un marchio di Galdieri Auto S.r.l. secondo il report di sostenibilità 2024",
+    "marchi": [
+     "Galdieri Auto",
+     "Galdieri Car Service",
+     "Galdieri Rent",
+     "Stellantis e altri 12 marchi auto in mandato"
+    ],
+    "s": "dic",
+    "u": "https://cdnwp.dealerk.com/db9dcb90/uploads/sites/2/2026/01/Bilancio-sostenibilita-Galdieri-Auto-2024-13-Web.pdf"
+   },
+   "premi": {
+    "v": [],
+    "s": "val",
+    "n": "Nessun premio trovato nelle ricerche del 28/11/2026 (sito, notizie, LinkedIn): lo zero può dipendere dalla ricerca."
+   },
+   "cert": {
+    "v": [
+     "Modello organizzativo 231 e Codice etico",
+     "Bilancio di sostenibilità 2024 (volontario, prima analisi di materialità)"
+    ],
+    "s": "dic",
+    "u": "https://cdnwp.dealerk.com/db9dcb90/uploads/sites/2/2026/01/Bilancio-sostenibilita-Galdieri-Auto-2024-13-Web.pdf",
+    "n": "Il report dice che l'azienda non ha «un sistema formalizzato di gestione ambientale o certificazioni specifiche»."
+   },
+   "giudizio": {
+    "legg": 4,
+    "dist": 2,
+    "coer": 3,
+    "dis": 3,
+    "tipo": "Logotipo",
+    "elementi": "GaldieriAuto in un sans umanista, Galdieri bold e Auto regular, bianco su blu",
+    "n": "Pulito e leggibile, ma senza segno: sparisce accanto ai 18 marchi auto della home",
+    "s": "val"
+   },
+   "claim": {
+    "v": "",
+    "s": "dic",
+    "u": "https://www.galdieriauto.it/",
+    "n": "nessun claim di marca: la home apre con le offerte a slider"
+   },
+   "div": "auto",
+   "nome": "Galdieri Auto",
+   "logo": {
+    "f": "logos/auto.png",
+    "u": "https://cdnwp.dealerk.com/db9dcb90/uploads/sites/2/2024/10/logo-galdieriauto-no-brand.png",
+    "s": "dic"
+   }
+  },
+  "carservice": {
+   "colori": {
+    "v": [
+     "#358ECB",
+     "#101018"
+    ],
+    "s": "dic",
+    "u": "https://www.galdiericarservice.it/"
+   },
+   "yr": {
+    "v": 1989,
+    "s": "dic",
+    "u": "https://www.galdierigroup.it/la-strada/",
+    "n": "nasce con la concessionaria nel 1989 come autofficina annessa"
+   },
+   "arch": {
+    "tipo": "Sottomarchio di Galdieri Auto; il logo dice «Galdieri AutoService», dominio e social «Car Service», il report «CarService»",
+    "marchi": [
+     "Galdieri Car Service"
+    ],
+    "s": "dic",
+    "u": "https://www.galdiericarservice.it/"
+   },
+   "premi": {
+    "v": [],
+    "s": "val",
+    "n": "Nessun premio trovato nelle ricerche del 28/11/2026 (sito, notizie, LinkedIn): lo zero può dipendere dalla ricerca."
+   },
+   "cert": {
+    "v": [],
+    "s": "val",
+    "n": "nessuna certificazione propria trovata"
+   },
+   "giudizio": {
+    "legg": 3,
+    "dist": 1,
+    "coer": 1,
+    "dis": 2,
+    "tipo": "Logotipo",
+    "elementi": "GaldieriAutoService in tre pesi e due colori su una riga, bianco e azzurro su nero",
+    "n": "Il nome nel logo non è quello del dominio e dei social",
+    "s": "val"
+   },
+   "claim": {
+    "v": "Accoglienza, professionalità, passione",
+    "s": "dic",
+    "u": "https://www.galdiericarservice.it/"
+   },
+   "div": "auto",
+   "nome": "Galdieri Car Service",
+   "logo": {
+    "f": "logos/carservice.png",
+    "u": "https://www.galdiericarservice.it/wp-content/uploads/2024/07/gas-bianco-blu.webp",
+    "s": "dic"
+   }
+  },
+  "rent": {
+   "colori": {
+    "v": [
+     "#E31E24",
+     "#0A0A0A",
+     "#FAFAFA"
+    ],
+    "s": "dic",
+    "u": "https://galdierirent.it/"
+   },
+   "yr": {
+    "v": 2013,
+    "s": "dic",
+    "u": "https://www.galdierigroup.it/i-brand/",
+    "n": "dal 2013"
+   },
+   "arch": {
+    "tipo": "Marchio di Galdieri Auto S.r.l. (report 2024, © dei siti); flotta e contratti in Sistem Rental S.r.l. (P.IVA 02406230652, Bolzano), società del gruppo elencata nella privacy policy di galdierigroup.it; su LinkedIn «Galdieri Rent (Sistem Rental S.r.l.)»",
+    "marchi": [
+     "Galdieri Rent",
+     "Galdieri Rent breve termine (brevetermine.galdierirent.it)"
+    ],
+    "s": "dic",
+    "u": "https://cdnwp.dealerk.com/db9dcb90/uploads/sites/2/2026/01/Bilancio-sostenibilita-Galdieri-Auto-2024-13-Web.pdf"
+   },
+   "premi": {
+    "v": [
+     [
+      2024,
+      "Premio Qualità del mese di aprile alla stazione di breve termine di Roma Fiumicino (ente non indicato nel post)"
+     ]
+    ],
+    "s": "dic",
+    "u": "https://it.linkedin.com/posts/galdieri-rent_success-customersatisfaction-teamwork-activity-7206275990396768257-qywf"
+   },
+   "cert": {
+    "v": [],
+    "s": "val",
+    "n": "nessuna certificazione propria trovata"
+   },
+   "giudizio": {
+    "legg": 3,
+    "dist": 3,
+    "coer": 2,
+    "dis": 2,
+    "tipo": "Logotipo",
+    "elementi": "Galdieri bold bianco + rent corsivo rosso in un altro carattere",
+    "n": "Il rosso è il codice di Avis ed Europcar e non compare in nessun altro marchio del gruppo",
+    "s": "val"
+   },
+   "claim": {
+    "v": "Il Viaggio Esperienziale",
+    "s": "dic",
+    "u": "https://galdierirent.it/"
+   },
+   "div": "rent",
+   "nome": "Galdieri Rent",
+   "logo": {
+    "f": "logos/rent.png",
+    "u": "https://galdierirent.it/images/logo/galdierirent.webp",
+    "s": "dic"
+   }
+  }
+ }
+}

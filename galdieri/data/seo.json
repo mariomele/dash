@@ -1,0 +1,290 @@
+{
+ "n": "Stime DataForSEO Labs (Google Italia, italiano) lette il 28/11/2026: visite = traffico organico stimato al mese, non misurato. Sottomarchi (non nella tabella): galdierienergy.it 113 visite stimate e 46 parole, galdiericarservice.it 127 e 21, galdiericleaning.it 0,15 e 1, galdierigroup.it 114 e 14 (nessuna in top 10). «Riquadro AI» = AI Overview; per «gnl camion» e «offerte luce e gas aziende» il riquadro si carica a parte e le fonti non sono leggibili. Le ricerche locali sono lette da Salerno. Volumi di categoria: Google Ads Keyword Planner, Italia; «distributore benzina salerno» senza volume restituito.",
+ "s": "dic",
+ "u": "https://docs.dataforseo.com/v3/dataforseo_labs/google/domain_rank_overview/live/",
+ "dom": {
+  "petroli": {
+   "d": "galdieripetroli.it",
+   "etv": 1137,
+   "kw": 54,
+   "t3": 6,
+   "t10": 9,
+   "top": [
+    [
+     "ip baronissi ovest",
+     880,
+     1
+    ],
+    [
+     "autogrill baronissi ovest",
+     1900,
+     2
+    ],
+    [
+     "ip baronissi est",
+     880,
+     2
+    ],
+    [
+     "area di servizio baronissi",
+     170,
+     1
+    ],
+    [
+     "autogrill baronissi est",
+     1300,
+     4
+    ]
+   ],
+   "s": "dic",
+   "u": "https://www.galdieripetroli.it/"
+  },
+  "auto": {
+   "d": "galdieriauto.it",
+   "etv": 25044,
+   "kw": 2033,
+   "t3": 125,
+   "t10": 316,
+   "top": [
+    [
+     "hyundai i20",
+     90500,
+     1
+    ],
+    [
+     "galdieri auto",
+     5400,
+     1
+    ],
+    [
+     "galdieri auto fisciano",
+     4400,
+     1
+    ],
+    [
+     "galdieri auto salerno",
+     4400,
+     1
+    ],
+    [
+     "panda fiat",
+     201000,
+     1
+    ]
+   ],
+   "s": "dic",
+   "u": "https://www.galdieriauto.it/"
+  },
+  "rent": {
+   "d": "galdierirent.it",
+   "etv": 20096,
+   "kw": 1384,
+   "t3": 81,
+   "t10": 310,
+   "top": [
+    [
+     "galdieri rent",
+     18100,
+     1
+    ],
+    [
+     "galdieri rent fiumicino",
+     1900,
+     1
+    ],
+    [
+     "galdieri rent malpensa",
+     1900,
+     1
+    ],
+    [
+     "galdieri rent olbia",
+     1900,
+     1
+    ],
+    [
+     "galdieri rent capodichino",
+     1300,
+     1
+    ]
+   ],
+   "s": "dic",
+   "u": "https://www.galdierirent.it/"
+  }
+ },
+ "serp": [
+  {
+   "q": "noleggio lungo termine",
+   "aio": true,
+   "aioCita": [
+    "leasys.com",
+    "ayvens.com",
+    "finrent.it",
+    "unipolrental",
+    "arval",
+    "noleggiare.it",
+    "remobiz/renord",
+    "youtube"
+   ],
+   "pos": {
+    "rent": 5
+   },
+   "n": "galdierirent.it al 5° organico con il blog «noleggio lungo termine privati» (rank_absolute 10, sotto AIO, local pack, siti correlati)"
+  },
+  {
+   "q": "noleggio lungo termine partita iva",
+   "aio": true,
+   "aioCita": [
+    "finrent.it",
+    "leasys.com",
+    "ayvens.com",
+    "autovia.it",
+    "italnoleggio.it",
+    "unipolrental.it",
+    "freedomobility.it"
+   ],
+   "pos": {},
+   "n": "nessun dominio Galdieri nei primi 10 organici"
+  },
+  {
+   "q": "noleggio auto salerno (Salerno)",
+   "aio": true,
+   "aioCita": [
+    "sicilybycar.it",
+    "avis",
+    "kayak.it",
+    "aeroportosalerno.it",
+    "locauto",
+    "europcar",
+    "maggiore",
+    "enterpriserentacar.it",
+    "alamo.it"
+   ],
+   "pos": {},
+   "n": "Galdieri Rent assente da organici, local pack e AI Overview"
+  },
+  {
+   "q": "concessionaria fiat salerno (Salerno)",
+   "aio": true,
+   "aioCita": [
+    "galdieriauto.it",
+    "galdieri-stellantis.it",
+    "ferrajoliauto.it",
+    "autoscout24"
+   ],
+   "pos": {
+    "auto": 4
+   },
+   "n": "local pack 1° Galdieri Auto Salerno 4,0 (743) e 2° Galdieri Auto Fiat 5,0 (47); l'AI Overview nomina per prima Galdieri Auto"
+  },
+  {
+   "q": "jeep salerno (Salerno)",
+   "aio": true,
+   "aioCita": [
+    "unicar-stellantis.it",
+    "galdieriauto.it",
+    "gruppopiccirillo"
+   ],
+   "pos": {
+    "auto": 2
+   },
+   "n": "local pack 2° GALDIERI AUTO S.R.L. Jeep 4,3 (40), 3° Galdieri Auto Salerno; AI Overview: Unicar 1°, GaldieriAuto 2°"
+  },
+  {
+   "q": "distributore benzina salerno (Salerno)",
+   "aio": true,
+   "aioCita": [
+    "schede Google Maps"
+   ],
+   "pos": {},
+   "n": "nessuna stazione Galdieri nel local pack né negli organici; AI Overview cita Benny Oil (tangenziale)"
+  },
+  {
+   "q": "area di servizio baronissi (Salerno)",
+   "aio": true,
+   "aioCita": [
+    "galdieripetroli.it",
+    "galdierienergy.it",
+    "waze",
+    "tripadvisor"
+   ],
+   "pos": {},
+   "n": "l'AI Overview dice che le due aree sono gestite da Galdieri Petroli e cita galdieripetroli.it; negli organici (fino al 10°) galdieripetroli.it non compare"
+  },
+  {
+   "q": "gasolio agricolo (Salerno)",
+   "aio": true,
+   "aioCita": [
+    "oilproducts.eni.com",
+    "teseo.clal.it",
+    "ruminantia.it",
+    "digas.org",
+    "confagricoltura",
+    "mercatigrano"
+   ],
+   "pos": {},
+   "n": "nessun dominio Galdieri"
+  },
+  {
+   "q": "gnl camion",
+   "aio": true,
+   "aioCita": [],
+   "pos": {},
+   "n": "AI Overview presente ma caricata in modo asincrono (fonti non restituite); nessun dominio Galdieri"
+  },
+  {
+   "q": "offerte luce e gas aziende (Salerno)",
+   "aio": true,
+   "aioCita": [],
+   "pos": {},
+   "n": "AI Overview asincrona (fonti non restituite); nessun dominio Galdieri"
+  }
+ ],
+ "cat": [
+  [
+   "noleggio lungo termine",
+   74000,
+   1.35
+  ],
+  [
+   "gasolio agricolo",
+   3600,
+   1.28
+  ],
+  [
+   "noleggio auto salerno",
+   2400,
+   1.6
+  ],
+  [
+   "noleggio lungo termine partita iva",
+   880,
+   2.75
+  ],
+  [
+   "concessionaria fiat salerno",
+   210,
+   1.2
+  ],
+  [
+   "area di servizio baronissi",
+   170,
+   0.02
+  ],
+  [
+   "jeep salerno",
+   110,
+   3.04
+  ],
+  [
+   "gnl camion",
+   30,
+   null
+  ],
+  [
+   "offerte luce e gas aziende",
+   30,
+   5.94
+  ]
+ ]
+}

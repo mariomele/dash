@@ -1,0 +1,381 @@
+{
+ "at": "2026-11-28",
+ "n": "ScrapeCreators, letto il 27-28/11/2026. Account social presi dal piè di pagina dei siti (Estra da Meta Ad Library e ricerca, perché estra.it rimanda ad aliaestra.it senza link social). Instagram: ultimi 12 post per account, solo quelli degli ultimi 6 mesi (per Beyfin 10: due post del novembre 2025 in evidenza esclusi); eng = media like+commenti, er = eng ogni 100 follower, ppm sul periodo in 'per'. Forini ha due profili: ig = acton_fuel (carburanti), ig2 = acton_energy (luce e gas). fb.fol = 'mi piace' della pagina dalla Meta Ad Library; i post Facebook non sono leggibili (prova su ActonFuel e BeyfinSpa: 0 post restituiti). LinkedIn: follower e post dalla pagina aziendale, reazioni dai post singoli (9 per Forini, Beyfin, Estra); Umbria Energy ha una pagina senza follower leggibili né post pubblici; Ala Carburanti ha solo un profilo personale, Enerpetroli nessuna pagina trovata. Enerpetroli non ha un Instagram ufficiale (solo profili di singole stazioni).",
+ "az": {
+  "forini": {
+   "ig": {
+    "fol": 612,
+    "ppm": 3.4,
+    "per": "106 giorni (ultimi 12 post, dal 14/08/2026)",
+    "ult": "2026-11-25",
+    "eng": 88,
+    "er": 14.38,
+    "reel": 0.58,
+    "top": [
+     {
+      "d": "2026-10-03",
+      "t": "L’energia di una città sono le persone che la vivono. Le passioni. Le tradizioni. I colori. Quel senso di appartenenza c",
+      "l": 241,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DeCem0_jhGD/"
+     },
+     {
+      "d": "2026-08-24",
+      "t": "🏍️ Ci sono moto che non sono semplicemente moto. Sono un progetto, un’idea, quasi un sogno. Questa Honda XL 600 nasce da",
+      "l": 192,
+      "c": 4,
+      "u": "https://www.instagram.com/p/Dcajc1KMTNO/"
+     },
+     {
+      "d": "2026-11-25",
+      "t": "Un insieme di foto per un solo messaggio! Per le donne di Forini e quelle di tutto il mondo, attraverso la shopping bag ",
+      "l": 90,
+      "c": 3,
+      "u": "https://www.instagram.com/p/DgLAbqjuzPS/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/acton_fuel/"
+   },
+   "ig2": {
+    "fol": 91,
+    "ppm": 5.1,
+    "per": "71 giorni (ultimi 12 post, dal 18/09/2026)",
+    "ult": "2026-11-25",
+    "eng": 222,
+    "er": 243.96,
+    "reel": 0.58,
+    "top": [
+     {
+      "d": "2026-10-28",
+      "t": "Ci siamo divertiti oggi🤪🦁 Ringraziamo @acton_energy per il supporto da Match Sponsor di giornata Io, Noi Siamo Rimini 🤍♥",
+      "l": 739,
+      "c": 6,
+      "u": "https://www.instagram.com/p/DfDbvdNIw8f/"
+     },
+     {
+      "d": "2026-10-26",
+      "t": "@acton_energy sarà il match sponsor di questa giornata di campionato⚡🏟️ 💡Luce, gas, efficientemento e consulenza energet",
+      "l": 535,
+      "c": 2,
+      "u": "https://www.instagram.com/p/De9qg_rIuZK/"
+     },
+     {
+      "d": "2026-10-28",
+      "t": "CACCIA ALLA MAGLIA👕 Per l’occasione abbiamo utilizzato un mezzo elettrico, tappa ricarica da @acton_energy ⚡️😂 Io, Noi S",
+      "l": 435,
+      "c": 7,
+      "u": "https://www.instagram.com/p/DfC33wmonmO/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/acton_energy/"
+   },
+   "fb": {
+    "fol": 534,
+    "ult": null,
+    "s": "dic",
+    "u": "https://www.facebook.com/ActonFuel"
+   },
+   "li": {
+    "fol": 1204,
+    "ppm": 3.8,
+    "rmed": 34.3,
+    "r100": 2.85,
+    "s": "dic",
+    "u": "https://www.linkedin.com/company/forinispa-acton/"
+   },
+   "tono": {
+    "v": {
+     "Tecnico ↔ Emotivo": 4,
+     "Istituzionale ↔ Vicino": 5,
+     "Prezzo ↔ Qualità": 3,
+     "Locale ↔ Nazionale": 1,
+     "Sobrio ↔ Sportivo": 4
+    },
+    "frase": "Voce di famiglia e di paese: sponsorizzazioni, persone di casa e feste locali, quasi mai il prodotto.",
+    "temi": [
+     "valori",
+     "sport",
+     "territorio"
+    ],
+    "s": "val"
+   }
+  },
+  "beyfin": {
+   "ig": {
+    "fol": 1196,
+    "ppm": 8.7,
+    "per": "35 giorni (ultimi 10 post, dal 24/10/2026)",
+    "ult": "2026-11-25",
+    "eng": 79,
+    "er": 6.61,
+    "reel": 0.1,
+    "top": [
+     {
+      "d": "2026-10-31",
+      "t": "👻 Anche le leggende hanno bisogno della giusta energia. Buon Halloween da Beyfin! 🧡",
+      "l": 162,
+      "c": 2,
+      "u": "https://www.instagram.com/p/DfJrYUBj0xI/"
+     },
+     {
+      "d": "2026-11-16",
+      "t": "🎲 Quando il Master chiama, il party risponde! Per affrontare ogni campagna serve la giusta squadra. E quando il freddo p",
+      "l": 122,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DfzF2iDjSQN/"
+     },
+     {
+      "d": "2026-10-29",
+      "t": "🥕 Sapevi che l’HVO può essere prodotto anche utilizzando materiali di scarto? Una curiosità che racconta come la ricerca",
+      "l": 122,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DfEhzWBCD3F/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/beyfin_spa/"
+   },
+   "fb": {
+    "fol": 5082,
+    "ult": null,
+    "s": "dic",
+    "u": "https://www.facebook.com/BeyfinSpa"
+   },
+   "li": {
+    "fol": 4329,
+    "ppm": 2.3,
+    "rmed": 42.6,
+    "r100": 0.98,
+    "s": "dic",
+    "u": "https://www.linkedin.com/company/beyfin-sapa/"
+   },
+   "tono": {
+    "v": {
+     "Tecnico ↔ Emotivo": 3,
+     "Istituzionale ↔ Vicino": 3,
+     "Prezzo ↔ Qualità": 4,
+     "Locale ↔ Nazionale": 3,
+     "Sobrio ↔ Sportivo": 2
+    },
+    "frase": "Voce da Società Benefit curata e un po' istituzionale: rete, bombole BBox e 70 anni di storia.",
+    "temi": [
+     "valori",
+     "servizio",
+     "prodotto"
+    ],
+    "s": "val"
+   }
+  },
+  "ala": {
+   "ig": {
+    "fol": 4014,
+    "ppm": 9.4,
+    "per": "39 giorni (ultimi 12 post, dal 20/10/2026)",
+    "ult": "2026-11-27",
+    "eng": 45,
+    "er": 1.12,
+    "reel": 0.83,
+    "top": [
+     {
+      "d": "2026-10-20",
+      "t": "In un momento complesso come quello attuale, crediamo sia importante parlare con chiarezza. Le tensioni geopolitiche int",
+      "l": 70,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DeuNqhwEbHT/"
+     },
+     {
+      "d": "2026-10-23",
+      "t": "✅ Più controllo, più autonomia, gestione ancora più semplice. 💳 Con la nostra Black Card Diamond hai uno strumento pensa",
+      "l": 64,
+      "c": 0,
+      "u": "https://www.instagram.com/p/De18F9Gj6n8/"
+     },
+     {
+      "d": "2026-11-24",
+      "t": "🍝🔥 Benvenuti a... CUCINALA. Il format in cui Irene presenta \"ricette \"di pura performance. Novembre, tempo di olio nuovo",
+      "l": 61,
+      "c": 2,
+      "u": "https://www.instagram.com/p/DgHzF3OE4Ty/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/ala_carburanti/"
+   },
+   "fb": {
+    "fol": 362,
+    "ult": null,
+    "s": "dic",
+    "u": "https://www.facebook.com/Ala-Carburanti-848738871915630"
+   },
+   "tono": {
+    "v": {
+     "Tecnico ↔ Emotivo": 4,
+     "Istituzionale ↔ Vicino": 5,
+     "Prezzo ↔ Qualità": 2,
+     "Locale ↔ Nazionale": 2,
+     "Sobrio ↔ Sportivo": 3
+    },
+    "frase": "Voce giocosa da community: format con persone della rete, ironia sul «Black» e carte carburante.",
+    "temi": [
+     "prodotto",
+     "altro",
+     "territorio"
+    ],
+    "s": "val"
+   }
+  },
+  "enerpetroli": {
+   "fb": {
+    "fol": 1810,
+    "ult": null,
+    "s": "dic",
+    "u": "https://www.facebook.com/enerpetrolisrl"
+   },
+   "tono": {
+    "v": {
+     "Tecnico ↔ Emotivo": 2,
+     "Istituzionale ↔ Vicino": 3,
+     "Prezzo ↔ Qualità": 3,
+     "Locale ↔ Nazionale": 2,
+     "Sobrio ↔ Sportivo": 2
+    },
+    "frase": "Nessun profilo social ufficiale letto: solo il sito, con il motto «SI MUOVE INSIEME A TE».",
+    "temi": [],
+    "s": "val"
+   }
+  },
+  "estra": {
+   "ig": {
+    "fol": 2899,
+    "ppm": 11.1,
+    "per": "33 giorni (ultimi 12 post, dal 26/10/2026)",
+    "ult": "2026-11-27",
+    "eng": 25,
+    "er": 0.86,
+    "reel": 0.25,
+    "top": [
+     {
+      "d": "2026-11-09",
+      "t": "🌙 LA LUNA NON È MAI STATA COSÌ VICINA... C’è un posto, ad Arezzo, dove lo spazio smette di essere lontano e diventa un’e",
+      "l": 67,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DfiI6bgxsjf/"
+     },
+     {
+      "d": "2026-11-23",
+      "t": "⚡Il conto alla rovescia è iniziato! 🏃‍♀️ Domenica 29 novembre torna la 42a Estra @firenzemarathon! 📍Partenza alle 8:30 d",
+      "l": 59,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DgFLAMThErM/"
+     },
+     {
+      "d": "2026-11-26",
+      "t": "🌱 Affidabilità, competenze e semplicità Scopri il contributo di Estra alla 43a Assemblea Annuale ANCI 🗓️ 25-27 novembre ",
+      "l": 36,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DgNbLdco1mY/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/estra_spa/"
+   },
+   "fb": {
+    "fol": 51106,
+    "ult": null,
+    "s": "dic",
+    "u": "https://www.facebook.com/EstraSpa"
+   },
+   "li": {
+    "fol": 9804,
+    "ppm": 9.8,
+    "rmed": 20.7,
+    "r100": 0.21,
+    "s": "dic",
+    "u": "https://www.linkedin.com/company/estra-spa/"
+   },
+   "tono": {
+    "v": {
+     "Tecnico ↔ Emotivo": 2,
+     "Istituzionale ↔ Vicino": 2,
+     "Prezzo ↔ Qualità": 3,
+     "Locale ↔ Nazionale": 4,
+     "Sobrio ↔ Sportivo": 2
+    },
+    "frase": "Voce da multiutility pubblica: comuni, rinnovabili e progetti sociali, con numeri e sigle.",
+    "temi": [
+     "valori",
+     "evento",
+     "sport"
+    ],
+    "s": "val"
+   }
+  },
+  "umbriaenergy": {
+   "ig": {
+    "fol": 701,
+    "ppm": 24.3,
+    "per": "15 giorni (ultimi 12 post, dal 13/11/2026)",
+    "ult": "2026-11-27",
+    "eng": 3,
+    "er": 0.43,
+    "reel": 0.17,
+    "top": [
+     {
+      "d": "2026-11-25",
+      "t": "La violenza contro le donne non è soltanto un problema individuale, ma una responsabilità che riguarda l'intera società.",
+      "l": 13,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DgKCBXMBVQc/"
+     },
+     {
+      "d": "2026-11-26",
+      "t": "Umbria Energy: la nostra energia è anche ascolto e vicinanza. Scegliere un fornitore di luce e gas non significa soltant",
+      "l": 4,
+      "c": 1,
+      "u": "https://www.instagram.com/p/DgMu7UXjwHM/"
+     },
+     {
+      "d": "2026-11-24",
+      "t": "Cerchi un'offerta gas che unisca trasparenza, praticità e attenzione ai costi? Con GAS WEB di Umbria Energy scegli una t",
+      "l": 3,
+      "c": 0,
+      "u": "https://www.instagram.com/p/DgHlUhQAmjm/"
+     }
+    ],
+    "s": "dic",
+    "u": "https://www.instagram.com/umbriaenergy/"
+   },
+   "fb": {
+    "fol": 4224,
+    "ult": null,
+    "s": "dic",
+    "u": "https://www.facebook.com/umbriaenergy"
+   },
+   "tono": {
+    "v": {
+     "Tecnico ↔ Emotivo": 3,
+     "Istituzionale ↔ Vicino": 4,
+     "Prezzo ↔ Qualità": 2,
+     "Locale ↔ Nazionale": 1,
+     "Sobrio ↔ Sportivo": 1
+    },
+    "frase": "Voce locale e servizievole: offerte web, curiosità sull'Umbria e post di educazione energetica.",
+    "temi": [
+     "territorio",
+     "promo",
+     "energia"
+    ],
+    "s": "val"
+   },
+   "li": {
+    "fol": null,
+    "ppm": null,
+    "s": "dic",
+        "u": "https://www.linkedin.com/company/umbria-energy-spa/",
+    "n": "pagina umbria-energy-spa trovata, follower e post non leggibili (stato era «int», che vale solo per documenti interni: corretto in «dic» dal controllo H)"
+   }
+  }
+ }
+}

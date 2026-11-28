@@ -1,0 +1,249 @@
+{
+ "at": "2026-11-28",
+ "google": {
+  "forini": {
+   "v": 4.6,
+   "r": 13,
+   "luogo": "«Acton», sede Viale del Popolo 9, Bastia Umbra (PG)",
+   "u": "https://www.google.com/maps?cid=7276742520493457696",
+   "s": "dic",
+   "n": "Voti 11×5, 1×4, 1×1. Altre schede: «Forini Spa» Bastia Umbra 4,4 su 7; «Acton Special Fuel» Acqualagna (PU) 4,2 su 15; un «ACTON Special Fuel» 4,0 su 114 visto solo tra le schede collegate, senza indirizzo. Stazioni Acton di Terni, Montepennino, Gualdo Tadino e Perugia senza recensioni. Esclusi omonimi (scultura «Eduardo Acton», altre attività Forini)"
+  },
+  "beyfin": {
+   "v": 3.7,
+   "r": 109,
+   "luogo": "«Beyfin Spa», Via Lucchese 60, Pieve a Nievole (PT)",
+   "u": "https://www.google.com/maps?cid=14501215521818151553",
+   "s": "dic",
+   "n": "Stazioni: Firenze Viale Luder 4,2 su 1.011 (https://www.google.com/maps?cid=12379832819735114293); Campi Bisenzio 4,2 su 235; Empoli 4,1 su 223. 22 schede trovate"
+  },
+  "ala": {
+   "v": 4.3,
+   "r": 259,
+   "luogo": "Stazione «ALA», Via Carducci, La Spezia (sede non trovata su Maps)",
+   "u": "https://www.google.com/maps?cid=14459802982435761610",
+   "s": "dic",
+   "n": "Scheda con più recensioni. Altre: Pistoia SP47bis 4,5 su 154; Massarosa Montramito 4,3 su 110; Massa 1,3 su 3; Livorno 1,0 su 1"
+  },
+  "enerpetroli": {
+   "v": 3.6,
+   "r": 8,
+   "luogo": "«Enerpetroli Srl», SS675, Narni (TR)",
+   "u": "https://www.google.com/maps?cid=10123562213901075057",
+   "s": "dic",
+   "n": "Stazioni: Civita Castellana 4,0 su 21; Rieti (Esso) 4,1 su 26; Macere (RM) 4,5 su 4. 113 schede trovate"
+  },
+  "estra": {
+   "v": 3.0,
+   "r": 463,
+   "luogo": "«Estra S.p.A», sede amministrativa, Via Ugo Panziera 16, Prato",
+   "u": "https://www.google.com/maps?cid=1628937367678729273",
+   "s": "dic",
+   "n": "Voti 190×5, 55×4, 5×3, 6×2, 207×1: giudizio polarizzato. Negozi: Arezzo 3,6 su 129; Prato Via S. Giorgio 3,0 su 92. Colonnine di ricarica escluse"
+  },
+  "umbriaenergy": {
+   "v": 3.7,
+   "r": 450,
+   "luogo": "«Umbria Energy S.p.A.», Via Giordano Bruno 7, Terni",
+   "u": "https://www.google.com/maps?cid=16706787892666426499",
+   "s": "dic",
+   "n": "Voti 237×5, 55×4, 32×3, 20×2, 106×1. Colonnine 3,2 su 6 e 1,0 su 1; sportello Terni centro e partner autorizzato senza voto"
+  }
+ },
+ "geo": {
+  "mod": [
+   "chatgpt",
+   "gemini"
+  ],
+  "q": [
+   "Quali sono le migliori carte carburante per partita IVA in Italia?",
+   "Quali sono le reti di distributori di carburante indipendenti nel centro Italia?",
+   "Qual è un fornitore di luce e gas affidabile in Umbria?",
+   "Il carburante additivato conviene?",
+   "Dove fare benzina a Perugia?",
+   "Quali sono i lubrificanti italiani di qualità?"
+  ],
+  "r": [
+   {
+    "q": 0,
+    "m": "chatgpt",
+    "cit": [],
+    "altri": [
+     "Q8 (CartissimaQ8, RecardQ8)",
+     "Enilive Multicard"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 1,
+    "m": "chatgpt",
+    "cit": [
+     "beyfin"
+    ],
+    "altri": [
+     "Tamoil",
+     "IP",
+     "Q8"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 2,
+    "m": "chatgpt",
+    "cit": [
+     "umbriaenergy"
+    ],
+    "altri": [
+     "A2A Energia",
+     "Enel"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 3,
+    "m": "chatgpt",
+    "cit": [],
+    "altri": [],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 4,
+    "m": "chatgpt",
+    "cit": [],
+    "altri": [
+     "Oil Italia",
+     "Q8",
+     "API-IP",
+     "Esso",
+     "Tamoil"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 5,
+    "m": "chatgpt",
+    "cit": [],
+    "altri": [
+     "Enilive",
+     "Q8Oils",
+     "Roloil",
+     "Bardahl",
+     "Pakelo",
+     "SIRAL",
+     "CIL",
+     "AxxonOil",
+     "GL Oil",
+     "Eurolube",
+     "Olitema"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+   },
+   {
+    "q": 0,
+    "m": "gemini",
+    "cit": [],
+    "altri": [
+     "DKV Card",
+     "UTA Edenred",
+     "Enilive Multicard Easy",
+     "CartissimaQ8/RecardQ8",
+     "IP Plus",
+     "Soldo"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   },
+   {
+    "q": 1,
+    "m": "gemini",
+    "cit": [
+     "beyfin",
+     "enerpetroli"
+    ],
+    "altri": [
+     "Costantin",
+     "Keropetrol",
+     "Sarni Oil",
+     "Ludoil",
+     "IS Simonetti",
+     "Silca Petroli",
+     "Felgas",
+     "Conad Carburanti",
+     "Enercoop"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   },
+   {
+    "q": 2,
+    "m": "gemini",
+    "cit": [
+     "umbriaenergy"
+    ],
+    "altri": [
+     "VUS COM",
+     "+energia",
+     "Enel Energia",
+     "Eni Plenitude",
+     "Dolomiti Energia",
+     "Unoenergy",
+     "Octopus Energy",
+     "NeN"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   },
+   {
+    "q": 3,
+    "m": "gemini",
+    "cit": [],
+    "altri": [
+     "Bardahl",
+     "Tunap",
+     "Liqui Moly",
+     "STP"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   },
+   {
+    "q": 4,
+    "m": "gemini",
+    "cit": [],
+    "altri": [
+     "IP",
+     "Eni",
+     "Esso",
+     "Tamoil"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   },
+   {
+    "q": 5,
+    "m": "gemini",
+    "cit": [],
+    "altri": [
+     "Eni",
+     "IP",
+     "Pakelo",
+     "Bardahl/Maroil",
+     "Roloil",
+     "Selenia (Petronas)",
+     "Sintoflon",
+     "Urania"
+    ],
+    "s": "dic",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+   }
+  ],
+  "n": "Sottoinsieme di geo2.json: le 6 domande di CLAUDE.md su ChatGPT e Gemini, DataForSEO LLM Responses con ricerca web, 28/11/2026"
+ },
+ "n": "Voti Google Maps letti con DataForSEO Business Listings (Google), 28/11/2026"
+}

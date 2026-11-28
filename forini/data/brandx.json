@@ -1,0 +1,558 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "by": "Il logo si giudica dove vive: sulla pensilina e sul totem prezzi visti dall'auto a 50 km/h, sull'adesivo della pompa, sulla tessera carburante nel portafoglio, sulla bolletta stampata in bianco e nero, nella favicon a 16 px e nell'avatar dei social; non sullo schermo grande della homepage.",
+ "teamBy": "Lettura di un panel di sette mestieri adattato al settore: tipografo, brand strategist, retail designer di stazioni di servizio (pensilina, totem prezzi), esperto di utility ed energia, art director digitale, esperto di marchi registrati, automobilista del target. Le voci sono ruoli simulati da Claude, non persone o studi reali; i voti sono valutazioni sui PNG dei loghi e sulle favicon dei siti, guardati uno per uno il 28/11/2026.",
+ "regola": "Classe e Global logo index si ricavano dalla media dei 9 criteri, con la regola del cruscotto di riferimento: classe Riferimento da 4,0, Solido da 3,3, Nella norma da 2,8, Debole da 2,1, sotto Da rifare; Global = (media − 1,75) × 2,2, arrotondato, da 1 a 10. Così posizione, classe e scala mondiale non si contraddicono.",
+ "mondoNota": "Scala Mondo severa come per siti e LinkedIn: 10 i migliori al mondo, 9 gli altri riferimenti, 6 eccellente per il settore, 4 corretto ma ordinario, 3 datato; nessun logo di questo gruppo sopra 3.",
+ "crit": [
+  [
+   "rid",
+   "Riduzione",
+   "Tiene a 16 px (favicon, app), sul totem prezzi visto dalla strada e sulla tessera Fuel Card?"
+  ],
+  [
+   "mono",
+   "Un colore",
+   "Funziona a un colore: insegna luminosa, adesivo sulla pompa, bolletta stampata in bianco e nero?"
+  ],
+  [
+   "dist",
+   "Distintività",
+   "Si riconosce sotto una pensilina o in bolletta tra i rossi, blu e verdi di Eni, IP, Q8, Esso, Tamoil, Enel?"
+  ],
+  [
+   "tipo",
+   "Costruzione",
+   "Lettere e forme disegnate bene: pesi, spaziature, un dettaglio proprio?"
+  ],
+  [
+   "sist",
+   "Sistema",
+   "Tiene insieme carburanti, carta, lubrificanti, energia e il nome del gruppo?"
+  ],
+  [
+   "sett",
+   "Settore",
+   "Dice carburante o energia, e la fascia giusta?"
+  ],
+  [
+   "dur",
+   "Durata",
+   "Fra 15 anni sembrerà ancora attuale, senza effetti e mode del momento?"
+  ],
+  [
+   "prem",
+   "Percezione",
+   "premium (5) o economico (1)"
+  ],
+  [
+   "ess",
+   "Essenzialità",
+   "Ogni elemento serve? Niente descrittori, filetti, scritte o effetti in più?"
+  ]
+ ],
+ "top": [
+  "Apple",
+  "Nike",
+  "Coca-Cola",
+  "McDonald's",
+  "Google",
+  "Mercedes-Benz",
+  "FedEx",
+  "Starbucks",
+  "Disney",
+  "IBM"
+ ],
+ "topSrc": "https://celerart.com/blog/the-10-greatest-logos-of-all-time-and-why-they-work-so-well",
+ "logos": {
+  "forini": {
+   "c": {
+    "rid": 3,
+    "mono": 4,
+    "dist": 2,
+    "tipo": 3,
+    "sist": 2,
+    "sett": 3,
+    "dur": 3,
+    "prem": 3,
+    "ess": 4
+   },
+   "v": "Una scritta pulita e a un colore, con due dettagli propri (Λ senza traversa, T tagliata) e l'ON rosso. Ma non ha un segno, e il suo rosso sotto la pensilina è lo stesso di mezzo settore.",
+   "pro": [
+    "ACTON in un bastone geometrico pesante si legge bene anche sul totem verticale, come nella foto del distributore di Misano.",
+    "La versione nera ufficiale funziona a un colore: il rosso dell'ON è un accento, non regge il logo da solo.",
+    "Lo schema ACTON + descrittore (Special Fuel, Fuel Card, Lubes, Energia) è un'architettura chiara, la più ordinata del gruppo di sei."
+   ],
+   "contro": [
+    "Nessun segno compatto: la favicon di acton.forini.com è la goccia del logo Forini, quella di Acton Energia un Λ nero da un file «ChatGPT Image». A 16 px il marchio ACTON non esiste.",
+    "Il rosso non distingue: sotto una pensilina rossa ACTON si confonde con IP, Q8, Tamoil ed Esso; e nei file ufficiali i rossi sono quattro (#EA2429, #E20613, #CD001A, #CC1719).",
+    "Il bastone geometrico con la A senza traversa è una soluzione molto usata (tecnologia, auto, sport): il dettaglio non basta a fare un carattere proprio."
+   ],
+   "fix": "Fissare un solo rosso per tutti i marchi ACTON; ricavare dal Λ un segno quadrato per favicon, app, tessera e cima del totem; usare il verde dell'Energia solo come colore di linea.",
+   "u": [
+    "https://acton.forini.com/wp-content/uploads/2021/03/logo_acton_special_fuel_nero.svg",
+    "https://forini.com/wp-content/uploads/2023/07/Acton_Misano.jpeg"
+   ]
+  },
+  "ala": {
+   "c": {
+    "rid": 3,
+    "mono": 3,
+    "dist": 3,
+    "tipo": 3,
+    "sist": 2,
+    "sett": 3,
+    "dur": 2,
+    "prem": 3,
+    "ess": 4
+   },
+   "v": "Nome e segno coincidono: «Ala» e un'ala a due fasce. È il logo più diretto del gruppo, ma la fascia veloce è un luogo comune del mondo motori.",
+   "pro": [
+    "Il nome di tre lettere in un bastone nero pesante si legge da lontano e ha un taglio proprio sulla A.",
+    "L'ala da sola è la favicon e funziona: due fasce colorate riconoscibili anche piccole.",
+    "I marchi di servizio (Ala Wash, Ala Energy, Black Card, Ala World) partono tutti dal nome: famiglia facile da capire."
+   ],
+   "contro": [
+    "Le due fasce sottili a strisce veloci richiamano lo stile motori dei primi anni Duemila: invecchieranno presto.",
+    "Azzurro e arancio non c'entrano con il posizionamento «all black» delle stazioni: il colore del logo e quello dell'insegna dicono due cose diverse.",
+    "Il sistema si sfilaccia sulla rete: Ala è anche grossista Esso e partner IP, quindi sulla strada il cliente trova spesso un altro marchio."
+   ],
+   "fix": "Tenere il nome «Ala» e semplificare l'ala in un solo segno pieno, usabile in nero e in bianco; dare al nero un ruolo dichiarato nel logo.",
+   "u": [
+    "https://www.alacarburanti.com/wp-content/uploads/2024/05/logo-ala.svg"
+   ]
+  },
+  "beyfin": {
+   "c": {
+    "rid": 4,
+    "mono": 3,
+    "dist": 3,
+    "tipo": 2,
+    "sist": 3,
+    "sett": 3,
+    "dur": 2,
+    "prem": 2,
+    "ess": 3
+   },
+   "v": "Il quadrifoglio verde è un patrimonio vero, noto da decenni e già usato come favicon. La scritta BEYFIN invece è un carattere decorativo datato che non c'entra con il simbolo.",
+   "pro": [
+    "Il quadrifoglio da solo regge a 16 px ed è già l'icona del sito: è il segno compatto più forte del gruppo di sei.",
+    "Il verde è raro tra i carburanti, dove dominano rosso e blu: sotto una pensilina si nota.",
+    "Il sito stesso dice che il gruppo è conosciuto in tutta Italia per il quadrifoglio: il segno ha una memoria costruita in 70 anni."
+   ],
+   "contro": [
+    "BEYFIN è in un bastone a forte contrasto di gusto Art Déco: pesi pieni e aste sottilissime che in piccolo spariscono.",
+    "«SPA» minuscolo accanto alla scritta è un elemento in più che a qualunque dimensione non si legge.",
+    "Il quadrifoglio con il gambo a due verdi è illustrativo e quello di Alfa Romeo è il quadrifoglio più noto nel mondo dell'auto."
+   ],
+   "fix": "Tenere il quadrifoglio come segno principale e ridisegnare la scritta in un carattere pieno e attuale; togliere «SPA» dal logo.",
+   "u": [
+    "https://www.beyfin.it/static/img/svg/beyfin-logo-bianco.svg",
+    "https://www.beyfin.it/static/favicon/apple-touch-icon.png"
+   ]
+  },
+  "estra": {
+   "c": {
+    "rid": 2,
+    "mono": 2,
+    "dist": 3,
+    "tipo": 4,
+    "sist": 2,
+    "sett": 3,
+    "dur": 2,
+    "prem": 3,
+    "ess": 1
+   },
+   "v": "Elementi disegnati da professionisti (l'anello «e» multicolore è moderno), ma il cliente vede tre nomi insieme: Alia, estra e PLURES, con tre caratteri e un filetto.",
+   "pro": [
+    "L'anello «e» a segmenti colorati è un segno moderno e proprio, che da solo potrebbe reggere.",
+    "Il disegno dei singoli pezzi è curato: «Alia» con la A a onda, «estra» minuscolo pulito.",
+    "PLURES in maiuscolo sottile spaziato dà un tono istituzionale da grande gruppo."
+   ],
+   "contro": [
+    "Tre marchi in un blocco solo: in piccolo, nella favicon e sul telefono non resta niente di leggibile.",
+    "L'anello multicolore non funziona a un colore: in bolletta in bianco e nero diventa un cerchio grigio.",
+    "Tre caratteri diversi (bastone pesante, minuscolo tondo, maiuscolo sottile) e un filetto: il logo è un compromesso di fusione, non un segno."
+   ],
+   "fix": "Separare i livelli: un solo marchio commerciale davanti al cliente (estra con il suo anello) e PLURES come firma piccola del gruppo.",
+   "u": [
+    "https://aliaestra.it/assets/imgs/logo-plures.png",
+    "https://aliaestra.it/assets/imgs/logo-180x180.png"
+   ]
+  },
+  "enerpetroli": {
+   "c": {
+    "rid": 3,
+    "mono": 2,
+    "dist": 2,
+    "tipo": 2,
+    "sist": 3,
+    "sett": 3,
+    "dur": 2,
+    "prem": 2,
+    "ess": 2
+   },
+   "v": "Una «e» in un anello blu e rosso con il tratteggio di velocità: compatta e nota nella zona, ma è il linguaggio dei marchi di carburante degli anni Novanta.",
+   "pro": [
+    "Il simbolo «e» ad anello è compatto ed è già la favicon: funziona da solo.",
+    "Blu e rosso dicono subito carburante, come i marchi petroliferi storici.",
+    "La famiglia Ener- (Enercard, Enercafè) tiene insieme i servizi con il prefisso."
+   ],
+   "contro": [
+    "Tratteggio di velocità e doppio anello sono effetti degli anni Novanta: a 16 px diventano rumore.",
+    "La «e» in un cerchio per «energia» è un'idea molto usata dalle società energetiche: poco distintiva.",
+    "ENERPETROLI è lunga, in un bastone generico: undici lettere senza un dettaglio proprio; e blu e rosso sono anche i colori di Esso, che sta sulla stessa rete."
+   ],
+   "fix": "Tenere l'anello «e» togliendo tratteggio e doppio filetto; accorciare l'uso della scritta e dare al blu un tono proprio rispetto a Esso.",
+   "u": [
+    "https://www.enerpetroli.it/web/wp-content/uploads/2023/06/enerpetroli-logo-horizonatal.svg",
+    "https://www.enerpetroli.it/web/wp-content/uploads/2023/06/enerpetroli-logo-snail.svg"
+   ]
+  },
+  "umbriaenergy": {
+   "c": {
+    "rid": 3,
+    "mono": 1,
+    "dist": 2,
+    "tipo": 2,
+    "sist": 2,
+    "sett": 3,
+    "dur": 3,
+    "prem": 2,
+    "ess": 2
+   },
+   "v": "Logo nuovo (agosto 2026) ma già ordinario: verde e foglie come tante società di energia pulita, con scritta, barra gialla e simbolo che sembrano tre pezzi diversi.",
+   "pro": [
+    "Il simbolo di tre foglie è la favicon e si riconosce anche piccolo.",
+    "Il verde dice energia rinnovabile, il codice giusto per luce e gas.",
+    "Le forme sono piatte, senza ombre né sfumature: tecnicamente pulito."
+   ],
+   "contro": [
+    "Tre verdi e un giallo: a un colore le foglie si fondono e il simbolo scompare.",
+    "Il nome in bastone arrotondato su due righe è piccolo rispetto alla barra gialla, che non spiega cosa sia.",
+    "Foglie verdi per l'energia sono il primo luogo comune del settore; e il sito pubblica il logo solo in un PNG di 163 px."
+   ],
+   "fix": "Unire barra e foglie in un solo segno che funzioni a un colore e mettere il nome su una riga; pubblicare un file vettoriale.",
+   "u": [
+    "https://www.umbriaenergy.it/wp-content/uploads/2026/08/LOOG_UE_newv1.png",
+    "https://www.umbriaenergy.it/wp-content/uploads/2021/01/cropped-favicon-Umbria-Energy-1-270x270.png"
+   ]
+  }
+ },
+ "team": {
+  "forini": {
+   "e": "Scritta pulita, nessun segno",
+   "v": "Il migliore di sei loghi deboli, non un logo forte: scritta in ordine e a un colore, ma senza simbolo e con un rosso che sotto la pensilina non si distingue.",
+   "x": [
+    [
+     "Tipografo",
+     3,
+     "Bastone geometrico pesante ben spaziato; Λ e T tagliata sono dettagli corretti ma molto visti. Il descrittore in maiuscolo è troppo grande rispetto al nome."
+    ],
+    [
+     "Brand strategist",
+     3,
+     "ACT ON si legge anche come «agisci»: un'idea che il marchio non usa. Lo schema ombrello è giusto, l'esecuzione è disordinata (quattro rossi, ON verde nell'energia)."
+    ],
+    [
+     "Retail designer di stazioni",
+     2,
+     "In verticale sul totem la scritta funziona; ma la pensilina rossa di Misano potrebbe essere di IP o Tamoil: manca un segno da mettere in alto sul totem e sulla testata."
+    ],
+    [
+     "Esperto di utility ed energia",
+     3,
+     "Per luce e gas ACTON è un nome nuovo senza segno: in bolletta pesa poco accanto a Enel o Plenitude, e il verde GAS · POWER · ECO lo fa sembrare un altro marchio."
+    ],
+    [
+     "Art director digitale",
+     2,
+     "Nessuna icona: la favicon è la goccia Forini su un sito e un Λ fatto con ChatGPT sull'altro. Profili social e app partono senza un avatar proprio."
+    ],
+    [
+     "Esperto di marchi registrati",
+     3,
+     "«Acton» è un cognome e un luogo inglese: protezione da verificare nelle classi di carburanti, lubrificanti ed energia (UIBM/EUIPO), non verificata qui. Il segno figurativo aiuterebbe."
+    ],
+    [
+     "Automobilista del target",
+     3,
+     "Si ricorda il nome, non un'immagine: «quello rosso con la scritta ACTON». Special Fuel fa pensare a un prodotto premium, il logo no."
+    ]
+   ],
+   "lez": "",
+   "wv": "Sotto il livello dei loghi mondiali: una scritta corretta, senza simbolo e senza un colore proprio. Sta a 3 come un marchio regionale in ordine.",
+   "k": "Nella norma",
+   "w": 3,
+   "g": 3
+  },
+  "ala": {
+   "e": "Nome e segno coincidono",
+   "v": "Un'ala a due fasce accanto a un nome corto e pesante: chiaro e facile da ricordare, ma lo stile veloce è già visto e i colori non parlano del nero della rete.",
+   "x": [
+    [
+     "Tipografo",
+     3,
+     "«Ala» pesante con il taglio sulla A ha carattere; le fasce sottili accanto a lettere così grasse sono sbilanciate."
+    ],
+    [
+     "Brand strategist",
+     3,
+     "Nome, segno e comunicazione da petrolhead vanno nella stessa direzione: coerente. Ma con Esso e IP sulla rete il marchio proprio perde spazio."
+    ],
+    [
+     "Retail designer di stazioni",
+     3,
+     "L'ala sta bene in cima a un totem; azzurro e arancio sulle stazioni nere si perdono, serve una versione bianca pensata."
+    ],
+    [
+     "Esperto di utility ed energia",
+     2,
+     "Ala Energy usa lo stesso logo: per luce e gas un'ala veloce dice benzina, non casa."
+    ],
+    [
+     "Art director digitale",
+     4,
+     "La favicon con la sola ala è chiara e funziona su Instagram, dove il marchio è più vivo."
+    ],
+    [
+     "Esperto di marchi registrati",
+     2,
+     "«Ala» è una parola comune: si difende solo come marchio figurativo, il nome da solo è debole."
+    ],
+    [
+     "Automobilista del target",
+     3,
+     "Si ricorda subito, ha un tono giovane; non dice qualità del carburante."
+    ]
+   ],
+   "lez": "Il nome che diventa segno (ala → ala) è quello che manca ad ACTON: un'immagine semplice ricavata dal nome.",
+   "wv": "Lontano dai loghi mondiali: idea diretta ma stile veloce già visto e due colori obbligatori. Vale 3.",
+   "k": "Nella norma",
+   "w": 3,
+   "g": 3
+  },
+  "beyfin": {
+   "e": "Simbolo forte, scritta datata",
+   "v": "Il quadrifoglio è il segno più riconoscibile del gruppo; la scritta in stile Art Déco lo tira indietro e lo fa sembrare di un'altra epoca.",
+   "x": [
+    [
+     "Tipografo",
+     2,
+     "Contrasto da carattere display: aste sottili che spariscono in piccolo e una B strana. Non dialoga con il simbolo tondo e organico."
+    ],
+    [
+     "Brand strategist",
+     3,
+     "Il quadrifoglio porta fortuna e fiducia: un patrimonio vero, da mettere al centro. La scritta lo indebolisce."
+    ],
+    [
+     "Retail designer di stazioni",
+     4,
+     "Un quadrifoglio verde in cima al totem si vede da lontano e si distingue dal rosso degli altri."
+    ],
+    [
+     "Esperto di utility ed energia",
+     3,
+     "Per luce e gas Beyfin ha creato Devra Energia con un altro nome: il quadrifoglio non arriva alla bolletta."
+    ],
+    [
+     "Art director digitale",
+     3,
+     "La favicon è il quadrifoglio: pronta per app e social; ma sul sito il logo esiste solo in bianco."
+    ],
+    [
+     "Esperto di marchi registrati",
+     3,
+     "Il quadrifoglio è un simbolo comune: difendibile solo nel disegno preciso; il nome BEYFIN è di fantasia e forte."
+    ],
+    [
+     "Automobilista del target",
+     3,
+     "«Quelli del quadrifoglio»: il cliente lo ricorda, ma la scritta sembra vecchia."
+    ]
+   ],
+   "lez": "Un simbolo semplice ripetuto per decenni diventa il nome stesso del marchio: ACTON non ne ha uno.",
+   "wv": "Il simbolo da solo starebbe a 4-5; la scritta datata porta il logo a 2 sulla scala mondiale.",
+   "k": "Debole",
+   "w": 2,
+   "g": 2
+  },
+  "estra": {
+   "e": "Tre nomi in un logo",
+   "v": "Pezzi ben disegnati e un anello moderno, ma il blocco Alia · estra · PLURES mette tre marchi davanti al cliente: è un logo di transizione.",
+   "x": [
+    [
+     "Tipografo",
+     4,
+     "Ogni pezzo è disegnato bene; messi insieme sono tre voci tipografiche che non si parlano."
+    ],
+    [
+     "Brand strategist",
+     2,
+     "Il cliente non sa più chi gli vende la luce: Estra, AliaEstra o Plures? La fusione è visibile nel logo."
+    ],
+    [
+     "Retail designer di stazioni",
+     2,
+     "In uno sportello o su un'insegna il blocco su tre livelli si legge solo da vicino."
+    ],
+    [
+     "Esperto di utility ed energia",
+     3,
+     "L'anello colorato dice energie diverse e rinnovabili: codice giusto per una multiutility."
+    ],
+    [
+     "Art director digitale",
+     2,
+     "La favicon contiene ancora A, anello e PLURES: in 16 px è una macchia."
+    ],
+    [
+     "Esperto di marchi registrati",
+     3,
+     "Ognuno dei tre nomi si difende da solo; il blocco è solo una composizione."
+    ],
+    [
+     "Automobilista del target",
+     2,
+     "Chi aveva Estra trova un portale con un altro nome e i rifiuti accanto alla bolletta: confusione."
+    ]
+   ],
+   "lez": "Anche un grande gruppo perde forza quando mette più nomi in un logo: ACTON eviti di affiancare Forini e ACTON con lo stesso peso.",
+   "wv": "Lontano dai riferimenti mondiali: un blocco di tre marchi non regge il confronto con un segno unico. Vale 2.",
+   "k": "Debole",
+   "w": 2,
+   "g": 2
+  },
+  "enerpetroli": {
+   "e": "Anello degli anni Novanta",
+   "v": "Segno compatto e riconoscibile in zona, ma tratteggio, doppio anello e scritta lunga e generica lo fermano agli anni Novanta.",
+   "x": [
+    [
+     "Tipografo",
+     2,
+     "Bastone pesante largo senza un dettaglio proprio; undici lettere tutte uguali."
+    ],
+    [
+     "Brand strategist",
+     3,
+     "Ener- come prefisso dei servizi è un sistema che funziona; il nome è descrittivo."
+    ],
+    [
+     "Retail designer di stazioni",
+     3,
+     "La «e» blu su un totem si vede, ma accanto a Esso sulla stessa rete i colori si confondono."
+    ],
+    [
+     "Esperto di utility ed energia",
+     2,
+     "Per il metano Bluégas ha un altro nome: il sistema si ferma ai carburanti."
+    ],
+    [
+     "Art director digitale",
+     2,
+     "Tratteggio e filetto rosso spariscono in piccolo; la favicon è leggibile solo grande."
+    ],
+    [
+     "Esperto di marchi registrati",
+     2,
+     "«Ener» + «petroli» è descrittivo: debole come marchio verbale, si difende come figurativo."
+    ],
+    [
+     "Automobilista del target",
+     3,
+     "Noto nella Tuscia e a Roma; per chi non lo conosce sembra un distributore indipendente qualsiasi."
+    ]
+   ],
+   "lez": "Avere un segno compatto non basta se è disegnato con gli effetti di un'epoca: il segno che ACTON deve creare va tenuto pieno e piatto.",
+   "wv": "Sulla scala mondiale è un logo datato: effetti di velocità, due colori obbligatori, idea generica. Vale 1.",
+   "k": "Debole",
+   "w": 1,
+   "g": 1
+  },
+  "umbriaenergy": {
+   "e": "Foglie verdi come tutti",
+   "v": "Un logo appena rifatto che ripete il verde e le foglie di tante società di energia, con nome, barra e simbolo che non stanno insieme.",
+   "x": [
+    [
+     "Tipografo",
+     2,
+     "Bastone arrotondato generico su due righe, troppo piccolo; la barra gialla pesa più del nome."
+    ],
+    [
+     "Brand strategist",
+     2,
+     "Rifare il logo nell'anno in cui entra Plenitude (Eni) era l'occasione per una scelta netta: è uscito un logo prudente."
+    ],
+    [
+     "Retail designer di stazioni",
+     2,
+     "Per sportelli e flagship store a Terni il logo su due righe con barra è difficile da montare su un'insegna stretta."
+    ],
+    [
+     "Esperto di utility ed energia",
+     3,
+     "Verde e foglia dicono energia pulita: giusto ma uguale a molti concorrenti, Plenitude compresa nei toni."
+    ],
+    [
+     "Art director digitale",
+     3,
+     "La favicon a foglie è chiara; il logo intero c'è solo in un PNG minuscolo."
+    ],
+    [
+     "Esperto di marchi registrati",
+     2,
+     "Nome geografico e descrittivo: difficile da difendere come marchio verbale."
+    ],
+    [
+     "Automobilista del target",
+     2,
+     "Si ricorda Umbria, non il segno: potrebbe essere di qualunque società locale."
+    ]
+   ],
+   "lez": "Rifare il logo senza un'idea propria lascia il marchio dov'era: se ACTON ridisegna, deve uscire con un segno che nessun altro usa.",
+   "wv": "Lontano dai riferimenti mondiali: colori e foglie del settore, tre elementi scollegati, niente a un colore. Vale 1.",
+   "k": "Debole",
+   "w": 1,
+   "g": 1
+  }
+ },
+ "cliente": {
+  "sintesi": "ACTON è primo su sei con 3,0/5 (Nella norma, Global 3/10): primo perché gli altri sono più deboli, non perché il logo sia forte. La scritta è pulita, regge a un colore e ha due dettagli propri (la A senza traversa, la T tagliata); lo schema ACTON + descrittore è l'architettura più ordinata del gruppo. Ma il marchio non ha un segno: la favicon di acton.forini.com è la goccia del logo Forini, quella di Acton Energia un Λ nero salvato da un file «ChatGPT Image», e a 16 px, sulla tessera o in cima al totem ACTON non esiste. Il colore non aiuta: sotto la pensilina rossa di Misano ACTON potrebbe essere IP, Q8 o Tamoil, e nei file ufficiali i rossi sono quattro (#EA2429, #E20613, #CD001A, #CC1719), mentre l'Energia passa al verde. Il gruppo Forini parla poi un'altra lingua (maiuscolo sottile, sorriso e gocce): due identità che si toccano solo nella goccia. Fra i concorrenti, Beyfin ha il segno che manca ad ACTON (il quadrifoglio) e Ala ha un nome che diventa immagine (l'ala); nessuno dei sei arriva a Solido.",
+  "sottomarchi": "I quattro marchi ACTON usano la stessa scritta e cambiano il descrittore: Special Fuel e Lubes con lo stesso rosso, Fuel Card con un rosso più scuro (#CD001A), Energia con l'ON verde lime e GAS · POWER · ECO con quadratini verdi. Il nome del sito è «Acton Energia», nel logo c'è «gas power eco»: due nomi per lo stesso marchio. Acton Lubes ha il dominio fuori uso (DNS, 28/11/2026) e il logo esiste solo in versione bianca. Forini Costruzioni resta col nome del gruppo.",
+  "rischi": [
+   "Restare una scritta rossa fra le scritte rosse: sulla strada il cliente non distingue ACTON da IP, Q8 o Tamoil, e la promessa «premium senza sovrapprezzo» non ha un'immagine da ricordare.",
+   "Ogni nuovo canale (app, Fuel Card digitale, social, bolletta) inventa la sua icona: già oggi sono tre (goccia Forini, Λ generato, nessuna).",
+   "Con l'energia in verde e i carburanti in rosso il cliente non capisce che è lo stesso fornitore, e la vendita incrociata carburante-luce perde il suo argomento.",
+   "Il nome «Acton» è un cognome e un luogo inglese: registrazione e conflitti nelle classi di carburanti, lubrificanti ed energia vanno verificati prima di investire nel segno."
+  ],
+  "mosse": [
+   [
+    "Fissare un solo rosso ACTON (#EA2429) per tutti i marchi e il gruppo, con codici per stampa, insegna e schermo",
+    "Alto",
+    "Basso"
+   ],
+   [
+    "Ricavare dal Λ di ACTON un segno quadrato per favicon, app, tessera Fuel Card e cima del totem, al posto della goccia e del Λ generato",
+    "Alto",
+    "Medio"
+   ],
+   [
+    "Decidere il ruolo di Forini: firma di garanzia piccola sotto ACTON («un marchio Forini, dal 1933»), non un secondo logo con un'altra lingua",
+    "Medio",
+    "Basso"
+   ],
+   [
+    "Riportare Acton Energia alla scritta nera e rossa e usare il verde solo come colore di linea; un solo nome tra «Energia» e «gas power eco»",
+    "Medio",
+    "Basso"
+   ],
+   [
+    "Pubblicare i file vettoriali nero, bianco e a colori di ogni marchio e riattivare (o reindirizzare) actonlubes.forini.com",
+    "Basso",
+    "Basso"
+   ]
+  ]
+ }
+}

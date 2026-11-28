@@ -1,0 +1,699 @@
+{
+ "at": "2026-11-28",
+ "s": "dic",
+ "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+ "sent_s": "val",
+ "mod": [
+  "chatgpt",
+  "gemini",
+  "perplexity"
+ ],
+ "q": [
+  "Quali sono le migliori carte carburante per partita IVA in Italia?",
+  "Quali sono le reti di distributori di carburante indipendenti nel centro Italia?",
+  "Qual è un fornitore di luce e gas affidabile in Umbria?",
+  "Il carburante additivato conviene?",
+  "Dove fare benzina a Perugia?",
+  "Quali sono i lubrificanti italiani di qualità?",
+  "Qual è la migliore offerta luce e gas per aziende in Umbria?",
+  "Qual è la migliore carta carburante per aziende con pagamento posticipato?",
+  "Dove comprare olio motore italiano per una flotta aziendale?",
+  "A chi rivolgersi per installare colonnine di ricarica in azienda a Perugia?"
+ ],
+ "r": [
+  {
+   "q": 0,
+   "m": "chatgpt",
+   "cit": [],
+   "altri": [
+    "Q8 (CartissimaQ8, RecardQ8)",
+    "Enilive Multicard"
+   ],
+   "fonti": [
+    "q8.it",
+    "oilproducts.eni.com"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+  },
+  {
+   "q": 1,
+   "m": "chatgpt",
+   "cit": [
+    "beyfin"
+   ],
+   "altri": [
+    "Tamoil",
+    "IP",
+    "Q8"
+   ],
+   "fonti": [],
+   "sent": {
+    "beyfin": "neu"
+   },
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+  },
+  {
+   "q": 2,
+   "m": "chatgpt",
+   "cit": [
+    "umbriaenergy"
+   ],
+   "altri": [
+    "A2A Energia",
+    "Enel"
+   ],
+   "fonti": [
+    "arera.it",
+    "enel.it"
+   ],
+   "sent": {
+    "umbriaenergy": "pos"
+   },
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+  },
+  {
+   "q": 3,
+   "m": "chatgpt",
+   "cit": [],
+   "altri": [],
+   "fonti": [],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+  },
+  {
+   "q": 4,
+   "m": "chatgpt",
+   "cit": [],
+   "altri": [
+    "Oil Italia",
+    "Q8",
+    "API-IP",
+    "Esso",
+    "Tamoil"
+   ],
+   "fonti": [
+    "opencarburanti.it",
+    "wherefuel.com",
+    "costodelpieno.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+  },
+  {
+   "q": 5,
+   "m": "chatgpt",
+   "cit": [],
+   "altri": [
+    "Enilive",
+    "Q8Oils",
+    "Roloil",
+    "Bardahl",
+    "Pakelo",
+    "SIRAL",
+    "CIL",
+    "AxxonOil",
+    "GL Oil",
+    "Eurolube",
+    "Olitema"
+   ],
+   "fonti": [
+    "oilproducts.eni.com",
+    "q8.it",
+    "bardahl.it",
+    "automechanika.messefrankfurt.com",
+    "siralspa.it",
+    "compagniaitalianalubrificanti.com",
+    "eurolube.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+  },
+  {
+   "q": 6,
+   "m": "chatgpt",
+   "cit": [],
+   "altri": [
+    "Enel",
+    "Sorgenia"
+   ],
+   "fonti": [
+    "arera.it",
+    "enel.it",
+    "sorgenia.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+  },
+  {
+   "q": 7,
+   "m": "chatgpt",
+   "cit": [],
+   "altri": [
+    "Q8 CartissimaQ8",
+    "Tamoil",
+    "Dinagas",
+    "Piccini Fuels"
+   ],
+   "fonti": [
+    "confcommercioimola.it",
+    "selectra.net",
+    "federmotorizzazione.it",
+    "dinagas.it",
+    "piccinifuels.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+  },
+  {
+   "q": 8,
+   "m": "chatgpt",
+   "cit": [],
+   "altri": [
+    "Enilive",
+    "FUCHS",
+    "Q8Oils"
+   ],
+   "fonti": [
+    "oilproducts.eni.com",
+    "fuchs.com",
+    "q8oils.com"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+  },
+  {
+   "q": 9,
+   "m": "chatgpt",
+   "cit": [],
+   "altri": [],
+   "fonti": [],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/"
+  },
+  {
+   "q": 0,
+   "m": "gemini",
+   "cit": [],
+   "altri": [
+    "DKV Card",
+    "UTA Edenred",
+    "Enilive Multicard Easy",
+    "CartissimaQ8/RecardQ8",
+    "IP Plus",
+    "Soldo"
+   ],
+   "fonti": [
+    "rentedrive.it",
+    "michelin.com",
+    "dkv-mobility.com",
+    "companeo.it",
+    "truck24.it",
+    "uta.com",
+    "enilive.it",
+    "facile.it",
+    "q8.it",
+    "partitaiva.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+  },
+  {
+   "q": 1,
+   "m": "gemini",
+   "cit": [
+    "beyfin",
+    "enerpetroli"
+   ],
+   "altri": [
+    "Costantin",
+    "Keropetrol",
+    "Sarni Oil",
+    "Ludoil",
+    "IS Simonetti",
+    "Silca Petroli",
+    "Felgas",
+    "Conad Carburanti",
+    "Enercoop"
+   ],
+   "fonti": [
+    "quattroruote.it",
+    "figisc.it",
+    "rattiauto.it",
+    "is-simonetti.it",
+    "silcapetroli.it",
+    "missionline.it",
+    "pompebianche.it",
+    "fleetmagazine.com"
+   ],
+   "sent": {
+    "beyfin": "pos",
+    "enerpetroli": "pos"
+   },
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+  },
+  {
+   "q": 2,
+   "m": "gemini",
+   "cit": [
+    "umbriaenergy"
+   ],
+   "altri": [
+    "VUS COM",
+    "+energia",
+    "Enel Energia",
+    "Eni Plenitude",
+    "Dolomiti Energia",
+    "Unoenergy",
+    "Octopus Energy",
+    "NeN"
+   ],
+   "fonti": [
+    "umbriaenergy.it",
+    "vuscom.it",
+    "piuenergia.it",
+    "dolomitienergia.it",
+    "unoenergy.it"
+   ],
+   "sent": {
+    "umbriaenergy": "pos"
+   },
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+  },
+  {
+   "q": 3,
+   "m": "gemini",
+   "cit": [],
+   "altri": [
+    "Bardahl",
+    "Tunap",
+    "Liqui Moly",
+    "STP"
+   ],
+   "fonti": [],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+  },
+  {
+   "q": 4,
+   "m": "gemini",
+   "cit": [],
+   "altri": [
+    "IP",
+    "Eni",
+    "Esso",
+    "Tamoil"
+   ],
+   "fonti": [
+    "prezzibenzina.it",
+    "mise.gov.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+  },
+  {
+   "q": 5,
+   "m": "gemini",
+   "cit": [],
+   "altri": [
+    "Eni",
+    "IP",
+    "Pakelo",
+    "Bardahl/Maroil",
+    "Roloil",
+    "Selenia (Petronas)",
+    "Sintoflon",
+    "Urania"
+   ],
+   "fonti": [
+    "smiragliauto.store",
+    "mordorintelligence.it",
+    "roloil.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+  },
+  {
+   "q": 6,
+   "m": "gemini",
+   "cit": [
+    "umbriaenergy"
+   ],
+   "altri": [
+    "Lenergia",
+    "Eni Plenitude",
+    "Iren",
+    "E.ON",
+    "Enel Energia"
+   ],
+   "fonti": [
+    "umbriaenergy.it",
+    "puntienergia.com",
+    "lenergia.eu",
+    "eniplenitude.com",
+    "irenlucegas.it",
+    "eon-energia.com",
+    "luce-gas.it",
+    "enel.it",
+    "dolomitienergia.it",
+    "supermoney.it"
+   ],
+   "sent": {
+    "umbriaenergy": "pos"
+   },
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+  },
+  {
+   "q": 7,
+   "m": "gemini",
+   "cit": [],
+   "altri": [
+    "DKV Card",
+    "UTA Edenred",
+    "Enilive Multicard",
+    "Cartissima Q8",
+    "IP Plus"
+   ],
+   "fonti": [
+    "retitalia.eu",
+    "petrol-service.it",
+    "companeo.it",
+    "radius.com",
+    "uta.com",
+    "dkv-mobility.com",
+    "icompario.com",
+    "enilive.it",
+    "q8.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+  },
+  {
+   "q": 8,
+   "m": "gemini",
+   "cit": [],
+   "altri": [
+    "Eni",
+    "Pakelo",
+    "Selenia (Petronas)",
+    "Bardahl",
+    "Errecom",
+    "Tamoil",
+    "Groupauto",
+    "Autodis"
+   ],
+   "fonti": [],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+  },
+  {
+   "q": 9,
+   "m": "gemini",
+   "cit": [
+    "umbriaenergy"
+   ],
+   "altri": [
+    "Emotion",
+    "Next Power",
+    "ZED Sistemi Energetici",
+    "Barton Energy",
+    "Enel X Way",
+    "Plenitude On Charge",
+    "Powy"
+   ],
+   "fonti": [
+    "umbriaemobilitynetwork.it",
+    "emotion-team.com",
+    "nextpowersrl.com",
+    "zedsistemienergetici.it",
+    "bartonenergy.it",
+    "umbriaenergy.it",
+    "powy.energy"
+   ],
+   "sent": {
+    "umbriaenergy": "pos"
+   },
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/gemini/llm_responses/live/"
+  },
+  {
+   "q": 0,
+   "m": "perplexity",
+   "cit": [],
+   "altri": [
+    "Enilive Multicard Easy",
+    "CartissimaQ8",
+    "IP Plus",
+    "DKV Card",
+    "Telepass Fuel",
+    "Soldo Drive",
+    "Eurowag"
+   ],
+   "fonti": [
+    "partitaiva.it",
+    "companeo.it",
+    "finanzadigitale.com",
+    "finmoderna.it",
+    "compare.renevanloock.com",
+    "icompario.com",
+    "rentedrive.it",
+    "reaudit.io"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/"
+  },
+  {
+   "q": 1,
+   "m": "perplexity",
+   "cit": [
+    "enerpetroli",
+    "beyfin"
+   ],
+   "altri": [
+    "Retitalia",
+    "7sette (Turriziani Petroli)",
+    "pompe bianche"
+   ],
+   "fonti": [
+    "reaudit.io",
+    "trafficoadesso.it",
+    "benzina24.it",
+    "tg24.sky.it",
+    "contactout.com",
+    "carx.it",
+    "alvolante.it",
+    "quattroruote.it",
+    "vivereinitalien.de"
+   ],
+   "sent": {
+    "enerpetroli": "neu",
+    "beyfin": "neu"
+   },
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/"
+  },
+  {
+   "q": 2,
+   "m": "perplexity",
+   "cit": [
+    "umbriaenergy"
+   ],
+   "altri": [
+    "VUS COM",
+    "ènostra",
+    "Iren"
+   ],
+   "fonti": [
+    "trustpilot.com",
+    "puntienergia.com",
+    "vuscom.it",
+    "prontobolletta.it",
+    "comparasemplice.it"
+   ],
+   "sent": {
+    "umbriaenergy": "pos"
+   },
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/"
+  },
+  {
+   "q": 3,
+   "m": "perplexity",
+   "cit": [],
+   "altri": [],
+   "fonti": [
+    "prezzopieno.it",
+    "wsls.com",
+    "refuelia.com",
+    "geico.com",
+    "oiljobber.com",
+    "wral.com"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/"
+  },
+  {
+   "q": 4,
+   "m": "perplexity",
+   "cit": [],
+   "altri": [
+    "IP",
+    "Esso",
+    "Eurogas 2000",
+    "B-Petrol",
+    "Oil Italia"
+   ],
+   "fonti": [
+    "fuel-prices.eu",
+    "viamichelin.it",
+    "benzina24.it",
+    "perugiatoday.it",
+    "gasbu.app",
+    "tuttocitta.it",
+    "paginegialle.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/"
+  },
+  {
+   "q": 5,
+   "m": "perplexity",
+   "cit": [],
+   "altri": [
+    "Pakelo",
+    "Selenia",
+    "NILS",
+    "Eurolube/Rilub",
+    "Eni",
+    "Q8Oils/Roloil",
+    "Bellini",
+    "Aluchem"
+   ],
+   "fonti": [
+    "chemeurope.com",
+    "eurolube.it",
+    "ensun.io",
+    "autoricambitritella.it",
+    "bardahl.it",
+    "nilsyourbike.com",
+    "mordorintelligence.com"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/"
+  },
+  {
+   "q": 6,
+   "m": "perplexity",
+   "cit": [
+    "umbriaenergy"
+   ],
+   "altri": [
+    "VUS COM",
+    "Fastweb",
+    "Enel",
+    "Illumia"
+   ],
+   "fonti": [
+    "bolin.it",
+    "vuscom.it",
+    "comparasemplice.it"
+   ],
+   "sent": {
+    "umbriaenergy": "neu"
+   },
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/"
+  },
+  {
+   "q": 7,
+   "m": "perplexity",
+   "cit": [],
+   "altri": [
+    "DKV Card",
+    "UTA Edenred",
+    "CartissimaQ8",
+    "Vulcancard"
+   ],
+   "fonti": [
+    "partnerscout.it",
+    "vulcanenergie.com",
+    "companeo.it",
+    "uta.com",
+    "greenway.care",
+    "missionline.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/"
+  },
+  {
+   "q": 8,
+   "m": "perplexity",
+   "cit": [],
+   "altri": [
+    "Italub",
+    "Lubrizon (AEG)",
+    "GL Oil",
+    "Compagnia Italiana Lubrificanti",
+    "Orlandi Lubrificanti",
+    "Italian Petrol Company"
+   ],
+   "fonti": [
+    "italub.it",
+    "italianpetrolcompany.it",
+    "ensun.io",
+    "europages.co.uk",
+    "lubrizon.it"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/"
+  },
+  {
+   "q": 9,
+   "m": "perplexity",
+   "cit": [],
+   "altri": [
+    "Emotion",
+    "HTC",
+    "ZED Sistemi Energetici",
+    "Powy"
+   ],
+   "fonti": [
+    "surgepv.com",
+    "comune.perugia.it",
+    "emotion-team.com",
+    "zedsistemienergetici.it",
+    "powy.energy"
+   ],
+   "sent": {},
+   "s": "dic",
+   "u": "https://docs.dataforseo.com/v3/ai_optimization/perplexity/llm_responses/live/"
+  }
+ ],
+ "n": "DataForSEO AI Optimization, LLM Responses con ricerca web, 28/11/2026: ChatGPT gpt-5.4-mini, Gemini gemini-3.8-flash, Perplexity sonar; una risposta per domanda e modello (domande 1-6 da CLAUDE.md, 7-10 d'acquisto). Gemini ha risposto senza ricerca web alle domande 4 e 9. Citato = marchio nominato nel testo della risposta, non solo nelle fonti; tono valutato da noi. Forini/ACTON non compare in nessuna delle 30 risposte. Omonimi: «Acton» ed «Estra/extra» controllati a mano, nessun caso",
+ "ment": {}
+}

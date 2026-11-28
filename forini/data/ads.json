@@ -1,0 +1,158 @@
+{
+ "at": "2026-11-28",
+ "n": "Meta Ad Library e Google Ads Transparency via ScrapeCreators, 27/11/2026. Meta: annunci attivi in Italia, elenco completo per pagina (Forini: pagine ActonFuel e «ACTON Special Fuel», entrambe a 0). Google: per dominio del sito, attivo = visto dal 25/11/2026 in poi; gli annunci Google non hanno testo leggibile. Beyfin: prima pagina di 40 annunci tutti visti il 26-27/11, Google ne stima circa 200 in tutto (pagine successive non lette), quindi n = almeno 40. Estra: estra.it rimanda ad aliaestra.it; i 18 annunci estra.it sono fermi al 15/06/2026, gli attivi sono su aliaestra.it (18 dall'agenzia MIGHTYHIVE LTD con banner Black Week «Fix24/Flex24 WebCasa», 1 da Estra S.p.A.). Beyfin su Meta: 8 annunci dinamici da catalogo attivi dal 2025-2026 e 13 post Instagram sponsorizzati partiti il 26-27/11. Nessuna stima della spesa.",
+ "az": {
+  "forini": {
+   "meta": {
+    "n": 0,
+    "dal": null,
+    "es": [],
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=629436020568012"
+   },
+   "google": {
+    "n": 0,
+    "es": [],
+    "s": "dic",
+    "u": "https://adstransparency.google.com/?region=IT&domain=forini.com"
+   }
+  },
+  "beyfin": {
+   "meta": {
+    "n": 21,
+    "dal": "2025-06-17",
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=156007491567287",
+    "es": [
+     {
+      "d": "2026-11-26",
+      "t": "💡 Arriva una nuova grande scoperta: la leggerezza della BBox!",
+      "f": "immagine",
+      "u": "https://www.facebook.com/ads/library/?id=1599660635251428"
+     },
+     {
+      "d": "2026-11-26",
+      "t": "⚓ All'arrembaggio! La BBoat è qui per conquistare i sette mari.",
+      "f": "immagine",
+      "u": "https://www.facebook.com/ads/library/?id=1952429729473991"
+     },
+     {
+      "d": "2026-11-26",
+      "t": "🫂 La gentilezza è di casa! Ti aspettiamo in ogni stazione di servizio",
+      "f": "immagine",
+      "u": "https://www.facebook.com/ads/library/?id=1492201736161695"
+     },
+     {
+      "d": "2026-11-26",
+      "t": "Svuota la mente e riempi di vita il tuo campeggio con BBox!",
+      "f": "dinamico",
+      "u": "https://www.facebook.com/ads/library/?id=2437751360320882"
+     }
+    ]
+   },
+   "google": {
+    "n": 40,
+    "nmin": true,
+    "dal": "2021-10-25",
+    "s": "dic",
+    "u": "https://adstransparency.google.com/advertiser/AR03101545899059314689?region=IT",
+    "es": [
+     {
+      "d": "2025-07-04",
+      "t": "annuncio di testo (senza testo leggibile)",
+      "f": "testo",
+      "u": "https://adstransparency.google.com/advertiser/AR03101545899059314689/creative/CR12189871090247401473"
+     }
+    ]
+   }
+  },
+  "ala": {
+   "meta": {
+    "n": 0,
+    "dal": null,
+    "es": [],
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=848738871915630"
+   },
+   "google": {
+    "n": 0,
+    "es": [],
+    "s": "dic",
+    "u": "https://adstransparency.google.com/?region=IT&domain=alacarburanti.com"
+   }
+  },
+  "enerpetroli": {
+   "meta": {
+    "n": 0,
+    "dal": null,
+    "es": [],
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=463692043725287"
+   },
+   "google": {
+    "n": 0,
+    "es": [],
+    "s": "dic",
+    "u": "https://adstransparency.google.com/?region=IT&domain=enerpetroli.it"
+   }
+  },
+  "estra": {
+   "meta": {
+    "n": 0,
+    "dal": null,
+    "es": [],
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=626468237433218"
+   },
+   "google": {
+    "n": 19,
+    "dal": "2026-11-16",
+    "s": "dic",
+    "u": "https://adstransparency.google.com/?region=IT&domain=aliaestra.it",
+    "es": [
+     {
+      "d": "2026-11-16",
+      "t": "banner Black Week «Fix24/Flex24 WebCasa» (agenzia MIGHTYHIVE LTD)",
+      "f": "immagine",
+      "u": "https://adstransparency.google.com/advertiser/AR12042259584044236801/creative/CR17302332557173456897"
+     },
+     {
+      "d": "2026-11-17",
+      "t": "annuncio di testo Estra S.p.A.",
+      "f": "testo",
+      "u": "https://adstransparency.google.com/advertiser/AR07176519206312083457/creative/CR08080363497155723265"
+     }
+    ]
+   }
+  },
+  "umbriaenergy": {
+   "meta": {
+    "n": 0,
+    "dal": null,
+    "es": [],
+    "s": "dic",
+    "u": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=IT&view_all_page_id=216964338760893"
+   },
+   "google": {
+    "n": 3,
+    "dal": "2023-04-03",
+    "s": "dic",
+    "u": "https://adstransparency.google.com/advertiser/AR03774881184912244737?region=IT",
+    "es": [
+     {
+      "d": "2026-11-21",
+      "t": "annuncio (senza testo leggibile)",
+      "f": "altro",
+      "u": "https://adstransparency.google.com/advertiser/AR03774881184912244737/creative/CR01847538155842961409"
+     },
+     {
+      "d": "2023-04-03",
+      "t": "annuncio attivo dal 2023 (senza testo leggibile)",
+      "f": "altro",
+      "u": "https://adstransparency.google.com/advertiser/AR03774881184912244737/creative/CR04776932102002180097"
+     }
+    ]
+   }
+  }
+ }
+}

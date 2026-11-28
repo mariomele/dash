@@ -1,0 +1,368 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "cmp": [
+  "forini",
+  "beyfin",
+  "ala",
+  "enerpetroli",
+  "estra",
+  "umbriaenergy"
+ ],
+ "n": "Voti dati da Claude mettendosi nei panni di 11 ruoli, solo con i file data/ della dashboard e news.json: non sono interviste vere. Le aziende solo carburanti o solo energia sono giudicate per quello che offrono a quel ruolo secondo gamma.json. Rete Forini = 27 stazioni del registro MIMIT, non «oltre 40». Gap SEO di Estra e Umbria Energy non usati (quasi tutto rumore); follower di acton_energy non usati come forza (gonfiati dai reel di Rimini Calcio); Acton Lubes giudicato solo dalle pagine Acton perché actonlubes.forini.com non risolve. Mancano per tutti: condizioni ai gestori, rete di accettazione delle carte, prezzi delle offerte luce e gas, debiti e patrimonio, recensioni dei dipendenti e annunci di lavoro; per Forini anche litri erogati, Fuel Card attive e clienti energia.",
+ "sintesi": "Forini vince 1 ruolo su 11: il titolare di partita IVA con una sola auto, grazie alla Fuel Card con 60 giorni di dilazione. Media 5,1 su 10, 3° posto su 6, dietro Beyfin (6,3, prima in 5 ruoli) e Umbria Energy (5,3, prima in 3); Ala, Enerpetroli ed Estra a 5,0. Tutti riconoscono l'offerta più completa del confronto (11 voci su 14, l'unica con carburante additivato senza sovrapprezzo, Fuel Card, lubrificanti propri, luce e gas, fibra e fotovoltaico) e la fiducia di chi la conosce (4,6 su Google, 2,85 reazioni LinkedIn ogni 100 follower). Le tre debolezze che pesano di più: la rete piccola, 27 stazioni contro 99-138 dei distributori e solo 4 in Umbria; l'invisibilità, con 28 parole su Google, 0 citazioni in 30 risposte AI, 0 annunci e 0 notizie in 12 mesi; i buchi di gamma, cioè niente GPL, metano né HVO e offerte luce e gas solo a prezzo variabile.",
+ "pov": [
+  {
+   "id": "automobilista",
+   "ruolo": "Automobilista privato",
+   "chi": "Guida un'auto sua fra Umbria, Marche e Romagna e sceglie dove fare il pieno",
+   "dom": "Dove faccio il pieno vicino a casa, con un carburante buono e senza pagare di più?",
+   "v": {
+    "forini": 5,
+    "beyfin": 6,
+    "ala": 7,
+    "enerpetroli": 6,
+    "estra": 2,
+    "umbriaenergy": 3
+   },
+   "win": [
+    "ala",
+    "Ha la rete più grande del confronto (138 stazioni), linee premium proprie (S-Formula, D-Formula), HVO, GPL e metano, e 4,3 su Google sulla stazione con più recensioni (259)."
+   ],
+   "verd": "Il carburante ACTON convince chi lo trova: tutto additivato allo stesso prezzo. Ma le stazioni sono 27, in Umbria solo 4, e mancano GPL e metano. Per chi non abita vicino a una stazione ACTON la scelta non si pone.",
+   "contro": [
+    "27 stazioni verificate nel registro MIMIT, contro 138 di Ala, 111 di Beyfin e 99 di Enerpetroli.",
+    "In provincia di Perugia ACTON ha 4 stazioni, Enerpetroli 16 e Ala 11.",
+    "Niente GPL, metano né HVO: li hanno tutti e tre i distributori concorrenti."
+   ],
+   "pro": [
+    "Tutti e cinque i carburanti Acton sono additivati «senza costi aggiuntivi»; Beyfin non ha un premium.",
+    "Fornitore ufficiale di carburante del Misano World Circuit: una prova di qualità facile da capire.",
+    "4,6 su Google Maps sulla sede Acton, il voto più alto del confronto (ma su 13 recensioni)."
+   ],
+   "serve": "Una stazione ACTON sulla sua strada e una mappa «Trova la stazione» che oggi la home Acton Special Fuel non ha.",
+   "dati": "sedi.json (registro MIMIT), gamma.json, reput.json, osint.json, sito.json",
+   "sez": "stabilimenti"
+  },
+  {
+   "id": "piva",
+   "ruolo": "Titolare di partita IVA con una sola auto",
+   "chi": "Artigiano o professionista che scarica il carburante e vuole pagare dopo",
+   "dom": "Quale carta carburante mi fa pagare più tardi e mi semplifica le fatture?",
+   "v": {
+    "forini": 7,
+    "beyfin": 6,
+    "ala": 6,
+    "enerpetroli": 6,
+    "estra": 3,
+    "umbriaenergy": 3
+   },
+   "win": [
+    "forini",
+    "La Fuel Card ACTON dà fino a 60 giorni di dilazione, la più lunga fra quelle lette (Ala Black Gold 20 giorni, Beyfin fattura mensile), con voucher e carta virtuale."
+   ],
+   "verd": "È il ruolo dove ACTON vince. La dilazione a 60 giorni è un argomento chiaro e nessun concorrente la eguaglia. Il limite è dove usarla: con 27 stazioni la carta serve solo a chi gira fra Marche, Romagna e Umbria.",
+   "contro": [
+    "Con 27 stazioni la carta si usa in 3 regioni; Beyfin copre 10 regioni.",
+    "fuelcard.forini.com rimanda alla home Acton: la carta non ha una pagina propria.",
+    "Alla domanda «carta carburante con pagamento posticipato» ChatGPT cita Dinagas e Piccini Fuels, mai ACTON (0 citazioni su 30 risposte AI)."
+   ],
+   "pro": [
+    "Dilazione fino a 60 giorni contro i 20 della Black Gold di Ala.",
+    "Voucher carburante Acton e carta virtuale.",
+    "Dallo stesso fornitore luce e gas Business, fibra fino a 1 Giga a 29,90 €/mese e fotovoltaico."
+   ],
+   "serve": "La lista delle stazioni dove la carta è accettata e una pagina Fuel Card con le condizioni scritte.",
+   "dati": "gamma.json, sedi.json, geo2.json, sales.json",
+   "sez": "gamma"
+  },
+  {
+   "id": "flotta",
+   "ruolo": "Responsabile di una flotta aziendale",
+   "chi": "Gestisce 30-100 mezzi che girano nel centro-nord",
+   "dom": "Chi copre i miei percorsi, ha i carburanti alternativi e mi fattura per targa?",
+   "v": {
+    "forini": 4,
+    "beyfin": 7,
+    "ala": 6,
+    "enerpetroli": 6,
+    "estra": 2,
+    "umbriaenergy": 3
+   },
+   "win": [
+    "beyfin",
+    "111 stazioni in 10 regioni, GPL, metano e HVO (linea ECODRIVE), Beyfin Card con fattura mensile per targa; è anche prima su Google per «diesel hvo» (12.100 ricerche al mese)."
+   ],
+   "verd": "Per una flotta ACTON è troppo piccola: 27 stazioni in 3 regioni e nessun biocarburante. La dilazione a 60 giorni piace, ma non basta se i mezzi devono deviare per fare il pieno. ACTON qui è penultima, davanti solo alle due aziende che non vendono carburante.",
+   "contro": [
+    "27 stazioni in 3 regioni (Marche 13, Emilia-Romagna 10, Umbria 4) contro 111 di Beyfin in 10 regioni.",
+    "Niente HVO, GPL né metano: Beyfin, Ala ed Enerpetroli li hanno tutti e tre.",
+    "Ricarica elettrica solo privata (colonnine per la sede); Enerpetroli ha colonnine sulle stazioni con Be Charge."
+   ],
+   "pro": [
+    "Fuel Card con dilazione fino a 60 giorni, la più lunga del confronto.",
+    "Acton Lubes copre anche i mezzi pesanti e agricoli, a marchio proprio Made in Italy.",
+    "Un solo fornitore per carburante, colonnine, luce e gas della sede."
+   ],
+   "serve": "Una rete di accettazione più larga (anche con accordi con altre reti) e l'HVO almeno sulle stazioni sulle direttrici.",
+   "dati": "sedi.json, gamma.json, seo2.json, sales.json",
+   "sez": "gamma"
+  },
+  {
+   "id": "gestore",
+   "ruolo": "Gestore di una stazione di servizio",
+   "chi": "Ha una pompa bianca in Umbria o nelle Marche e cerca un'insegna",
+   "dom": "Quale insegna mi porta più clienti al piazzale?",
+   "v": {
+    "forini": 5,
+    "beyfin": 7,
+    "ala": 6,
+    "enerpetroli": 6,
+    "estra": 3,
+    "umbriaenergy": 3
+   },
+   "win": [
+    "beyfin",
+    "È la più visibile: 490 parole su Google, 78 risposte AI Overview, almeno 40 annunci Google e 21 Meta, e investe nel restyling degli impianti (Castiglione del Lago e Lucca)."
+   ],
+   "verd": "ACTON offre un prodotto da raccontare e una gamma ampia per il piazzale. Ma un gestore guarda chi porta clienti, e ACTON non si fa vedere: 0 annunci, notorietà ultima. Le condizioni economiche ai gestori non sono nella dashboard per nessuno.",
+   "contro": [
+    "Notorietà ultima su 6 (7 su 100) nello standing del marchio.",
+    "0 annunci attivi su Meta e Google; Beyfin ne ha almeno 61.",
+    "Il rosso ACTON è lo stesso di IP, Q8, Tamoil ed Esso: sotto la pensilina si confonde."
+   ],
+   "pro": [
+    "Un carburante additivato a marchio proprio da vendere allo stesso prezzo; Enerpetroli rivende Esso Synergy in licenza.",
+    "Lubrificanti a marchio ACTON (Enerpetroli rivende altri marchi).",
+    "Dallo stesso fornitore luce, fotovoltaico e colonnine per la stazione."
+   ],
+   "serve": "Condizioni chiare per i gestori e una campagna che porti traffico alle stazioni ACTON.",
+   "dati": "seo.json, llmm.json, ads.json, osint.json, brandx.json, mkt.json, gamma.json",
+   "sez": "asales"
+  },
+  {
+   "id": "famiglia",
+   "ruolo": "Famiglia che cambia fornitore di luce e gas",
+   "chi": "Coppia con figli in Umbria, stanca di bollette che cambiano",
+   "dom": "Chi mi dà un prezzo chiaro e una persona che mi risponde?",
+   "v": {
+    "forini": 6,
+    "beyfin": 4,
+    "ala": 4,
+    "enerpetroli": 3,
+    "estra": 6,
+    "umbriaenergy": 7
+   },
+   "win": [
+    "umbriaenergy",
+    "È il fornitore umbro che le AI citano di più (6 risposte su 30, sempre alla domanda sull'Umbria), ha sportelli a Terni, Perugia e Bastia Umbra e 10 offerte luce e gas."
+   ],
+   "verd": "Acton Energia ha la home migliore del confronto e un consulente con un nome, ma dai nomi le offerte sono tutte a prezzo variabile e su Google e nelle AI non compare. Estra blocca il prezzo per due anni ma ha un giudizio polarizzato. Umbria Energy è la scelta più semplice per una famiglia umbra.",
+   "contro": [
+    "Offerte Acton Energia tutte «Var» nei nomi; Estra blocca i prezzi di luce e gas per due anni.",
+    "0 citazioni nelle risposte AI alla domanda «fornitore di luce e gas affidabile in Umbria»; Umbria Energy 3 su 3.",
+    "6 offerte luce e gas (oltre a Placet) contro circa 35 di Estra e 10 di Umbria Energy."
+   ],
+   "pro": [
+    "Home Acton Energia prima a pari merito con AliaEstra (3,76), con un percorso completo fino al contratto.",
+    "Consulente personale, «nessun call center», e un ACTON POINT a Rimini; Estra ha avvisato i clienti delle truffe telefoniche.",
+    "4,6 su Google contro 3,0 di Estra (463 recensioni, 207 da una stella) e 3,7 di Umbria Energy."
+   ],
+   "serve": "Un'offerta a prezzo fisso e uno sportello ACTON POINT anche in Umbria.",
+   "dati": "gamma.json, geo2.json, sito.json, reput.json, news.json, osint.json",
+   "sez": "reputazione"
+  },
+  {
+   "id": "pmi",
+   "ruolo": "PMI energivora",
+   "chi": "Titolare di un'azienda manifatturiera umbra con bollette alte",
+   "dom": "Chi mi aiuta a pagare meno l'energia, con fotovoltaico e comunità energetiche?",
+   "v": {
+    "forini": 6,
+    "beyfin": 4,
+    "ala": 4,
+    "enerpetroli": 3,
+    "estra": 6,
+    "umbriaenergy": 7
+   },
+   "win": [
+    "umbriaenergy",
+    "È ESCo certificata, siede nella comunità energetica «Insieme Sostenibili» con Confindustria Umbria, Legacoop e Confartigianato, e le AI la citano alla domanda sull'offerta luce e gas per aziende in Umbria."
+   ],
+   "verd": "ACTON ha tutto quello che serve a una PMI: offerte Business, fotovoltaico con accumulo, comunità energetiche, colonnine e Fuel Card per i furgoni. Ma Umbria Energy presidia le associazioni umbre ed Estra ha la scala. ACTON convince con riserva.",
+   "contro": [
+    "0 citazioni AI alla domanda «migliore offerta luce e gas per aziende in Umbria»; Umbria Energy 2.",
+    "L'AD di Umbria Energy guida la Sezione Energia di Confindustria Umbria: ACTON non ha un ruolo simile nei dati.",
+    "Estra ha un parco eolico da 51,75 MW e vende gas alla sede ARERA via Consip; ACTON non ha prove di grandi clienti."
+   ],
+   "pro": [
+    "Fotovoltaico con accumulo, comunità energetiche ed efficientamento: fra i distributori di carburante solo ACTON li offre.",
+    "Un referente unico per furgoni (Fuel Card a 60 giorni) e capannone (luce, gas, fibra).",
+    "Azienda umbra di famiglia dal 1933; Umbria Energy è per metà di Plenitude (Eni) da aprile 2026."
+   ],
+   "serve": "Casi di aziende servite con i risparmi ottenuti e una presenza nelle associazioni di categoria umbre.",
+   "dati": "gamma.json, geo2.json, osint.json, news.json, sales.json",
+   "sez": "geo2"
+  },
+  {
+   "id": "banca",
+   "ruolo": "Banca",
+   "chi": "Analista fidi di una banca del territorio",
+   "dom": "I conti reggono un finanziamento per crescere?",
+   "v": {
+    "forini": 6,
+    "beyfin": 7,
+    "ala": 5,
+    "enerpetroli": 6,
+    "estra": 8,
+    "umbriaenergy": 6
+   },
+   "win": [
+    "estra",
+    "Gruppo da 1.202 M€ di ricavi e 24,9 M€ di utile nel 2025, l'unico con bilancio consolidato verificato; margine netto del 2,1%."
+   ],
+   "verd": "Forini è cresciuta molto in cinque anni ed è stata selezionata da Intesa Sanpaolo per ELITE. Ma nel 2025 i ricavi calano del 12% e il margine netto è dello 0,5%, fra i più bassi. Debiti e patrimonio non sono nella dashboard per nessuno.",
+   "contro": [
+    "Ricavi 2025 187,3 M€, -12,3% sul 2024 (213,5 M€).",
+    "Utile 0,95 M€: margine netto dello 0,51%, contro 1,17% di Beyfin e 4,4% di Umbria Energy.",
+    "Bilancio letto da un aggregatore (stato «dic»); mancano debiti, patrimonio e flussi di cassa."
+   ],
+   "pro": [
+    "Ricavi da 88,1 M€ (2020) a 187,3 M€ (2025), dipendenti da 20 a 54.",
+    "Utile in crescita tre anni di fila: 0,84, 0,91, 0,95 M€ (2023-2025).",
+    "Selezionata da Intesa Sanpaolo fra le 20 PMI della ELITE Lounge (dicembre 2024)."
+   ],
+   "serve": "Il bilancio completo con debiti e cassa, e la ragione del calo 2025 (prezzo o volume).",
+   "dati": "aziende.json, storico.json, osint.json",
+   "sez": "storico"
+  },
+  {
+   "id": "candidato",
+   "ruolo": "Candidato",
+   "chi": "Laureato in economia o marketing che cerca lavoro in Umbria",
+   "dom": "Lì cresco, e si lavora bene?",
+   "v": {
+    "forini": 5,
+    "beyfin": 7,
+    "ala": 3,
+    "enerpetroli": 4,
+    "estra": 6,
+    "umbriaenergy": 6
+   },
+   "win": [
+    "beyfin",
+    "389 dipendenti (334 nel 2023), Società Benefit con Bilancio di Sostenibilità 2025, progetti sulle politiche di genere e 4.329 follower LinkedIn."
+   ],
+   "verd": "Forini è cresciuta in fretta e il suo pubblico LinkedIn è il più partecipe. Ma è un'azienda di 54 persone, i dipendenti calano di 2 nel 2025 e nei dati non ci sono annunci di lavoro né racconti del lavoro dentro l'azienda.",
+   "contro": [
+    "54 dipendenti nel 2025, 2 in meno del 2024 (56).",
+    "Nessun annuncio di lavoro Forini trovato nei dati OSINT; Enerpetroli cerca addetti dal novembre 2025.",
+    "1.204 follower LinkedIn contro 4.329 di Beyfin e 9.804 di Estra."
+   ],
+   "pro": [
+    "Dipendenti da 20 (2020) a 54 (2025): un'azienda che cresce.",
+    "2,85 reazioni LinkedIn ogni 100 follower, la più alta del confronto (Beyfin 0,98, Estra 0,21).",
+    "Azienda di famiglia dal 1933, con post dedicati alle persone (le donne di Forini, 25/11/2026)."
+   ],
+   "serve": "Una pagina «Lavora con noi» con posizioni aperte e storie di chi ci lavora.",
+   "dati": "aziende.json, storico.json, social.json, feed.json, osint.json",
+   "sez": "fdclass"
+  },
+  {
+   "id": "giornalista",
+   "ruolo": "Giornalista economico locale",
+   "chi": "Scrive di imprese per un quotidiano umbro",
+   "dom": "C'è una notizia, e qualcuno che la racconta?",
+   "v": {
+    "forini": 5,
+    "beyfin": 6,
+    "ala": 4,
+    "enerpetroli": 4,
+    "estra": 6,
+    "umbriaenergy": 8
+   },
+   "win": [
+    "umbriaenergy",
+    "9 notizie su 18 nel feed degli ultimi 12 mesi: ingresso di Plenitude al 50%, CEO dell'anno, flagship store a Terni, presidenza della Sezione Energia di Confindustria Umbria."
+   ],
+   "verd": "Forini ha storie buone (ACTON POINT, Misano, ELITE) ma non le porta ai giornali: 0 notizie nel feed. L'AD parla solo quando c'è il caro benzina. Umbria Energy, nella stessa regione, occupa lo spazio.",
+   "contro": [
+    "0 notizie su 18 nel feed degli ultimi 12 mesi; Umbria Energy 9, Estra 6, Beyfin 3.",
+    "L'apertura dell'ACTON POINT di Rimini (19/09/2026) non compare fra le notizie del feed.",
+    "Il numero della rete non torna: il sito dice «oltre 40», il registro MIMIT 27."
+   ],
+   "pro": [
+    "Alberto Forini (AD) già citato sul caro benzina (marzo 2026): c'è un portavoce.",
+    "Storie pronte: primo ACTON POINT a Rimini e fornitore del Misano World Circuit (settembre 2026).",
+    "93 anni di storia, festa dei 90 anni nel 2023 e selezione ELITE di Intesa Sanpaolo."
+   ],
+   "serve": "Un comunicato con numeri (stazioni, clienti energia, investimenti) e un portavoce disponibile.",
+   "dati": "news.json, osint.json, sedi.json",
+   "sez": "segnali"
+  },
+  {
+   "id": "concorrente",
+   "ruolo": "Direttore commerciale di un concorrente nazionale",
+   "chi": "Lavora per una grande compagnia petrolifera o una multiutility e guarda il centro Italia",
+   "dom": "Chi devo temere in questa zona?",
+   "v": {
+    "forini": 4,
+    "beyfin": 7,
+    "ala": 6,
+    "enerpetroli": 6,
+    "estra": 6,
+    "umbriaenergy": 6
+   },
+   "win": [
+    "beyfin",
+    "111 stazioni in 10 regioni, utile in crescita (da 3,3 a 5,5 M€), prima su Google per «diesel hvo» e la sola che spinge insieme Google, AI e pubblicità."
+   ],
+   "verd": "Un grande concorrente guarda la rete e la forza commerciale. ACTON ha l'offerta più completa, ma è la più piccola del confronto e non fa pubblicità. Per lui oggi ACTON è l'ultima da temere.",
+   "contro": [
+    "27 stazioni, la rete più piccola fra i quattro distributori.",
+    "0 annunci, 28 parole posizionate su Google (Beyfin 490).",
+    "Niente GPL, metano né HVO: non tocca i segmenti dove i concorrenti crescono."
+   ],
+   "pro": [
+    "11 voci su 14 in gamma: l'unica con carburante a marchio proprio, Fuel Card, lubrificanti, luce e gas, fibra e fotovoltaico.",
+    "Fuel Card a 60 giorni: una condizione che costringe a rispondere.",
+    "Selezione ELITE di Intesa Sanpaolo: un possibile accesso a capitali per crescere."
+   ],
+   "serve": "Una crescita della rete o accordi che rendano la Fuel Card usabile fuori dalle 3 regioni.",
+   "dati": "sedi.json, storico.json, seo.json, seo2.json, ads.json, gamma.json, osint.json",
+   "sez": "pressione"
+  },
+  {
+   "id": "online",
+   "ruolo": "Chi cerca online",
+   "chi": "Cerca su Google o chiede a un'AI «carta carburante», «offerte luce e gas», «distributore vicino»",
+   "dom": "Cosa trovo, se cerco carburante o energia nel centro Italia?",
+   "v": {
+    "forini": 3,
+    "beyfin": 8,
+    "ala": 4,
+    "enerpetroli": 5,
+    "estra": 7,
+    "umbriaenergy": 6
+   },
+   "win": [
+    "beyfin",
+    "490 parole posizionate (149 in top 10), circa 9.200 visite al mese da Google, 78 risposte AI Overview e citata in 3 risposte AI su 30."
+   ],
+   "verd": "Chi cerca online non trova ACTON. Su Google è quasi assente, nelle AI non esiste. Si salva solo la home di Acton Energia, che però va prima trovata. ACTON qui è ultima.",
+   "contro": [
+    "28 parole posizionate e 311 visite al mese da Google, le più basse del confronto.",
+    "0 citazioni su 30 risposte AI (ChatGPT, Gemini, Perplexity) e 0 risposte AI Overview; Beyfin 78, Estra 37.",
+    "Home Acton Special Fuel 5ª su 8 (3,00): nessun menu e nessun «Trova la stazione»."
+   ],
+   "pro": [
+    "Prima su Google per «forini spa» e «acton special fuel».",
+    "Home Acton Energia prima a pari merito (3,76) con AliaEstra.",
+    "Le ricerche di «forini» sono già concentrate dove c'è la rete: Umbria 100, Marche 41, Emilia-Romagna 15."
+   ],
+   "serve": "Una pagina per ogni stazione, guide su Fuel Card e offerte, e presenza sui siti che le AI usano come fonte.",
+   "dati": "seo.json, seo2.json, llmm.json, geo2.json, sito.json, trends.json",
+   "sez": "seo"
+  }
+ ]
+}

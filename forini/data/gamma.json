@@ -1,0 +1,807 @@
+{
+ "n": "Siti ufficiali di tutti i marchi letti il 28/11/2026 con curl (sitemap dove disponibile) più 2 letture Firecrawl (struttura del gruppo Estra, ricerca Acton Lubes); la fonte è in ogni cella, 4° campo = stato (dic = presenza dichiarata dall'azienda, ver = assenza verificata leggendo i siti di tutti i marchi). «Prodotti»: Forini 5 carburanti + 6 offerte luce e gas (escluse Placet) + 1 fibra, lubrificanti non contabili; Beyfin 5 carburanti + 4 offerte Devra; Ala 9 carburanti + 10 lubrificanti; Enerpetroli 9 voci della pagina prodotti per veicoli; Estra 35 pagine di offerta luce e gas nella sitemap di aliaestra.it (escluse Placet); Umbria Energy 10 offerte luce e gas (escluse Placet). Assi: benzina e gasolio uniti in una voce (li hanno tutti i distributori), aggiunto HVO.",
+ "s": "dic",
+ "u": "https://acton.forini.com/",
+ "assi": [
+  [
+   "carb",
+   "Benzina e gasolio"
+  ],
+  [
+   "prem",
+   "Carburante premium / additivato"
+  ],
+  [
+   "hvo",
+   "HVO / biocarburante"
+  ],
+  [
+   "gpl",
+   "GPL auto"
+  ],
+  [
+   "met",
+   "Metano / GNC auto"
+  ],
+  [
+   "ev",
+   "Ricarica elettrica"
+  ],
+  [
+   "card",
+   "Carta carburante / flotte"
+  ],
+  [
+   "buoni",
+   "Buoni carburante"
+  ],
+  [
+   "lub",
+   "Lubrificanti"
+  ],
+  [
+   "adb",
+   "AdBlue / additivi"
+  ],
+  [
+   "luce",
+   "Luce"
+  ],
+  [
+   "gas",
+   "Gas"
+  ],
+  [
+   "tlc",
+   "Fibra / telefonia"
+  ],
+  [
+   "eff",
+   "Fotovoltaico / efficienza"
+  ]
+ ],
+ "az": {
+  "forini": {
+   "marchi": [
+    [
+     "Acton Special Fuel",
+     "https://acton.forini.com/"
+    ],
+    [
+     "Acton Fuel Card",
+     "https://fuelcard.forini.com/"
+    ],
+    [
+     "Acton Lubes",
+     "https://www.facebook.com/officialacton"
+    ],
+    [
+     "Acton Energia",
+     "https://actonenergia.forini.com/"
+    ]
+   ],
+   "nota": "Forini Costruzioni (edilizia dal 1976) è fuori dal confronto: non vende carburanti né energia; il 28/11/2026 costruzioni.forini.com non risolve in DNS. Acton Lubes: actonlubes.forini.com non risolve in DNS (28/11/2026), quindi la gamma lubrificanti viene da forini.com, acton.forini.com/homepage-gestore/ e dai post della pagina Facebook officialacton; nessuna scheda tecnica in PDF trovata, nessun conteggio delle referenze. Sul sito Acton ci sono anche i loghi Chimsystem, Acton Network e Actoncom (2021): senza un sito proprio oggi (chimsystem.it non configurato), restano fuori dalla matrice.",
+   "n": [
+    12,
+    "https://acton.forini.com/carburanti/"
+   ],
+   "top": [
+    "Acton 102 Race (benzina 102 ottani, linea Acton Special Fuel)",
+    "https://acton.forini.com/"
+   ],
+   "carb": [
+    1,
+    "Benzina 95Plus, 100 Ottani, 102 Race; gasolio Diesel Plus (DSL+) e Diesel Performance (DSLx)",
+    "https://acton.forini.com/carburanti/",
+    "dic"
+   ],
+   "prem": [
+    1,
+    "Tutti i carburanti Acton sono additivati, «senza costi aggiuntivi» rispetto ai tradizionali",
+    "https://acton.forini.com/carburanti/",
+    "dic"
+   ],
+   "hvo": [
+    0,
+    "Nessun HVO fra i 5 carburanti Acton",
+    "https://acton.forini.com/carburanti/",
+    "ver"
+   ],
+   "gpl": [
+    0,
+    "Non in gamma Acton Special Fuel (3 benzine, 2 gasoli)",
+    "https://acton.forini.com/carburanti/",
+    "ver"
+   ],
+   "met": [
+    0,
+    "Non in gamma Acton Special Fuel (3 benzine, 2 gasoli)",
+    "https://acton.forini.com/carburanti/",
+    "ver"
+   ],
+   "ev": [
+    1,
+    "Mobilità elettrica: colonnine per casa e aziende chiavi in mano (Acton Energia); nessuna rete pubblica di ricarica",
+    "https://actonenergia.forini.com/eco/",
+    "dic"
+   ],
+   "card": [
+    1,
+    "Acton Fuel Card per P.IVA, dilazione fino a 60 giorni, carta virtuale",
+    "https://acton.forini.com/",
+    "dic"
+   ],
+   "buoni": [
+    1,
+    "Voucher carburante Acton",
+    "https://acton.forini.com/",
+    "dic"
+   ],
+   "lub": [
+    1,
+    "Acton Lubes: oli motore e trasmissione 100% Made in Italy, API/ACEA, auto, moto, pesante, agricolo, nautica",
+    "https://forini.com/",
+    "dic"
+   ],
+   "adb": [
+    1,
+    "Acton Lubes: «lubrificanti ed additivi chimici» (AdBlue non citato)",
+    "https://forini.com/",
+    "dic"
+   ],
+   "luce": [
+    1,
+    "Luce Var Domestico, Business e Condominio GOLD + Placet",
+    "https://actonenergia.forini.com/offerte-power/",
+    "dic"
+   ],
+   "gas": [
+    1,
+    "Gas Var Domestico, Business e Condominio GOLD + Placet",
+    "https://actonenergia.forini.com/offerte-gas/",
+    "dic"
+   ],
+   "tlc": [
+    1,
+    "Fibra fino a 1 Giga + telefonia fissa, 29,90 €/mese; telefonia mobile",
+    "https://actonenergia.forini.com/fibra/",
+    "dic"
+   ],
+   "eff": [
+    1,
+    "Fotovoltaico con accumulo, comunità energetiche, efficientamento",
+    "https://actonenergia.forini.com/eco/",
+    "dic"
+   ]
+  },
+  "beyfin": {
+   "marchi": [
+    [
+     "Beyfin",
+     "https://www.beyfin.it/"
+    ],
+    [
+     "Beyfin Card",
+     "https://www.beyfin.it/distributori-carburante/carta-carburante-beyfin/"
+    ],
+    [
+     "Beyfin Gift Card",
+     "https://www.beyfin.it/distributori-carburante/gift-card-carburante/"
+    ],
+    [
+     "Ecodrive (HVO)",
+     "https://www.beyfin.it/distributori-carburante/impianti-beyfin/"
+    ],
+    [
+     "BBOX (bombole GPL)",
+     "https://www.beyfin.it/gpl-altri-combustibili/bombole-gpl-vetroresina-bbox/"
+    ],
+    [
+     "Devra Energia",
+     "https://devraenergia.it/"
+    ]
+   ],
+   "nota": "Escluso Beyfin Immobiliare e turismo (immobili residenziali e terziari): non è energia. Devra Energia è il marchio luce e gas di Beyfin Energy S.r.l., controllata da Beyfin. GPL e gasolio per riscaldamento (serbatoi, bombole, reti canalizzate) sono in gamma ma non hanno un asse proprio.",
+   "n": [
+    9,
+    "https://devraenergia.it/"
+   ],
+   "top": [
+    "GPL e metano nella rete di 150 stazioni, più GPL per riscaldamento e bombole BBOX",
+    "https://www.beyfin.it/distributori-carburante/impianti-beyfin/"
+   ],
+   "carb": [
+    1,
+    "Benzina e gasolio negli impianti Beyfin",
+    "https://www.beyfin.it/distributori-carburante/impianti-beyfin/",
+    "dic"
+   ],
+   "prem": [
+    0,
+    "Nessun carburante additivato a marchio nel sito (sitemap letta per intero)",
+    "https://www.beyfin.it/sitemap.xml",
+    "ver"
+   ],
+   "hvo": [
+    1,
+    "Linea ECODRIVE con HVO",
+    "https://www.beyfin.it/distributori-carburante/impianti-beyfin/",
+    "dic"
+   ],
+   "gpl": [
+    1,
+    "GPL auto in gran parte degli impianti, anche notturno",
+    "https://www.beyfin.it/distributori-carburante/impianti-beyfin/",
+    "dic"
+   ],
+   "met": [
+    1,
+    "Metano auto in gran parte degli impianti",
+    "https://www.beyfin.it/distributori-carburante/impianti-beyfin/",
+    "dic"
+   ],
+   "ev": [
+    0,
+    "Nessuna colonnina: la mappa filtra solo GPL, metano, HVO, Beyfin Card, bar, lavaggio, bombole, notturno",
+    "https://www.beyfin.it/stazioni-servizio-beyfin/",
+    "ver"
+   ],
+   "card": [
+    1,
+    "Beyfin Card per flotte aziendali, fattura mensile per targa",
+    "https://www.beyfin.it/distributori-carburante/carta-carburante-beyfin/",
+    "dic"
+   ],
+   "buoni": [
+    1,
+    "Beyfin Gift Card Standard (25-100 €) e Corporate ricaricabile",
+    "https://www.beyfin.it/distributori-carburante/gift-card-carburante/",
+    "dic"
+   ],
+   "lub": [
+    0,
+    "Nessun lubrificante nel sito (sitemap letta per intero)",
+    "https://www.beyfin.it/sitemap.xml",
+    "ver"
+   ],
+   "adb": [
+    0,
+    "Nessun AdBlue o additivo nel sito (sitemap letta per intero)",
+    "https://www.beyfin.it/sitemap.xml",
+    "ver"
+   ],
+   "luce": [
+    1,
+    "Devra Premium Luce e Devra Smart Luce (prezzo indicizzato PUN)",
+    "https://devraenergia.it/luce/",
+    "dic"
+   ],
+   "gas": [
+    1,
+    "Devra Premium Gas e Devra Smart Gas (PSV); in più GPL per riscaldamento",
+    "https://devraenergia.it/gas/",
+    "dic"
+   ],
+   "tlc": [
+    0,
+    "Nessuna offerta fibra o telefonia su beyfin.it e devraenergia.it",
+    "https://www.beyfin.it/sitemap.xml",
+    "ver"
+   ],
+   "eff": [
+    0,
+    "Nessuna offerta fotovoltaico o efficienza per clienti su beyfin.it e devraenergia.it",
+    "https://www.beyfin.it/sitemap.xml",
+    "ver"
+   ]
+  },
+  "ala": {
+   "marchi": [
+    [
+     "Ala Carburanti",
+     "https://www.alacarburanti.com/"
+    ],
+    [
+     "Black Card",
+     "https://www.alacarburanti.com/black-card/"
+    ],
+    [
+     "Voucher Black Onyx",
+     "https://www.alacarburanti.com/black-card/"
+    ],
+    [
+     "Ala Energy",
+     "https://www.alacarburanti.com/ala-energy/"
+    ],
+    [
+     "Gradi Gualtiero Group",
+     "https://www.gradigualtiero.com/"
+    ]
+   ],
+   "nota": "Esclusi perché fuori da carburanti ed energia: Ala Wash (autolavaggi), Scuola Guida Lucarelli e Ala Academy, Ala Real Estate, Ala Wears e Ala World (abbigliamento, gadget, raduni), Ala Point (bar). Da maggio 2025 Ala ha una partnership con IP (Gruppo API): marchio di terzi, non conta in gamma.",
+   "n": [
+    19,
+    "https://www.alacarburanti.com/carburanti/"
+   ],
+   "top": [
+    "S-Formula 100 Ottani e D-Formula ad alto cetano",
+    "https://www.alacarburanti.com/carburanti/"
+   ],
+   "carb": [
+    1,
+    "Super e Diesel",
+    "https://www.alacarburanti.com/carburanti/",
+    "dic"
+   ],
+   "prem": [
+    1,
+    "S-Formula 100 ottani, D-Formula alto cetano, D-Alpine con antigelo",
+    "https://www.alacarburanti.com/carburanti/",
+    "dic"
+   ],
+   "hvo": [
+    1,
+    "HVO 100 Infinity",
+    "https://www.alacarburanti.com/carburanti/",
+    "dic"
+   ],
+   "gpl": [
+    1,
+    "GPL auto",
+    "https://www.alacarburanti.com/carburanti/",
+    "dic"
+   ],
+   "met": [
+    1,
+    "Metano auto",
+    "https://www.alacarburanti.com/carburanti/",
+    "dic"
+   ],
+   "ev": [
+    0,
+    "Nessuna ricarica elettrica su alacarburanti.com né su gradigualtiero.com",
+    "https://www.alacarburanti.com/carburanti/",
+    "ver"
+   ],
+   "card": [
+    1,
+    "Black Card: Black Diamond (ricaricabile) e Black Gold (fattura quindicinale, dilazione 20 giorni)",
+    "https://www.alacarburanti.com/black-card/",
+    "dic"
+   ],
+   "buoni": [
+    1,
+    "Voucher Black Onyx da 50, 100, 250 € per welfare aziendale",
+    "https://www.alacarburanti.com/black-card/",
+    "dic"
+   ],
+   "lub": [
+    1,
+    "10 referenze a marchio Ala: 0W-20, 0W-30, 5W-30, 5W-40, 10W-40, 2T, antigelo",
+    "https://www.alacarburanti.com/lubrificanti/",
+    "dic"
+   ],
+   "adb": [
+    1,
+    "AdBlue Ala Carburanti",
+    "https://www.alacarburanti.com/carburanti/",
+    "dic"
+   ],
+   "luce": [
+    1,
+    "Ala Energy: offerte luce per casa e attività, preventivo in stazione",
+    "https://www.alacarburanti.com/ala-energy/",
+    "dic"
+   ],
+   "gas": [
+    1,
+    "Ala Energy: offerte gas per casa e attività",
+    "https://www.alacarburanti.com/ala-energy/",
+    "dic"
+   ],
+   "tlc": [
+    0,
+    "Nessuna offerta fibra o telefonia",
+    "https://www.alacarburanti.com/",
+    "ver"
+   ],
+   "eff": [
+    0,
+    "Nessuna offerta fotovoltaico o efficienza",
+    "https://www.alacarburanti.com/",
+    "ver"
+   ],
+   "nuovi": [
+    {
+     "nome": "Ala Energy",
+     "cat": "Luce e gas",
+     "d": "2025-11-05",
+     "prezzo": "",
+     "nota": "Il distributore entra nella vendita di luce e gas, con preventivi raccolti nelle stazioni.",
+     "u": "https://www.alacarburanti.com/ala-energy/",
+     "s": "dic"
+    }
+   ]
+  },
+  "enerpetroli": {
+   "marchi": [
+    [
+     "Enerpetroli",
+     "https://www.enerpetroli.it/"
+    ],
+    [
+     "Enercard FUEL",
+     "https://www.enerpetroli.it/enercard-fuel/"
+    ],
+    [
+     "Buoni multiuso Enerpetroli",
+     "https://www.enerpetroli.it/buoni-multiuso/"
+    ],
+    [
+     "Enercafè",
+     "https://www.enerpetroli.it/enercafe/"
+    ],
+    [
+     "Esso (in licenza dal 2015)",
+     "https://www.enerpetroli.it/partner/"
+    ],
+    [
+     "Enerpetroli SEA (distributori marina)",
+     "https://www.fourstarspetroleum.com/gruppo/enerpetroli-sea/"
+    ],
+    [
+     "Four Stars Petroleum (gruppo)",
+     "https://www.fourstarspetroleum.com/"
+    ]
+   ],
+   "nota": "Del gruppo Four Stars Petroleum sono esclusi Nova Invest (immobili), Alma Energia (manutenzione degli immobili del gruppo, non vende energia) ed E.Logistic (trasporto carburanti): nessuna offerta ai clienti. Esso Synergy è un marchio di terzi usato in licenza: conta come carburante additivato venduto, non come linea propria. Lubrificanti di altri marchi, non a marchio Enerpetroli.",
+   "n": [
+    9,
+    "https://www.enerpetroli.it/prodotti-per-veicoli/"
+   ],
+   "top": [
+    "ESSO Synergy Supreme+ diesel (53 cetano) sulla rete Esso",
+    "https://www.enerpetroli.it/prodotti-per-veicoli/"
+   ],
+   "carb": [
+    1,
+    "Benzina super senza piombo 95 e gasolio EN 590; in extrarete gasolio e benzina agricoli, gasolio riscaldamento",
+    "https://www.enerpetroli.it/prodotti-per-veicoli/",
+    "dic"
+   ],
+   "prem": [
+    1,
+    "ESSO Synergy e Synergy Supreme+ diesel (marchio Esso in licenza)",
+    "https://www.enerpetroli.it/prodotti-per-veicoli/",
+    "dic"
+   ],
+   "hvo": [
+    1,
+    "HVO da febbraio 2025 su punti vendita selezionati",
+    "https://www.enerpetroli.it/prodotti-per-veicoli/",
+    "dic"
+   ],
+   "gpl": [
+    1,
+    "GPL auto",
+    "https://www.enerpetroli.it/prodotti-per-veicoli/",
+    "dic"
+   ],
+   "met": [
+    1,
+    "Metano CNG, rete in potenziamento con Greenture (Snam)",
+    "https://www.enerpetroli.it/prodotti-per-veicoli/",
+    "dic"
+   ],
+   "ev": [
+    1,
+    "Colonnine di ricarica sulle stazioni, con Be Charge e FREEtoX",
+    "https://www.enerpetroli.it/prodotti-per-veicoli/",
+    "dic"
+   ],
+   "card": [
+    1,
+    "Enercard FUEL in conto corrente o prepagata, gratuita",
+    "https://www.enerpetroli.it/enercard-fuel/",
+    "dic"
+   ],
+   "buoni": [
+    1,
+    "Buoni multiuso da 10 € in carnet da 10",
+    "https://www.enerpetroli.it/buoni-multiuso/",
+    "dic"
+   ],
+   "lub": [
+    1,
+    "Lubrificanti, grassi e refrigeranti «dei migliori marchi» (non a marchio proprio)",
+    "https://www.enerpetroli.it/prodotti-per-veicoli/",
+    "dic"
+   ],
+   "adb": [
+    1,
+    "AdBlue",
+    "https://www.enerpetroli.it/prodotti-per-veicoli/",
+    "dic"
+   ],
+   "luce": [
+    0,
+    "Nessuna offerta luce su enerpetroli.it né sui siti del gruppo Four Stars Petroleum",
+    "https://www.fourstarspetroleum.com/",
+    "ver"
+   ],
+   "gas": [
+    1,
+    "Gas naturale per uso domestico e commerciale dal 2022, subentro nei contratti Bluègas",
+    "https://www.enerpetroli.it/prodotti-extrarete/",
+    "dic"
+   ],
+   "tlc": [
+    0,
+    "Nessuna offerta fibra o telefonia",
+    "https://www.enerpetroli.it/",
+    "ver"
+   ],
+   "eff": [
+    0,
+    "Nessuna offerta fotovoltaico o efficienza",
+    "https://www.enerpetroli.it/",
+    "ver"
+   ],
+   "nuovi": [
+    {
+     "nome": "HVO sulla rete Enerpetroli",
+     "cat": "Carburanti",
+     "d": "2026-02-17",
+     "prezzo": "",
+     "nota": "Biocarburante HVO sui punti vendita selezionati, con brochure dedicata.",
+     "u": "https://www.enerpetroli.it/news/hvo-nuovo-carburante/",
+     "s": "dic"
+    }
+   ]
+  },
+  "estra": {
+   "marchi": [
+    [
+     "Estra (Estra Energie)",
+     "https://aliaestra.it/"
+    ],
+    [
+     "AliaEstra (canale commerciale del gruppo Plures)",
+     "https://aliaestra.it/gruppo"
+    ],
+    [
+     "Estracom (fibra e TLC)",
+     "https://aliaestra.it/aiuto-e-guide/energy/informazioni-utili-tlc/offerte-sottoscrivibili"
+    ],
+    [
+     "Estra Prometeo",
+     "https://www.estraprometeo.it/"
+    ],
+    [
+     "Estra Clima",
+     "https://corporate.estra.it/struttura-del-gruppo/estra-clima"
+    ]
+   ],
+   "nota": "estra.it oggi reindirizza ad aliaestra.it (gruppo Plures, con Alia). Esclusi: Centria, Gergas, EDMA Reti Gas, AES Fano e SIG (distribuzione gas regolata, non vendita), Ecolat e Alia servizi ambientali (rifiuti), Idrogenera e le società di impianti solari ed eolici (produzione). Il profilo del gruppo cita la fornitura di GPL, ma estragpl.it reindirizza ad aliaestra.it e non c'è alcuna offerta di GPL per auto.",
+   "n": [
+    35,
+    "https://aliaestra.it/sitemap-1.xml"
+   ],
+   "top": [
+    "Buon Vento: luce da energia eolica autoprodotta, primo PPA retail 100% eolico",
+    "https://corporate.estra.it/posts/bulletin/comunicato-estra-inizia-a-vendere-lenergia-autoprodotta"
+   ],
+   "carb": [
+    0,
+    "Nessun carburante per autotrazione nei siti del gruppo",
+    "https://corporate.estra.it/investor-relations/struttura-del-gruppo",
+    "ver"
+   ],
+   "prem": [
+    0,
+    "Nessun carburante nei siti del gruppo",
+    "https://corporate.estra.it/investor-relations/struttura-del-gruppo",
+    "ver"
+   ],
+   "hvo": [
+    0,
+    "Nessun carburante nei siti del gruppo",
+    "https://corporate.estra.it/investor-relations/struttura-del-gruppo",
+    "ver"
+   ],
+   "gpl": [
+    0,
+    "Nessun GPL auto: il GPL citato nel profilo è fornitura, senza distributori stradali",
+    "https://corporate.estra.it/investor-relations/struttura-del-gruppo",
+    "ver"
+   ],
+   "met": [
+    0,
+    "Nessun metano per auto; vende gas naturale per usi civili",
+    "https://corporate.estra.it/investor-relations/struttura-del-gruppo",
+    "ver"
+   ],
+   "ev": [
+    0,
+    "Nessuna offerta di ricarica nella sitemap di aliaestra.it",
+    "https://aliaestra.it/sitemap-1.xml",
+    "ver"
+   ],
+   "card": [
+    0,
+    "Nessuna carta carburante",
+    "https://corporate.estra.it/investor-relations/struttura-del-gruppo",
+    "ver"
+   ],
+   "buoni": [
+    0,
+    "Nessun buono carburante",
+    "https://corporate.estra.it/investor-relations/struttura-del-gruppo",
+    "ver"
+   ],
+   "lub": [
+    0,
+    "Nessun lubrificante",
+    "https://corporate.estra.it/investor-relations/struttura-del-gruppo",
+    "ver"
+   ],
+   "adb": [
+    0,
+    "Nessun AdBlue o additivo",
+    "https://corporate.estra.it/investor-relations/struttura-del-gruppo",
+    "ver"
+   ],
+   "luce": [
+    1,
+    "Estra Facile Fix Luce 24, Scudo 24 Luce, Unica Flex Luce, Natura Luce e offerte impresa",
+    "https://aliaestra.it/luce-e-gas/offerte-luce",
+    "dic"
+   ],
+   "gas": [
+    1,
+    "Scudo 24 Gas, Estra Natura Gas, Unica Fix Gas e offerte impresa",
+    "https://aliaestra.it/luce-e-gas/offerte-gas",
+    "dic"
+   ],
+   "tlc": [
+    1,
+    "Scelta Pura Fibra 1 Giga, ON 100 casa, ON 20 casa, ON AIR casa (Estracom)",
+    "https://aliaestra.it/aiuto-e-guide/energy/informazioni-utili-tlc/offerte-sottoscrivibili",
+    "dic"
+   ],
+   "eff": [
+    1,
+    "Fotovoltaico casa, condominio e aziende; caldaie, climatizzatori, telecalore, comunità energetiche",
+    "https://aliaestra.it/efficienza/fotovoltaico",
+    "dic"
+   ],
+   "nuovi": [
+    {
+     "nome": "Buon Vento",
+     "cat": "Luce",
+     "d": "2026-11-23",
+     "prezzo": "",
+     "nota": "Estra vende ai clienti l'energia dei propri impianti eolici con un PPA retail.",
+     "u": "https://corporate.estra.it/posts/bulletin/comunicato-estra-inizia-a-vendere-lenergia-autoprodotta",
+     "s": "dic"
+    }
+   ]
+  },
+  "umbriaenergy": {
+   "marchi": [
+    [
+     "Umbria Energy",
+     "https://www.umbriaenergy.it/"
+    ],
+    [
+     "Umbria Energy Eco (efficienza e mobilità)",
+     "https://www.umbriaenergy.it/efficienza-energetica"
+    ],
+    [
+     "Umbria Energy Mobility (app di ricarica)",
+     "https://www.umbriaenergy.it/e-mobility"
+    ]
+   ],
+   "nota": "Plenitude (Eni) è socio al 50% da aprile 2026: è il marchio dell'azionista, non di Umbria Energy, e resta fuori. umbriaenergyeco.it reindirizza al sito principale. E-bike e test drive di auto elettriche non hanno un asse.",
+   "n": [
+    10,
+    "https://www.umbriaenergy.it/offerte-casa"
+   ],
+   "top": [
+    "Luce Web e Gas Web, offerte solo digitali",
+    "https://www.umbriaenergy.it/offerte-casa"
+   ],
+   "carb": [
+    0,
+    "Nessun carburante",
+    "https://www.umbriaenergy.it/",
+    "ver"
+   ],
+   "prem": [
+    0,
+    "Nessun carburante",
+    "https://www.umbriaenergy.it/",
+    "ver"
+   ],
+   "hvo": [
+    0,
+    "Nessun carburante",
+    "https://www.umbriaenergy.it/",
+    "ver"
+   ],
+   "gpl": [
+    0,
+    "Nessun carburante",
+    "https://www.umbriaenergy.it/",
+    "ver"
+   ],
+   "met": [
+    0,
+    "Nessun carburante",
+    "https://www.umbriaenergy.it/",
+    "ver"
+   ],
+   "ev": [
+    1,
+    "Rete di ricarica diretta Umbria Energy, 0,70 €/kWh, app interoperabile; wallbox private",
+    "https://www.umbriaenergy.it/e-mobility",
+    "dic"
+   ],
+   "card": [
+    0,
+    "Nessuna carta carburante",
+    "https://www.umbriaenergy.it/",
+    "ver"
+   ],
+   "buoni": [
+    0,
+    "Nessun buono carburante",
+    "https://www.umbriaenergy.it/",
+    "ver"
+   ],
+   "lub": [
+    0,
+    "Nessun lubrificante",
+    "https://www.umbriaenergy.it/",
+    "ver"
+   ],
+   "adb": [
+    0,
+    "Nessun AdBlue o additivo",
+    "https://www.umbriaenergy.it/",
+    "ver"
+   ],
+   "luce": [
+    1,
+    "Luce Web, Consumer, Medium, Over; Luce B2B; Placet",
+    "https://www.umbriaenergy.it/offerte-casa",
+    "dic"
+   ],
+   "gas": [
+    1,
+    "Gas Web, Consumer, Medium, Over; Gas B2B; Placet",
+    "https://www.umbriaenergy.it/offerte-casa",
+    "dic"
+   ],
+   "tlc": [
+    0,
+    "Nessuna offerta fibra o telefonia",
+    "https://www.umbriaenergy.it/",
+    "ver"
+   ],
+   "eff": [
+    1,
+    "Fotovoltaico, solare termico, caldaie, climatizzatori, wallbox; ESCo certificata; comunità energetica «Insieme Sostenibili»",
+    "https://www.umbriaenergy.it/efficienza-energetica",
+    "dic"
+   ]
+  }
+ },
+ "an": [
+  "Questa è una valutazione basata sui siti ufficiali letti il 28/11/2026. Forini, con i quattro marchi ACTON, copre 11 voci su 14: è l'unica azienda del gruppo che mette insieme carburanti con marchio proprio, carta carburante, lubrificanti con marchio proprio, luce e gas, fibra e fotovoltaico. Enerpetroli e Ala arrivano anche loro a 11 voci, ma quasi tutte sul lato carburanti, più il gas (Enerpetroli) o luce e gas con Ala Energy (Ala), senza fibra né fotovoltaico; Estra e Umbria Energy si fermano a 4, tutte sul lato energia.",
+  "Dove ACTON è rara: la fibra con telefonia la vende solo con Estra; fotovoltaico ed efficienza li hanno solo ACTON, Estra e Umbria Energy, e nessun altro distributore di carburanti. Sul carburante premium la differenza è nel modo: ACTON additiva tutti e cinque i carburanti e li vende «senza costi aggiuntivi», Ala ha linee premium proprie a parte (S-Formula, D-Formula), Enerpetroli vende Esso Synergy con un marchio di terzi in licenza, Beyfin non ha un premium.",
+  "Dove le manca qualcosa: GPL, metano e HVO li hanno tutti e tre i concorrenti carburanti (Beyfin, Ala, Enerpetroli) e ACTON no. Su queste tre voci ACTON è l'unica distributrice del gruppo a non esserci, ed è il buco più visibile per chi guida a gas o gestisce flotte che chiedono biocarburanti. Anche la ricarica elettrica è debole: ACTON installa colonnine private, mentre Umbria Energy ha una rete pubblica propria e Enerpetroli ha colonnine sulle stazioni con Be Charge.",
+  "Il lato energia si sta affollando: Beyfin vende luce e gas con Devra Energia, Ala ha lanciato Ala Energy a novembre 2025, Enerpetroli vende gas dal 2022. Il modello «carburante + bolletta» di ACTON non è più un'esclusiva fra i distributori: la differenza ora sta nella fibra, nel fotovoltaico e nel consulente personale. Come numero di offerte di luce e gas, ACTON ne ha 6 (oltre a Placet) contro le circa 35 pagine di offerta di Estra e le 10 di Umbria Energy.",
+  "Limiti: i lubrificanti Acton Lubes non si possono contare perché il sito actonlubes.forini.com non risponde; le voci vengono dalle pagine Acton e dai post Facebook. Il conteggio «Prodotti» mette insieme carburanti, lubrificanti e offerte e serve solo a dare un'idea dell'ampiezza: vedi la nota sotto la tabella."
+ ]
+}

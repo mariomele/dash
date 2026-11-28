@@ -1,0 +1,8 @@
+{
+  "forini": { "q": "Forini Bastia Umbra OR \"Acton\" carburanti OR \"Acton Energia\"", "k": ["forini", "acton"], "x": "acton mass|acton ma|acton town|lord acton" },
+  "beyfin": { "q": "Beyfin", "k": ["beyfin"] },
+  "ala": { "q": "\"Ala Carburanti\"", "k": ["ala carburanti"] },
+  "enerpetroli": { "q": "Enerpetroli OR \"Four Stars Petroleum\"", "k": ["enerpetroli", "four stars"] },
+  "estra": { "q": "Estra energia luce gas", "k": ["estra"], "x": "extra|estrazione|estradiol" },
+  "umbriaenergy": { "q": "\"Umbria Energy\"", "k": ["umbria energy"] }
+}

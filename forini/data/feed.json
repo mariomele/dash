@@ -1,0 +1,570 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "n": "Metodo: per 3 marchi con pagina LinkedIn attiva (Forini, Beyfin, Estra) letti 9 post ciascuno con ScrapeCreators (endpoint post singolo, 1 credito a post; URL dalla pagina aziendale, 1 credito per pagina). Copertine scaricate dal CDN LinkedIn, ridotte a 300x300 e guardate una per una: la copertina del video Forini sulla Festa del Borgo (14/10) è quasi tutta nera, quella del video Estra all'ANCI (27/11) è un riquadro piccolo su fondo nero; il post Beyfin del 2/9 è solo testo (escluso dalle copertine). Reazioni = like al 27/11/2026; post al mese = 10 post della pagina sul periodo che coprono (Forini dall'8/9, Beyfin dal 17/7, Estra dal 28/10). Umbria Energy (pagina senza follower né post leggibili), Ala Carburanti (solo profilo personale) ed Enerpetroli (nessuna pagina trovata) non sono in classifica. I voti 1-5 vengono da un panel simulato di 3 esperti: strategist social B2B, art director e buyer (gestore di flotta o cliente business di carburanti e luce-gas). Valutazione indicativa, non un test con utenti. In 'ig' una classifica Instagram con i soli voti calcolati dai numeri (Follower 1, Reazioni medie 1, Post al mese 1, Reazioni ogni 100 follower 1,5), senza voti del panel perché le copertine Instagram non sono state guardate.",
+ "crit": [
+  {
+   "k": "coer",
+   "t": "Coerenza visiva"
+  },
+  {
+   "k": "img",
+   "t": "Qualità immagini"
+  },
+  {
+   "k": "var",
+   "t": "Varietà formati"
+  },
+  {
+   "k": "vero",
+   "t": "Persone e prodotto vero"
+  },
+  {
+   "k": "msg",
+   "t": "Chiarezza messaggio"
+  },
+  {
+   "k": "val",
+   "t": "Valore del contenuto"
+  },
+  {
+   "k": "tono",
+   "t": "Tono di voce per LinkedIn"
+  },
+  {
+   "k": "fol",
+   "t": "Follower",
+   "d": "Calcolato dai numeri: 1 sotto 3.000 · 2 da 3.000 · 3 da 10.000 · 4 da 30.000 · 5 da 100.000"
+  },
+  {
+   "k": "eng",
+   "t": "Reazioni medie a post",
+   "d": "Calcolato dai numeri: 1 sotto 30 · 2 da 30 · 3 da 50 · 4 da 100 · 5 da 200"
+  },
+  {
+   "k": "freq",
+   "t": "Post al mese",
+   "d": "Calcolato dai numeri: 1 sotto 2 · 2 da 2 · 3 da 4 · 4 da 8 · 5 da 15"
+  },
+  {
+   "k": "r100",
+   "t": "Reazioni ogni 100 follower",
+   "d": "Calcolato dai numeri: 1 sotto 0,1 · 2 da 0,1 · 3 da 0,3 · 4 da 0,6 · 5 da 1,5"
+  }
+ ],
+ "items": [
+  {
+   "id": "beyfin",
+   "nome": "Beyfin",
+   "u": "https://www.linkedin.com/company/beyfin-sapa/",
+   "f": 4329,
+   "pm": 2.3,
+   "mix": {
+    "immagine": 6,
+    "video": 0,
+    "carosello": 2,
+    "testo": 1
+   },
+   "rmed": 42.6,
+   "post": [
+    {
+     "img": "logos/feed/beyfin-1.jpg",
+     "u": "https://it.linkedin.com/posts/beyfin-sapa_alleghe-riqualificare-societ%C3%A0benefit-activity-7525568929164058624-Eg_d",
+     "d": "2026-11-09",
+     "ty": "immagine",
+     "r": 34,
+     "t": "Nuova veste, stessa attenzione alle persone e al territorio: si rinnova il punto"
+    },
+    {
+     "img": "logos/feed/beyfin-2.jpg",
+     "u": "https://it.linkedin.com/posts/beyfin-sapa_beyfin-storia-firenze-activity-7521522906108149760-mNHM",
+     "d": "2026-10-29",
+     "ty": "carosello",
+     "r": 136,
+     "t": "1956 – 2026: Gala di Beyfin al Teatro della Pergola. Uno dei teatri più belli al"
+    },
+    {
+     "img": "logos/feed/beyfin-3.jpg",
+     "u": "https://it.linkedin.com/posts/beyfin-sapa_beyfin-bboat-biopropano-activity-7519049165012770816-eoAx",
+     "d": "2026-10-22",
+     "ty": "immagine",
+     "r": 47,
+     "t": "L'energia di Beyfin prende il largo. Con B-Boat, il BioPropano sale a bordo."
+    },
+    {
+     "img": "logos/feed/beyfin-4.jpg",
+     "u": "https://it.linkedin.com/posts/beyfin-sapa_solidariet%C3%A0-strategia-valore-activity-7512810115708710913-V5Bi",
+     "d": "2026-10-05",
+     "ty": "immagine",
+     "r": 57,
+     "t": "«La #solidarietà non dovrebbe mai essere vista come una #strategia, ma come un #"
+    },
+    {
+     "img": "logos/feed/beyfin-5.jpg",
+     "u": "https://it.linkedin.com/posts/beyfin-sapa_turismooutdoor-community-passione-activity-7510348986516402176-4Yop",
+     "d": "2026-09-28",
+     "ty": "immagine",
+     "r": 20,
+     "t": "In viaggio con l'Energia Umana al Salone del Camper di Parma."
+    },
+    {
+     "img": "logos/feed/beyfin-6.jpg",
+     "u": "https://it.linkedin.com/posts/beyfin-sapa_trasparenza-sostenibilit%C3%A0-squadra-activity-7505562388277051392-2tzU",
+     "d": "2026-09-15",
+     "ty": "immagine",
+     "r": 24,
+     "t": "Lo Stile dell'Energia: pubblicati il Bilancio di Sostenibilità e la Relazione d'"
+    }
+   ],
+   "v": {
+    "coer": 4,
+    "img": 4,
+    "var": 2,
+    "vero": 3,
+    "msg": 4,
+    "val": 3,
+    "tono": 3,
+    "fol": 2,
+    "eng": 2,
+    "freq": 2,
+    "r100": 4
+   },
+   "media": 3.11,
+   "verd": "Prima delle tre (3,11, Nella norma): immagini curate e marchio sempre riconoscibile (quadrifoglio verde), con numeri veri nel bilancio di sostenibilità (111 stazioni, 387 dipendenti). Quasi solo foto singole, nessun video, e testi lunghi pieni di hashtag.",
+   "pro": [
+    "Foto professionali: la stazione di Alleghe, la BBoat, il gala dei 70 anni",
+    "Marchio coerente in ogni post",
+    "Dati concreti: 111 stazioni, 387 dipendenti, 475.000 euro a 18 progetti"
+   ],
+   "contro": [
+    "Nessun video nei 9 post letti",
+    "Testi lunghi con hashtag dentro le frasi",
+    "Meno di 3 post al mese"
+   ],
+   "fix": "Portare su LinkedIn i video brevi già usati negli annunci (BBox, BBoat) e accorciare i testi a 5-6 righe con un solo invito.",
+   "cls": "Nella norma",
+   "panel": {
+    "ss": "Circa 2,3 post al mese e 43 reazioni medie su 4.329 follower (0,98 ogni 100): buona risposta ma ritmo basso e formati poco vari.",
+    "ad": "Il feed più curato del confronto: foto di qualità, verde del quadrifoglio costante. Manca il movimento: nessun video.",
+    "buyer": "Capisco bene cosa vende (GPL, carburanti, bombole BBox) e trovo numeri; i testi però sembrano comunicati stampa."
+   },
+   "w": 4,
+   "wv": "Pagina professionale e coerente, sopra la media del settore ma statica: 4.",
+   "k": "Nella norma",
+   "e": "Feed curato con numeri veri, ma senza video",
+   "x": [
+    [
+     "Il più curato",
+     "Foto professionali e quadrifoglio sempre presente: il marchio si riconosce subito."
+    ],
+    [
+     "Tutto fermo",
+     "Solo foto e un post di solo testo: nessun video in 9 post."
+    ],
+    [
+     "Numeri veri",
+     "Bilancio di sostenibilità con stazioni, dipendenti ed euro ai progetti."
+    ]
+   ],
+   "lez": "Coerenza grafica e numeri concreti rendono credibile anche un distributore regionale: Forini può farlo con il suo report di sostenibilità.",
+   "r100": 0.98
+  },
+  {
+   "id": "estra",
+   "nome": "Estra",
+   "u": "https://www.linkedin.com/company/estra-spa/",
+   "f": 9804,
+   "pm": 9.8,
+   "mix": {
+    "immagine": 5,
+    "video": 3,
+    "carosello": 1,
+    "testo": 0
+   },
+   "rmed": 20.7,
+   "post": [
+    {
+     "img": "logos/feed/estra-1.jpg",
+     "u": "https://it.linkedin.com/posts/estra-spa_anci-estra-anci2026-activity-7532085083789246464-rmg3",
+     "d": "2026-11-27",
+     "ty": "immagine",
+     "r": 39,
+     "t": "Ultima giornata a Verona per la 43a Assemblea annuale #ANCI. Smart City e digita"
+    },
+    {
+     "img": "logos/feed/estra-2.jpg",
+     "u": "https://it.linkedin.com/posts/estra-spa_anci2026-energia-multiutility-activity-7532042212000333825-ah1S",
+     "d": "2026-11-27",
+     "ty": "video",
+     "r": 6,
+     "t": "Produrre più energia da fonti rinnovabili per offrirla direttamente a famiglie e"
+    },
+    {
+     "img": "logos/feed/estra-3.jpg",
+     "u": "https://it.linkedin.com/posts/estra-spa_parcoeolico-estra-energierinnovabili-activity-7530594890393636864-FvLI",
+     "d": "2026-11-23",
+     "ty": "immagine",
+     "r": 39,
+     "t": "Dalla produzione alla vendita: dal 1° gennaio 2027 160 GWh annui di energia rinn"
+    },
+    {
+     "img": "logos/feed/estra-4.jpg",
+     "u": "https://it.linkedin.com/posts/estra-spa_programma-eventi-estra-plures-anci-2026-activity-7529493561059254274-RbJU",
+     "d": "2026-11-20",
+     "ty": "carosello",
+     "r": 18,
+     "t": "Estra Plures alla 43a Assemblea annuale ANCI: il programma degli incontri allo s"
+    },
+    {
+     "img": "logos/feed/estra-5.jpg",
+     "u": "https://it.linkedin.com/posts/estra-spa_centria-transizioneenergetica-smartgrid-activity-7526991233638887425-4Md2",
+     "d": "2026-11-13",
+     "ty": "immagine",
+     "r": 44,
+     "t": "Il futuro delle reti gas passa dalla loro evoluzione in Smart Grid integrate, bi"
+    },
+    {
+     "img": "logos/feed/estra-6.jpg",
+     "u": "https://it.linkedin.com/posts/estra-spa_ortofruttetosolidalediffuso-sostenibilit%C3%A0-activity-7525585698373033984-_pho",
+     "d": "2026-11-09",
+     "ty": "immagine",
+     "r": 15,
+     "t": "Alla Casa Circondariale “La Dogaia” di Prato abbiamo contribuito alla realizzazi"
+    }
+   ],
+   "v": {
+    "coer": 3,
+    "img": 3,
+    "var": 4,
+    "vero": 3,
+    "msg": 3,
+    "val": 4,
+    "tono": 3,
+    "fol": 2,
+    "eng": 1,
+    "freq": 4,
+    "r100": 2
+   },
+   "media": 2.93,
+   "verd": "Seconda (2,93, Nella norma): la pagina più attiva (circa 10 post al mese) e con più contenuto tecnico (PPA eolico da 160 GWh, smart grid), ma il pubblico più grande risponde poco: 21 reazioni medie su 9.804 follower, 0,21 ogni 100.",
+   "pro": [
+    "Contenuti con dati: 160 GWh, 17% del portafoglio, 500 milioni in rinnovabili",
+    "Ritmo alto con video, foto e documenti",
+    "Manager e presidente con nome"
+   ],
+   "contro": [
+    "Risposta bassa: 0,21 reazioni ogni 100 follower",
+    "Copertina del video ANCI piccola dentro bande nere",
+    "Temi che saltano: ANCI, scuole, carcere, smart grid"
+   ],
+   "fix": "Meno post istituzionali e più spiegazioni per il cliente: cosa cambia in bolletta con l'offerta «Buon Vento».",
+   "cls": "Nella norma",
+   "panel": {
+    "ss": "Circa 10 post al mese ma solo 21 reazioni medie su 9.804 follower: tanto volume, poca conversazione.",
+    "ad": "Bolle viola e arancio riconoscibili su alcune foto, ma la copertina del video intervista è un riquadro piccolo su fondo nero.",
+    "buyer": "Il post sul parco eolico mi dà numeri utili; gli altri parlano ai Comuni soci più che a famiglie e imprese."
+   },
+   "w": 4,
+   "wv": "Comunicazione da multiutility seria e ricca di dati ma fredda: 4.",
+   "k": "Nella norma",
+   "e": "Molto attiva e tecnica, pubblico poco coinvolto",
+   "x": [
+    [
+     "Tanto e tecnico",
+     "Circa 10 post al mese con dati su eolico, idrogeno e smart grid."
+    ],
+    [
+     "Pubblico freddo",
+     "0,21 reazioni ogni 100 follower, la risposta più bassa del confronto."
+    ],
+    [
+     "Parla ai Comuni",
+     "ANCI e pubblica amministrazione prima del cliente finale."
+    ]
+   ],
+   "lez": "Un'offerta spiegata con i numeri (come «Buon Vento») è il tipo di post che manca a Forini per Acton Energia.",
+   "r100": 0.21
+  },
+  {
+   "id": "forini",
+   "nome": "Forini (ACTON)",
+   "u": "https://www.linkedin.com/company/forinispa-acton/",
+   "f": 1204,
+   "pm": 3.8,
+   "mix": {
+    "immagine": 3,
+    "video": 4,
+    "carosello": 2,
+    "testo": 0
+   },
+   "rmed": 34.3,
+   "post": [
+    {
+     "img": "logos/feed/forini-1.jpg",
+     "u": "https://it.linkedin.com/posts/forinispa-acton_donne-forini-diritto-activity-7531398300135018496-g-ib",
+     "d": "2026-11-25",
+     "ty": "video",
+     "r": 30,
+     "t": "Un insieme di foto per un solo messaggio! Per le #donne di #Forini e quelle di t"
+    },
+    {
+     "img": "logos/feed/forini-2.jpg",
+     "u": "https://it.linkedin.com/posts/forinispa-acton_olionovo-dottorrenzo-tradizioni-activity-7517986893062545410-amWQ",
+     "d": "2026-10-19",
+     "ty": "video",
+     "r": 26,
+     "t": "Ci sono tradizioni che raccontano chi siamo senza bisogno di tante parole. Una f"
+    },
+    {
+     "img": "logos/feed/forini-3.jpg",
+     "u": "https://it.linkedin.com/posts/forinispa-acton_rimini-fedtadelborgo-territorio-activity-7516034237616087040-NVbM",
+     "d": "2026-10-14",
+     "ty": "video",
+     "r": 26,
+     "t": "L'energia più importante è quella che nasce dall'incontro tra le persone. Il 10 "
+    },
+    {
+     "img": "logos/feed/forini-4.jpg",
+     "u": "https://it.linkedin.com/posts/forinispa-acton_formazione-confronto-condivisione-activity-7513185731947954176-q90q",
+     "d": "2026-10-06",
+     "ty": "immagine",
+     "r": 37,
+     "t": "Una rete cresce quando cresce la qualità delle persone che ne fanno parte. Duran"
+    },
+    {
+     "img": "logos/feed/forini-5.jpg",
+     "u": "https://it.linkedin.com/posts/forinispa-acton_volleyacademybastia-pallavolo-giovani-activity-7512776499192737792-0VA7",
+     "d": "2026-10-05",
+     "ty": "immagine",
+     "r": 41,
+     "t": "Ci sono progetti che parlano di sport, poi ci sono progetti che parlano di perso"
+    },
+    {
+     "img": "logos/feed/forini-6.jpg",
+     "u": "https://it.linkedin.com/posts/forinispa-acton_paliodesanmichele-passione-appartenenza-activity-7511814931218878465-csnI",
+     "d": "2026-10-02",
+     "ty": "carosello",
+     "r": 30,
+     "t": "ACTON: L’ENERGIA DELLA TUA CITTÀ! Ci sono tanti modi per essere parte di un terr"
+    }
+   ],
+   "v": {
+    "coer": 2,
+    "img": 2,
+    "var": 4,
+    "vero": 4,
+    "msg": 2,
+    "val": 2,
+    "tono": 3,
+    "fol": 1,
+    "eng": 2,
+    "freq": 2,
+    "r100": 5
+   },
+   "media": 2.75,
+   "verd": "Ultima delle tre pagine (2,75, Debole), ma con la risposta più alta per follower: 34 reazioni medie su 1.204 follower, 2,85 ogni 100. Persone vere e territorio (riunione commerciale, ACTON POINT di Rimini, Palio de San Michele), ma copertine disomogenee e quasi niente su carburanti e offerte luce-gas.",
+   "pro": [
+    "Persone vere: squadra commerciale, famiglia, apertura dell'ACTON POINT",
+    "Il pubblico risponde: 2,85 reazioni ogni 100 follower",
+    "Mix di video, foto e caroselli"
+   ],
+   "contro": [
+    "Copertina video della Festa del Borgo quasi tutta nera",
+    "Ritaglio di giornale e locandina Olio Novo come immagini",
+    "Titoli in caratteri Unicode decorativi, poco leggibili e non accessibili",
+    "Il prodotto (Acton Fuel, offerte Acton Energia) non compare quasi mai"
+   ],
+   "fix": "Un post su tre dedicato al prodotto o al servizio (cosa cambia con Acton Fuel, come funziona l'ACTON POINT), con copertina scelta a mano e testo senza caratteri decorativi.",
+   "cls": "Debole",
+   "panel": {
+    "ss": "Quasi 4 post al mese e la risposta per follower migliore del confronto (2,85 ogni 100), ma su un pubblico piccolo: 1.204 follower.",
+    "ad": "Feed senza un'impaginazione riconoscibile: foto di gruppo ben riuscita accanto a un ritaglio di giornale, una locandina affollata e una copertina video nera.",
+    "buyer": "Capisco che è un'azienda di famiglia radicata in Umbria e Romagna; non capisco cosa mi vende né perché scegliere Acton Fuel."
+   },
+   "w": 3,
+   "wv": "Pagina di paese sincera e partecipata, ma visivamente trascurata e senza prodotto: livello da 3.",
+   "k": "Debole",
+   "e": "Persone vere e territorio, prodotto assente",
+   "x": [
+    [
+     "Piccola ma viva",
+     "1.204 follower ma 34 reazioni medie: chi segue la pagina la conosce di persona."
+    ],
+    [
+     "Copertine a caso",
+     "Ritagli di giornale, una locandina e una copertina nera: nessun modello grafico comune."
+    ],
+    [
+     "Manca il prodotto",
+     "Sponsorizzazioni e feste sì, carburanti speciali e luce-gas quasi mai."
+    ]
+   ],
+   "lez": "Il calore locale funziona: va agganciato a ciò che Forini vende, ad esempio l'ACTON POINT raccontato con le domande vere dei clienti.",
+   "r100": 2.85
+  }
+ ],
+ "pesi": {
+  "coer": 1.5,
+  "img": 1.5,
+  "var": 1,
+  "vero": 2,
+  "msg": 1,
+  "fol": 1,
+  "eng": 1,
+  "freq": 1,
+  "r100": 1.5,
+  "val": 1.5,
+  "tono": 1
+ },
+ "regola": "Media pesata di 11 voti. Sette li dà il panel guardando i post: Persone e prodotto vero 2, Coerenza visiva 1,5, Qualità immagini 1,5, Valore del contenuto 1,5 (il post è utile a chi compra: spiega, dà dati, mostra un caso cliente), Varietà formati 1, Chiarezza messaggio 1, Tono di voce per LinkedIn 1. Quattro sono calcolati dai numeri, con fasce fisse: Follower 1, Reazioni medie a post 1, Post al mese 1, Reazioni ogni 100 follower 1,5. Classi: ≥4 Riferimento, ≥3,3 Solido, ≥2,8 Nella norma, ≥2,1 Debole, altrimenti Da rifare.",
+ "cliente": {
+  "testo": "In testa Beyfin (3,11, Nella norma): il feed più curato, con foto professionali e numeri veri, ma solo foto e meno di 3 post al mese. Segue Estra (2,93, Nella norma), la più attiva e tecnica ma con la risposta più bassa per follower (0,21 ogni 100). Ultima Forini (2,75, Debole): il pubblico più piccolo (1.204 follower) ma il più partecipe (2,85 reazioni ogni 100), con persone e territorio veri e copertine disordinate; carburanti e offerte luce-gas quasi assenti.",
+  "copia": [
+   "Un modello grafico fisso per copertine e caroselli, come il quadrifoglio Beyfin",
+   "Numeri concreti nei post (stazioni, clienti, kWh), come Estra e Beyfin",
+   "Scegliere a mano la copertina di ogni video"
+  ],
+  "mosse": [
+   {
+    "t": "Serie «ACTON POINT risponde»: una domanda vera di un cliente a settimana",
+    "perche": "Porta il prodotto dentro il tono vicino che già funziona",
+    "costo": "basso"
+   },
+   {
+    "t": "Titoli in testo normale al posto dei caratteri Unicode decorativi",
+    "perche": "Leggibili da tutti, anche dai lettori di schermo e nella ricerca LinkedIn",
+    "costo": "basso"
+   },
+   {
+    "t": "Un video breve al mese su Acton Fuel con un dato misurato",
+    "perche": "Nei 9 post nessuno parla dei carburanti speciali",
+    "costo": "medio"
+   }
+  ]
+ },
+ "mondo": {
+  "n": "Scala mondiale 1-10 ancorata e severa. 10: le pagine LinkedIn migliori al mondo; 8: i migliori marchi energetici globali al loro meglio (livello Shell, Iberdrola); 6: eccellente per un distributore italiano di carburanti o energia; 5: buona pagina di settore; 4: corretta ma ordinaria; 3: debole in più punti; 2: trascurata; 1: da rifare. Nel settore la pagina tipica sta a 3-4 e nessuna supera 6. Valutazione solo indicativa.",
+  "top": [
+   {
+    "nome": "Iberdrola",
+    "perche": "Rinnovabili spiegate con persone, numeri e video brevi"
+   },
+   {
+    "nome": "Shell",
+    "perche": "Prodotto e tecnologia raccontati con un formato sempre riconoscibile"
+   },
+   {
+    "nome": "Enel",
+    "perche": "Ritmo alto e temi chiari per clienti, imprese e lavoro"
+   }
+  ]
+ },
+ "ig": {
+  "s": "val",
+  "n": "Solo voti calcolati dai numeri (fasce come LinkedIn, Reazioni ogni 100 follower = er Instagram), media pesata su 4 voti. Copertine non guardate. Attenzione: acton_energy (91 follower) è in testa solo perché 5 dei suoi 12 post sono reel pubblicati dalla Rimini Calcio (riminicalcio1912) con acton_energy coautore, quindi con like e visualizzazioni del pubblico della squadra; 7 dei 12 post di acton_fuel sono pubblicati dall'account @forini.spa (non nel piè di pagina dei siti, non letto) con acton_fuel coautore. Con pochi follower le reazioni ogni 100 follower esplodono: leggere sempre anche i numeri assoluti.",
+  "items": [
+   {
+    "id": "forini",
+    "acc": "acton_energy",
+    "u": "https://www.instagram.com/acton_energy/",
+    "f": 91,
+    "pm": 5.1,
+    "rmed": 222,
+    "r100": 243.96,
+    "reel": 0.58,
+    "v": {
+     "fol": 1,
+     "eng": 5,
+     "freq": 3,
+     "r100": 5
+    },
+    "media": 3.67
+   },
+   {
+    "id": "beyfin",
+    "acc": "beyfin_spa",
+    "u": "https://www.instagram.com/beyfin_spa/",
+    "f": 1196,
+    "pm": 8.7,
+    "rmed": 79,
+    "r100": 6.61,
+    "reel": 0.1,
+    "v": {
+     "fol": 1,
+     "eng": 3,
+     "freq": 4,
+     "r100": 5
+    },
+    "media": 3.44
+   },
+   {
+    "id": "ala",
+    "acc": "ala_carburanti",
+    "u": "https://www.instagram.com/ala_carburanti/",
+    "f": 4014,
+    "pm": 9.4,
+    "rmed": 45,
+    "r100": 1.12,
+    "reel": 0.83,
+    "v": {
+     "fol": 2,
+     "eng": 2,
+     "freq": 4,
+     "r100": 4
+    },
+    "media": 3.11
+   },
+   {
+    "id": "forini",
+    "acc": "acton_fuel",
+    "u": "https://www.instagram.com/acton_fuel/",
+    "f": 612,
+    "pm": 3.4,
+    "rmed": 88,
+    "r100": 14.38,
+    "reel": 0.58,
+    "v": {
+     "fol": 1,
+     "eng": 3,
+     "freq": 2,
+     "r100": 5
+    },
+    "media": 3.0
+   },
+   {
+    "id": "estra",
+    "acc": "estra_spa",
+    "u": "https://www.instagram.com/estra_spa/",
+    "f": 2899,
+    "pm": 11.1,
+    "rmed": 25,
+    "r100": 0.86,
+    "reel": 0.25,
+    "v": {
+     "fol": 1,
+     "eng": 1,
+     "freq": 4,
+     "r100": 4
+    },
+    "media": 2.67
+   },
+   {
+    "id": "umbriaenergy",
+    "acc": "umbriaenergy",
+    "u": "https://www.instagram.com/umbriaenergy/",
+    "f": 701,
+    "pm": 24.3,
+    "rmed": 3,
+    "r100": 0.43,
+    "reel": 0.17,
+    "v": {
+     "fol": 1,
+     "eng": 1,
+     "freq": 5,
+     "r100": 3
+    },
+    "media": 2.56
+   }
+  ]
+ }
+}

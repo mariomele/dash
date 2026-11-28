@@ -1,0 +1,91 @@
+{
+ "sales": {
+  "at": "2026-11-28",
+  "fonti": {
+   "aziende": "676016326d",
+   "storico": "858a9288aa",
+   "gamma": "ae372129f4",
+   "sedi": "553ed7137f",
+   "social": "7e704a0889",
+   "ads": "28c90791b1",
+   "seo": "585fcc9c34",
+   "seo2": "591f2923c9",
+   "osint": "8068a877c3",
+   "brandx": "181d33b842",
+   "sito": "af7e576813",
+   "geo2": "2a275226f1",
+   "llmm": "32d9a8e7d4",
+   "reput": "5f4dac431e",
+   "tono": "c523592de0",
+   "feed": "a7d1a1ef83",
+   "trends": "a784b56261",
+   "news": "44a335b3f0"
+  }
+ },
+ "mkt": {
+  "at": "2026-11-28",
+  "fonti": {
+   "aziende": "676016326d",
+   "storico": "858a9288aa",
+   "gamma": "ae372129f4",
+   "sedi": "553ed7137f",
+   "brand": "aa67c86382",
+   "brandx": "181d33b842",
+   "sito": "af7e576813",
+   "social": "7e704a0889",
+   "posts": "0c9d3fcf5f",
+   "feed": "a7d1a1ef83",
+   "tono": "c523592de0",
+   "ads": "28c90791b1",
+   "seo": "585fcc9c34",
+   "seo2": "591f2923c9",
+   "trends": "a784b56261",
+   "reput": "5f4dac431e",
+   "geo2": "2a275226f1",
+   "llmm": "32d9a8e7d4",
+   "osint": "8068a877c3",
+   "news": "44a335b3f0"
+  }
+ },
+ "lenti": {
+  "at": "2026-11-28",
+  "fonti": {
+   "brand": "aa67c86382",
+   "brandx": "181d33b842",
+   "sedi": "553ed7137f",
+   "seo": "585fcc9c34",
+   "trends": "a784b56261",
+   "social": "7e704a0889",
+   "geo2": "2a275226f1",
+   "tono": "c523592de0",
+   "sito": "af7e576813",
+   "gamma": "ae372129f4",
+   "sales": "b0b3a8968e",
+   "mkt": "1cb6755efa"
+  }
+ },
+ "pov": {
+  "at": "2026-11-28",
+  "fonti": {
+   "aziende": "676016326d",
+   "storico": "858a9288aa",
+   "gamma": "ae372129f4",
+   "sedi": "553ed7137f",
+   "social": "7e704a0889",
+   "feed": "a7d1a1ef83",
+   "ads": "28c90791b1",
+   "seo": "585fcc9c34",
+   "seo2": "591f2923c9",
+   "llmm": "32d9a8e7d4",
+   "geo2": "2a275226f1",
+   "reput": "5f4dac431e",
+   "sito": "af7e576813",
+   "brandx": "181d33b842",
+   "trends": "a784b56261",
+   "osint": "8068a877c3",
+   "news": "44a335b3f0",
+   "sales": "b0b3a8968e",
+   "mkt": "1cb6755efa"
+  }
+ }
+}

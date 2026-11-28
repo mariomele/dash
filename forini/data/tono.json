@@ -1,0 +1,178 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "assi": [
+  "Tecnico ↔ Emotivo",
+  "Istituzionale ↔ Vicino",
+  "Prezzo ↔ Qualità",
+  "Locale ↔ Nazionale",
+  "Sobrio ↔ Sportivo"
+ ],
+ "n": "Valutazione su 5 assi (1 = polo sinistro, 5 = polo destro) confrontando titoli e prime frasi della home (HTML scaricato il 27/11/2026) con bio e testi di Instagram e LinkedIn letti per social.json, posts.json e feed.json. Citazioni solo tra virgolette e prese da quei file, con la fonte.",
+ "az": {
+  "forini": {
+   "v": {
+    "Tecnico ↔ Emotivo": 4,
+    "Istituzionale ↔ Vicino": 5,
+    "Prezzo ↔ Qualità": 3,
+    "Locale ↔ Nazionale": 1,
+    "Sobrio ↔ Sportivo": 4
+   },
+   "s": "val",
+   "diagnosi": "Due aziende diverse fra sito e social. Il sito Acton parla di prestazioni e prezzo («Più potenza più chilometri più cura del motore», «aumento di potenza SENZA AUMENTO DI prezzo»), quello di Acton Energia di servizio («Ti ascoltiamo. Ti aiutiamo. Ti accompagniamo.»). I social invece raccontano famiglia, sport e feste locali: in 12 post di acton_fuel nessuno parla di carburanti, nonostante la bio «Acton Fuel è una famiglia di carburanti speciali ad alte prestazioni.»",
+   "funziona": [
+    "Voce vicina e sincera: persone con nome, famiglia, colleghi nuovi",
+    "Acton Energia coerente fra sito e social: «Nessun call center» e ACTON POINT «per incontrarsi, fare domande»",
+    "Il pubblico locale risponde: 2,85 reazioni ogni 100 follower su LinkedIn"
+   ],
+   "non_funziona": [
+    "Il messaggio più forte del sito (potenza senza aumento di prezzo) non arriva mai sui social",
+    "Titoli in caratteri Unicode decorativi (es. «𝑼𝒏 𝒊𝒏𝒔𝒊𝒆𝒎𝒆 𝒅𝒊 𝒇𝒐𝒕𝒐»): poco leggibili e non accessibili",
+    "Due profili Instagram con gli stessi post (donne di Forini, città) e pubblici minuscoli: 612 e 91 follower"
+   ],
+   "per_pagina": {
+    "sito": "Acton Fuel: prestazioni e prezzo; Acton Energia: ascolto e niente clausole nascoste",
+    "ig": "acton_fuel: famiglia, sport, moto; acton_energy: Rimini Calcio e ACTON POINT",
+    "li": "Territorio e sponsorizzazioni con persone vere, quasi niente prodotto"
+   },
+   "regole": [
+    "Ogni mese almeno un post su Acton Fuel con un dato del sito (potenza, consumi)",
+    "Titoli in testo normale",
+    "Un solo tono per Acton Energia: «Ti ascoltiamo. Ti aiutiamo. Ti accompagniamo.» anche nei post"
+   ],
+   "benchmark": "Ala Carburanti: stessa vicinanza, ma con format fissi che portano in scena prodotto e carte carburante (Black Card)."
+  },
+  "beyfin": {
+   "v": {
+    "Tecnico ↔ Emotivo": 3,
+    "Istituzionale ↔ Vicino": 3,
+    "Prezzo ↔ Qualità": 4,
+    "Locale ↔ Nazionale": 3,
+    "Sobrio ↔ Sportivo": 2
+   },
+   "s": "val",
+   "diagnosi": "Voce coerente fra sito e social sull'energia pulita («GPL, l'energia pulita che arriva ovunque» in home; BioPropano, HVO e Società Benefit nei post). Su LinkedIn suona da comunicato stampa, su Instagram è più giocosa (Halloween, «Quando il Master chiama, il party risponde!»).",
+   "funziona": [
+    "Marchio e quadrifoglio sempre riconoscibili",
+    "Prodotti nuovi spiegati con vantaggi concreti (BBoat: «meno di 5 kg a pieno carico»)",
+    "Numeri veri di sostenibilità"
+   ],
+   "non_funziona": [
+    "Testi LinkedIn lunghi con hashtag dentro le frasi",
+    "Pochi video",
+    "Il motto «Lo Stile dell'Energia» resta uno slogan senza esempi"
+   ],
+   "per_pagina": {
+    "sito": "GPL e carburanti per casa e autotrazione, tono pulito",
+    "ig": "Post leggeri e post sponsorizzati con Meta",
+    "li": "Rete, prodotti nuovi e 70 anni di storia"
+   },
+   "regole": [
+    "Testi LinkedIn sotto le 6 righe",
+    "Un video breve per ogni prodotto nuovo"
+   ],
+   "benchmark": "Il più vicino al modello per Forini: stessa dimensione, rete di stazioni, marchio coerente."
+  },
+  "ala": {
+   "v": {
+    "Tecnico ↔ Emotivo": 4,
+    "Istituzionale ↔ Vicino": 5,
+    "Prezzo ↔ Qualità": 2,
+    "Locale ↔ Nazionale": 2,
+    "Sobrio ↔ Sportivo": 3
+   },
+   "s": "val",
+   "diagnosi": "Sito sobrio da catalogo (Stazioni, Carburanti, Lubrificanti, Black Card) e social ironici costruiti su persone della rete (Irene, Edoardo, Filippo) e format fissi come «CUCINALA». Il nero del marchio («Break in Black») tiene insieme sito e social.",
+   "funziona": [
+    "Format ricorrenti con le stesse persone",
+    "Prodotto dentro l'intrattenimento (olio, Black Card Diamond)",
+    "Spiegazioni chiare sui prezzi: «crediamo sia importante parlare con chiarezza»"
+   ],
+   "non_funziona": [
+    "Reazioni basse rispetto a 4.014 follower (circa 45 a post)",
+    "Nessuna pagina LinkedIn aziendale"
+   ],
+   "per_pagina": {
+    "sito": "Catalogo e partnership con IP",
+    "ig": "Community e format con persone della rete",
+    "li": "Assente (solo profilo personale)"
+   },
+   "regole": [],
+   "benchmark": "Il riferimento per tono vicino e format riconoscibili."
+  },
+  "enerpetroli": {
+   "v": {
+    "Tecnico ↔ Emotivo": 2,
+    "Istituzionale ↔ Vicino": 3,
+    "Prezzo ↔ Qualità": 3,
+    "Locale ↔ Nazionale": 2,
+    "Sobrio ↔ Sportivo": 2
+   },
+   "s": "val",
+   "diagnosi": "Solo sito: «SI MUOVE INSIEME A TE» e «punto di riferimento nel centro Italia per chiunque abbia necessità di energia». Nessun Instagram ufficiale né LinkedIn trovati; Facebook senza post leggibili.",
+   "funziona": [
+    "Promessa chiara sul territorio del centro Italia"
+   ],
+   "non_funziona": [
+    "Assenza dai social oltre Facebook"
+   ],
+   "per_pagina": {
+    "sito": "Società dinamica e carta carburante ENERCARD FUEL"
+   },
+   "regole": [],
+   "benchmark": null
+  },
+  "estra": {
+   "v": {
+    "Tecnico ↔ Emotivo": 2,
+    "Istituzionale ↔ Vicino": 2,
+    "Prezzo ↔ Qualità": 3,
+    "Locale ↔ Nazionale": 4,
+    "Sobrio ↔ Sportivo": 2
+   },
+   "s": "val",
+   "diagnosi": "Sito corporate e social parlano la stessa lingua istituzionale («Pensare sostenibile, agire responsabile»); il portale clienti aliaestra.it parla invece di Toscana («Il nostro impegno per la Toscana»). Su LinkedIn domina il dialogo con i Comuni (ANCI), su Instagram eventi e sport (Estra Firenze Marathon).",
+   "funziona": [
+    "Dati e progetti concreti (PPA eolico, smart grid)",
+    "Sponsorizzazioni grandi e riconoscibili"
+   ],
+   "non_funziona": [
+    "Poca risposta del pubblico (0,21 reazioni ogni 100 follower su LinkedIn)",
+    "Temi dispersi"
+   ],
+   "per_pagina": {
+    "sito": "Corporate sostenibile; aliaestra.it luce, gas e rifiuti in Toscana",
+    "ig": "Eventi, maratona, scuole",
+    "li": "Comuni, rinnovabili, reti"
+   },
+   "regole": [],
+   "benchmark": "Mostra come spiegare un'offerta luce rinnovabile con i numeri («Buon Vento»)."
+  },
+  "umbriaenergy": {
+   "v": {
+    "Tecnico ↔ Emotivo": 3,
+    "Istituzionale ↔ Vicino": 4,
+    "Prezzo ↔ Qualità": 2,
+    "Locale ↔ Nazionale": 1,
+    "Sobrio ↔ Sportivo": 1
+   },
+   "s": "val",
+   "diagnosi": "Sito e social coerenti su offerte e vicinanza («la nostra energia è anche ascolto e vicinanza»), ma Instagram pubblica ogni giorno contenuti generici (zucca, luoghi dell'Umbria) che raccolgono 0-13 like su 701 follower.",
+   "funziona": [
+    "Offerte web spiegate in modo semplice (LUCE WEB, GAS WEB)",
+    "Radicamento umbro, come Forini"
+   ],
+   "non_funziona": [
+    "Contenuti da calendario editoriale generico",
+    "Risposta quasi nulla"
+   ],
+   "per_pagina": {
+    "sito": "Luce, gas, mobilità elettrica, efficienza energetica",
+    "ig": "Offerte, curiosità e territorio",
+    "li": "Pagina senza post pubblici"
+   },
+   "regole": [],
+   "benchmark": "Concorrente diretto di Acton Energia in Umbria: tono simile, nessun vantaggio di voce."
+  }
+ }
+}

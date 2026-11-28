@@ -1,0 +1,1717 @@
+{
+ "at": "2026-11-28",
+ "temi_s": "val",
+ "temi": [
+  "prodotto",
+  "promo",
+  "sport",
+  "territorio",
+  "energia",
+  "servizio",
+  "evento",
+  "valori",
+  "altro"
+ ],
+ "n": "ScrapeCreators (v1_instagram_profile, v1_linkedin_post), letto il 27-28/11/2026. Periodo: post dal 28/05/2026 al 28/11/2026 (6 mesi), Instagram fino a 12 per account; LinkedIn 9 post singoli per Forini, Beyfin ed Estra. 'h' in ora italiana. 'v' = visualizzazioni dei reel. 'col' = post pubblicato da un altro account o insieme a un altro account (coautore) (molti reel di acton_energy sono co-pubblicati dalla Rimini Calcio, da cui le visualizzazioni alte). Temi assegnati leggendo il testo (valutazione): prodotto, promo, sport (sport e motori), territorio, energia (energia e sostenibilità), servizio, evento, valori, altro. Facebook: nessun post restituito. Enerpetroli: nessun Instagram ufficiale.",
+ "az": {
+  "forini": {
+   "ig": {
+    "fol": 612,
+    "p": [
+     {
+      "d": "2026-11-25",
+      "h": 17,
+      "f": "reel",
+      "l": 90,
+      "c": 3,
+      "v": 3731,
+      "sh": null,
+      "t": "Un insieme di foto per un solo messaggio! Per le donne di Forini e quelle di tutto il mondo, attraverso la shopping bag realizzata da @cna_r",
+      "tag": [
+       "#25novembre"
+      ],
+      "tema": "valori",
+      "col": true,
+      "u": "https://www.instagram.com/p/DgLAbqjuzPS/"
+     },
+     {
+      "d": "2026-10-03",
+      "h": 18,
+      "f": "carosello",
+      "l": 241,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "L’energia di una città sono le persone che la vivono. Le passioni. Le tradizioni. I colori. Quel senso di appartenenza che, al @entepaliodes",
+      "tag": [],
+      "tema": "territorio",
+      "col": true,
+      "u": "https://www.instagram.com/p/DeCem0_jhGD/"
+     },
+     {
+      "d": "2026-09-08",
+      "h": 17,
+      "f": "reel",
+      "l": 71,
+      "c": 2,
+      "v": 1606,
+      "sh": null,
+      "t": "DOVE CRESCE LO SPORT, CRESCONO I GIOVANI E IL TERRITORIO. Siamo, ormai da anni, main sponsor del @bastiacalcio1924official e sosteniamo con",
+      "tag": [
+       "#giovani",
+       "#passioni",
+       "#crescita",
+       "#sport",
+       "#squadra",
+       "#Valori"
+      ],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/DdB_dogOSzu/"
+     },
+     {
+      "d": "2026-09-05",
+      "h": 22,
+      "f": "carosello",
+      "l": 58,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Contribuire significa esserci: sostenere con la partecipazione! #marciadelle8porte @assisirunners",
+      "tag": [
+       "#marciadelle8porte"
+      ],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/Dc64DY1jliJ/"
+     },
+     {
+      "d": "2026-09-04",
+      "h": 20,
+      "f": "reel",
+      "l": 66,
+      "c": 0,
+      "v": 1059,
+      "sh": null,
+      "t": "FORINI: Una storia di famiglia Ci sono valori che non si insegnano: si trasmettono. Passano attraverso l’esempio, l'ascolto, le esperienze c",
+      "tag": [],
+      "tema": "valori",
+      "col": true,
+      "u": "https://www.instagram.com/p/Dc3-s9SuWlj/"
+     },
+     {
+      "d": "2026-09-01",
+      "h": 19,
+      "f": "foto",
+      "l": 63,
+      "c": 3,
+      "v": null,
+      "sh": null,
+      "t": "ꜱᴇɪ ᴍᴇꜱɪ, ᴛᴀɴᴛᴇ ᴇꜱᴘᴇʀɪᴇɴᴢᴇ ᴇ ᴜɴ ɴᴜᴏᴠᴏ ᴘᴇᴢᴢᴏ ᴅɪ ꜱᴛʀᴀᴅᴀ. Sei mesi fa @marco.filippucci è entrato in Forini per il suo tirocinio extracurricula",
+      "tag": [],
+      "tema": "valori",
+      "col": true,
+      "u": "https://www.instagram.com/p/DcwK8qGulSL/"
+     },
+     {
+      "d": "2026-08-31",
+      "h": 17,
+      "f": "foto",
+      "l": 43,
+      "c": 2,
+      "v": null,
+      "sh": null,
+      "t": "42,195 KM DI IMPEGNO, PASSIONE E DETERMINAZIONE. 🏃 Questa volta parliamo di un’energia diversa, quella che ogni giorno mettiamo nelle nostre",
+      "tag": [
+       "#Maratona",
+       "#Sydney",
+       "#costanza",
+       "#sacrificio",
+       "#obiettivo",
+       "#passioni"
+      ],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/DctZIoSjNWS/"
+     },
+     {
+      "d": "2026-08-27",
+      "h": 18,
+      "f": "reel",
+      "l": 73,
+      "c": 0,
+      "v": 1291,
+      "sh": null,
+      "t": "FORINI: Una storia di famiglia. CAMBIARE, SENZA PERDERE LE PROPRIE RADICI. In oltre 90 anni, Forini è cambiata, è cresciuta ed ha attraversa",
+      "tag": [
+       "#Forinispa",
+       "#unastoriadifamiglia"
+      ],
+      "tema": "valori",
+      "col": true,
+      "u": "https://www.instagram.com/p/DcjLlLbsLO-/"
+     },
+     {
+      "d": "2026-08-24",
+      "h": 9,
+      "f": "reel",
+      "l": 192,
+      "c": 4,
+      "v": 5949,
+      "sh": null,
+      "t": "🏍️ Ci sono moto che non sono semplicemente moto. Sono un progetto, un’idea, quasi un sogno. Questa Honda XL 600 nasce dalla voglia di creare",
+      "tag": [
+       "#HondaXL600",
+       "#HondaXL"
+      ],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/Dcajc1KMTNO/"
+     },
+     {
+      "d": "2026-08-21",
+      "h": 17,
+      "f": "reel",
+      "l": 81,
+      "c": 2,
+      "v": 1665,
+      "sh": null,
+      "t": "FORINI: Una storia di famiglia. Ogni storia importante nasce da qualcosa di semplice: come l'ascolto. La nostra storia è iniziata oltre #90a",
+      "tag": [
+       "#90anni",
+       "#generazione",
+       "#ascolto",
+       "#coraggio",
+       "#territorio",
+       "#storia"
+      ],
+      "tema": "valori",
+      "col": true,
+      "u": "https://www.instagram.com/p/DcTnkWcM4Fp/"
+     },
+     {
+      "d": "2026-08-15",
+      "h": 15,
+      "f": "foto",
+      "l": 20,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "L'energia non si ferma mai! Buon ferragosto! ☀️​",
+      "tag": [],
+      "tema": "altro",
+      "col": false,
+      "u": "https://www.instagram.com/p/DcD-_tujWD2/"
+     },
+     {
+      "d": "2026-08-14",
+      "h": 11,
+      "f": "reel",
+      "l": 38,
+      "c": 0,
+      "v": 1239,
+      "sh": null,
+      "t": "ACTON OFF-SITE | Quando il gruppo va oltre l'ufficio. Tutto è nato durante una camminata: una chiacchiera, un'idea e una domanda: “Perché no",
+      "tag": [
+       "#Forini",
+       "#Acton",
+       "#ActonOffSite",
+       "#Rimini",
+       "#Romagna",
+       "#ActonPoint"
+      ],
+      "tema": "valori",
+      "col": true,
+      "u": "https://www.instagram.com/p/DcA8Vmmjci9/"
+     }
+    ]
+   },
+   "ig2": {
+    "fol": 91,
+    "p": [
+     {
+      "d": "2026-11-25",
+      "h": 17,
+      "f": "reel",
+      "l": 90,
+      "c": 3,
+      "v": 3731,
+      "sh": null,
+      "t": "Un insieme di foto per un solo messaggio! Per le donne di Forini e quelle di tutto il mondo, attraverso la shopping bag realizzata da @cna_r",
+      "tag": [
+       "#25novembre"
+      ],
+      "tema": "valori",
+      "col": true,
+      "u": "https://www.instagram.com/p/DgLAbqjuzPS/"
+     },
+     {
+      "d": "2026-10-29",
+      "h": 12,
+      "f": "reel",
+      "l": 222,
+      "c": 3,
+      "v": 7087,
+      "sh": null,
+      "t": "La nostra 10a giornata🦁🔥 Ringraziamo @acton_energy per il supporto da Match Sponsor di giornata 🎥 @io.sono.vicio Io, Noi Siamo Rimini 🤍♥️",
+      "tag": [],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/DfE5X2JIvw5/"
+     },
+     {
+      "d": "2026-10-28",
+      "h": 22,
+      "f": "reel",
+      "l": 739,
+      "c": 6,
+      "v": 19126,
+      "sh": null,
+      "t": "Ci siamo divertiti oggi🤪🦁 Ringraziamo @acton_energy per il supporto da Match Sponsor di giornata Io, Noi Siamo Rimini 🤍♥️",
+      "tag": [],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/DfDbvdNIw8f/"
+     },
+     {
+      "d": "2026-10-28",
+      "h": 17,
+      "f": "reel",
+      "l": 435,
+      "c": 7,
+      "v": 17005,
+      "sh": null,
+      "t": "CACCIA ALLA MAGLIA👕 Per l’occasione abbiamo utilizzato un mezzo elettrico, tappa ricarica da @acton_energy ⚡️😂 Io, Noi Siamo Rimini 🤍♥️",
+      "tag": [],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/DfC33wmonmO/"
+     },
+     {
+      "d": "2026-10-27",
+      "h": 13,
+      "f": "reel",
+      "l": 189,
+      "c": 5,
+      "v": 7974,
+      "sh": null,
+      "t": "“Perché avete scelto la Rimini Calcio?”⚪️🔴 @acton_energy di @forini.spa sarà ufficialmente Match Sponsor per la 10a giornata contro Pietracu",
+      "tag": [],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/De_5Ru0IucB/"
+     },
+     {
+      "d": "2026-10-26",
+      "h": 17,
+      "f": "reel",
+      "l": 535,
+      "c": 2,
+      "v": 24646,
+      "sh": null,
+      "t": "@acton_energy sarà il match sponsor di questa giornata di campionato⚡🏟️ 💡Luce, gas, efficientemento e consulenza energetica: presso l’ACTON",
+      "tag": [],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/De9qg_rIuZK/"
+     },
+     {
+      "d": "2026-10-14",
+      "h": 9,
+      "f": "reel",
+      "l": 21,
+      "c": 0,
+      "v": 444,
+      "sh": null,
+      "t": "LA FESTA DEL BORGO - RIMINI 10-11 OTTOBRE Cos'è per te l'energia? 🔋 Per noi è anche incontrarsi, condividere un momento, scambiare due parol",
+      "tag": [],
+      "tema": "evento",
+      "col": false,
+      "u": "https://www.instagram.com/p/Ded1bTlxHIi/"
+     },
+     {
+      "d": "2026-10-05",
+      "h": 11,
+      "f": "carosello",
+      "l": 42,
+      "c": 2,
+      "v": null,
+      "sh": null,
+      "t": "Una rete cresce quando cresce la qualità delle persone che ne fanno parte. La nostra riunione commerciale è stata un momento di formazione e",
+      "tag": [],
+      "tema": "valori",
+      "col": true,
+      "u": "https://www.instagram.com/p/DeG6AyYikUp/"
+     },
+     {
+      "d": "2026-10-03",
+      "h": 18,
+      "f": "carosello",
+      "l": 241,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "L’energia di una città sono le persone che la vivono. Le passioni. Le tradizioni. I colori. Quel senso di appartenenza che, al @entepaliodes",
+      "tag": [],
+      "tema": "territorio",
+      "col": true,
+      "u": "https://www.instagram.com/p/DeCem0_jhGD/"
+     },
+     {
+      "d": "2026-09-21",
+      "h": 12,
+      "f": "carosello",
+      "l": 83,
+      "c": 2,
+      "v": null,
+      "sh": null,
+      "t": "ESSERCI. 💚 Abbiamo aperto le porte del primo ACTON POINT. Un nuovo spazio per incontrarsi, fare domande, trovare risposte chiare e parlare d",
+      "tag": [],
+      "tema": "servizio",
+      "col": true,
+      "u": "https://www.instagram.com/p/Ddi-PxEihup/"
+     },
+     {
+      "d": "2026-09-18",
+      "h": 21,
+      "f": "foto",
+      "l": 27,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "CI SIAMO! 💚 È arrivato il momento: ACTON POINT apre le sue porte a Rimini. 📍 Viale Tripoli 215 🗓️ 19 settembre 2026 ⏰ Ore 12:00 – Taglio del",
+      "tag": [
+       "#ACTONPoint",
+       "#ACTONEnergy",
+       "#Rimini",
+       "#Luce",
+       "#Gas",
+       "#Eco"
+      ],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DdcIzyaEX-I/"
+     },
+     {
+      "d": "2026-09-18",
+      "h": 9,
+      "f": "carosello",
+      "l": 15,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "A VOLTE, PARLARNE DI PERSONA FA LA DIFFERENZA. 💚 Domande, risposte, chiarezza e un punto di riferimento sempre vicino. Sta per aprire ACTON",
+      "tag": [
+       "#ACTONEnergy",
+       "#ACTONPoint",
+       "#Rimini",
+       "#Energia",
+       "#Luce",
+       "#Gas"
+      ],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/Dda2YrTCs7n/"
+     }
+    ]
+   },
+   "li": {
+    "fol": 1204,
+    "p": [
+     {
+      "d": "2026-11-25",
+      "h": 17,
+      "f": "video",
+      "l": 30,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Un insieme di foto per un solo messaggio! Per le #donne di #Forini e quelle di tutto il mondo, attraverso la shopping bag realizzata da CNA ",
+      "tag": [
+       "#donne",
+       "#Forini",
+       "#diritto",
+       "#libera",
+       "#rispettata"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/forinispa-acton_donne-forini-diritto-activity-7531398300135018496-g-ib"
+     },
+     {
+      "d": "2026-10-19",
+      "h": 18,
+      "f": "video",
+      "l": 26,
+      "c": 2,
+      "v": null,
+      "sh": null,
+      "t": "Ci sono tradizioni che raccontano chi siamo senza bisogno di tante parole. Una fetta di pane, un filo d'olio appena franto e il piacere di r",
+      "tag": [
+       "#OlioNovo",
+       "#DottorRenzo",
+       "#tradizioni",
+       "#radici"
+      ],
+      "tema": "territorio",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/forinispa-acton_olionovo-dottorrenzo-tradizioni-activity-7517986893062545410-amWQ"
+     },
+     {
+      "d": "2026-10-14",
+      "h": 9,
+      "f": "video",
+      "l": 26,
+      "c": 1,
+      "v": null,
+      "sh": null,
+      "t": "L'energia più importante è quella che nasce dall'incontro tra le persone. Il 10 e 11 Ottobre si è svolta a #Rimini la #FedtadelBorgo: organi",
+      "tag": [
+       "#Rimini",
+       "#FedtadelBorgo",
+       "#territorio",
+       "#relazioni",
+       "#condivisione"
+      ],
+      "tema": "evento",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/forinispa-acton_rimini-fedtadelborgo-territorio-activity-7516034237616087040-NVbM"
+     },
+     {
+      "d": "2026-10-06",
+      "h": 12,
+      "f": "foto",
+      "l": 37,
+      "c": 1,
+      "v": null,
+      "sh": null,
+      "t": "Una rete cresce quando cresce la qualità delle persone che ne fanno parte. Durante l’ultima riunione commerciale nella nostra sede abbiamo v",
+      "tag": [
+       "#formazione",
+       "#confronto",
+       "#condivisione",
+       "#retevendita"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/forinispa-acton_formazione-confronto-condivisione-activity-7513185731947954176-q90q"
+     },
+     {
+      "d": "2026-10-05",
+      "h": 9,
+      "f": "foto",
+      "l": 41,
+      "c": 2,
+      "v": null,
+      "sh": null,
+      "t": "Ci sono progetti che parlano di sport, poi ci sono progetti che parlano di persone. Nell’intervista pubblicata da Terrenostre, Alberto Forin",
+      "tag": [
+       "#VolleyAcademyBastia",
+       "#pallavolo"
+      ],
+      "tema": "sport",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/forinispa-acton_volleyacademybastia-pallavolo-giovani-activity-7512776499192737792-0VA7"
+     },
+     {
+      "d": "2026-10-02",
+      "h": 17,
+      "f": "carosello",
+      "l": 30,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "ACTON: L’ENERGIA DELLA TUA CITTÀ! Ci sono tanti modi per essere parte di un territorio. Noi abbiamo scelto di esserci. Il #PaliodeSanMichele",
+      "tag": [
+       "#PaliodeSanMichele",
+       "#passione",
+       "#appartenenza",
+       "#persone"
+      ],
+      "tema": "territorio",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/forinispa-acton_paliodesanmichele-passione-appartenenza-activity-7511814931218878465-csnI"
+     },
+     {
+      "d": "2026-09-21",
+      "h": 12,
+      "f": "carosello",
+      "l": 70,
+      "c": 1,
+      "v": null,
+      "sh": null,
+      "t": "ESSERCI Ci sono aperture che inaugurano un nuovo spazio, poi ci sono aperture che raccontano una scelta! Sabato 19 settembre abbiamo inaugur",
+      "tag": [
+       "#ACTONPOINT",
+       "#Rimini"
+      ],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/forinispa-acton_actonpoint-rimini-relazioni-activity-7507749499054796800-6J2r"
+     },
+     {
+      "d": "2026-09-18",
+      "h": 20,
+      "f": "foto",
+      "l": 28,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "CI SIAMO! 💚 È arrivato il momento: ACTON POINT apre le sue porte a Rimini. 📍 Viale Tripoli 215 🗓️ 19 settembre 2026 ⏰ Ore 12:00 – Taglio del",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/forinispa-acton_actonpoint-actonenergy-rimini-activity-7506787689984188416-ufck"
+     },
+     {
+      "d": "2026-09-08",
+      "h": 17,
+      "f": "video",
+      "l": 21,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "DOVE CRESCE LO SPORT, CRESCONO I GIOVANI E IL TERRITORIO. Siamo, ormai da anni, main sponsor del #BastiaCalcio e sosteniamo con orgoglio la ",
+      "tag": [
+       "#BastiaCalcio",
+       "#gi"
+      ],
+      "tema": "sport",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/forinispa-acton_bastiacalcio-giovani-passioni-activity-7503107892795908097-hEBH"
+     }
+    ]
+   }
+  },
+  "beyfin": {
+   "ig": {
+    "fol": 1196,
+    "p": [
+     {
+      "d": "2026-11-25",
+      "h": 11,
+      "f": "foto",
+      "l": 24,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Una società libera dagli abusi non si costruisce da sola. Nasce dal rispetto, dall'ascolto e dalla responsabilità di ciascuno di noi. Contra",
+      "tag": [],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgKQ_MYtU1j/"
+     },
+     {
+      "d": "2026-11-19",
+      "h": 9,
+      "f": "foto",
+      "l": 23,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🌎 Un mondo tutto da esplorare, infinite strade da percorrere e una sola domanda: dove andiamo oggi? ⛽ Fai il pieno di energia con Beyfin e s",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df6meuLgYiP/"
+     },
+     {
+      "d": "2026-11-17",
+      "h": 11,
+      "f": "foto",
+      "l": 31,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🍀 C'è aria di novità ad Alleghe! Nel cuore delle Dolomiti bellunesi, il nostro punto vendita si presenta completamente rinnovato, pronto ad",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df1s1gUBnFe/"
+     },
+     {
+      "d": "2026-11-16",
+      "h": 11,
+      "f": "foto",
+      "l": 122,
+      "c": 1,
+      "v": null,
+      "sh": null,
+      "t": "🎲 Quando il Master chiama, il party risponde! Per affrontare ogni campagna serve la giusta squadra. E quando il freddo prova a rovinare la s",
+      "tag": [],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfzF2iDjSQN/"
+     },
+     {
+      "d": "2026-11-09",
+      "h": 9,
+      "f": "foto",
+      "l": 103,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🪄 Qualcuno lo chiamerebbe un trucco del mestiere. Noi la chiamiamo efficienza Beyfin! Con Beyfin Card, semplifichi la gestione della tua flo",
+      "tag": [],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/Dfg2jIOD4Qj/"
+     },
+     {
+      "d": "2026-11-07",
+      "h": 12,
+      "f": "foto",
+      "l": 34,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🍀 70 anni di storia, 7 tappe da scoprire. Mettiti alla guida dell’autobotte Beyfin e parti per un viaggio interattivo alla scoperta dei mome",
+      "tag": [],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfcCUhyjXJL/"
+     },
+     {
+      "d": "2026-11-06",
+      "h": 17,
+      "f": "foto",
+      "l": 106,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🍀 Anche quando ci allontaniamo, notiamo le cose che restano davvero. Segni che ci accompagnano durante ogni partenza e ci aspettano a ogni r",
+      "tag": [],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfaBhajHbe-/"
+     },
+     {
+      "d": "2026-10-31",
+      "h": 9,
+      "f": "foto",
+      "l": 162,
+      "c": 2,
+      "v": null,
+      "sh": null,
+      "t": "👻 Anche le leggende hanno bisogno della giusta energia. Buon Halloween da Beyfin! 🧡",
+      "tag": [],
+      "tema": "altro",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfJrYUBj0xI/"
+     },
+     {
+      "d": "2026-10-29",
+      "h": 9,
+      "f": "foto",
+      "l": 122,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🥕 Sapevi che l’HVO può essere prodotto anche utilizzando materiali di scarto? Una curiosità che racconta come la ricerca possa trovare nuove",
+      "tag": [],
+      "tema": "energia",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfEhzWBCD3F/"
+     },
+     {
+      "d": "2026-10-24",
+      "h": 9,
+      "f": "reel",
+      "l": 58,
+      "c": 1,
+      "v": 23524,
+      "sh": null,
+      "t": "🍀 Alcune cose non sono solo coincidenze. Sono segni che ti accompagnano lungo il cammino. Segni che, passo dopo passo, diventano parte di te",
+      "tag": [],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/De3i-rgiZhl/"
+     }
+    ]
+   },
+   "li": {
+    "fol": 4329,
+    "p": [
+     {
+      "d": "2026-11-09",
+      "h": 15,
+      "f": "foto",
+      "l": 34,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Nuova veste, stessa attenzione alle persone e al territorio: si rinnova il punto vendita Beyfin di #Alleghe!",
+      "tag": [
+       "#Alleghe"
+      ],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/beyfin-sapa_alleghe-riqualificare-societ%C3%A0benefit-activity-7525568929164058624-Eg_d"
+     },
+     {
+      "d": "2026-10-29",
+      "h": 11,
+      "f": "carosello",
+      "l": 136,
+      "c": 2,
+      "v": null,
+      "sh": null,
+      "t": "1956 – 2026: Gala di Beyfin al Teatro della Pergola. Uno dei teatri più belli al mondo.",
+      "tag": [],
+      "tema": "valori",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/beyfin-sapa_beyfin-storia-firenze-activity-7521522906108149760-mNHM"
+     },
+     {
+      "d": "2026-10-22",
+      "h": 16,
+      "f": "foto",
+      "l": 47,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "L'energia di Beyfin prende il largo. Con B-Boat, il BioPropano sale a bordo.",
+      "tag": [],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/beyfin-sapa_beyfin-bboat-biopropano-activity-7519049165012770816-eoAx"
+     },
+     {
+      "d": "2026-10-05",
+      "h": 11,
+      "f": "foto",
+      "l": 57,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "«La #solidarietà non dovrebbe mai essere vista come una #strategia, ma come un #valore.» Fondazione Meyer",
+      "tag": [
+       "#solidarietà",
+       "#strategia",
+       "#valore"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/beyfin-sapa_solidariet%C3%A0-strategia-valore-activity-7512810115708710913-V5Bi"
+     },
+     {
+      "d": "2026-09-28",
+      "h": 16,
+      "f": "foto",
+      "l": 20,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "In viaggio con l'Energia Umana al Salone del Camper di Parma.",
+      "tag": [],
+      "tema": "evento",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/beyfin-sapa_turismooutdoor-community-passione-activity-7510348986516402176-4Yop"
+     },
+     {
+      "d": "2026-09-15",
+      "h": 11,
+      "f": "foto",
+      "l": 24,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Lo Stile dell'Energia: pubblicati il Bilancio di Sostenibilità e la Relazione d'Impatto 2025!",
+      "tag": [],
+      "tema": "energia",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/beyfin-sapa_trasparenza-sostenibilit%C3%A0-squadra-activity-7505562388277051392-2tzU"
+     },
+     {
+      "d": "2026-09-02",
+      "h": 11,
+      "f": "foto",
+      "l": 9,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Le auto a #Gpl continuano ad essere penalizzate dalle norme di Bruxelles.",
+      "tag": [
+       "#Gpl"
+      ],
+      "tema": "energia",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/beyfin-sapa_il-caro-carburante-spinge-le-auto-bi-fuel-activity-7500849989032538112-I4_O"
+     },
+     {
+      "d": "2026-08-28",
+      "h": 15,
+      "f": "carosello",
+      "l": 28,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Il territorio come investimento di #ricchezza e #relazioni",
+      "tag": [
+       "#ricchezza",
+       "#relazioni"
+      ],
+      "tema": "territorio",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/beyfin-sapa_ricchezza-relazioni-comunit%C3%A0-activity-7499098687525023744-fI_m"
+     },
+     {
+      "d": "2026-08-04",
+      "h": 14,
+      "f": "foto",
+      "l": 28,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Innovazione, sicurezza e attenzione all'ambiente: nuova luce sulla rete Beyfin!",
+      "tag": [],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/beyfin-sapa_passoconcreto-beyfin-mobilit%C3%A0sostenibile-activity-7490378997168541696-O3kx"
+     }
+    ]
+   }
+  },
+  "ala": {
+   "ig": {
+    "fol": 4014,
+    "p": [
+     {
+      "d": "2026-11-27",
+      "h": 10,
+      "f": "reel",
+      "l": 30,
+      "c": 0,
+      "v": 819,
+      "sh": null,
+      "t": "🖤 Black Friday? Ma quale Black Friday. Da Ala il BLACK non dura un giorno, un weekend o una settimana: fa parte della nostra identità tutto",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "promo",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgPTyihEiXE/"
+     },
+     {
+      "d": "2026-11-24",
+      "h": 12,
+      "f": "reel",
+      "l": 61,
+      "c": 2,
+      "v": 5603,
+      "sh": null,
+      "t": "🍝🔥 Benvenuti a... CUCINALA. Il format in cui Irene presenta \"ricette \"di pura performance. Novembre, tempo di olio nuovo e oggi vi presentia",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgHzF3OE4Ty/"
+     },
+     {
+      "d": "2026-11-20",
+      "h": 13,
+      "f": "reel",
+      "l": 44,
+      "c": 0,
+      "v": 1584,
+      "sh": null,
+      "t": "🗓️ Ma quindi... cosa succede il 25 novembre? Irene e Filippo, in rappresentanza di Ala Carburanti, saranno all’ @unisiena per incontrare gli",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "evento",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df9m1Vekwqr/"
+     },
+     {
+      "d": "2026-11-18",
+      "h": 18,
+      "f": "reel",
+      "l": 37,
+      "c": 2,
+      "v": 16353,
+      "sh": null,
+      "t": "🫒 È tempo di raccolta, quindi la domanda sorge spontanea: dov’è l’olio BONO? Quello per condire lo lasciamo al frantoio. 😎 Quello per il tuo",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df4_gJNgRCb/"
+     },
+     {
+      "d": "2026-11-13",
+      "h": 18,
+      "f": "reel",
+      "l": 36,
+      "c": 1,
+      "v": 1879,
+      "sh": null,
+      "t": "❓ Se tuo fratello fosse una macchina, quale sarebbe? E un colore? Un albero? Irene ed Edoardo hanno deciso di scoprirlo con un nuovo round d",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "altro",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfsHnBxD10X/"
+     },
+     {
+      "d": "2026-11-11",
+      "h": 18,
+      "f": "reel",
+      "l": 34,
+      "c": 0,
+      "v": 18509,
+      "sh": null,
+      "t": "⭐ Ogni impianto Ala è unico e ha una storia da raccontare. Per questo siamo partiti in viaggio tra Toscana, Liguria ed Emilia Romagna per po",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "territorio",
+      "col": false,
+      "u": "https://www.instagram.com/p/Dfm98booPao/"
+     },
+     {
+      "d": "2026-11-06",
+      "h": 18,
+      "f": "foto",
+      "l": 42,
+      "c": 4,
+      "v": null,
+      "sh": null,
+      "t": "🔗 La collaborazione tra Ala Carburanti e l’Università di Siena (@unisiena) è molto più di un’occasione di incontro tra il mondo accademico e",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfaF9HVibxK/"
+     },
+     {
+      "d": "2026-11-03",
+      "h": 18,
+      "f": "reel",
+      "l": 34,
+      "c": 1,
+      "v": 20537,
+      "sh": null,
+      "t": "⭐ Ogni impianto Ala è unico e ha una storia da raccontare. Per questo siamo partiti in viaggio tra Toscana, Liguria ed Emilia Romagna per po",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "territorio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfSXqhHjUnC/"
+     },
+     {
+      "d": "2026-10-31",
+      "h": 10,
+      "f": "reel",
+      "l": 45,
+      "c": 0,
+      "v": 1141,
+      "sh": null,
+      "t": "👻 Quali sono i veri mostri per chi vive ogni giorno tra auto, carburanti e motori? Irene ed Edoardo hanno trasformato con ironia gli incubi",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "altro",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfJyZ4rj5Q9/"
+     },
+     {
+      "d": "2026-10-28",
+      "h": 18,
+      "f": "foto",
+      "l": 34,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🖤 Ogni impianto ha i suoi servizi, ma soprattutto ha le sue persone. Oggi vi presentiamo Virginia Francesconi, dalla stazione di servizio Al",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfC6yn6FHGX/"
+     },
+     {
+      "d": "2026-10-23",
+      "h": 18,
+      "f": "reel",
+      "l": 64,
+      "c": 0,
+      "v": 12979,
+      "sh": null,
+      "t": "✅ Più controllo, più autonomia, gestione ancora più semplice. 💳 Con la nostra Black Card Diamond hai uno strumento pensato per organizzare e",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "prodotto",
+      "col": false,
+      "u": "https://www.instagram.com/p/De18F9Gj6n8/"
+     },
+     {
+      "d": "2026-10-20",
+      "h": 18,
+      "f": "reel",
+      "l": 70,
+      "c": 0,
+      "v": 3583,
+      "sh": null,
+      "t": "In un momento complesso come quello attuale, crediamo sia importante parlare con chiarezza. Le tensioni geopolitiche internazionali stanno p",
+      "tag": [
+       "#alacarburanti",
+       "#alabuddies",
+       "#ala",
+       "#breakinblack",
+       "#alapistoia"
+      ],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DeuNqhwEbHT/"
+     }
+    ]
+   }
+  },
+  "estra": {
+   "ig": {
+    "fol": 2899,
+    "p": [
+     {
+      "d": "2026-11-27",
+      "h": 15,
+      "f": "foto",
+      "l": 32,
+      "c": 1,
+      "v": null,
+      "sh": null,
+      "t": "📍Ultima giornata a Verona per la 43a Assemblea annuale #ANCI. Tra i diversi temi che abbiamo approfondito in queste tre giornate, anche quel",
+      "tag": [
+       "#ANCI",
+       "#Estra",
+       "#ANCI2026",
+       "#SmartCity",
+       "#InnovazioneDigitale"
+      ],
+      "tema": "evento",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgP1hpHRqXO/"
+     },
+     {
+      "d": "2026-11-26",
+      "h": 16,
+      "f": "reel",
+      "l": 36,
+      "c": 0,
+      "v": 2229,
+      "sh": null,
+      "t": "🌱 Affidabilità, competenze e semplicità Scopri il contributo di Estra alla 43a Assemblea Annuale ANCI 🗓️ 25-27 novembre 2026 📍 Verona | Vero",
+      "tag": [
+       "#ANCI2026"
+      ],
+      "tema": "evento",
+      "col": true,
+      "u": "https://www.instagram.com/p/DgNbLdco1mY/"
+     },
+     {
+      "d": "2026-11-23",
+      "h": 11,
+      "f": "foto",
+      "l": 59,
+      "c": 1,
+      "v": null,
+      "sh": null,
+      "t": "⚡Il conto alla rovescia è iniziato! 🏃‍♀️ Domenica 29 novembre torna la 42a Estra @firenzemarathon! 📍Partenza alle 8:30 dalla splendida Piazz",
+      "tag": [
+       "#Estra",
+       "#Energia",
+       "#EstraFirenzeMarathon",
+       "#FirenzeMarathon",
+       "#Running"
+      ],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/DgFLAMThErM/"
+     },
+     {
+      "d": "2026-11-19",
+      "h": 15,
+      "f": "carosello",
+      "l": 11,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "👟 Da semplici scarpe sportive a icone di stile e cultura: le sneaker hanno attraversato generazioni, raccontando i cambiamenti della società",
+      "tag": [
+       "#sneakerevolution",
+       "#SneakerRevolution",
+       "#estra",
+       "#energia"
+      ],
+      "tema": "altro",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df7T2zZjLpu/"
+     },
+     {
+      "d": "2026-11-17",
+      "h": 12,
+      "f": "foto",
+      "l": 2,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🔎🌱 Una missione in 4 mosse! GUARDA → CERCA → SCOPRI → AGISCI Con Missione Eco Green, la sostenibilità entra in classe attraverso video, gioc",
+      "tag": [
+       "#MissioneEcoGreen",
+       "#EducazioneAmbientale",
+       "#Sostenibilità"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df1zNtGBXfN/"
+     },
+     {
+      "d": "2026-11-09",
+      "h": 21,
+      "f": "foto",
+      "l": 67,
+      "c": 1,
+      "v": null,
+      "sh": null,
+      "t": "🌙 LA LUNA NON È MAI STATA COSÌ VICINA... C’è un posto, ad Arezzo, dove lo spazio smette di essere lontano e diventa un’esperienza da vivere ",
+      "tag": [
+       "#ArezzoCittàDelNatale",
+       "#Arezzo",
+       "#Natale",
+       "#luna",
+       "#estraterrestre"
+      ],
+      "tema": "territorio",
+      "col": true,
+      "u": "https://www.instagram.com/p/DfiI6bgxsjf/"
+     },
+     {
+      "d": "2026-11-09",
+      "h": 16,
+      "f": "foto",
+      "l": 7,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🌱 Alla Casa Circondariale “La Dogaia” di Prato abbiamo contribuito alla realizzazione di un lavandeto e di un frutteto, nell’ambito di un nu",
+      "tag": [
+       "#OrtofruttetoSolidaleDiffuso",
+       "#Sostenibilità",
+       "#InclusioneSociale",
+       "#AgricolturaSociale"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfhrgEDx4vK/"
+     },
+     {
+      "d": "2026-11-06",
+      "h": 11,
+      "f": "reel",
+      "l": 11,
+      "c": 0,
+      "v": 496,
+      "sh": null,
+      "t": "💨 A Pontelandolfo, in provincia di Benevento, l’acquisizione del parco eolico da 52 MW rappresenta un passo importante nel nostro percorso d",
+      "tag": [
+       "#LineaVerde"
+      ],
+      "tema": "energia",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfZZ26jsn2h/"
+     },
+     {
+      "d": "2026-11-05",
+      "h": 12,
+      "f": "foto",
+      "l": 0,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🌍 Nuova edizione, nuove missioni! Torna Missione Eco Green – Gioca. Scopri. Cambia!, il nostro progetto che porta la sostenibilità tra i ban",
+      "tag": [
+       "#MissioneEcoGreen",
+       "#EducazioneAmbientale",
+       "#Sostenibilità",
+       "#Scuola"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfW87AKhG3z/"
+     },
+     {
+      "d": "2026-11-04",
+      "h": 11,
+      "f": "foto",
+      "l": 26,
+      "c": 3,
+      "v": null,
+      "sh": null,
+      "t": "💙 Ogni corsa è una sfida, ogni traguardo una nuova emozione! 🏃🏻‍♀️‍➡️Il 29 novembre torna la 42a Estra Firenze Marathon: 42 km nel cuore di",
+      "tag": [
+       "#Estra",
+       "#Energia",
+       "#EstraFirenzeMarathon",
+       "#FirenzeMarathon",
+       "#Running"
+      ],
+      "tema": "sport",
+      "col": true,
+      "u": "https://www.instagram.com/p/DfUM-wYB-Ct/"
+     },
+     {
+      "d": "2026-10-30",
+      "h": 11,
+      "f": "reel",
+      "l": 9,
+      "c": 0,
+      "v": 469,
+      "sh": null,
+      "t": "⚡ Nuova edizione di Estra Notizie! Nel numero di novembre parliamo di #SmartHydroGrid, il progetto che sperimenta l’utilizzo dell’idrogeno v",
+      "tag": [
+       "#SmartHydroGrid"
+      ],
+      "tema": "energia",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfHWp9ShAL4/"
+     },
+     {
+      "d": "2026-10-26",
+      "h": 11,
+      "f": "foto",
+      "l": 36,
+      "c": 3,
+      "v": null,
+      "sh": null,
+      "t": "📞 LAST CALL (to action)! ⚡️ Il 31 ottobre si chiudono le candidature alla sesta edizione della “Call to Action”. 👉🏼 Sosterremo 15 progetti i",
+      "tag": [
+       "#CallToAction",
+       "#Sport"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/De9FcPAsnWA/"
+     }
+    ]
+   },
+   "li": {
+    "fol": 9804,
+    "p": [
+     {
+      "d": "2026-11-27",
+      "h": 15,
+      "f": "foto",
+      "l": 39,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Ultima giornata a Verona per la 43a Assemblea annuale #ANCI. Smart City e digitalizzazione dei servizi pubblici",
+      "tag": [
+       "#ANCI"
+      ],
+      "tema": "evento",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/estra-spa_anci-estra-anci2026-activity-7532085083789246464-rmg3"
+     },
+     {
+      "d": "2026-11-27",
+      "h": 12,
+      "f": "video",
+      "l": 6,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Produrre più energia da fonti rinnovabili per offrirla direttamente a famiglie e imprese a prezzi sostenibili.",
+      "tag": [],
+      "tema": "energia",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/estra-spa_anci2026-energia-multiutility-activity-7532042212000333825-ah1S"
+     },
+     {
+      "d": "2026-11-23",
+      "h": 12,
+      "f": "foto",
+      "l": 39,
+      "c": 2,
+      "v": null,
+      "sh": null,
+      "t": "Dalla produzione alla vendita: dal 1° gennaio 2027 160 GWh annui di energia rinnovabile autoprodotta",
+      "tag": [],
+      "tema": "energia",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/estra-spa_parcoeolico-estra-energierinnovabili-activity-7530594890393636864-FvLI"
+     },
+     {
+      "d": "2026-11-20",
+      "h": 11,
+      "f": "carosello",
+      "l": 18,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Estra Plures alla 43a Assemblea annuale ANCI: il programma degli incontri allo stand (documento)",
+      "tag": [],
+      "tema": "evento",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/estra-spa_programma-eventi-estra-plures-anci-2026-activity-7529493561059254274-RbJU"
+     },
+     {
+      "d": "2026-11-13",
+      "h": 13,
+      "f": "foto",
+      "l": 44,
+      "c": 1,
+      "v": null,
+      "sh": null,
+      "t": "Il futuro delle reti gas passa dalla loro evoluzione in Smart Grid integrate, bidirezionali e resilienti.",
+      "tag": [],
+      "tema": "energia",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/estra-spa_centria-transizioneenergetica-smartgrid-activity-7526991233638887425-4Md2"
+     },
+     {
+      "d": "2026-11-09",
+      "h": 16,
+      "f": "foto",
+      "l": 15,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Alla Casa Circondariale “La Dogaia” di Prato abbiamo contribuito alla realizzazione di un lavandeto e di un frutteto",
+      "tag": [],
+      "tema": "valori",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/estra-spa_ortofruttetosolidalediffuso-sostenibilit%C3%A0-activity-7525585698373033984-_pho"
+     },
+     {
+      "d": "2026-11-06",
+      "h": 11,
+      "f": "video",
+      "l": 13,
+      "c": 1,
+      "v": null,
+      "sh": null,
+      "t": "A Pontelandolfo l'acquisizione del parco eolico da 52 MW: il presidente racconta (clip da Linea Verde)",
+      "tag": [],
+      "tema": "energia",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/estra-spa_lineaverde-activity-7524418774159249408-sLgy"
+     },
+     {
+      "d": "2026-11-05",
+      "h": 12,
+      "f": "foto",
+      "l": 2,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Missione Eco Green riparte con nuove sfide dedicate alla sostenibilità!",
+      "tag": [],
+      "tema": "valori",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/estra-spa_missioneecogreen-missioneecogreen-sostenibilit%C3%A0-activity-7524075579441115136-PCe-"
+     },
+     {
+      "d": "2026-10-30",
+      "h": 11,
+      "f": "video",
+      "l": 10,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Nuova edizione di Estra Notizie! SmartHydroGrid e premio «Estra per lo Sport»",
+      "tag": [],
+      "tema": "energia",
+      "col": false,
+      "u": "https://it.linkedin.com/posts/estra-spa_smarthydrogrid-activity-7521878065904324608-ABHa"
+     }
+    ]
+   }
+  },
+  "umbriaenergy": {
+   "ig": {
+    "fol": 701,
+    "p": [
+     {
+      "d": "2026-11-27",
+      "h": 10,
+      "f": "carosello",
+      "l": 0,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "CAOS di Terni: quando il passato industriale diventa energia per la cultura. Ci sono luoghi che raccontano la storia di un territorio e che,",
+      "tag": [
+       "#UmbriaEnergy",
+       "#CAOS",
+       "#Terni",
+       "#Umbria"
+      ],
+      "tema": "territorio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgPTvPqAK12/"
+     },
+     {
+      "d": "2026-11-26",
+      "h": 10,
+      "f": "foto",
+      "l": 4,
+      "c": 1,
+      "v": null,
+      "sh": null,
+      "t": "Umbria Energy: la nostra energia è anche ascolto e vicinanza. Scegliere un fornitore di luce e gas non significa soltanto trovare l'offerta",
+      "tag": [
+       "#UmbriaEnergy",
+       "#ServizioClienti",
+       "#AssistenzaClienti"
+      ],
+      "tema": "servizio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgMu7UXjwHM/"
+     },
+     {
+      "d": "2026-11-25",
+      "h": 8,
+      "f": "reel",
+      "l": 13,
+      "c": 0,
+      "v": 188,
+      "sh": null,
+      "t": "La violenza contro le donne non è soltanto un problema individuale, ma una responsabilità che riguarda l'intera società. In occasione della",
+      "tag": [
+       "#UmbriaEnergy",
+       "#25Novembre",
+       "#NoAllaViolenzaSulleDonne"
+      ],
+      "tema": "valori",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgKCBXMBVQc/"
+     },
+     {
+      "d": "2026-11-24",
+      "h": 10,
+      "f": "foto",
+      "l": 3,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Cerchi un'offerta gas che unisca trasparenza, praticità e attenzione ai costi? Con GAS WEB di Umbria Energy scegli una tariffa a prezzo vari",
+      "tag": [
+       "#UmbriaEnergy",
+       "#GasWeb",
+       "#OffertaGas"
+      ],
+      "tema": "promo",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgHlUhQAmjm/"
+     },
+     {
+      "d": "2026-11-23",
+      "h": 10,
+      "f": "foto",
+      "l": 3,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "☀️ Fotovoltaico: l'Europa accelera verso un futuro sempre più solare Il fotovoltaico è ormai uno dei protagonisti della transizione energeti",
+      "tag": [
+       "#UmbriaEnergy",
+       "#Fotovoltaico",
+       "#EnergiaSolare",
+       "#SolarEnergy",
+       "#TransizioneEnergetica",
+       "#EnergieRinnovabili"
+      ],
+      "tema": "energia",
+      "col": false,
+      "u": "https://www.instagram.com/p/DgFAib7j0ZM/"
+     },
+     {
+      "d": "2026-11-20",
+      "h": 10,
+      "f": "foto",
+      "l": 3,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🍫✨ Eurochocolate 2026: ultimo weekend di dolcezza a Perugia! Il conto alla rovescia è iniziato! Sabato 21 e domenica 22 novembre sono gli ul",
+      "tag": [
+       "#UmbriaEnergy",
+       "#Eurochocolate2026",
+       "#Perugia"
+      ],
+      "tema": "territorio",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df9SJrVDyYd/"
+     },
+     {
+      "d": "2026-11-19",
+      "h": 10,
+      "f": "foto",
+      "l": 3,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Con l'arrivo dei primi freddi, c'è un ingrediente che non dovrebbe mancare sulle nostre tavole: la zucca! 🎃 Gustosa, versatile e protagonist",
+      "tag": [
+       "#UmbriaEnergy",
+       "#AutunnoSostenibile",
+       "#Zucca"
+      ],
+      "tema": "altro",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df6tWNViWjK/"
+     },
+     {
+      "d": "2026-11-18",
+      "h": 10,
+      "f": "reel",
+      "l": 0,
+      "c": 0,
+      "v": 31,
+      "sh": null,
+      "t": "L'energia eolica è una delle protagoniste della transizione energetica europea e continua a contribuire alla produzione di elettricità da fo",
+      "tag": [
+       "#UmbriaEnergy",
+       "#EnergiaEolica",
+       "#EnergieRinnovabili"
+      ],
+      "tema": "energia",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df4InpThYDZ/"
+     },
+     {
+      "d": "2026-11-17",
+      "h": 10,
+      "f": "foto",
+      "l": 2,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Cerchi un'offerta luce che unisca attenzione ai costi, semplicità e sostenibilità? Con LUCE WEB di Umbria Energy scegli una tariffa a prezzo",
+      "tag": [
+       "#UmbriaEnergy",
+       "#LuceWeb",
+       "#OffertaLuce"
+      ],
+      "tema": "promo",
+      "col": false,
+      "u": "https://www.instagram.com/p/Df1jwcdDSq3/"
+     },
+     {
+      "d": "2026-11-16",
+      "h": 14,
+      "f": "foto",
+      "l": 2,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🎭 COMMENTA E VINCI 🎭 IN PALIO 4️⃣ BIGLIETTI GRATIS! Mercoleì 18 Novembre 2026 alle ore 21.00, vieni a Teatro con UMBRIA ENERGY e PRIMASCENA",
+      "tag": [
+       "#umbriaenergy",
+       "#commentaevinci",
+       "#bigliettigratis",
+       "#bigliettiomaggio",
+       "#teatro",
+       "#spettacolo"
+      ],
+      "tema": "promo",
+      "col": false,
+      "u": "https://www.instagram.com/p/Dfzfkt7mQ2e/"
+     },
+     {
+      "d": "2026-11-16",
+      "h": 10,
+      "f": "foto",
+      "l": 0,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "Sapevi che una centrale a ciclo combinato può produrre elettricità sfruttando due volte l'energia del gas naturale? Il funzionamento è sempl",
+      "tag": [
+       "#UmbriaEnergy",
+       "#CicloCombinato",
+       "#EfficienzaEnergetica",
+       "#GasNaturale"
+      ],
+      "tema": "energia",
+      "col": false,
+      "u": "https://www.instagram.com/p/Dfy-_2LjaRU/"
+     },
+     {
+      "d": "2026-11-13",
+      "h": 10,
+      "f": "foto",
+      "l": 3,
+      "c": 0,
+      "v": null,
+      "sh": null,
+      "t": "🍂✨ 3 luoghi magici da visitare in Umbria a novembre! L'autunno trasforma l'Umbria in un piccolo mondo incantato, tra borghi suggestivi, bosc",
+      "tag": [
+       "#UmbriaEnergy",
+       "#Umbria",
+       "#NovembreInUmbria",
+       "#AutunnoInUmbria",
+       "#Rasiglia",
+       "#CascataDelleMarmore"
+      ],
+      "tema": "territorio",
+      "col": false,
+      "u": "https://www.instagram.com/p/DfrQlYRCCEb/"
+     }
+    ]
+   }
+  }
+ }
+}

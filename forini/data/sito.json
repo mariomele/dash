@@ -1,0 +1,577 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "n": "Schermate prese il 28/11/2026 con Chromium automatico (Playwright) a 1440×900 e su telefono a 390×844: pagina caricata, banner cookie chiuso con l'opzione più rispettosa (Rifiuta su Beyfin, Enerpetroli e AliaEstra; Nega su Ala; la «×» su Acton Energia, iubenda, e su Umbria Energy, Clickio, che offre solo «Gestisci le opzioni» e «Accetta e chiudi»); forini.com e acton.forini.com non hanno mostrato un banner. Poi scorrimento lento fino in fondo e foto della pagina intera. Il banner cookie è obbligatorio per legge e non viene valutato; il popup HVO di Enerpetroli non è un banner cookie ed è lasciato com'è. Il cliente ha tre home: in classifica «noi» sono acton.forini.com per i carburanti e actonenergia.forini.com per l'energia; forini.com è il sito di gruppo, votato come gli altri ma non contato come «noi». actonlubes.forini.com il 28/11/2026 non risolve in DNS e non è votato. estra.it reindirizza ad aliaestra.it (marchio AliaEstra, gruppo Plures): votata quella home. actonenergia.forini.com rifiuta il Chromium automatico con interfaccia Chrome (errore HTTP2/risposta vuota): letto con lo stesso browser presentandosi come Safari, nessun blocco aggirato. Limiti: nella foto intera di acton.forini.com il video resta nero e la sezione «Acton nello sport» vuota (caricamento ad animazione, non pesa sul voto); su beyfin.it la foto intera mostra una striscia vuota a destra, da verificare a mano. Panel simulato di 3 esperti web; valutazione indicativa, non un test con utenti. Spesa: 0 crediti Firecrawl (solo browser locale); loghi dei riferimenti dalle icone dei siti (Google favicon).",
+ "crit": [
+  [
+   "cosa",
+   "Cosa fa",
+   "Si capisce in 5 secondi cosa vende (carburanti, carta, luce e gas) e a chi?"
+  ],
+  [
+   "ger",
+   "Gerarchia",
+   "L'occhio sa dove andare? Un titolo, un'immagine, un'azione, in quest'ordine."
+  ],
+  [
+   "img",
+   "Immagini",
+   "Foto vere di stazioni, persone e servizi, ben illuminate e nitide, non rese 3D, illustrazioni generiche o stock."
+  ],
+  [
+   "prova",
+   "Prove",
+   "Numeri (stazioni, anni, clienti), certificazioni, partner, recensioni visibili presto?"
+  ],
+  [
+   "cta",
+   "Azione",
+   "C'è un'azione chiara (trova la stazione, richiedi la carta, attiva l'offerta)?"
+  ],
+  [
+   "marca",
+   "Marca",
+   "Il sito è riconoscibile e ha una personalità propria, non generica?"
+  ],
+  [
+   "mob",
+   "Telefono",
+   "Il primo schermo su telefono funziona?"
+  ],
+  [
+   "int",
+   "Territorio",
+   "Si vede subito dove si trova la rete o il servizio (trova stazione, mappa, sportelli, regioni)? Sostituisce «Estero»: il mercato è nazionale."
+  ],
+  [
+   "pul",
+   "Pulizia",
+   "Niente popup, chat, etichette fisse o errori che coprono il contenuto? (il banner cookie non conta: è obbligatorio per legge)"
+  ],
+  [
+   "vis",
+   "Aspetto visivo",
+   "Estetica da art director: tipografia, griglia, spazi, colori, cura del dettaglio, coerenza."
+  ],
+  [
+   "mod",
+   "Impostazione moderna",
+   "Sito del 2024-2026 (immagine a tutta larghezza, titolo grande, menu essenziale) o di 8-10 anni fa (slider con frecce, testi piccoli, colonne strette, menu affollati, popup)?"
+  ],
+  [
+   "perc",
+   "Percorso",
+   "Le sezioni sotto guidano chi compra passo per passo fino al contatto o al contratto?"
+  ],
+  [
+   "cont",
+   "Contenuti",
+   "Qualità, utilità e freschezza delle sezioni sotto il primo schermo."
+  ]
+ ],
+ "pesi": {
+  "cosa": 1,
+  "ger": 1,
+  "img": 1.5,
+  "prova": 1,
+  "cta": 1,
+  "marca": 1.5,
+  "mob": 1,
+  "int": 1,
+  "pul": 1,
+  "vis": 2,
+  "mod": 2,
+  "perc": 1.5,
+  "cont": 1.5
+ },
+ "esperti": {
+  "ad": "Art director",
+  "ux": "UX e conversione",
+  "brand": "Brand designer"
+ },
+ "regola": "Media pesata dei 13 criteri, giudicando tutta la home dal primo schermo al piè di pagina. Pesi: Aspetto visivo 2 e Impostazione moderna 2; Immagini, Marca, Percorso e Contenuti 1,5; gli altri 1 (somma dei pesi 17). Classi a soglie fisse: ≥4 Riferimento, ≥3,3 Solido, ≥2,8 Nella norma, ≥2,1 Debole, altrimenti Da rifare. Pari voto = pari posizione (AliaEstra e Acton Energia 3,76; Enerpetroli e Umbria Energy 2,62).",
+ "cliente": {
+  "testo": "Le due home di «noi» stanno ai due capi della classifica. Acton Energia è prima a pari merito con AliaEstra (3,76, Solido): titolo grande, due pulsanti, percorso completo fino al modulo; le manca un segno comune con il marchio Acton e qualche numero. Acton Special Fuel è quinta su 8 (3,00, Nella norma): la promessa e il rosso-nero da corsa sono i più forti dei carburanti, ma il primo schermo non ha menu né pulsante e usa una resa 3D. Fra i carburanti la guida Ala (3,71) per marca e foto, seguita da Beyfin (3,62) per completezza del percorso. Il sito di gruppo forini.com (2,76, Debole) apre con valori generici e arriva tardi a dire cosa fa il gruppo.",
+  "mosse": [
+   [
+    "Su acton.forini.com aggiungere menu e due pulsanti nel primo schermo: «Trova la stazione» e «Richiedi la Fuel Card»",
+    "Oggi il primo schermo non porta a nessuna azione (Azione 2/5), mentre Ala e Beyfin hanno «Trova stazione» sempre in alto",
+    "basso"
+   ],
+   [
+    "Sostituire la resa 3D della stazione con una foto vera di un impianto Acton, anche di notte come fa Ala",
+    "Immagini è il voto più basso della home carburanti (2/5)",
+    "medio"
+   ],
+   [
+    "Mettere sotto il titolo di Acton Energia una riga di numeri e la mappa dei consulenti sul territorio",
+    "Prove 3 e Territorio 2: la promessa «nessun call center» va mostrata con persone e luoghi",
+    "basso"
+   ],
+   [
+    "Dare alle due home un segno comune del marchio Acton (logo, rosso, tipografia) pur con colori di linea diversi",
+    "Oggi Special Fuel (rosso) ed Energia (verde lime) sembrano due aziende diverse",
+    "medio"
+   ],
+   [
+    "Rifare il primo schermo di forini.com con una frase sul gruppo e i quattro marchi in vista",
+    "Cosa fa ha voto 2: i marchi compaiono solo dopo tre blocchi di valori",
+    "basso"
+   ],
+   [
+    "Togliere o sistemare il collegamento ad actonlubes.forini.com finché il dominio non risponde",
+    "Il 28/11/2026 il dominio non risolve: chi clicca da forini.com trova un errore",
+    "basso"
+   ]
+  ]
+ },
+ "mondo": {
+  "n": "Scala mondiale 1-10 ancorata e severa, a fasce fisse. 10: le home migliori al mondo (Apple, Stripe, Tesla) e i riferimenti di energia e carburanti scelti qui (Octopus Energy, Shell); 9: gli altri riferimenti di settore (bp, TotalEnergies, Eni, Enel, Circle K). 8: grandi gruppi energetici internazionali al loro meglio; 7: ottimo sito di un grande marchio nazionale; 6: eccellente per una rete regionale o un fornitore locale; 5: buon sito di settore, professionale, con pochi punti deboli; 4: corretto ma ordinario; 3: datato o debole in più punti; 2: chiaramente trascurato; 1: da rifare. Nei carburanti e nell'energia del centro Italia la home tipica sta a 3-5 e nessuna supera 6; chi è Nella norma o Debole sta a 4 o meno. Giudizio indicativo.",
+  "top": [
+   {
+    "nome": "Apple",
+    "u": "https://www.apple.com/",
+    "lg": "apple",
+    "perche": "Un prodotto per schermo, foto perfette, titoli grandi e due sole azioni: il modello che quasi tutti i siti di prodotto imitano."
+   },
+   {
+    "nome": "Stripe",
+    "u": "https://stripe.com/",
+    "lg": "stripe",
+    "perche": "Spiega un servizio complesso in una frase, con tipografia curatissima e prove visibili subito."
+   },
+   {
+    "nome": "Tesla",
+    "u": "https://www.tesla.com/",
+    "lg": "tesla",
+    "perche": "Immagine a tutto schermo, nome e due pulsanti, menu ridotto all'essenziale; anche la ricarica entra nel percorso."
+   },
+   {
+    "nome": "Octopus Energy",
+    "u": "https://octopus.energy/",
+    "lg": "octopus",
+    "perche": "Fornitore di luce e gas con una marca simpatica e riconoscibile, linguaggio semplice e preventivo a un passo: il riferimento per l'energia retail."
+   },
+   {
+    "nome": "Shell",
+    "u": "https://www.shell.com/",
+    "lg": "shell",
+    "perche": "Conchiglia e colori inconfondibili, rete e carte carburante a portata di clic: il riferimento mondiale dei carburanti."
+   },
+   {
+    "nome": "bp",
+    "u": "https://www.bp.com/",
+    "lg": "bp",
+    "perche": "Marchio verde-giallo coerente su stazioni, ricarica e servizi, con un'impostazione da grande gruppo."
+   },
+   {
+    "nome": "TotalEnergies",
+    "u": "https://totalenergies.com/",
+    "lg": "totalenergies",
+    "perche": "Gruppo multi-energia che tiene insieme carburanti, elettricità e rinnovabili sotto un solo marchio."
+   },
+   {
+    "nome": "Eni",
+    "u": "https://www.eni.com/",
+    "lg": "eni",
+    "perche": "Il cane a sei zampe: il marchio energetico italiano più riconoscibile, con architettura di marca fra carburanti ed energia."
+   },
+   {
+    "nome": "Enel",
+    "u": "https://www.enel.it/",
+    "lg": "enel",
+    "perche": "Offerte luce e gas per bisogni, area clienti e app in primo piano: il riferimento italiano dell'energia retail."
+   },
+   {
+    "nome": "Circle K",
+    "u": "https://www.circlek.com/",
+    "lg": "circlek",
+    "perche": "Rete di stazioni con marca semplice e servizi (negozio, lavaggio, carte) ordinati per chi è in viaggio."
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "forini",
+   "k": "actonenergia",
+   "me": true,
+   "nome": "Acton Energia · actonenergia.forini.com",
+   "u": "https://actonenergia.forini.com/",
+   "v": {
+    "cosa": 4,
+    "ger": 5,
+    "img": 3,
+    "prova": 3,
+    "cta": 5,
+    "marca": 3,
+    "mob": 4,
+    "int": 2,
+    "pul": 4,
+    "vis": 4,
+    "mod": 4,
+    "perc": 4,
+    "cont": 4
+   },
+   "w": 5,
+   "titolo": "«Una vita piena? Troppi pensieri? Alla tua bolletta ci pensiamo noi!»",
+   "e": "Moderno e chiaro, porta al contratto; marca scollegata da Acton",
+   "verd": "La home più ordinata del confronto insieme ad AliaEstra: titolo grande, due pulsanti, menu essenziale e un percorso che va dal servizio al passaggio, alla bolletta, alle recensioni, ai servizi e al contatto. Il verde lime e le illustrazioni 3D però la staccano dal rosso Acton e la avvicinano a un modello già visto.",
+   "pro": [
+    "Due azioni chiare nel primo schermo: «Trova la tua offerta» e «Passa ad Acton»",
+    "Percorso completo: servizio, passaggio in tre passi, bolletta, recensioni, servizi, contatto",
+    "Recensioni con nomi di clienti e aziende",
+    "Il gruppo Forini e il 1933 chiudono la pagina come garanzia"
+   ],
+   "contro": [
+    "Nessun numero (clienti, anni nell'energia, risparmio) nel primo schermo",
+    "Verde lime e illustrazioni 3D poco legati al marchio Acton dei carburanti",
+    "Nessuna mappa di sportelli o consulenti sul territorio, che è la promessa «nessun call center»"
+   ],
+   "fix": "Mettere sotto il titolo una riga di numeri e la mappa dei consulenti in Umbria, e riportare nel sito un segno comune con il rosso Acton.",
+   "panel": {
+    "ad": "Spazi, gerarchia e tipografia da sito attuale; le illustrazioni 3D sono il punto più generico.",
+    "ux": "Il miglior percorso verso il contratto: ogni blocco ha un passo successivo e il modulo è in pagina.",
+    "brand": "Pulita ma potrebbe essere di qualunque fornitore: del mondo Acton resta solo il nome."
+   },
+   "wv": "Impostazione moderna e percorso completo: un buon sito di settore, senza la personalità che porterebbe più in alto.",
+   "s": "val",
+   "img": "logos/sito/actonenergia-d.jpg",
+   "m": "logos/sito/actonenergia-m.jpg",
+   "full": "logos/sito/actonenergia-full.jpg",
+   "media": 3.76,
+   "cls": "Solido"
+  },
+  {
+   "id": "estra",
+   "nome": "AliaEstra (Estra) · aliaestra.it",
+   "u": "https://aliaestra.it/",
+   "v": {
+    "cosa": 4,
+    "ger": 3,
+    "img": 3,
+    "prova": 3,
+    "cta": 5,
+    "marca": 3,
+    "mob": 4,
+    "int": 4,
+    "pul": 4,
+    "vis": 4,
+    "mod": 4,
+    "perc": 4,
+    "cont": 4
+   },
+   "w": 5,
+   "titolo": "«Qual buon vento? Il nostro (e per te una nuova energia)»",
+   "e": "Offerta col prezzo in vista; marca in transizione",
+   "verd": "estra.it porta ad aliaestra.it, con logo Alia-Estra-Plures. Accanto allo slider c'è subito un'offerta luce con prezzo, stima di spesa e pulsante; sotto, la pagina è organizzata per bisogni («Cosa vuoi fare?»): cambio fornitore, attivazione, voltura, servizi ambientali, app, blog. Impostazione da grande utility, con una marca a tre nomi ancora da assestare.",
+   "pro": [
+    "Prezzo e stima di spesa visibili nel primo schermo",
+    "Percorso per compiti: cambio fornitore, attivazione, voltura",
+    "«Dove ti trovi?» e sportelli in alto",
+    "App e area clienti ben presentate"
+   ],
+   "contro": [
+    "Titolo dello slider tagliato dalla piega e poco chiaro",
+    "Logo a tre nomi (Alia, Estra, Plures) che confonde",
+    "Sfumature viola e illustrazioni da utility generica"
+   ],
+   "panel": {
+    "ad": "Pulito e moderno, ma le sfumature viola sono quelle di mille utility.",
+    "ux": "L'offerta col prezzo e il «Cosa vuoi fare?» sono il miglior esempio di percorso verso il contratto.",
+    "brand": "Marca in transizione: Alia, Estra e Plures insieme indeboliscono il nome."
+   },
+   "wv": "Impostazione da grande utility e percorso chiaro: buon sito di settore.",
+   "s": "val",
+   "img": "logos/sito/estra-d.jpg",
+   "m": "logos/sito/estra-m.jpg",
+   "full": "logos/sito/estra-full.jpg",
+   "media": 3.76,
+   "cls": "Solido"
+  },
+  {
+   "id": "ala",
+   "u": "https://www.alacarburanti.com/",
+   "v": {
+    "cosa": 3,
+    "ger": 3,
+    "img": 4,
+    "prova": 4,
+    "cta": 3,
+    "marca": 4,
+    "mob": 3,
+    "int": 4,
+    "pul": 3,
+    "vis": 4,
+    "mod": 4,
+    "perc": 4,
+    "cont": 4
+   },
+   "w": 5,
+   "titolo": "«Break in Black»",
+   "e": "La marca con più carattere, apertura poco chiara",
+   "verd": "Home scura e cinematografica, con foto notturne della rete e titoli grandi: la più riconoscibile del confronto. Il primo schermo però è una campagna («Break in Black») e non dice cosa fa Ala; lo dice il blocco sotto (oltre 180 impianti in sei regioni). Poi stazioni, carburanti, autolavaggio, scuola guida, lubrificanti, Black Card, partner, Instagram e i marchi del gruppo.",
+   "pro": [
+    "Foto notturne della rete di grande effetto",
+    "Oltre 180 impianti e sei regioni scritti subito sotto il primo schermo",
+    "«Trova le stazioni» sempre in alto",
+    "Tono da appassionati (petrolheads) coerente in tutta la pagina"
+   ],
+   "contro": [
+    "Il primo schermo è una campagna: non dice cosa fa l'azienda",
+    "Pulsanti piccoli dentro le sezioni",
+    "Widget di accessibilità e consenso fissi sopra il contenuto",
+    "Alcune immagini (auto, uccello) sembrano rese digitali"
+   ],
+   "panel": {
+    "ad": "La più curata visivamente: fondo nero, titoli a contorno, foto notturne.",
+    "ux": "Bello ma lento: chi cerca un servizio deve passare da un'apertura pubblicitaria.",
+    "brand": "Una personalità vera e riconoscibile, la più forte del confronto."
+   },
+   "wv": "Marca e impostazione sopra la media di settore, apertura poco chiara: buon sito di settore.",
+   "s": "val",
+   "img": "logos/sito/ala-d.jpg",
+   "m": "logos/sito/ala-m.jpg",
+   "full": "logos/sito/ala-full.jpg",
+   "media": 3.71,
+   "cls": "Solido"
+  },
+  {
+   "id": "beyfin",
+   "u": "https://www.beyfin.it/",
+   "v": {
+    "cosa": 4,
+    "ger": 4,
+    "img": 3,
+    "prova": 3,
+    "cta": 4,
+    "marca": 4,
+    "mob": 4,
+    "int": 4,
+    "pul": 4,
+    "vis": 3,
+    "mod": 3,
+    "perc": 4,
+    "cont": 4
+   },
+   "w": 4,
+   "titolo": "«GPL, l'energia pulita che arriva ovunque»",
+   "e": "Completo e ordinato, ma affollato e illustrato",
+   "verd": "Si capisce subito cosa fa (combustibili e carburanti dal 1956) e dove andare (due pulsanti, «Trova stazione di servizio» in alto). Sotto ci sono carta carburante, rete, Società Benefit con i bilanci, GPL, aziende, Devra Energia, lavoro e numeri verdi: un percorso completo, con menu molto fitti e tante illustrazioni isometriche.",
+   "pro": [
+    "Due pulsanti chiari: combustibili e carburanti",
+    "«Trova stazione» e Beyfin Card subito sotto il primo schermo",
+    "Società Benefit e bilanci di sostenibilità come prova",
+    "Numeri verdi e filiali per area"
+   ],
+   "contro": [
+    "Menu doppio e molto fitto",
+    "Illustrazioni isometriche generiche al posto di foto della rete",
+    "Blocchi blu scuri tutti uguali, poca gerarchia sotto"
+   ],
+   "panel": {
+    "ad": "Quadrifoglio e blu-giallo riconoscibili; le illustrazioni isometriche appiattiscono la pagina.",
+    "ux": "Ogni pubblico (casa, azienda, automobilista) trova la sua porta: il percorso più completo fra i carburanti.",
+    "brand": "Marca solida e coerente, tono caldo («con il cuore, dal 1956»)."
+   },
+   "wv": "Ordinato e completo ma con menu e illustrazioni di qualche anno fa: sito di settore corretto.",
+   "s": "val",
+   "img": "logos/sito/beyfin-d.jpg",
+   "m": "logos/sito/beyfin-m.jpg",
+   "full": "logos/sito/beyfin-full.jpg",
+   "media": 3.62,
+   "cls": "Solido"
+  },
+  {
+   "id": "forini",
+   "k": "acton",
+   "me": true,
+   "nome": "Acton Special Fuel · acton.forini.com",
+   "u": "https://acton.forini.com/",
+   "v": {
+    "cosa": 4,
+    "ger": 3,
+    "img": 2,
+    "prova": 3,
+    "cta": 2,
+    "marca": 4,
+    "mob": 3,
+    "int": 2,
+    "pul": 4,
+    "vis": 3,
+    "mod": 3,
+    "perc": 3,
+    "cont": 3
+   },
+   "w": 4,
+   "titolo": "«Più potenza, più chilometri, più cura del motore»",
+   "e": "Promessa chiara e marca forte, senza menu né azione",
+   "verd": "Il messaggio arriva subito (carburanti speciali senza sovrapprezzo) e il rosso-nero da corsa è il più riconoscibile del gruppo. Ma il primo schermo non ha menu, non ha un pulsante e mostra una resa 3D della stazione; sotto la pagina tocca tutta l'offerta (Fuel Card, buoni, Lubes, gestori), con blocchi di testo maiuscolo e icone generiche.",
+   "pro": [
+    "Promessa in tre righe, comprensibile in 5 secondi",
+    "Misano World Circuit come prova di qualità, visibile al secondo blocco",
+    "Percorso che mostra tutta la famiglia Acton: carburanti, Fuel Card, buoni, Lubes, gestori",
+    "Rosso e nero da motorsport coerenti dall'inizio alla fine"
+   ],
+   "contro": [
+    "Nessun menu e nessun pulsante nel primo schermo",
+    "Resa 3D della stazione al posto di una foto vera della rete",
+    "Nessun «Trova la stazione» in vista, eppure è la prima cosa che cerca un automobilista",
+    "Testi lunghi in maiuscolo e icone verdi generiche"
+   ],
+   "fix": "Aggiungere in alto un menu e due pulsanti («Trova la stazione», «Richiedi la Fuel Card»), sostituire la resa 3D con una foto vera di un impianto e mettere i numeri della rete accanto a Misano.",
+   "panel": {
+    "ad": "Tipografia forte e colori di marca giusti, ma la resa 3D e le icone stock abbassano la qualità percepita.",
+    "ux": "Chi arriva non ha né menu né pulsante: deve scorrere per capire dove fare il pieno o come chiedere la carta.",
+    "brand": "È la home con più carattere del gruppo: il mondo corse è un territorio proprio, ben difeso."
+   },
+   "wv": "Messaggio e marca sopra la media di settore, ma senza menu e azioni resta un sito corretto, lontano dai riferimenti.",
+   "s": "val",
+   "img": "logos/sito/acton-d.jpg",
+   "m": "logos/sito/acton-m.jpg",
+   "full": "logos/sito/acton-full.jpg",
+   "media": 3.0,
+   "cls": "Nella norma"
+  },
+  {
+   "id": "forini-gruppo",
+   "k": "forini-gruppo",
+   "nome": "Forini (gruppo) · forini.com",
+   "u": "https://forini.com/",
+   "v": {
+    "cosa": 2,
+    "ger": 3,
+    "img": 3,
+    "prova": 3,
+    "cta": 2,
+    "marca": 3,
+    "mob": 3,
+    "int": 2,
+    "pul": 4,
+    "vis": 3,
+    "mod": 2,
+    "perc": 3,
+    "cont": 3
+   },
+   "w": 3,
+   "titolo": "«Coraggio e passione.»",
+   "e": "Mappa del gruppo utile, primo schermo di soli valori",
+   "verd": "Il sito di gruppo apre con tre valori generici in bianco e nero e solo più in basso spiega il gruppo e i cinque marchi (Special Fuel, Fuel Card, Lubes, Energia, Costruzioni). La mappa dei marchi è utile, la foto d'archivio del 1933 è la più bella della pagina, ma l'impostazione a blocchi metà e metà con pulsanti a pillola è di qualche anno fa.",
+   "pro": [
+    "Tutti i marchi del gruppo in fila, ognuno con il suo pulsante",
+    "Foto d'archivio del 1933: storia vera e riconoscibile",
+    "Sezione sport con piloti e Misano"
+   ],
+   "contro": [
+    "Primo schermo con valori generici: non si capisce cosa fa l'azienda",
+    "Blocchi metà e metà e testi piccoli, impostazione datata",
+    "«Customer community» come unica azione in alto",
+    "Il link ai lubrificanti porta a un dominio che il 28/11/2026 non risponde"
+   ],
+   "fix": "Aprire con una frase sul gruppo e i quattro marchi in vista nel primo schermo, togliere i tre blocchi di valori e mettere i numeri (1933, punti vendita, clienti energia).",
+   "panel": {
+    "ad": "Bianco e nero curato ma impaginazione a scacchiera vecchia, con testi piccoli.",
+    "ux": "Bisogna scorrere quattro schermi per trovare cosa vende il gruppo.",
+    "brand": "Il sito spiega l'architettura Forini-Acton meglio di tutti gli altri, ma tardi."
+   },
+   "wv": "Datato e lento a dire cosa fa: sotto la media di un sito di settore corretto.",
+   "s": "val",
+   "img": "logos/sito/forini-gruppo-d.jpg",
+   "m": "logos/sito/forini-gruppo-m.jpg",
+   "full": "logos/sito/forini-gruppo-full.jpg",
+   "media": 2.76,
+   "cls": "Debole"
+  },
+  {
+   "id": "enerpetroli",
+   "u": "https://www.enerpetroli.it/",
+   "v": {
+    "cosa": 3,
+    "ger": 2,
+    "img": 3,
+    "prova": 3,
+    "cta": 3,
+    "marca": 3,
+    "mob": 2,
+    "int": 4,
+    "pul": 1,
+    "vis": 3,
+    "mod": 2,
+    "perc": 3,
+    "cont": 2
+   },
+   "w": 3,
+   "titolo": "«Oltre 130 stazioni» (coperto da un popup HVO)",
+   "e": "Popup sopra il primo schermo, impostazione datata",
+   "verd": "All'apertura un popup pubblicitario sull'HVO copre il primo schermo su computer e telefono. Sotto c'è uno slider numerato (1/7), poi Enercard, la ricerca stazioni con filtri, le notizie e i marchi partner. La ricerca stazioni è utile, ma le notizie più recenti in home sono del 2024 e un grande blocco blu resta vuoto.",
+   "pro": [
+    "Ricerca stazioni con filtri (GPL, metano, lubrificanti, ristoro)",
+    "«Oltre 130 stazioni» e marchi partner come prova",
+    "Enercard per aziende ben presentata"
+   ],
+   "contro": [
+    "Popup HVO che copre il primo schermo",
+    "Slider con contatore e doppio menu fitto",
+    "Notizie in home ferme al 2024",
+    "Grande fascia blu vuota prima del piè di pagina"
+   ],
+   "panel": {
+    "ad": "Impaginazione e tipografia di qualche anno fa, con una fascia vuota.",
+    "ux": "Il popup blocca il primo contatto; dopo, la ricerca stazioni è la parte migliore.",
+    "brand": "Logo e blu riconoscibili, ma niente che distingua il marchio."
+   },
+   "wv": "Popup e slider lo tengono a un sito datato.",
+   "s": "val",
+   "img": "logos/sito/enerpetroli-d.jpg",
+   "m": "logos/sito/enerpetroli-m.jpg",
+   "full": "logos/sito/enerpetroli-full.jpg",
+   "media": 2.62,
+   "cls": "Debole"
+  },
+  {
+   "id": "umbriaenergy",
+   "u": "https://www.umbriaenergy.it/",
+   "v": {
+    "cosa": 3,
+    "ger": 2,
+    "img": 2,
+    "prova": 3,
+    "cta": 3,
+    "marca": 3,
+    "mob": 2,
+    "int": 4,
+    "pul": 3,
+    "vis": 2,
+    "mod": 2,
+    "perc": 3,
+    "cont": 3
+   },
+   "w": 3,
+   "titolo": "«Nuove procedure di selezione aperte» (slider)",
+   "e": "Slider e menu affollati, offerte nascoste sotto",
+   "verd": "Lo slider con frecce apre su una notizia di selezione del personale, non sull'offerta; sopra ci sono due menu e quattro pulsanti verdi. Le offerte casa, business e web arrivano più sotto, poi accise, sportelli e molte notizie. Le prove ci sono (premio Industria Felix, certificazioni), ma l'aspetto è il più datato del confronto.",
+   "pro": [
+    "Quattro porte chiare: casa, business, efficienza, mobilità elettrica",
+    "Sportelli al pubblico con prenotazione",
+    "Premi e certificazioni in fondo alla pagina"
+   ],
+   "contro": [
+    "Slider con frecce che apre su una notizia interna",
+    "Due menu e quattro pulsanti a pillola: troppe scelte",
+    "Illustrazioni clip-art e sfumature verde-giallo datate",
+    "Su telefono il primo schermo resta mezzo vuoto"
+   ],
+   "panel": {
+    "ad": "Sfumature, pillole e clip-art: lo stile più vecchio del gruppo.",
+    "ux": "Chi cerca un'offerta deve superare uno slider di notizie.",
+    "brand": "Il quadrifoglio verde-giallo è riconoscibile ma usato senza ordine."
+   },
+   "wv": "Slider, menu affollati e illustrazioni datate: sito datato.",
+   "s": "val",
+   "img": "logos/sito/umbriaenergy-d.jpg",
+   "m": "logos/sito/umbriaenergy-m.jpg",
+   "full": "logos/sito/umbriaenergy-full.jpg",
+   "media": 2.62,
+   "cls": "Debole"
+  }
+ ]
+}

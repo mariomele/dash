@@ -1,0 +1,401 @@
+{
+ "at": "2026-11-28",
+ "s": "dic",
+ "u": "https://docs.dataforseo.com/v3/ai_optimization/llm_mentions/search/live/",
+ "loc": "Italia, italiano",
+ "r": {
+  "beyfin": {
+   "g": {
+    "tot": 78,
+    "q": [
+     [
+      "beyfin",
+      40500
+     ],
+     [
+      "diesel hvo",
+      12100
+     ],
+     [
+      "metano o gpl",
+      4400
+     ],
+     [
+      "hvo carburante",
+      1900
+     ],
+     [
+      "filiale beyfin",
+      1600
+     ],
+     [
+      "carburante hvo",
+      1300
+     ],
+     [
+      "impianti gpl diesel",
+      1300
+     ],
+     [
+      "beyfin metano toscana lng",
+      1000
+     ],
+     [
+      "beyfin spa",
+      880
+     ],
+     [
+      "beyfin modena",
+      720
+     ]
+    ],
+    "src": [
+     [
+      "beyfin.it",
+      10
+     ],
+     [
+      "youtube.com",
+      5
+     ],
+     [
+      "it.wikipedia.org",
+      4
+     ],
+     [
+      "alvolante.it",
+      4
+     ],
+     [
+      "paginegialle.it",
+      2
+     ],
+     [
+      "it.linkedin.com",
+      2
+     ],
+     [
+      "web.uta.com",
+      2
+     ],
+     [
+      "instagram.com",
+      2
+     ],
+     [
+      "eurocappetroli.com",
+      2
+     ],
+     [
+      "facebook.com",
+      2
+     ]
+    ]
+   }
+  },
+  "estra": {
+   "g": {
+    "tot": 37,
+    "q": [
+     [
+      "energie sostenibile",
+      5400
+     ],
+     [
+      "estra area clienti",
+      4400
+     ],
+     [
+      "estra luce e gas",
+      3600
+     ],
+     [
+      "alia plures",
+      1900
+     ],
+     [
+      "estra login",
+      1300
+     ],
+     [
+      "estra energie",
+      1000
+     ],
+     [
+      "prometeo estra",
+      1000
+     ],
+     [
+      "gas mercato tutelato",
+      880
+     ],
+     [
+      "pulizia interna termosifoni",
+      590
+     ],
+     [
+      "luce e gas estra",
+      480
+     ]
+    ],
+    "src": [
+     [
+      "estra.it",
+      10
+     ],
+     [
+      "areaclienti.estra.it",
+      6
+     ],
+     [
+      "luce-gas.it",
+      5
+     ],
+     [
+      "aliaestra.it",
+      5
+     ],
+     [
+      "youtube.com",
+      4
+     ],
+     [
+      "puntienergia.com",
+      3
+     ],
+     [
+      "estraprometeo.it",
+      2
+     ],
+     [
+      "facile.it",
+      2
+     ],
+     [
+      "gse.it",
+      1
+     ],
+     [
+      "netoip.com",
+      1
+     ]
+    ]
+   }
+  },
+  "enerpetroli": {
+   "g": {
+    "tot": 11,
+    "q": [
+     [
+      "enerpetroli srl",
+      2900
+     ],
+     [
+      "ener petroli",
+      2400
+     ],
+     [
+      "enerpetroli",
+      2400
+     ],
+     [
+      "enerpetroli via ulderico mazzolani",
+      1300
+     ],
+     [
+      "via ruggero orlando",
+      590
+     ],
+     [
+      "enerpetroli viterbo",
+      320
+     ],
+     [
+      "enerpetroli metano",
+      260
+     ],
+     [
+      "metano gualdo tadino",
+      260
+     ],
+     [
+      "via della palazzina viterbo",
+      140
+     ],
+     [
+      "esso santa severa",
+      140
+     ]
+    ],
+    "src": [
+     [
+      "enerpetroli.it",
+      10
+     ],
+     [
+      "alvolante.it",
+      4
+     ],
+     [
+      "ufficiocamerale.it",
+      3
+     ],
+     [
+      "it.wikipedia.org",
+      3
+     ],
+     [
+      "google.com",
+      2
+     ],
+     [
+      "gasofapp.com",
+      2
+     ],
+     [
+      "prezzibenzina.it",
+      2
+     ],
+     [
+      "idealista.it",
+      2
+     ],
+     [
+      "tuttocitta.it",
+      2
+     ],
+     [
+      "facebook.com",
+      2
+     ]
+    ]
+   }
+  },
+  "forini": {
+   "g": {
+    "tot": 0,
+    "q": [],
+    "src": []
+   }
+  },
+  "umbriaenergy": {
+   "g": {
+    "tot": 6,
+    "q": [
+     [
+      "umbria energy",
+      2400
+     ],
+     [
+      "my umbria energy",
+      390
+     ],
+     [
+      "umbria gas spa",
+      210
+     ],
+     [
+      "umbria energy area clienti",
+      170
+     ],
+     [
+      "aziende in umbria",
+      110
+     ],
+     [
+      "umbria energy bastia umbra",
+      110
+     ]
+    ],
+    "src": [
+     [
+      "umbriaenergy.it",
+      6
+     ],
+     [
+      "luce-gas.it",
+      2
+     ],
+     [
+      "ufficiocamerale.it",
+      2
+     ],
+     [
+      "clienti.umbriaenergy.it",
+      2
+     ],
+     [
+      "google.com",
+      2
+     ],
+     [
+      "papernest.it",
+      2
+     ],
+     [
+      "puntienergia.com",
+      1
+     ],
+     [
+      "selectra.net",
+      1
+     ],
+     [
+      "facile.it",
+      1
+     ],
+     [
+      "umbriagas.it",
+      1
+     ]
+    ]
+   }
+  },
+  "ala": {
+   "g": {
+    "tot": 3,
+    "q": [
+     [
+      "ala carburanti",
+      2900
+     ],
+     [
+      "distributore ala",
+      260
+     ],
+     [
+      "ala la spezia",
+      140
+     ]
+    ],
+    "src": [
+     [
+      "alacarburanti.com",
+      3
+     ],
+     [
+      "gradigualtiero.com",
+      1
+     ],
+     [
+      "google.com",
+      1
+     ],
+     [
+      "alvolante.it",
+      1
+     ],
+     [
+      "cittadellaspezia.com",
+      1
+     ],
+     [
+      "prezzibenzina.it",
+      1
+     ]
+    ]
+   }
+  }
+ },
+ "n": "Solo Google AI Overview (ChatGPT non chiesto: il servizio lo copre solo per Stati Uniti in inglese). Ricerca per nome del marchio più dominio; Forini cercato come «Forini», «Acton Special Fuel» e forini.com: 0 risposte registrate. «Acton» da solo non usato per gli omonimi. Estra cercata come parola intera più estra.it. Domande e fonti calcolate sulle prime 10 risposte per marchio; il totale è quello dichiarato dal servizio"
+}

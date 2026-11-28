@@ -1,0 +1,806 @@
+{
+ "forini": {
+  "rev": [
+   [
+    2020,
+    88.14,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2021,
+    118.6,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2022,
+    158.44,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2023,
+    186.75,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it · il Report di Sostenibilità 2023 dell'azienda indica 188,15 M€ di fatturato (diverso perimetro o criterio)",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2024,
+    213.51,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2025,
+    187.26,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ]
+  ],
+  "ut": [
+   [
+    2020,
+    0.037,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2021,
+    0.166,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2022,
+    0.386,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2023,
+    0.842,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2024,
+    0.914,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2025,
+    0.947,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ]
+  ],
+  "emp": [
+   [
+    2020,
+    20,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2021,
+    29,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2022,
+    43,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2023,
+    45,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it · numero dipendenti · il Report di Sostenibilità 2023 dell'azienda indica 55 dipendenti (diverso perimetro o criterio)",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2024,
+    56,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ],
+   [
+    2025,
+    54,
+    "dic",
+    "Forini S.p.A. (P.IVA 00148360548), bilancio d'esercizio di società, ATECO 35.15 commercio di energia elettrica · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/forini_spa_pg_00148360548"
+   ]
+  ]
+ },
+ "beyfin": {
+  "rev": [
+   [
+    2020,
+    310.35,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2021,
+    422.99,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2022,
+    503.85,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2023,
+    488.66,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2024,
+    480.16,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2025,
+    472.9,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ]
+  ],
+  "ut": [
+   [
+    2020,
+    6.3,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2021,
+    4.12,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2022,
+    6.14,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2023,
+    3.34,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2024,
+    3.94,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2025,
+    5.54,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ]
+  ],
+  "emp": [
+   [
+    2020,
+    326,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2021,
+    320,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2022,
+    319,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2023,
+    334,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2024,
+    375,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ],
+   [
+    2025,
+    389,
+    "dic",
+    "Beyfin S.p.A. Società Benefit (P.IVA 03876950480), bilancio d'esercizio di società · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/beyfin_spa_societa_benefit_fi_03876950480"
+   ]
+  ]
+ },
+ "ala": {
+  "rev": [
+   [
+    2020,
+    40.12,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2021,
+    62.47,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2022,
+    87.96,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2023,
+    90.88,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2024,
+    93.43,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2025,
+    104.44,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ]
+  ],
+  "ut": [
+   [
+    2020,
+    0.208,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2021,
+    0.352,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2022,
+    1.14,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2023,
+    0.471,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2024,
+    0.51,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2025,
+    0.509,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ]
+  ],
+  "emp": [
+   [
+    2020,
+    3,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2021,
+    4,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2022,
+    5,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2023,
+    5,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2024,
+    5,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ],
+   [
+    2025,
+    7,
+    "dic",
+    "Ala Carburanti S.r.l. (P.IVA 01801980473, Quarrata PT), bilancio di società; fa parte del gruppo Gradi Gualtiero (Gradi Gualtiero S.r.l., P.IVA 00978310472, 181,0 M€ nel 2025, non sommata) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/ala_carburanti_srl_pt_01801980473"
+   ]
+  ]
+ },
+ "enerpetroli": {
+  "rev": [
+   [
+    2020,
+    132.94,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2021,
+    184.8,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2022,
+    256.27,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2023,
+    240.07,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2024,
+    227.04,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2025,
+    211.6,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ]
+  ],
+  "ut": [
+   [
+    2020,
+    1.65,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2021,
+    1.41,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2022,
+    2.46,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2023,
+    0.617,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2024,
+    0.775,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2025,
+    1.29,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ]
+  ],
+  "emp": [
+   [
+    2020,
+    19,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2021,
+    20,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2022,
+    21,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2023,
+    25,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2024,
+    32,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ],
+   [
+    2025,
+    31,
+    "dic",
+    "Enerpetroli S.r.l. (P.IVA 01310440563, Viterbo), bilancio di società, non consolidato · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/enerpetroli_srl_vt_01310440563"
+   ]
+  ]
+ },
+ "umbriaenergy": {
+  "rev": [
+   [
+    2020,
+    90.27,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2021,
+    112.2,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2022,
+    173.19,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2023,
+    136.31,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2024,
+    78.64,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2025,
+    70.16,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ]
+  ],
+  "ut": [
+   [
+    2020,
+    1.91,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2021,
+    2.78,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2022,
+    2.53,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2023,
+    2.81,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2024,
+    3.59,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2025,
+    3.06,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ]
+  ],
+  "emp": [
+   [
+    2020,
+    23,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2021,
+    25,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2022,
+    26,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2023,
+    31,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2024,
+    37,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ],
+   [
+    2025,
+    40,
+    "dic",
+    "Umbria Energy S.p.A. (P.IVA 01313790550, Terni), bilancio di società; dall'aprile 2026 50% Plenitude (Eni) · aggregatore di bilanci reportaziende.it · numero dipendenti",
+    "https://www.reportaziende.it/umbria_energy_spa_tr_01313790550"
+   ]
+  ]
+ },
+ "estra": {
+  "rev": [
+   [
+    2020,
+    762.35,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), totale ricavi reported (comparativo nel bilancio 2021)",
+    "https://res.cloudinary.com/estra/image/upload/v1650967129/documenti/investor-relations-bilanci/Estra%20Bilancio_consolidato_2021.pdf"
+   ],
+   [
+    2021,
+    1060.28,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), totale ricavi reported",
+    "https://res.cloudinary.com/estra/image/upload/v1650967129/documenti/investor-relations-bilanci/Estra%20Bilancio_consolidato_2021.pdf"
+   ],
+   [
+    2022,
+    1778.29,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), totale ricavi reported (comparativo nel bilancio 2023)",
+    "https://res.cloudinary.com/estra/image/upload/v1713165835/documenti/investor-relations-bilanci/Estra_Bilancio_Consolidato_2023.pdf"
+   ],
+   [
+    2023,
+    1222.22,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), totale ricavi reported",
+    "https://res.cloudinary.com/estra/image/upload/v1713165835/documenti/investor-relations-bilanci/Estra_Bilancio_Consolidato_2023.pdf"
+   ],
+   [
+    2024,
+    1206.96,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), totale ricavi reported (comparativo nel bilancio 2025)",
+    "https://res.cloudinary.com/estra/image/upload/v1778504728/documenti/investor-relations-bilanci/Estra_-_Bilancio_Consolidato_2025.pdf"
+   ],
+   [
+    2025,
+    1202.43,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), totale ricavi reported",
+    "https://res.cloudinary.com/estra/image/upload/v1778504728/documenti/investor-relations-bilanci/Estra_-_Bilancio_Consolidato_2025.pdf"
+   ]
+  ],
+  "ut": [
+   [
+    2020,
+    70.29,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), utile netto reported; adjusted 24,6 M€ (comparativo nel bilancio 2021)",
+    "https://res.cloudinary.com/estra/image/upload/v1650967129/documenti/investor-relations-bilanci/Estra%20Bilancio_consolidato_2021.pdf"
+   ],
+   [
+    2021,
+    32.94,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), utile netto reported; adjusted 28,6 M€",
+    "https://res.cloudinary.com/estra/image/upload/v1650967129/documenti/investor-relations-bilanci/Estra%20Bilancio_consolidato_2021.pdf"
+   ],
+   [
+    2022,
+    14.39,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), utile netto reported; adjusted 14,1 M€ (comparativo nel bilancio 2023)",
+    "https://res.cloudinary.com/estra/image/upload/v1713165835/documenti/investor-relations-bilanci/Estra_Bilancio_Consolidato_2023.pdf"
+   ],
+   [
+    2023,
+    28.18,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), utile netto reported; adjusted 28,1 M€",
+    "https://res.cloudinary.com/estra/image/upload/v1713165835/documenti/investor-relations-bilanci/Estra_Bilancio_Consolidato_2023.pdf"
+   ],
+   [
+    2024,
+    43.19,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), utile netto reported; adjusted 43,6 M€ (comparativo nel bilancio 2025)",
+    "https://res.cloudinary.com/estra/image/upload/v1778504728/documenti/investor-relations-bilanci/Estra_-_Bilancio_Consolidato_2025.pdf"
+   ],
+   [
+    2025,
+    24.91,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), utile netto reported; adjusted 37,9 M€",
+    "https://res.cloudinary.com/estra/image/upload/v1778504728/documenti/investor-relations-bilanci/Estra_-_Bilancio_Consolidato_2025.pdf"
+   ]
+  ],
+  "emp": [
+   [
+    2020,
+    755,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), dipendenti al 31/12 (comparativo nel bilancio 2021)",
+    "https://res.cloudinary.com/estra/image/upload/v1650967129/documenti/investor-relations-bilanci/Estra%20Bilancio_consolidato_2021.pdf"
+   ],
+   [
+    2021,
+    776,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), dipendenti al 31/12",
+    "https://res.cloudinary.com/estra/image/upload/v1650967129/documenti/investor-relations-bilanci/Estra%20Bilancio_consolidato_2021.pdf"
+   ],
+   [
+    2022,
+    880,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), dipendenti al 31/12 (comparativo nel bilancio 2023)",
+    "https://res.cloudinary.com/estra/image/upload/v1713165835/documenti/investor-relations-bilanci/Estra_Bilancio_Consolidato_2023.pdf"
+   ],
+   [
+    2023,
+    865,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), dipendenti al 31/12",
+    "https://res.cloudinary.com/estra/image/upload/v1713165835/documenti/investor-relations-bilanci/Estra_Bilancio_Consolidato_2023.pdf"
+   ],
+   [
+    2024,
+    822,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), dipendenti al 31/12 (dati ESRS per dipendenza giuridica) (comparativo nel bilancio 2025)",
+    "https://res.cloudinary.com/estra/image/upload/v1778504728/documenti/investor-relations-bilanci/Estra_-_Bilancio_Consolidato_2025.pdf"
+   ],
+   [
+    2025,
+    835,
+    "ver",
+    "Gruppo Estra, bilancio consolidato (capogruppo Estra S.p.A., P.IVA 02149060978, sotto direzione e coordinamento di Plures S.p.A.), dipendenti al 31/12 (dati ESRS per dipendenza giuridica)",
+    "https://res.cloudinary.com/estra/image/upload/v1778504728/documenti/investor-relations-bilanci/Estra_-_Bilancio_Consolidato_2025.pdf"
+   ]
+  ]
+ }
+}

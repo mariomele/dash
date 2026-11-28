@@ -1,0 +1,204 @@
+{
+ "n": "Scritto da un agente (valutazione) nel ruolo di direttore marketing e brand strategist del settore carburanti ed energia retail. Basato su aziende, storico, gamma, sedi (riepilogo), brand, brandx, sito, social, posts, feed, tono, ads, seo, seo2, trends, reput, geo2, llmm, osint, news e qa.md, tutti del 28/11/2026. Lo standing (45 su 100) è quello calcolato dalla pagina «Standing del marchio» con i pesi uguali. Le parole di gap di Estra e Umbria Energy e «ala carte» sono scartate perché rumore (qa.md), come le parole di forini.com con nomi di altre aziende (acinque login, gibertini, ok carburanti). Mancano: traffico vero dei siti, contatti e contratti per canale, clienti di Acton Energia, carte Fuel Card attive, spesa pubblicitaria (nostra e dei concorrenti), il profilo @forini.spa (non letto) e il sito Acton Lubes (dominio fuori uso). Gli obiettivi dei KPI sono proposte, non previsioni.",
+ "at": "2026-11-28",
+ "s": "val",
+ "sintesi": "ACTON è un marchio che chi lo conosce apprezza, ma che pochi conoscono. Nello «Standing del marchio» Forini è quarta su 6 con 45 su 100 (Beyfin prima con 71): prima per qualità percepita (100 su 100: voto Maps 4,6 e logo 3,00, il migliore dei sei) e ultima per notorietà (7 su 100). I numeri della visibilità sono i più bassi del gruppo: 28 parole su Google contro le 490 di Beyfin, 311 visite al mese, 0 annunci attivi, 0 citazioni su 30 risposte AI e 0 su Google AI Overview (Beyfin 78), 13 recensioni sulla scheda Maps principale. Il marchio ha un'architettura ordinata (ACTON più Special Fuel, Fuel Card, Lubes, Energia) ma non ha un segno proprio: il rosso è lo stesso di IP, Q8, Tamoil ed Esso, nei file ufficiali i rossi sono quattro e l'Energia passa al verde. Sito e social parlano due lingue: il sito promette «Più potenza, più chilometri, più cura del motore», mentre nei 33 post letti nessuno parla di prodotto o di offerte. Il pubblico social è piccolo (612 più 91 follower Instagram, 1.204 su LinkedIn) ma è il più partecipe (2,85 reazioni ogni 100 follower su LinkedIn, contro 0,98 di Beyfin). La home di Acton Energia è prima a pari merito (3,76), quella di Acton Special Fuel quinta su 8 (3,00) senza un pulsante nel primo schermo. Le priorità: un solo ACTON con un segno e un rosso, il prodotto dentro i social, pagine per stazione e guide su Google, presenza sui siti che le AI usano come fonte, e un primo test di pubblicità.",
+ "swot": {
+  "forza": [
+   "La storia più lunga del gruppo: 93 anni (dal 1933), primo fattore dello standing",
+   "Qualità percepita prima su 6 (100 su 100): voto Maps 4,6 e logo ACTON 3,00, il migliore dei sei loghi",
+   "Pubblico piccolo ma partecipe: 2,85 reazioni ogni 100 follower su LinkedIn, contro 0,98 di Beyfin e 0,21 di Estra",
+   "La home di Acton Energia è prima a pari merito con AliaEstra (3,76, Solido), con un percorso completo fino al contratto",
+   "Gamma più larga dei distributori: 11 voci su 14, unico distributore con fibra e fotovoltaico",
+   "Architettura ACTON più descrittore: la più ordinata dei sei secondo il panel dei loghi"
+  ],
+  "debolezza": [
+   "Notorietà ultima su 6 (7 su 100): 1.146 follower fra Instagram e Facebook, 311 visite da Google al mese, 0 notizie in 12 mesi",
+   "Invisibile per le AI: 0 citazioni su 30 risposte e 0 su Google AI Overview (Beyfin 78, Estra 37)",
+   "Nessun segno compatto e quattro rossi nei file ufficiali (#EA2429, #E20613, #CD001A, #CC1719); l'Energia usa il verde",
+   "Social senza prodotto: 0 post su prodotto o promo su 33 letti",
+   "Nessun annuncio attivo su Meta né su Google",
+   "La home Acton Special Fuel è quinta su 8 (3,00): Azione 2 su 5 e Immagini 2 su 5",
+   "Il sito di Acton Lubes non risponde (DNS, 28/11/2026)"
+  ],
+  "opportunita": [
+   "Le AI citano reti indipendenti del centro Italia (Beyfin in 3 risposte su 3, Enerpetroli in 2, più altre reti piccole): ACTON manca in una domanda fatta per lei",
+   "Ricerche locali grandi e poco presidiate: «benzinaio near me» 18.100 al mese, dove Beyfin è ottava",
+   "Su Google Trends crescono le ricerche di categoria: «offerte luce e gas» da 10,6 a 15,4 e «colonnina ricarica» da 6,1 a 9,1 (media delle ultime 52 settimane contro le 52 prima)",
+   "L'interesse per «forini» è già concentrato dove c'è la rete: Umbria 100, Marche 41, Emilia-Romagna 15",
+   "Contenuti veri già pronti: l'ACTON POINT di Rimini (aperto il 19/09/2026) e il ruolo di fornitore del Misano World Circuit",
+   "Umbria Energy dal 2026 è al 50% di Plenitude (Eni): fra i monitorati l'argomento «fornitore umbro di famiglia» resta ad ACTON"
+  ],
+  "minaccia": [
+   "Sotto la pensilina il rosso ACTON si confonde con IP, Q8, Tamoil ed Esso",
+   "Il lato energia si affolla: Devra Energia (Beyfin), Ala Energy (novembre 2025), gas di Enerpetroli dal 2022",
+   "Beyfin occupa Google, AI e pubblicità insieme: 490 parole, 78 risposte AI Overview, 21 annunci Meta e almeno 40 Google",
+   "Estra spinge le offerte casa con 19 annunci Google (Black Week dal 16/11/2026)",
+   "Il nome «Acton» è un cognome e un luogo inglese: la protezione del marchio non è verificata",
+   "Il sito dichiara «oltre 40» stazioni, il registro MIMIT ne dà 27 e la mappa ne mostra 56: un numero che non torna toglie credibilità"
+  ]
+ },
+ "punti": [
+  {
+   "t": "Un marchio apprezzato che pochi conoscono",
+   "x": "Chi incontra ACTON la giudica bene: recensioni e logo sono i migliori del gruppo. Ma il marchio non arriva a chi non lo conosce già: social, Google, notizie e AI lo vedono appena. Il lavoro di marketing dei prossimi 12 mesi è la notorietà, non la qualità.",
+   "dati": "Standing del marchio: 45 su 100, 4° su 6 (Beyfin 71); Notorietà 7 su 100 (6° su 6); Qualità percepita 100 su 100 (1° su 6); notizie degli ultimi 12 mesi 0 (Umbria Energy 9)",
+   "sez": "standing",
+   "az": "Mettere budget e persone su notorietà misurabile (Google, AI, notizie locali, social) nelle tre regioni dove la gente già cerca «forini»: Umbria, Marche, Emilia-Romagna. Un comunicato al mese alle testate locali su fatti veri (ACTON POINT, Misano, rete).",
+   "pr": 1,
+   "imp": 5,
+   "sf": 3
+  },
+  {
+   "t": "Un solo ACTON: un rosso, un nome, Forini come garante",
+   "x": "I quattro marchi ACTON usano la stessa scritta ma colori e nomi diversi: Fuel Card ha un rosso più scuro, l'Energia ha l'ON verde e due nomi («Acton Energia» sul sito, «gas power eco» nel logo), Lubes ha il sito fuori uso. Il gruppo Forini parla un'altra lingua grafica. Così il cliente del carburante non capisce che la bolletta è dello stesso fornitore.",
+   "dati": "Loghi e marchio: quattro rossi nei file ufficiali (#EA2429, #E20613, #CD001A, #CC1719), Acton Energia verde #AADB1E; actonlubes.forini.com non risolve in DNS; fuelcard.forini.com reindirizza ad acton.forini.com",
+   "sez": "marchio",
+   "az": "Una guida di marca di una pagina: un solo rosso #EA2429 per tutti i marchi, scritta ACTON nera e rossa anche per l'Energia (verde solo come colore di linea), un solo nome «Acton Energia», Forini come firma piccola sotto ACTON con il 1933. Riattivare o reindirizzare actonlubes.forini.com.",
+   "pr": 1,
+   "imp": 4,
+   "sf": 2
+  },
+  {
+   "t": "Un segno compatto per pensilina, tessera e favicon",
+   "x": "ACTON è una scritta senza simbolo. A 16 pixel, sulla tessera Fuel Card o in cima al totem il marchio non esiste, e ogni canale si è inventato un'icona diversa. Beyfin ha il quadrifoglio, Ala l'ala: ACTON non ha niente da ricordare oltre al nome.",
+   "dati": "Loghi e marchio: ACTON primo su 6 con 3,00 (Nella norma, Global 3 su 10), Distintività 2 su 5; favicon di acton.forini.com = goccia Forini, di Acton Energia = Λ da un file «ChatGPT Image»",
+   "sez": "marchio",
+   "az": "Prima verificare la registrabilità di «Acton» e del segno nelle classi di carburanti, lubrificanti ed energia (UIBM, EUIPO). Poi ricavare dal Λ un segno quadrato e usarlo su favicon, avatar social, tessera, app e cima del totem.",
+   "pr": 1,
+   "imp": 4,
+   "sf": 3
+  },
+  {
+   "t": "Portare la promessa del sito sui social",
+   "x": "Il sito Acton vende prestazioni e prezzo, i social raccontano famiglia, sport e feste locali. La voce vicina funziona, ma il messaggio che fa scegliere la stazione non arriva mai a chi segue il marchio.",
+   "dati": "Tono di voce: sito «Più potenza, più chilometri, più cura del motore», bio Instagram «Acton Fuel è una famiglia di carburanti speciali ad alte prestazioni.»; nei 33 post letti (12 acton_fuel, 12 acton_energy, 9 LinkedIn) 0 su prodotto o promo, 5 su servizio",
+   "sez": "tono",
+   "az": "Un post su tre su prodotto o servizio, con un dato preso dal sito (potenza, consumi, additivo su tutti e cinque i carburanti senza sovrapprezzo). Una serie fissa «ACTON POINT risponde» con una domanda vera di un cliente a settimana. Titoli in testo normale, non in caratteri Unicode decorativi.",
+   "pr": 1,
+   "imp": 4,
+   "sf": 2
+  },
+  {
+   "t": "Leggere i social sui post nostri, non su quelli della Rimini Calcio",
+   "x": "acton_energy sembra il profilo più forte del gruppo, ma quasi tutte le reazioni vengono dai reel della squadra. Sui post propri il pubblico è minimo. Sui formati, i caroselli rendono più dei reel, e su LinkedIn i post di servizio più dei video.",
+   "dati": "Engagement per tipo di post: acton_energy 2.669 reazioni in 12 post, di cui 2.143 (80%) dai 5 reel co-pubblicati dalla Rimini Calcio; i 3 post senza coautore fanno 21, 27 e 15; acton_fuel carosello circa 150 reazioni medie, reel 89, foto 44; LinkedIn servizio 50, video 27",
+   "sez": "engag",
+   "az": "Misurare acton_energy solo sui post propri. Più caroselli su Instagram, più post di servizio su LinkedIn, copertina dei video scelta a mano. Sugli orari i dati sono pochi (7 post acton_fuel su 12 tra le 17 e le 19): provare per due mesi mattina e tardo pomeriggio e confrontare.",
+   "pr": 2,
+   "imp": 3,
+   "sf": 1
+  },
+  {
+   "t": "Un profilo Instagram che guida, non tre",
+   "x": "Il pubblico Instagram è diviso fra due profili con pochi follower, che a volte pubblicano gli stessi post, e un terzo profilo del gruppo che firma la maggior parte dei contenuti di acton_fuel. Ala, con un solo profilo, ha più follower di tutti.",
+   "dati": "Social: acton_fuel 612 follower e 3,4 post al mese, acton_energy 91; 7 dei 12 post di acton_fuel pubblicati da @forini.spa (non letto); Ala 4.014 follower e 9,4 post al mese, Estra 2.899",
+   "sez": "social",
+   "az": "Leggere @forini.spa, poi scegliere un profilo guida ACTON e usare gli altri solo come coautori. Arrivare ad almeno 8 post al mese, il ritmo di Beyfin.",
+   "pr": 2,
+   "imp": 3,
+   "sf": 2
+  },
+  {
+   "t": "Pagine per stazione e guide: le parole del gap da prendere",
+   "x": "forini.com è quasi assente da Google, e metà delle sue parole sono nomi di altre aziende. Le parole utili del gap sono le ricerche locali di chi cerca un distributore e le domande semplici su benzina e diesel, dove Beyfin vince con articoli di guida. Le parole su HVO, GPL e metano non servono finché ACTON non vende quei carburanti. Le parole di gap di Estra e Umbria Energy sono rumore (aziende e ricerche estranee) e si scartano.",
+   "dati": "SEO in dettaglio: Forini 28 parole, 3 in top 10, 311 visite al mese, 116 domini che linkano (Beyfin 490 parole, 9.182 visite, 277 domini); gap utili «benzinaio near me» 18.100 al mese, «diesel è benzina» 4.400, «gasolio e diesel» 3.600, «distributore near me» 1.600 (Beyfin), «distribuzione carburanti» 320 (Ala); la mappa Acton è già al 45° posto per «distributori uta vicino a me» (1.000)",
+   "sez": "seo2",
+   "az": "Una pagina per ognuna delle 27 stazioni (indirizzo, orari, carburanti, mappa), come fa Beyfin che è prima per «beyfin modena». Tre guide: benzina o diesel, carburante additivato, carta carburante per partita IVA. Chiedere link alle associazioni e ai partner locali.",
+   "pr": 1,
+   "imp": 4,
+   "sf": 3
+  },
+  {
+   "t": "Entrare nelle risposte AI dalle fonti che usano",
+   "x": "ChatGPT, Gemini e Perplexity non nominano mai ACTON, nemmeno quando la domanda descrive proprio lei (reti indipendenti del centro Italia, fornitore di luce e gas in Umbria, carta carburante per aziende). Le AI pescano da comparatori e riviste: lì ACTON non c'è.",
+   "dati": "Risposte AI in dettaglio: Forini 0 citazioni su 30 risposte, Umbria Energy 6, Beyfin 3, Enerpetroli 2; nelle 6 risposte sulle carte carburante le fonti più usate sono companeo.it (4), uta.com (3), dkv-mobility.com, icompario.com e partitaiva.it (2 ciascuna); per le reti indipendenti quattroruote.it (2); per luce e gas in Umbria puntienergia.com e comparasemplice.it (2). Menzioni AI: Google AI Overview Forini 0, Beyfin 78",
+   "sez": "geo2",
+   "az": "Farsi inserire nei comparatori che le AI citano (companeo.it, icompario.com, partitaiva.it per la Fuel Card; puntienergia.com e comparasemplice.it per Acton Energia) e proporre un articolo a quattroruote.it sulle reti indipendenti. uta.com e dkv-mobility.com sono siti di carte concorrenti: non si conquistano, ma dicono che le AI cercano tabelle di confronto, quindi una tabella chiara della Fuel Card va pubblicata sul nostro sito.",
+   "pr": 1,
+   "imp": 4,
+   "sf": 3
+  },
+  {
+   "t": "Home Acton Special Fuel: un pulsante e una foto vera",
+   "x": "La home dei carburanti ha la promessa più forte del settore ma non porta a nessuna azione e apre con una resa 3D. Acton Energia, sullo stesso dominio, è già il modello giusto. forini.com arriva tardi a dire cosa fa il gruppo.",
+   "dati": "Sito web · home intera: Acton Energia 3,76 (1ª a pari merito, Solido), Acton Special Fuel 3,00 (5ª su 8, Nella norma) con Azione 2 su 5, Immagini 2 su 5 e Territorio 2 su 5; forini.com 2,76 (Debole) con «Cosa fa» 2 su 5",
+   "sez": "sito",
+   "az": "Su acton.forini.com menu e due pulsanti nel primo schermo («Trova la stazione», «Richiedi la Fuel Card»), una foto vera di un impianto al posto della resa 3D, i numeri della rete accanto a Misano. Su forini.com i quattro marchi nel primo schermo. Togliere il link ad actonlubes finché il dominio non risponde.",
+   "pr": 1,
+   "imp": 4,
+   "sf": 2
+  },
+  {
+   "t": "Zero annunci: un primo test piccolo e misurato",
+   "x": "Tutti i concorrenti con più notorietà sono attivi in pubblicità, ACTON no. Non serve copiare Beyfin: serve un test locale su due o tre ricerche ad alta domanda, per sapere quanto costa un contatto Fuel Card o un contratto luce e gas.",
+   "dati": "Pubblicità attive: Forini 0 su Meta e 0 su Google; Beyfin 21 annunci Meta e almeno 40 Google, Estra (AliaEstra) 19 Google dal 16/11/2026, Umbria Energy 3; ricerche al mese «carta carburante» 2.900, «offerte luce e gas» 40.500, «fornitore luce gas» 2.400",
+   "sez": "pubblicita",
+   "az": "Tre mesi di campagna Google su «carta carburante» e su offerte luce e gas in Umbria e Romagna, più annunci Meta nel raggio dell'ACTON POINT di Rimini e delle stazioni. Ogni annuncio porta a una pagina con modulo, e si misura il costo per contatto. La spesa dei concorrenti non è nota.",
+   "pr": 2,
+   "imp": 4,
+   "sf": 3
+  },
+  {
+   "t": "Recensioni: 13 non bastano",
+   "x": "Il voto è il più alto del gruppo, ma poggia su pochissime recensioni, e le stazioni non ne hanno. Chi cerca un distributore su Maps sceglie chi ha più voti.",
+   "dati": "Reputazione e AI: sede Acton 4,6 su 13 recensioni; Ala 4,3 su 259, Umbria Energy 3,7 su 450, Estra 3,0 su 463; stazione Beyfin di Firenze 4,2 su 1.011; stazioni Acton di Terni, Montepennino, Gualdo Tadino e Perugia senza recensioni; una scheda «ACTON Special Fuel» 4,0 su 114 senza indirizzo",
+   "sez": "reputazione",
+   "az": "Cartello con codice QR alla cassa delle 23 stazioni Acton1Q e all'ACTON POINT, risposta a ogni recensione, schede Maps complete per ogni stazione e controllo della scheda senza indirizzo.",
+   "pr": 2,
+   "imp": 3,
+   "sf": 1
+  },
+  {
+   "t": "Pieno e bolletta dallo stesso fornitore, con numeri veri",
+   "x": "La vendita insieme di carburante ed energia non è più un'esclusiva: Beyfin, Ala ed Enerpetroli vendono già luce o gas. Resta ad ACTON la fibra, il fotovoltaico e il consulente di persona. E il numero delle stazioni va detto uguale ovunque.",
+   "dati": "Gamma prodotti: ACTON 11 voci su 14, unico distributore con fibra e fotovoltaico; Devra Energia (Beyfin), Ala Energy da novembre 2025, gas di Enerpetroli dal 2022. Stazioni e sedi: 27 stazioni nel registro MIMIT (23 Acton1Q + 4), il sito dice «oltre 40», la mappa ne mostra 56",
+   "sez": "gamma",
+   "az": "Una campagna interna ai clienti Fuel Card e ai clienti delle stazioni per Acton Energia (e viceversa), raccontata con il consulente di persona dell'ACTON POINT. Usare in tutti i materiali lo stesso numero di stazioni, verificato con il registro.",
+   "pr": 2,
+   "imp": 4,
+   "sf": 2
+  }
+ ],
+ "piano": [
+  ["0-3 mesi", [
+   "Guida di marca di una pagina: un rosso, un nome per l'Energia, ruolo di Forini",
+   "Verifica di registrabilità di «Acton» e del segno",
+   "Home Acton Special Fuel con menu, due pulsanti e una foto vera",
+   "Un post su tre su prodotto o servizio; serie «ACTON POINT risponde»",
+   "Cartello QR per le recensioni nelle 23 stazioni Acton1Q",
+   "Lettura di @forini.spa e scelta del profilo Instagram guida",
+   "Stesso numero di stazioni su siti e materiali; link ad actonlubes tolto o reindirizzato"
+  ]],
+  ["3-6 mesi", [
+   "Segno compatto ACTON su favicon, avatar, tessera Fuel Card e app",
+   "Pagine per le 27 stazioni e tre guide (benzina o diesel, additivato, carta carburante)",
+   "Iscrizione ai comparatori citati dalle AI (companeo.it, icompario.com, partitaiva.it, puntienergia.com, comparasemplice.it)",
+   "Test di tre mesi su Google e Meta con misura del costo per contatto",
+   "Campagna incrociata Fuel Card e Acton Energia"
+  ]],
+  ["6-12 mesi", [
+   "Segno ACTON su totem e pensiline delle stazioni",
+   "Acton Lubes di nuovo online con schede tecniche",
+   "Rifare le 30 domande alle AI e il conteggio delle menzioni",
+   "Ricalcolo dello standing e dei voti di sito e logo",
+   "Piano della pubblicità sui canali che hanno portato contatti al costo più basso"
+  ]]
+ ],
+ "kpi": [
+  ["Standing del marchio (pesi uguali)", "45 su 100, 4° su 6", "55, 3° su 6", "standing"],
+  ["Notorietà (pilastro dello standing)", "7 su 100", "30", "standing"],
+  ["Logo ACTON (media del panel)", "3,00 Nella norma", "3,3 Solido", "marchio"],
+  ["Home Acton Special Fuel", "3,00, 5ª su 8", "3,5 Solido", "sito"],
+  ["Post su prodotto o servizio", "5 su 33", "1 su 3", "engag"],
+  ["Follower Instagram (acton_fuel + acton_energy)", "703", "1.500", "social"],
+  ["Reazioni LinkedIn ogni 100 follower", "2,85", "almeno 2,5 con 2.000 follower", "fdclass"],
+  ["Parole su Google in top 10", "3 su 28", "20", "seo2"],
+  ["Visite da Google al mese", "311", "1.500", "seo"],
+  ["Domini che linkano", "116", "180", "seo2"],
+  ["Citazioni nelle 30 risposte AI", "0", "5", "geo2"],
+  ["Risposte Google AI Overview che nominano il marchio", "0", "10", "llmm"],
+  ["Recensioni sulla scheda Maps della sede", "13 (voto 4,6)", "100 (voto almeno 4,5)", "reputazione"],
+  ["Annunci attivi Meta + Google", "0", "test su 3 ricerche, costo per contatto misurato", "pubblicita"]
+ ]
+}

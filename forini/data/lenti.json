@@ -1,0 +1,670 @@
+{
+ "at": "2026-11-28",
+ "s": "val",
+ "domande": [
+  "Il logo ACTON va ritoccato o ridisegnato da capo?",
+  "Serve un segno proprio per favicon, app, tessera e cima del totem, e da dove si ricava?",
+  "Con quale rosso e con quale codice farsi riconoscere sotto una pensilina, dove IP, Q8, Tamoil ed Esso sono già rossi?",
+  "Il nome in prima linea: ACTON da solo, Forini accanto o Forini davanti? E «Acton1Q» nel registro MIMIT?",
+  "Special Fuel, Fuel Card, Lubes ed Energia: un marchio con descrittori o quattro immagini diverse? (capitolo 2)"
+ ],
+ "nome": {
+  "domanda": "ACTON o Forini in prima linea? E perché nel registro si chiama «Acton1Q»?",
+  "sintesi": "La domanda sul nome qui non è togliere un articolo ma decidere quale dei due nomi va davanti al cliente. «Togliere» vuol dire togliere Forini dalla prima linea (ACTON da solo, Forini firma piccola); «tenere» vuol dire tenerlo in prima linea accanto o al posto di ACTON. Tre lenti dicono togliere, due tenere, due dipende. I dati tirano da due parti: la strada e le bollette mostrano ACTON, ma la gente cerca Forini (880 ricerche al mese contro 390 per «acton special fuel») e «acton» da solo ha troppi omonimi per essere misurato. Intanto nel registro dei carburanti del Ministero le stazioni si chiamano «Acton1Q», un terzo nome che nessuno ha scelto davanti al cliente. Finché il marchio ACTON non è verificato, ACTON resta davanti e Forini resta firma visibile, e il nome nel registro va corretto subito.",
+  "pro": [
+   "ACTON è il nome sulla pensilina, sul totem e nelle bollette: è quello che il cliente già vede.",
+   "Cinque lettere stanno in un'icona, in cima a un totem e su una tessera; «Forini ACTON» no.",
+   "Un nome solo davanti evita il doppio peso di oggi (LinkedIn «forinispa-acton», schede Maps miste).",
+   "Forini non sparisce: resta garante e nome societario, che è dove la sua storia dal 1933 serve."
+  ],
+  "contro": [
+   "«forini spa» ha 880 ricerche al mese, «acton special fuel» 390: il nome cercato è Forini.",
+   "«Acton» è un cognome inglese e una città americana: il marchio va difeso e verificato, Forini non ha omonimi nel settore.",
+   "Tutti i siti ACTON sono sottodomini di forini.com: il dominio del gruppo è già il centro.",
+   "Nell'energia il cliente sceglie un fornitore per anni: un'azienda umbra dal 1933 dà più fiducia di un nome di carburante."
+  ],
+  "dati": [
+   {
+    "s": "ver",
+    "t": "Nel registro MIMIT degli impianti attivi 23 delle 27 stazioni di Forini hanno bandiera «Acton1Q»; le altre 4 hanno bandiere di terzi (Tamoil, Pompe Bianche).",
+    "u": "https://www.mimit.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv",
+    "f": "sedi.json, sezione Stazioni e sedi"
+   },
+   {
+    "s": "dic",
+    "t": "La mappa dei punti vendita del sito ACTON mostra 56 punti; 29 non risultano di Forini nel registro MIMIT, e 27 di questi hanno un'altra bandiera (Tamoil 8, Repsol 6, Leone 5, AP 3, Q8 2, IP, PB e PM 1 ciascuno). Il sito parla di «oltre 40 punti vendita».",
+    "u": "https://acton.forini.com/",
+    "f": "sedi.json"
+   },
+   {
+    "s": "dic",
+    "t": "Ricerche mensili Google: «forini spa» 880 (Forini 1° in classifica), «acton special fuel» 390 (1°).",
+    "u": "https://docs.dataforseo.com/v3/dataforseo_labs/google/ranked_keywords/live/",
+    "f": "seo.json, sezione SEO"
+   },
+   {
+    "s": "dic",
+    "t": "«acton» da solo non è misurabile su Google Trends per gli omonimi (città USA, altri marchi): si è usato «acton special fuel».",
+    "u": "https://trends.google.com/trends/explore?geo=IT&q=acton%20special%20fuel",
+    "f": "trends.json, sezione Ricerche"
+   },
+   {
+    "s": "dic",
+    "t": "I siti ACTON sono sottodomini di forini.com (acton.forini.com, actonenergia.forini.com); actonlubes.forini.com il 28/11/2026 non risolve.",
+    "u": "https://acton.forini.com/",
+    "f": "gamma.json"
+   },
+   {
+    "s": "dic",
+    "t": "Account social: Instagram acton_fuel (612 follower) e acton_energy (91), Facebook ActonFuel (534), LinkedIn «forinispa-acton» (1.204): il nome della pagina LinkedIn unisce i due.",
+    "u": "https://www.linkedin.com/company/forinispa-acton/",
+    "f": "social.json, sezione Social"
+   },
+   {
+    "s": "dic",
+    "t": "Su 30 risposte di ChatGPT, Gemini e Perplexity alle domande del settore, né Forini né ACTON sono citati.",
+    "u": "https://docs.dataforseo.com/v3/ai_optimization/chat_gpt/llm_responses/live/",
+    "f": "geo2.json, sezione Citazioni AI"
+   }
+  ],
+  "verifica": [
+   "Registrabilità e stato del marchio «ACTON» nelle classi di carburanti e lubrificanti (4), carte e servizi finanziari (36), distribuzione di energia (39) e vendita (35): banche dati UIBM, EUIPO e TMview, con marchi simili nel settore. Non verificato qui.",
+   "Da dove viene «Acton1Q» nel registro MIMIT: chi l'ha comunicato e se si può correggere in «ACTON». Da chiedere a Forini, non verificato.",
+   "Disponibilità di domini propri (acton.it o simili) e degli handle «acton» sui social, oggi non letti.",
+   "Se le stazioni a bandiera di terzi nella mappa ACTON vendono carburante ACTON o solo la carta: cambia dove deve comparire il segno."
+  ],
+  "etichetta": "ACTON o Forini davanti?"
+ },
+ "risposta": "Capitolo 1, il logo: ritocco severo (strada A, quattro lenti su sette). La scritta ACTON resta, perché è la migliore delle sei del confronto e la gente la vede da sette anni; diventa una sola, con file nero, bianco e a colori e un solo rosso, #EA2429, al posto dei quattro di oggi. Dalla Λ si ricava un segno quadrato per favicon, app, tessera e cima del totem, al posto della goccia Forini e del Λ fatto con un generatore. I descrittori Special Fuel, Fuel Card, Lubes ed Energia si scrivono nello stesso carattere, e l'ON verde dell'energia torna rosso. Pentagram, Dumbar e Landor vogliono di più, un ridisegno con un codice di stazione non solo rosso (B): è la strada da aprire se fra un anno ACTON non si distingue ancora sotto la pensilina. Capitolo 2, l'architettura: ACTON marchio guida, Forini garante («un'azienda Forini, dal 1933»), cinque lenti su sette; Wolff Olins chiede Forini davanti, Landor due famiglie. Il nome resta ACTON davanti dopo la verifica del marchio, e «Acton1Q» nel registro si corregge subito.",
+ "premesse": [
+  {
+   "s": "val",
+   "t": "Per il panel di sette mestieri ACTON Special Fuel è primo su sei loghi con 3,00 su 5, «Nella norma», Global 3 su 10: primo perché gli altri sono più deboli. Distintività e sistema hanno 2 su 5.",
+   "f": "brandx.json, sezione Loghi e marchio"
+  },
+  {
+   "s": "dic",
+   "t": "Nei file ufficiali i rossi sono quattro: #EA2429 (Special Fuel nero), #E20613 (Special Fuel bianco), #CD001A (Fuel Card), #CC1719 (gocce Forini); Acton Energia usa un ON verde #AADB1E.",
+   "f": "brand.json",
+   "u": "https://acton.forini.com/wp-content/uploads/2021/03/logo_acton_special_fuel_nero.svg"
+  },
+  {
+   "s": "dic",
+   "t": "Tre favicon: la goccia del logo Forini su forini.com e acton.forini.com, un Λ nero da un file chiamato «ChatGPT Image 27 ago 2026» su actonenergia.forini.com.",
+   "f": "brand.json",
+   "u": "https://actonenergia.forini.com/"
+  },
+  {
+   "s": "dic",
+   "t": "Il distributore di Misano ha pensilina rossa e totem con la scritta ACTON: lo stesso rosso pieno di IP, Q8, Tamoil ed Esso.",
+   "f": "brand.json",
+   "u": "https://forini.com/wp-content/uploads/2023/07/Acton_Misano.jpeg"
+  },
+  {
+   "s": "ver",
+   "t": "Nel registro MIMIT 23 delle 27 stazioni di Forini sono a bandiera «Acton1Q», in 3 regioni.",
+   "f": "sedi.json, sezione Stazioni e sedi",
+   "u": "https://www.mimit.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv"
+  },
+  {
+   "s": "dic",
+   "t": "La mappa del sito ACTON mostra 56 punti, il sito dice «oltre 40», il registro ne conta 27 di Forini: dei 29 punti in più, 27 hanno un'altra bandiera (Tamoil, Repsol, Leone, AP, Q8, IP e altre).",
+   "f": "sedi.json",
+   "u": "https://acton.forini.com/"
+  },
+  {
+   "s": "val",
+   "t": "Nello Standing del marchio Forini è quarta su 6 con 45 su 100: prima per qualità percepita, ultima per notorietà (7 su 100). Il marchio è apprezzato da chi lo conosce, ma lo conoscono in pochi.",
+   "f": "mkt.json, sezione Analisi Marketing"
+  },
+  {
+   "s": "val",
+   "t": "Il tono dei social racconta famiglia, sport e feste locali: in 12 post di acton_fuel nessuno parla di carburanti.",
+   "f": "tono.json, sezione Tono di voce"
+  },
+  {
+   "s": "val",
+   "t": "Fra le 8 home valutate Acton Energia è prima pari (3,76), Acton Special Fuel quinta (3,00), forini.com sesta (2,76).",
+   "f": "sito.json, sezione Siti"
+  }
+ ],
+ "oggi": {
+  "titolo": "Una scritta pulita senza segno e senza un rosso suo",
+  "fatto": "ACTON è la scritta migliore del confronto, ma non ha un simbolo, usa quattro rossi diversi, ha tre favicon in tre siti e sulla strada si confonde con le pensiline rosse dei grandi marchi; intanto il gruppo Forini parla un'altra lingua grafica e il registro la chiama «Acton1Q».",
+  "frase": "Il carburante promette più potenza senza sovrapprezzo; il marchio non ha ancora un'immagine che lo ricordi.",
+  "kpi": [
+   {
+    "n": "3,00",
+    "u": "/5",
+    "t": "il voto del logo per il panel: primo su sei, ma solo «Nella norma»",
+    "s": "val",
+    "f": "sezione Loghi e marchio"
+   },
+   {
+    "n": "7",
+    "u": "/100",
+    "t": "notorietà nello Standing del marchio, ultima su 6 (standing 45, quarta; qualità percepita prima)",
+    "s": "val",
+    "f": "sezione Standing del marchio"
+   },
+   {
+    "n": "23",
+    "u": "https://www.mimit.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv",
+    "t": "stazioni a bandiera «Acton1Q» nel registro MIMIT",
+    "s": "ver",
+    "f": "sezione Stazioni e sedi"
+   },
+   {
+    "n": "880",
+    "u": "https://docs.dataforseo.com/v3/dataforseo_labs/google/ranked_keywords/live/",
+    "t": "ricerche al mese di «forini spa» e di «acton special fuel»",
+    "s": "dic",
+    "f": "sezione SEO"
+   }
+  ]
+ },
+ "opzioni": [
+  {
+   "id": "A",
+   "nome": "Ritocco severo e segno dalla Λ",
+   "sintesi": "Si tiene la scritta ACTON, si fissa un rosso solo (#EA2429) e si ricava dalla Λ un segno compatto per favicon, app, tessera e cima del totem. I descrittori diventano testo nello stesso carattere.",
+   "tree": {
+    "top": "ACTON ritoccato",
+    "kids": [
+     "Scritta ACTON invariata, file nero, bianco, a colori",
+     "Segno quadrato dalla Λ: favicon, app, tessera, totem",
+     "Un rosso #EA2429; descrittori nello stesso carattere"
+    ]
+   },
+   "pro": "Tiene i sette anni di ACTON sulla strada e sulla pensilina, toglie i quattro rossi e le tre favicon, e dà finalmente un segno a 16 px. Costa poco e si applica a ogni manutenzione dell'insegna. È la strada scelta da quattro lenti su sette.",
+   "contro": "Non risolve la distintività: il rosso resta quello di IP, Q8, Tamoil ed Esso, e la scritta resta un bastone geometrico molto usato. Se il segno dalla Λ è timido, ACTON resta «quello rosso con la scritta», terzo su tre a 3,00 nel panel.",
+   "comporta": {
+    "cliente": "Vede la stessa ACTON, più ordinata, con un segno che ritrova sulla tessera, nell'app e in bolletta.",
+    "scaffale": "Pensilina e totem restano rossi; il segno va in cima al totem e sugli erogatori alla prossima manutenzione, anche nei punti a bandiera di terzi.",
+    "digitale": "Una favicon sola dalla Λ sui tre siti, avatar uguali su Instagram, Facebook e LinkedIn, file vettoriali pubblicati.",
+    "costo": "Basso: ritocco dei file, segno, manuale minimo; insegne solo quando si rifanno.",
+    "tempo": "3-6 mesi per file e regole; insegne nei cicli di manutenzione.",
+    "rischio": "Basso. Il rischio vero è un segno troppo timido."
+   },
+   "liv": {
+    "costo": 1,
+    "tempo": 1,
+    "breve": 1,
+    "lungo": 2,
+    "beneficio": 2
+   }
+  },
+  {
+   "id": "B",
+   "nome": "Ridisegno con un codice di stazione proprio",
+   "sintesi": "Nuovo logotipo e nuovo segno, e un codice di stazione che non sia solo rosso (per esempio nero pieno con il rosso come accento): ACTON smette di somigliare a IP, Q8 e Tamoil.",
+   "tree": {
+    "top": "ACTON ridisegnato",
+    "kids": [
+     "Logotipo e carattere su misura",
+     "Segno proprio, anche animato su totem a LED e app",
+     "Codice di pensilina nero + rosso accento, colori di linea"
+    ]
+   },
+   "pro": "È l'unica strada che affronta il problema vero: sotto una pensilina rossa ACTON oggi non si distingue. Dà al «premium senza sovrapprezzo» un'immagine, e un segno pensato per lo schermo dove il marchio vive di più (totem, app, carta digitale).",
+   "contro": "Costa di più e richiede di rifare pensiline, totem ed erogatori di 23 stazioni a bandiera ACTON, con un'azienda di 54 persone. Butta parte del riconoscimento costruito dal 2018. Tre lenti su sette la scelgono, quattro la ritengono prematura.",
+   "comporta": {
+    "cliente": "Vede un marchio nuovo e più netto: va spiegato che è la stessa ACTON.",
+    "scaffale": "Pensiline e totem da rifare con il nuovo codice; i punti a bandiera di terzi mostrano il segno solo su erogatori e cassa.",
+    "digitale": "Nuovo sistema di icone, motivo animato per reel e app, siti da riallineare.",
+    "costo": "Medio-alto: progetto d'identità completo più le insegne.",
+    "tempo": "9-18 mesi, con l'insegna come parte lenta.",
+    "rischio": "Medio: si rischia di cambiare l'immagine prima di aver deciso l'architettura e il nome."
+   },
+   "liv": {
+    "costo": 3,
+    "tempo": 3,
+    "breve": 2,
+    "lungo": 1,
+    "beneficio": 3
+   }
+  },
+  {
+   "id": "C",
+   "nome": "Forini entra nel logo",
+   "sintesi": "Il logo diventa un blocco «ACTON · Forini dal 1933», o «Forini ACTON»: il nome del gruppo sta dentro il marchio con un peso visibile.",
+   "tree": {
+    "top": "ACTON + Forini nel logo",
+    "kids": [
+     "ACTON grande, «Forini dal 1933» sotto",
+     "Stesso blocco su pensilina, tessera e bolletta",
+     "Gocce Forini fuori; un rosso solo"
+    ]
+   },
+   "pro": "Porta nel logo la credibilità di 93 anni e il nome più cercato (880 ricerche al mese contro 390). Aiuta soprattutto l'energia, dove il cliente cerca un fornitore affidabile.",
+   "contro": "Due nomi in un logo non stanno in una favicon né in cima a un totem, e rifanno l'errore del blocco «Alia · estra · PLURES» che il panel ha bocciato. Nessuna lente la sceglie per il logo: la garanzia di Forini funziona meglio come firma separata.",
+   "comporta": {
+    "cliente": "Legge due nomi; capisce chi c'è dietro ACTON, ma ricorda meno il marchio.",
+    "scaffale": "Il blocco su due righe è difficile su un totem stretto e sulla pensilina.",
+    "digitale": "Serve comunque un segno compatto: il blocco non sta in un'icona.",
+    "costo": "Basso-medio.",
+    "tempo": "3-6 mesi.",
+    "rischio": "Medio: logo più lungo e meno leggibile in piccolo."
+   },
+   "liv": {
+    "costo": 2,
+    "tempo": 1,
+    "breve": 1,
+    "lungo": 2,
+    "beneficio": 1
+   }
+  },
+  {
+   "id": "D",
+   "nome": "Restare fermi",
+   "sintesi": "Nessun intervento: la scritta ACTON resta com'è, con i suoi quattro rossi, le tre favicon e i descrittori disegnati ognuno a modo suo.",
+   "tree": {
+    "top": "ACTON com'è oggi",
+    "kids": [
+     "Quattro rossi nei file ufficiali",
+     "Favicon: goccia Forini, Λ da «ChatGPT Image», nessuna",
+     "Energia con l'ON verde lime"
+    ]
+   },
+   "pro": "Costo zero e nessun rischio di confondere i clienti di oggi. La scritta ACTON è già la migliore delle sei del confronto.",
+   "contro": "Ogni nuovo canale (app, carta digitale, social, bolletta) continuerà a inventare la sua icona. Il marchio resta senza segno e senza un colore suo, e il disordine dei file ufficiali cresce. Nessuna lente la sceglie.",
+   "comporta": {
+    "cliente": "Non vede cambiamenti; continua a non distinguere ACTON da altre pensiline rosse.",
+    "scaffale": "Nulla da rifare.",
+    "digitale": "Restano tre favicon diverse e nessun file vettoriale pubblico.",
+    "costo": "Zero oggi.",
+    "tempo": "Nessuno.",
+    "rischio": "Basso nel breve, alto nel lungo: il marchio non accumula riconoscimento."
+   },
+   "liv": {
+    "costo": 0,
+    "tempo": 0,
+    "breve": 1,
+    "lungo": 3,
+    "beneficio": 0
+   }
+  }
+ ],
+ "intro": "Per rispondere non ci siamo fidati di un solo punto di vista: abbiamo interpellato, in modo virtuale, sette riferimenti mondiali che guardano il marchio da angoli diversi. Due grandi studi di identità (Pentagram a Londra e New York, Studio Dumbar in Olanda), il maestro del modernismo italiano (Massimo Vignelli), il collettivo che lega oggetto e marchio (LoveFrom, di Jony Ive e Marc Newson), che qui guarda erogatori, tessera e latta, il teorico dell'architettura di marca (David Aaker) e, per questo settore, uno studio di identità aziendale che lavora da decenni con utility e servizi (Wolff Olins, Londra) e un'agenzia che progetta marchio e punto vendita insieme (Landor, San Francisco). L'analisi ha due capitoli: prima il logo ACTON, poi l'architettura fra Forini, ACTON e i quattro sottomarchi. Se scuole così diverse arrivano alla stessa risposta, la risposta è solida; dove si dividono, lo diciamo.",
+ "avviso": "Ogni lente guarda la domanda dal punto di vista di uno studio o di un autore diverso, ricostruito dai principi e dai progetti che quello studio ha pubblicato: Vignelli dal suo Canon e dalle sue identità, Pentagram, Studio Dumbar, Wolff Olins e Landor dai loro casi e siti, LoveFrom dai progetti pubblici di Ive e Newson, Aaker dai suoi libri. Non sono pareri degli studi su Forini o ACTON e nessuno di loro è stato consultato. I giudizi sono severi quanto quelli del panel dei loghi.",
+ "convergenza": "Sul logo le sette lenti sono d'accordo su tre cose: un rosso solo al posto dei quattro di oggi; un segno compatto per favicon, app, tessera e totem, ricavato dalla scritta e non inventato (nessuna vuole tenere la goccia Forini o il Λ generato); i descrittori nello stesso carattere, con l'ON verde dell'energia tolto. Si dividono su quanto cambiare: Vignelli, LoveFrom, Aaker e Wolff Olins scelgono il ritocco (A), perché la scritta regge e il valore si accumula solo se resta uguale; Pentagram, Dumbar e Landor il ridisegno con un codice di stazione proprio (B), perché un rosso fra i rossi non diventerà mai distintivo. Nessuna sceglie di mettere Forini nel logo (C) né di restare fermi (D). Sull'architettura cinque lenti scelgono ACTON con Forini garante; Wolff Olins vuole Forini monolitico, Landor due famiglie, strada e casa. Sul nome la divisione è vera: tre togliere, due tenere, due dipende.",
+ "arch": {
+  "titolo": "Capitolo 2 · L'architettura di marca Forini / ACTON",
+  "domande": [
+   "Chi firma cosa: ACTON, Forini, o tutti e due con lo stesso peso come oggi?",
+   "Special Fuel, Fuel Card, Lubes ed Energia sono sottomarchi con un'immagine propria o descrittori di un marchio solo?",
+   "L'energia (luce, gas, fibra, fotovoltaico) sta sotto lo stesso nome dei carburanti o con il nome dell'azienda?",
+   "Nei punti della rete a bandiera di terzi, dove e come si vede ACTON?"
+  ],
+  "oggi": {
+   "fatto": "Un marchio ombrello ACTON con quattro sottomarchi che cambiano colore (rosso, rosso scuro, verde lime) e un gruppo Forini con un logo in un'altra lingua grafica. Online i due nomi si mescolano (LinkedIn «forinispa-acton», schede Maps «Acton», «Forini Spa», «Acton Special Fuel»); nel registro MIMIT le stazioni si chiamano «Acton1Q».",
+   "frase": "Il cliente cerca Forini, la strada mostra ACTON, il Ministero legge Acton1Q."
+  },
+  "opzioni": [
+   {
+    "id": "a",
+    "nome": "ACTON marchio guida, Forini garante",
+    "sintesi": "ACTON firma tutto quello che il cliente compra; le quattro linee diventano descrittori; Forini è la firma di garanzia («un'azienda Forini, dal 1933»).",
+    "tree": {
+     "top": "ACTON · un'azienda Forini dal 1933",
+     "kids": [
+      "ACTON Special Fuel",
+      "ACTON Fuel Card",
+      "ACTON Lubes",
+      "ACTON Energia"
+     ]
+    },
+    "pro": "Una regola sola, comprensibile in una riga. Tiene il nome che c'è sulla strada e sulle bollette e usa Forini per la fiducia, soprattutto nell'energia.",
+    "contro": "Il nome più cercato (Forini) va in seconda riga; ACTON da solo ha omonimi e va verificato come marchio prima di investire.",
+    "comporta": {
+     "cliente": "Un nome davanti, una garanzia dietro.",
+     "scaffale": "ACTON su pensilina e totem, «Forini dal 1933» sulla cassa e sulla tessera.",
+     "digitale": "Siti e account sotto ACTON; forini.com resta il sito societario; LinkedIn rinominato in un nome solo.",
+     "costo": "Basso.",
+     "tempo": "3-6 mesi per le regole.",
+     "rischio": "Basso, se la verifica del marchio ACTON è buona."
+    },
+    "liv": {
+     "costo": 1,
+     "tempo": 1,
+     "breve": 1,
+     "lungo": 1,
+     "beneficio": 3
+    }
+   },
+   {
+    "id": "b",
+    "nome": "Forini monolitico, ACTON prodotto",
+    "sintesi": "Forini diventa il marchio di tutto (Forini Energia, Forini Fuel Card, Forini Lubes); ACTON resta solo il nome del carburante speciale.",
+    "tree": {
+     "top": "FORINI",
+     "kids": [
+      "ACTON Special Fuel (prodotto)",
+      "Forini Fuel Card",
+      "Forini Lubes",
+      "Forini Energia"
+     ]
+    },
+    "pro": "Usa il nome più cercato e senza omonimi, quello della società; una sola identità per un'azienda di 54 persone.",
+    "contro": "Butta sette anni di ACTON sulle pensiline e sulle bollette; il logo Forini attuale (maiuscolo sottile, gocce) regge ancora meno di ACTON in piccolo.",
+    "comporta": {
+     "cliente": "Rivede il nome dell'azienda ovunque, ACTON solo sulla pistola del carburante speciale.",
+     "scaffale": "Pensiline da rinominare.",
+     "digitale": "Siti e social da spostare sotto Forini.",
+     "costo": "Alto.",
+     "tempo": "12-18 mesi.",
+     "rischio": "Alto nel breve."
+    },
+    "liv": {
+     "costo": 3,
+     "tempo": 3,
+     "breve": 3,
+     "lungo": 1,
+     "beneficio": 2
+    }
+   },
+   {
+    "id": "c",
+    "nome": "Due famiglie: strada e casa",
+    "sintesi": "ACTON per la strada (carburanti, carta, lubrificanti); Forini Energia per casa e azienda.",
+    "tree": {
+     "top": "Gruppo Forini",
+     "kids": [
+      "ACTON: Special Fuel, Fuel Card, Lubes",
+      "Forini Energia: luce, gas, fibra, fotovoltaico"
+     ]
+    },
+    "pro": "Rispetta come si compra nei due mercati: sulla strada conta il segno, in bolletta la fiducia.",
+    "contro": "Due marchi da far crescere con un budget pubblicitario oggi a zero; si perde la vendita incrociata carburante-luce sotto un nome solo.",
+    "comporta": {
+     "cliente": "Due nomi per due relazioni.",
+     "scaffale": "Invariato sulla strada.",
+     "digitale": "Acton Energia diventa Forini Energia: sito, account, contratti.",
+     "costo": "Medio.",
+     "tempo": "6-12 mesi.",
+     "rischio": "Medio."
+    },
+    "liv": {
+     "costo": 2,
+     "tempo": 2,
+     "breve": 2,
+     "lungo": 2,
+     "beneficio": 2
+    }
+   },
+   {
+    "id": "d",
+    "nome": "Restare fermi",
+    "sintesi": "Ombrello ACTON con quattro sottomarchi ognuno con la sua grafica, Forini separato con il suo logo.",
+    "tree": {
+     "top": "Forini + ACTON (come oggi)",
+     "kids": [
+      "Special Fuel rosso",
+      "Fuel Card rosso scuro",
+      "Lubes",
+      "Energia verde lime"
+     ]
+    },
+    "pro": "Nessun costo, nessun cambio da spiegare.",
+    "contro": "Il cliente non capisce che carburante ed energia sono lo stesso fornitore; nomi diversi in registro, mappe, LinkedIn e siti.",
+    "comporta": {
+     "cliente": "Confusione invariata.",
+     "scaffale": "Invariato.",
+     "digitale": "Restano tre siti con tre favicon e un dominio Lubes fuori uso.",
+     "costo": "Zero.",
+     "tempo": "Nessuno.",
+     "rischio": "Alto nel lungo."
+    },
+    "liv": {
+     "costo": 0,
+     "tempo": 0,
+     "breve": 1,
+     "lungo": 3,
+     "beneficio": 0
+    }
+   }
+  ],
+  "risposta": "ACTON marchio guida e Forini garante (strada a, cinque lenti su sette). Le quattro linee diventano descrittori dello stesso marchio, con un colore di linea dentro una tavolozza unica; Forini firma sotto, «un'azienda Forini, dal 1933», e resta il nome societario e di forini.com. Wolff Olins chiede l'opposto (Forini monolitico, b) e Landor due famiglie (c): restano le alternative da riaprire se la verifica del marchio ACTON va male o se l'energia cresce fino a meritare un nome suo.",
+  "convergenza": "Sei lenti su sette vogliono un solo nome davanti al cliente; si dividono su quale. Vignelli, Pentagram, Dumbar, LoveFrom e Aaker scelgono ACTON con Forini garante; Wolff Olins sceglie Forini, perché è il nome che si cerca e quello della società; Landor separa la strada dalla casa. Tutte e sette dicono che oggi i due nomi hanno lo stesso peso nel posto sbagliato (LinkedIn «forinispa-acton», schede Maps miste) e che «Acton1Q» nel registro va allineato."
+ },
+ "lenti": [
+  {
+   "chi": "Massimo Vignelli",
+   "tipo": "Modernismo",
+   "sk": "vignelli",
+   "img": "vignelli.jpg",
+   "cr": "Foto: Wikimassimovignelli, CC BY-SA 4.0, Wikimedia Commons",
+   "storia": "Designer italiano (Milano 1931 – New York 2014). Nel 1965 co-fonda Unimark International e nel 1971, con la moglie Lella, Vignelli Associates a New York. Firma l'identità di American Airlines (1967), la mappa della metropolitana di New York (1972), Knoll e Bloomingdale's; nel 2010 raccoglie le sue regole nel Vignelli Canon.",
+   "base": "Principi del Vignelli Canon (2010) e identità come American Airlines e Knoll: semantica, sintattica, pragmatica; disciplina, appropriatezza, nessuna ambiguità; pochi caratteri e pochi colori; disegnare per durare, non per la moda.",
+   "perche": "È il riferimento mondiale della disciplina applicata alle marche, ed è italiano. Il marchio ACTON ha già una scritta pulita; il problema è che intorno ci sono quattro rossi, tre favicon e quattro descrittori disegnati ognuno a modo suo: esattamente il disordine che il Canon insegna a togliere.",
+   "scelta": "A",
+   "architettura": "Un nome, un'immagine, un colore. Davanti al cliente deve esserci ACTON e basta; Forini è il nome della società e sta nei testi legali e in una riga sotto. Due identità che si toccano solo nella goccia sono rumore, non ricchezza.",
+   "logo": "La scritta va bene e non va rifatta: il bastone geometrico pesante si legge da lontano e la Λ senza traversa è già un dettaglio proprio. Va resa una sola: un file nero, uno bianco, uno a colori, e un solo rosso, #EA2429, ovunque. Non serve un simbolo inventato: il segno compatto è la Λ stessa, presa dalla scritta, per favicon e tessera. Fuori la goccia Forini dalla favicon e il Λ fatto con un generatore di immagini.",
+   "linee": "Special Fuel, Fuel Card, Lubes ed Energia non sono marchi, sono descrittori: si scrivono nello stesso carattere, più piccoli, sotto ACTON. Niente verde lime per l'energia e niente rosso più scuro per la carta: il colore non deve dividere quello che il nome unisce.",
+   "nome": {
+    "v": "togliere",
+    "x": "In prima linea va un nome solo, ed è ACTON: è quello che c'è sulla pensilina e nelle bollette. «Forini ACTON» sarebbero due parole dove ne basta una. Forini resta la firma legale. «Acton1Q» nel registro è un errore di disciplina: il nome comunicato al Ministero deve essere identico a quello sull'insegna."
+   },
+   "arch": {
+    "scelta": "a",
+    "x": "Un marchio, quattro descrittori, Forini come firma piccola: è l'unica struttura che si spiega in una riga."
+   }
+  },
+  {
+   "chi": "Pentagram",
+   "tipo": "Identità",
+   "sk": "pentagram",
+   "img": "pentagram.svg",
+   "cr": "",
+   "storia": "Studio fondato a Londra nel 1972 da Alan Fletcher, Colin Forbes, Theo Crosby, Kenneth Grange e Mervyn Kurlansky. È di proprietà dei suoi partner e si presenta come il più grande studio di design indipendente al mondo, con sedi tra cui Londra e New York. Tra i suoi lavori: Citi e Mastercard (2016).",
+   "base": "Un'idea su misura per ogni cliente, portata in tutto il sistema; logotipo e carattere che nascono dal carattere del prodotto; un marchio madre che regge una serie di prodotti con un linguaggio comune (es. Jetour e la G Series, 2025).",
+   "perche": "Ha disegnato identità che devono reggere su un mezzo, un'insegna e uno schermo insieme, e costruisce sistemi in cui un marchio madre regge più prodotti. ACTON ha il marchio madre e i prodotti, ma non ha ancora un'idea visiva che lo distingua sotto una pensilina.",
+   "scelta": "B",
+   "architettura": "ACTON davanti, con un'idea che il cliente ricordi: oggi il marchio dice «carburante premium senza sovrapprezzo» solo nei testi, mai nell'immagine. Forini va spiegato come la ragione per cui ACTON esiste (un'azienda umbra dal 1933), non come un secondo logo.",
+   "logo": "Un ritocco lascia ACTON dov'è: una scritta rossa fra le scritte rosse. Serve un ridisegno vero, partendo dalla Λ: un segno quadrato che funzioni da solo in cima al totem, sulla tessera e come icona dell'app, e un codice di stazione che non sia solo rosso (per esempio il nero pieno con il rosso come accento, che oggi il logo già suggerisce con «ACT» nero e «ON» rosso). Il carattere va disegnato o scelto apposta, non preso fra i bastoni geometrici più usati.",
+   "linee": "Un sistema, non quattro loghi: ACTON con un colore di linea per ciascun prodotto, deciso dentro una tavolozza unica, e lo stesso segno su tutti. Il verde dell'energia può restare, ma come colore di linea, non come un altro ON.",
+   "nome": {
+    "v": "dipende",
+    "x": "ACTON davanti sì, ma da solo è un cognome inglese e una città americana: il marchio va verificato prima di investirci (classi di carburanti, lubrificanti ed energia). Se la verifica è debole, Forini deve restare accanto almeno nella firma. «Acton1Q» nel registro va corretto in ogni caso."
+   },
+   "arch": {
+    "scelta": "a",
+    "x": "ACTON in prima linea con le quattro linee; Forini firma di garanzia, mai con lo stesso peso."
+   }
+  },
+  {
+   "chi": "Studio Dumbar",
+   "tipo": "Identità",
+   "sk": "dumbar",
+   "img": "dumbar-logo.svg",
+   "cr": "",
+   "wd": 1,
+   "storia": "Studio olandese fondato da Gert Dumbar all'Aia nel 1977, tra i nomi della scuola olandese del design di sistema. Oggi fa parte di DEPT® (Studio Dumbar/DEPT®). Ha disegnato, tra le altre, l'identità della polizia olandese e quella di PostNL, e dalla primavera 2024 lavora con i team di brand e di prodotto di OpenAI: motion e suono del rinnovo del marchio (2025) e l'identità del DevDay 2025.",
+   "base": "Ridurre le varianti a una e dare una sola regola di colore; un motivo grafico ricavato dalla geometria del logo che vive in movimento su digitale, stampa e oggetti (es. PostNL: un solo logo, arancio e bianco, niente gradienti, la «post-line»).",
+   "perche": "Lavora su marchi che vivono soprattutto in movimento e su schermo, e riduce le varianti a una. Il totem prezzi oggi è uno schermo a LED, l'app e la Fuel Card digitale sono schermi: è lì che ACTON non ha un segno.",
+   "scelta": "B",
+   "architettura": "Un marchio solo, ACTON, e una regola di colore sola. Il gruppo Forini è il retro della scena: si vede nel «chi siamo», non sul piazzale.",
+   "logo": "Va ridisegnato per lo schermo prima che per la carta. Il segno nasce dalla geometria della scritta (la Λ e la T tagliata) e diventa un motivo che si muove: sul totem a LED, nell'app, nei reel, nelle bollette digitali. Un rosso solo, pieno, niente gradienti; il nero come fondo. Oggi la favicon è tre cose diverse in tre siti: va fatta per prima, perché è il segno che il cliente vede più spesso.",
+   "linee": "Le quattro linee hanno lo stesso logo e un solo motivo grafico; cambia il descrittore, non il colore del logo. L'energia ha bisogno di un segno che stia bene in una bolletta, ed è lo stesso dei carburanti.",
+   "nome": {
+    "v": "togliere",
+    "x": "ACTON da solo davanti: un nome di cinque lettere sta in un'icona, «Forini ACTON» no. Forini come firma piccola nel piè di pagina e nelle bollette. Il nome nel registro MIMIT deve essere lo stesso dell'insegna, altrimenti app di prezzi e mappe mostrano «Acton1Q»."
+   },
+   "arch": {
+    "scelta": "a",
+    "x": "ACTON davanti per tutto; il motivo grafico unico tiene insieme carburanti ed energia meglio di qualunque nome di gruppo."
+   }
+  },
+  {
+   "chi": "LoveFrom",
+   "tipo": "Oggetto e marchio",
+   "sk": "lovefrom",
+   "img": "lovefrom.png",
+   "cr": "",
+   "storia": "Collettivo creativo fondato nel 2019 da Jony Ive con Marc Newson, con sede a San Francisco. Ive è stato per oltre vent'anni il capo del design di Apple (iMac, iPod, iPhone); Newson è uno dei designer industriali più noti al mondo. LoveFrom riunisce architetti, designer industriali e grafici, disegnatori di caratteri, ingegneri, musicisti e scrittori. Collabora con Ferrari dal 2021 e con Airbnb, e dal 2025 è partner di OpenAI nello sviluppo di un nuovo prodotto; ha disegnato il sigillo Terra Carta per l'allora Principe Carlo (2021).",
+   "base": "Ricostruita dal lavoro pubblico di Ive e Newson e dai progetti di LoveFrom: semplicità come chiarezza, non come mancanza; cura dei dettagli che nessuno vede; un carattere disegnato apposta (LoveFrom Serif) come voce dello studio; prodotti che portano il marchio in silenzio, con la loro forma.",
+   "perche": "Lega il marchio all'oggetto: qui gli oggetti sono la pistola dell'erogatore, la colonnina, la tessera nel portafoglio, la latta di lubrificante. È lì che un carburante premium «senza sovrapprezzo» deve far sentire la differenza, prima del logo.",
+   "scelta": "A",
+   "architettura": "Un marchio vale quanto la cura degli oggetti che lo portano. Forini ha una storia vera, dal 1933, che oggi non si vede in nessun oggetto ACTON; ACTON ha un nome giovane che ancora non ha una storia.",
+   "logo": "Non serve un logo nuovo, serve fare bene quello che c'è: un solo rosso, la scritta pulita, file fatti a mano e non da un generatore di immagini (la favicon di Acton Energia viene da un file «ChatGPT Image»). Il segno compatto si ricava dalla Λ e si incide sugli oggetti: tappo della latta, pistola, tessera in rilievo. La qualità percepita del carburante passa più da questi dettagli che dal disegno del logo.",
+   "linee": "Le linee si riconoscono dall'oggetto, non dal colore: la latta Lubes, la tessera Fuel Card, la bolletta Energia con lo stesso segno e la stessa cura. Il verde lime dell'energia è un dettaglio sbagliato che dice «un'altra azienda».",
+   "nome": {
+    "v": "tenere",
+    "x": "Forini è la parte vera della storia: un'azienda di famiglia dal 1933. Non va tolta: va portata sugli oggetti come firma, «Forini dal 1933», accanto ad ACTON, dove il cliente la tocca (tessera, latta, bolletta). «Acton1Q» nel registro è il contrario della cura: va corretto."
+   },
+   "arch": {
+    "scelta": "a",
+    "x": "ACTON davanti, Forini firma visibile sugli oggetti: è la stessa scelta degli altri, con più peso alla firma."
+   }
+  },
+  {
+   "chi": "David Aaker",
+   "tipo": "Teoria",
+   "sk": "aaker",
+   "img": "aaker.jpg",
+   "cr": "Foto: Prophet, CC BY 2.0, Wikimedia Commons",
+   "storia": "Professore emerito alla Haas School of Business dell'Università di Berkeley e vicepresidente di Prophet, spesso chiamato il padre del branding moderno. Ha scritto Managing Brand Equity (1991), Building Strong Brands (1996) e, con Erich Joachimsthaler, Brand Leadership (2000).",
+   "base": "Il modello di identità di marca di «Building Strong Brands» (1996): il marchio come prodotto, organizzazione, persona e simbolo, e il simbolo come patrimonio che si accumula con il tempo. Lo spettro delle relazioni tra marchi di «Brand Leadership» (con Erich Joachimsthaler, 2000) per leggere i nomi di prodotto: descrittori, sottomarchi, marchi garantiti.",
+   "perche": "È il teorico dell'architettura di marca: lo spettro fra marchio unico, marchi garantiti e marchi indipendenti è la domanda vera di Forini e ACTON, con quattro sottomarchi e un nome di gruppo che il cliente cerca più del marchio.",
+   "scelta": "A",
+   "architettura": "ACTON è il marchio guida; Forini è il garante («endorser»): dà credibilità a un nome nuovo, soprattutto nell'energia, dove il cliente sceglie un fornitore per anni. Le ricerche lo confermano: «forini spa» ha 880 ricerche al mese, «acton special fuel» 390.",
+   "logo": "Il simbolo è un patrimonio che si accumula solo se resta uguale: per questo il ritocco batte il ridisegno. Si fissa la scritta, un rosso solo e un segno dalla Λ, e non si cambiano più per dieci anni. Un ridisegno oggi butterebbe i sette anni di ACTON (dal 2018) per un guadagno incerto.",
+   "linee": "Special Fuel, Fuel Card e Lubes sono descrittori, non sottomarchi: non hanno un pubblico proprio. Energia è l'unico che vende una relazione diversa (casa e azienda, contratto lungo) e può avere un colore di linea; ma resta ACTON Energia, garantito da Forini.",
+   "nome": {
+    "v": "togliere",
+    "x": "Forini esce dalla prima linea ma non sparisce: diventa la garanzia sotto ACTON («un'azienda Forini, dal 1933»). È il marchio garantito dello spettro. «Acton1Q» nel registro va allineato ad ACTON: un nome diverso in ogni canale disperde il valore."
+   },
+   "arch": {
+    "scelta": "a",
+    "x": "Marchio guida ACTON con Forini come garante: lo spettro dice questo per un gruppo con un solo mestiere davanti al cliente."
+   }
+  },
+  {
+   "chi": "Wolff Olins",
+   "tipo": "Identità aziendale",
+   "sk": "wolffolins",
+   "img": "wolffolins.svg",
+   "cr": "",
+   "storia": "Studio fondato a Londra nel 1965 da Michael Wolff e Wally Olins. Olins ha scritto The Corporate Personality (1978) e Corporate Identity (1989) e definiva l'identità «la strategia resa visibile». Fra i lavori: BT (1991) e Prudential (1986); più di recente Uber, con cui lavora dal 2017 anche sull'architettura di marca, Lloyds e l'identità del team Mercedes-AMG Petronas F1.",
+   "base": "La classificazione di Olins delle identità (monolitica, garantita, a marchi) in Corporate Identity (1989); il passaggio di Uber «da app a società di mobilità» e il lavoro su Lloyds, dove si riparte dal patrimonio dell'azienda invece di inventarne uno (casi su wolffolins.com).",
+   "perche": "Lo abbiamo scelto per le utility e i servizi: lavora da sessant'anni con aziende di energia, telecomunicazioni e servizi pubblici, dove il marchio è un contratto che dura, e con la sua classificazione si legge la scelta fra Forini e ACTON. È la lente che mette più in dubbio la strada degli altri.",
+   "scelta": "A",
+   "architettura": "Per un'azienda di 54 persone con una sola sede, tre marchi visivi (Forini, ACTON, Acton Energia in verde) sono troppi. La classificazione di Olins direbbe identità monolitica: un nome, quello dell'azienda. Forini è cercato più di ACTON, è il nome della società sulle fatture e ha 93 anni; ACTON è un nome di prodotto nato nel 2018.",
+   "logo": "Sul logo non serve rifare tutto: la scritta ACTON regge ed è il patrimonio più visibile sulla strada. Ritocco, un rosso solo e un segno dalla Λ. Il lavoro vero non è grafico, è decidere che cosa firma cosa.",
+   "linee": "Le linee si chiamano per quello che sono, sotto un nome solo: carburanti, carta, lubrificanti, energia. Che quel nome sia Forini o ACTON è la decisione; non possono esserlo tutti e due con lo stesso peso, come oggi su LinkedIn («forinispa-acton»).",
+   "nome": {
+    "v": "tenere",
+    "x": "Forini va tenuto in prima linea: è il nome che si cerca (880 ricerche al mese contro 390), quello di LinkedIn e delle fatture, e non ha omonimi. ACTON resta il nome del carburante premium. «Acton1Q» nel registro mostra che nemmeno l'azienda usa un nome solo: prima di scegliere va capito da dove viene."
+   },
+   "arch": {
+    "scelta": "b",
+    "x": "Identità monolitica Forini: Forini Energia, Forini Fuel Card, Forini Lubes; ACTON resta il nome del carburante speciale. È la strada che gli altri scartano, e va pesata con le verifiche sul marchio."
+   }
+  },
+  {
+   "chi": "Landor",
+   "tipo": "Marchio e punto vendita",
+   "sk": "landor",
+   "img": "landor.svg",
+   "cr": "",
+   "wd": 1,
+   "storia": "Agenzia di marca fondata a San Francisco nel 1941 da Walter Landor, tra i primi a usare la ricerca sui consumatori nel design. Fa naming, architettura di marca e progetto dei punti vendita; nel 2021 si è unita a Fitch, specialista dei negozi, e dal 2023 è tornata a chiamarsi Landor. Fa parte di WPP e dice di avere 1.300 persone in 30 sedi.",
+   "base": "Il principio di Walter Landor «la confezione deve parlare da sola», qui letto sulla stazione: pensilina, totem, erogatori e cassa come confezione del marchio. Naming e architettura di marca come servizi della stessa agenzia (Wikipedia, landor.com).",
+   "perche": "Lo abbiamo scelto per le reti carburanti: il marchio di un distributore si vede soprattutto sul piazzale, e Landor progetta insieme marchio e punto vendita. È la lente che guarda la stazione prima del logo, e chiede se la stessa immagine possa servire anche la bolletta di casa.",
+   "scelta": "B",
+   "architettura": "La stazione e la bolletta sono due mondi. Sul piazzale serve un marchio di strada forte, ACTON; in casa e in azienda il cliente compra fiducia, e lì Forini, azienda umbra dal 1933 con consulente personale e «nessun call center», dice più di un nome di carburante.",
+   "logo": "Oggi il piazzale non parla: la pensilina rossa di Misano potrebbe essere di IP o Tamoil. Serve un ridisegno pensato per la stazione: un segno in cima al totem visibile a 50 km/h, un codice di pensilina che non sia solo rosso, gli erogatori e la cassa nello stesso linguaggio. La mappa del sito ACTON mostra 56 punti, ma 29 non risultano di Forini nel registro e 27 di questi hanno un'altra bandiera: dove la bandiera non è ACTON, il segno deve comunque comparire sull'erogatore e sulla carta, o il punto va tolto dalla mappa.",
+   "linee": "Sulla strada ACTON con Special Fuel, Fuel Card e Lubes; Energia è un'altra famiglia, con un'altra promessa, e può firmarsi con il nome dell'azienda.",
+   "nome": {
+    "v": "dipende",
+    "x": "Dipende dal canale: ACTON sul piazzale, Forini su bolletta e contratto. Il nome «Acton1Q» nel registro MIMIT è quello che il cliente legge nelle app dei prezzi: va corretto in ACTON subito, perché è la stazione che parla per prima."
+   },
+   "arch": {
+    "scelta": "c",
+    "x": "Due famiglie: ACTON per la strada (carburanti, carta, lubrificanti), Forini Energia per casa e azienda. È diversa dalla maggioranza e costa di più, ma rispetta come il cliente compra nei due mercati."
+   }
+  }
+ ],
+ "logo": {
+  "oggi": "Una scritta ACTON in bastone geometrico pesante, con la Λ senza traversa, la T tagliata, «ACT» nero e «ON» rosso, e il descrittore sotto in maiuscolo. Ma non c'è un segno: ogni sito ha la sua favicon, la tessera e il totem usano la scritta intera, e i quattro marchi ACTON cambiano rosso, mentre l'energia passa al verde lime.",
+  "proposta": [
+   {
+    "t": "La scritta",
+    "x": "ACTON resta com'è nel disegno; si rifà solo la pulizia dei file (spaziature, punti, curve) e si pubblicano tre versioni ufficiali: nera, bianca, a colori. Il descrittore diventa più piccolo del nome."
+   },
+   {
+    "t": "Il segno",
+    "x": "Un segno quadrato ricavato dalla Λ (eventualmente con la T tagliata) per favicon, icona dell'app, avatar social, tessera Fuel Card e cima del totem. Sostituisce la goccia Forini e il Λ generato."
+   },
+   {
+    "t": "Il colore",
+    "x": "Un solo rosso, #EA2429, con i codici per stampa, insegna luminosa e schermo; il nero come secondo colore del marchio. Fuori #E20613, #CD001A e il verde lime dall'ON."
+   },
+   {
+    "t": "Le linee",
+    "x": "Special Fuel, Fuel Card, Lubes ed Energia scritte nello stesso carattere sotto ACTON. Un colore di linea solo come accento (nella grafica, mai dentro il logo), scelto in una tavolozza unica."
+   },
+   {
+    "t": "Il nome nel logo",
+    "x": "Nel logo solo ACTON. «Un'azienda Forini, dal 1933» come firma separata, sotto, su tessera, cassa, bolletta e siti."
+   },
+   {
+    "t": "I file e le regole",
+    "x": "Un manuale minimo: misure, spazi, versioni, uso su pensilina, totem, erogatore, tessera, latta, bolletta e social. File vettoriali pubblicati; il dominio Lubes riattivato o reindirizzato."
+   }
+  ]
+ },
+ "passi": [
+  {
+   "fase": "0-3 mesi",
+   "x": "Verificare il marchio ACTON nelle classi del settore (UIBM, EUIPO, TMview) e i marchi simili; capire da dove viene «Acton1Q» nel registro MIMIT e chiederne la correzione. Decidere l'architettura (ACTON guida, Forini garante) e scriverla in una pagina. Scrivere il brief del ritocco: cosa resta, il segno dalla Λ, un rosso solo."
+  },
+  {
+   "fase": "3-6 mesi",
+   "x": "Ritocco dei file, segno, versioni nera, bianca e a colori, manuale minimo. Una favicon sola sui tre siti, avatar uguali sui social, LinkedIn con un nome solo. ACTON Energia riportata al rosso. Riattivare o reindirizzare actonlubes.forini.com."
+  },
+  {
+   "fase": "6-12 mesi",
+   "x": "Il segno in cima ai totem e sugli erogatori delle 23 stazioni a bandiera ACTON, nei cicli di manutenzione; tessera Fuel Card e bolletta Energia nuove alla prima ristampa. Nei punti a bandiera di terzi, il segno su erogatore e cassa dove il contratto lo permette."
+  },
+  {
+   "fase": "12-24 mesi",
+   "x": "Misurare: ricerche di «acton», riconoscimento del segno senza il nome, clienti che hanno carburante ed energia insieme. Se ACTON non si distingue ancora sotto la pensilina, aprire la strada B (codice di stazione proprio)."
+  }
+ ],
+ "rischi": [
+  "Investire nel segno prima della verifica del marchio ACTON: se la registrazione è debole, si costruisce su un nome che non si può difendere.",
+  "Un ritocco timido: unificare il rosso e lasciare le favicon diverse non cambia niente in piccolo.",
+  "Rinominare l'energia (Forini Energia o altro) senza decidere l'architettura: si moltiplicano i nomi invece di ridurli.",
+  "Lasciare «Acton1Q» nel registro: app dei prezzi e mappe continueranno a mostrare un nome che non è sull'insegna.",
+  "Ridisegnare le pensiline senza un accordo sulle stazioni a bandiera di terzi: la rete mostrerebbe due ACTON diversi."
+ ],
+ "fonti": [
+  "https://acton.forini.com/",
+  "https://actonenergia.forini.com/",
+  "https://forini.com/",
+  "https://www.mimit.gov.it/images/exportCSV/anagrafica_impianti_attivi.csv",
+  "https://forini.com/wp-content/uploads/2023/07/Acton_Misano.jpeg",
+  "https://acton.forini.com/wp-content/uploads/2021/03/logo_acton_special_fuel_nero.svg",
+  "https://acton.forini.com/wp-content/uploads/2022/05/FUEL-CARD-LOGO-BIANCO.svg",
+  "https://actonenergia.forini.com/wp-content/uploads/2026/10/acton-gpe-2-1-768x240.png",
+  "https://www.linkedin.com/company/forinispa-acton/",
+  "https://docs.dataforseo.com/v3/dataforseo_labs/google/ranked_keywords/live/",
+  "https://www.pentagram.com/about",
+  "https://www.studiodumbar.com/work/postnl",
+  "https://www.lovefrom.com/",
+  "https://www.wolffolins.com/",
+  "https://www.wolffolins.com/work/uber",
+  "https://www.wolffolins.com/work/lloyds",
+  "https://www.wolffolins.com/work/mercedes-amg-petronas-f1-team",
+  "https://en.wikipedia.org/wiki/Wolff_Olins",
+  "https://landor.com/",
+  "https://en.wikipedia.org/wiki/Landor_Associates",
+  "Massimo Vignelli, The Vignelli Canon, Lars Müller Publishers, 2010",
+  "Wally Olins, Corporate Identity, Thames & Hudson, 1989",
+  "David Aaker, Building Strong Brands, Free Press, 1996",
+  "David Aaker, Erich Joachimsthaler, Brand Leadership, Free Press, 2000",
+  "https://commons.wikimedia.org/wiki/File:Massimo_Vignelli_2.jpg",
+  "https://commons.wikimedia.org/wiki/File:DavidAaker.jpg"
+ ]
+}

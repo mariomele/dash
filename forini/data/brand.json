@@ -1,0 +1,458 @@
+{
+ "n": "Raccolta del 28/11/2026. Loghi presi dai siti ufficiali (Firecrawl formato branding e link immagine dell'header), SVG resi in PNG con Chrome headless su fondo trasparente, lato lungo 400 px. Le versioni solo bianche (pensate per fondi scuri) sono state portate in nero per le schede a fondo bianco, cambiando solo il bianco: Acton Fuel Card, Acton Lubes, Acton Energia, Beyfin, Ala (per Acton Special Fuel esiste la versione nera ufficiale, usata così com'è). Colori dal branding Firecrawl della home. Anno, marchi, certificazioni, premi e claim letti sulle pagine ufficiali (home, chi siamo, storia, certificazioni). Premi: solo 2022-2026; [] vuol dire non trovati nelle pagine lette e in una ricerca web per azienda (Forini, Beyfin, Ala, Enerpetroli, Estra), non che non esistano; Umbria Energy li pubblica sul proprio sito. Logo di confronto per Forini: ACTON Special Fuel, il marchio che il pubblico vede sulla pensilina e sul totem (foto del distributore di Misano su forini.com); il logo del gruppo Forini è in logos/forini.png e non entra in classifica. Estra: estra.it porta ora ad aliaestra.it, e il logo che il cliente vede è il blocco «Alia estra · PLURES». giudizio = valutazione di Claude sui PNG (legg, dist, coer, dis 1-5), allineata al panel di brandx.json. Spesa: 18 crediti Firecrawl (8 branding + 5 ricerche premi da 2).",
+ "az": {
+  "forini": {
+   "logo": {
+    "f": "logos/acton_special_fuel.png",
+    "u": "https://acton.forini.com/wp-content/uploads/2021/03/logo_acton_special_fuel_nero.svg",
+    "s": "dic",
+    "n": "ACTON Special Fuel, versione nera ufficiale: è il marchio sulla pensilina e sul totem del distributore (foto https://forini.com/wp-content/uploads/2023/07/Acton_Misano.jpeg). Il logo del gruppo Forini è in logos/forini.png."
+   },
+   "colori": {
+    "v": [
+     "#EA2429",
+     "#1B1B1B",
+     "#FFFFFF"
+    ],
+    "s": "dic",
+    "u": "https://acton.forini.com/",
+    "n": "rosso del logo (ON) e dei pulsanti, fondo scuro del sito; Firecrawl dà #EB2027 su acton.forini.com e #EA2429 su forini.com. Nei file ufficiali i rossi sono quattro: #EA2429 (Special Fuel nero), #E20613 (Special Fuel bianco), #CD001A (Fuel Card), #CC1719 (gocce Forini); Acton Energia usa il verde #AADB1E"
+   },
+   "yr": {
+    "v": 1933,
+    "s": "dic",
+    "u": "https://forini.com/",
+    "n": "Forini nasce nel 1933 in Umbria; il marchio ACTON nasce nel 2018 (stessa pagina)"
+   },
+   "arch": {
+    "tipo": "marchio ombrello",
+    "marchi": [
+     "ACTON Special Fuel",
+     "ACTON Fuel Card",
+     "ACTON Lubes",
+     "ACTON Energia (GAS · POWER · ECO)",
+     "Forini Costruzioni"
+    ],
+    "s": "dic",
+    "u": "https://forini.com/",
+    "n": "ACTON firma carburanti, carta, lubrificanti ed energia; Forini Costruzioni (dal 1976) usa il nome del gruppo ed è fuori dal confronto. Il dominio actonlubes.forini.com il 28/11/2026 non risolve: logo Lubes preso da acton.forini.com"
+   },
+   "premi": {
+    "v": [],
+    "s": "dic",
+    "u": "https://forini.com/",
+    "n": "nessun premio 2022-2026 sul sito né in una ricerca web; il sito cita sponsorizzazioni sportive (SBK, Dakar 2022, Enduro GP) e il distributore al Misano World Circuit dal 2019, che non sono premi"
+   },
+   "cert": {
+    "v": [
+     "ISO 9001:2015"
+    ],
+    "s": "dic",
+    "u": "https://forini.com/",
+    "n": "bollino ISO 9001:2015 nel piè di pagina di forini.com (immagine generica, senza ente né numero); linkati anche Politica della Qualità, Modello 231 e Report di Sostenibilità 2023"
+   },
+   "giudizio": {
+    "legg": 3,
+    "dist": 2,
+    "coer": 3,
+    "dis": 3,
+    "tipo": "wordmark con descrittore",
+    "elementi": "ACTON in sans geometrico, A senza traversa (Λ) e T tagliata, «ACT» nero e «ON» rosso, descrittore SPECIAL FUEL sotto in maiuscolo",
+    "n": "Scritta pulita e a un colore regge; manca un segno, e il rosso a pensilina è lo stesso di IP, Q8, Tamoil ed Esso.",
+    "s": "val"
+   },
+   "claim": {
+    "v": "Al prossimo pieno prova la differenza",
+    "s": "dic",
+    "u": "https://acton.forini.com/",
+    "n": "titolo della home Acton Special Fuel; altre frasi: «Più potenza, più chilometri, più cura del motore» (stessa pagina), «Alla tua bolletta ci pensiamo noi!» (Acton Energia), «Coraggio e passione» (forini.com)"
+   },
+   "sottomarchi": [
+    {
+     "nome": "Forini (gruppo)",
+     "f": "logos/forini.png",
+     "u": "https://acton.forini.com/wp-content/uploads/2022/05/Logo-Forini-rgb_01.png",
+     "s": "dic",
+     "n": "versione a colori ufficiale (gocce nere); su forini.com l'header usa la versione bianca con gocce rosse #CC1719 e «SPA», in brand/logo.svg"
+    },
+    {
+     "nome": "ACTON Special Fuel",
+     "f": "logos/acton_special_fuel.png",
+     "u": "https://acton.forini.com/wp-content/uploads/2021/03/logo_acton_special_fuel_nero.svg",
+     "s": "dic"
+    },
+    {
+     "nome": "ACTON Fuel Card",
+     "f": "logos/acton_fuel_card.png",
+     "u": "https://acton.forini.com/wp-content/uploads/2022/05/FUEL-CARD-LOGO-BIANCO.svg",
+     "s": "dic",
+     "n": "versione bianca, bianco portato in nero; rosso #CD001A"
+    },
+    {
+     "nome": "ACTON Lubes",
+     "f": "logos/acton_lubes.png",
+     "u": "https://acton.forini.com/wp-content/uploads/2021/03/acton_lubes_logo.png",
+     "s": "dic",
+     "n": "versione bianca, bianco portato in nero"
+    },
+    {
+     "nome": "ACTON Energia",
+     "f": "logos/acton_energia.png",
+     "u": "https://actonenergia.forini.com/wp-content/uploads/2026/10/acton-gpe-2-1-768x240.png",
+     "s": "dic",
+     "n": "versione bianca, bianco portato in nero; ON verde #AADB1E e descrittore GAS · POWER · ECO; la favicon del sito è un Λ nero da un file chiamato «ChatGPT Image 27 ago 2026»"
+    }
+   ]
+  },
+  "beyfin": {
+   "logo": {
+    "f": "logos/beyfin.png",
+    "u": "https://www.beyfin.it/static/img/svg/beyfin-logo-bianco.svg",
+    "s": "dic",
+    "n": "sul sito c'è solo la versione bianca: bianco portato in nero, verdi del quadrifoglio invariati"
+   },
+   "colori": {
+    "v": [
+     "#3FA535",
+     "#28338A",
+     "#FFD600"
+    ],
+    "s": "dic",
+    "u": "https://www.beyfin.it/",
+    "n": "verde primario (quadrifoglio), blu del testo, giallo dei pulsanti; il gambo del quadrifoglio è #026837"
+   },
+   "yr": {
+    "v": 1956,
+    "s": "dic",
+    "u": "https://www.beyfin.it/",
+    "n": "«Lo facciamo con il cuore, dal 1956»; gala per i 70 anni nel 2026"
+   },
+   "arch": {
+    "tipo": "marchio unico con linee",
+    "marchi": [
+     "Beyfin",
+     "Beyfin Card",
+     "Beyfin Gift Card",
+     "BBOX (bombole GPL)",
+     "Devra Energia (luce e gas, società del gruppo)"
+    ],
+    "s": "dic",
+    "u": "https://www.beyfin.it/",
+    "n": "il quadrifoglio verde è dichiarato come segno noto in tutta Italia; Devra Energia ha un nome proprio (link dalla home); Beyfin è Società Benefit"
+   },
+   "premi": {
+    "v": [],
+    "s": "dic",
+    "u": "https://www.beyfin.it/",
+    "n": "nessun premio ricevuto 2022-2026 nelle pagine lette né nella ricerca web (i risultati parlano di un hotel omonimo e di un premio che Beyfin assegna)"
+   },
+   "cert": {
+    "v": [
+     "ISO 9001:2015",
+     "ISO 45001:2023",
+     "ISCC EU",
+     "ISCC PLUS"
+    ],
+    "s": "dic",
+    "u": "https://www.beyfin.it/",
+    "n": "elenco nel piè di pagina con i certificati scaricabili; Società Benefit è una forma giuridica, non una certificazione"
+   },
+   "giudizio": {
+    "legg": 3,
+    "dist": 3,
+    "coer": 3,
+    "dis": 2,
+    "tipo": "wordmark + simbolo",
+    "elementi": "BEYFIN in un bastone a forte contrasto di gusto Art Déco, «SPA» piccolo, quadrifoglio verde con gambo",
+    "n": "Il quadrifoglio è un patrimonio vero; la scritta è datata e non dialoga con il simbolo.",
+    "s": "val"
+   },
+   "claim": {
+    "v": "Lo facciamo con il cuore, dal 1956",
+    "s": "dic",
+    "u": "https://www.beyfin.it/",
+    "n": "frase della home; titolo «GPL, l'energia pulita che arriva ovunque»"
+   }
+  },
+  "ala": {
+   "logo": {
+    "f": "logos/ala.png",
+    "u": "https://www.alacarburanti.com/wp-content/uploads/2024/05/logo-ala.svg",
+    "s": "dic",
+    "n": "nel file la scritta «Ala» è bianca (sito tutto nero): bianco portato in nero, ala azzurra e arancio invariate"
+   },
+   "colori": {
+    "v": [
+     "#72A0CA",
+     "#F08225",
+     "#000000"
+    ],
+    "s": "dic",
+    "u": "https://www.alacarburanti.com/",
+    "n": "azzurro e arancio dell'ala, fondo nero del sito («stile all black»)"
+   },
+   "yr": {
+    "v": 1948,
+    "s": "dic",
+    "u": "https://www.alacarburanti.com/",
+    "n": "gruppo Gradi Gualtiero, nato nel 1948 a Quarrata (PT); il marchio Ala nasce nel 2016 come «pompa a marchio nero» (https://www.alacarburanti.com/about/)"
+   },
+   "arch": {
+    "tipo": "marchio ombrello",
+    "marchi": [
+     "Ala Carburanti",
+     "Ala Wash",
+     "Ala Energy",
+     "Ala Academy",
+     "Black Card",
+     "Ala World",
+     "Ala Wears",
+     "Scuola Guida Lucarelli"
+    ],
+    "s": "dic",
+    "u": "https://www.alacarburanti.com/about/",
+    "n": "Ala è anche Brand Wholesaler Esso e dal 2025 ha una partnership con IP (gruppo api): parte della rete porta marchi di terzi"
+   },
+   "premi": {
+    "v": [],
+    "s": "dic",
+    "u": "https://www.alacarburanti.com/",
+    "n": "nessun premio 2022-2026 nelle pagine lette né nella ricerca web"
+   },
+   "cert": {
+    "v": [],
+    "s": "dic",
+    "u": "https://www.alacarburanti.com/about/",
+    "n": "nessuna certificazione citata in home e about"
+   },
+   "giudizio": {
+    "legg": 3,
+    "dist": 3,
+    "coer": 3,
+    "dis": 3,
+    "tipo": "simbolo + wordmark",
+    "elementi": "ala in due fasce (azzurro e arancio) a sinistra, «Ala» in bastone nero pesante con taglio sulla A",
+    "n": "Nome e segno coincidono (ala), ma la fascia veloce è un luogo comune del mondo motori.",
+    "s": "val"
+   },
+   "claim": {
+    "v": "Petroland, la terra dei nostri clienti",
+    "s": "dic",
+    "u": "https://www.alacarburanti.com/",
+    "n": "nome dato alla rete nella home, non un payoff nel logo; altra frase: «Affidabilità ed efficienza, senza compromessi»"
+   }
+  },
+  "enerpetroli": {
+   "logo": {
+    "f": "logos/enerpetroli.png",
+    "u": "https://www.enerpetroli.it/web/wp-content/uploads/2023/06/enerpetroli-logo-horizonatal.svg",
+    "s": "dic",
+    "n": "versione orizzontale a colori (immagine og del sito); simbolo da solo: enerpetroli-logo-snail.svg"
+   },
+   "colori": {
+    "v": [
+     "#005CB9",
+     "#E30815",
+     "#E2E2E2"
+    ],
+    "s": "dic",
+    "u": "https://www.enerpetroli.it/",
+    "n": "blu e rosso dal branding; nel file del logo #006DC1 e #F32735"
+   },
+   "yr": {
+    "v": 1988,
+    "s": "dic",
+    "u": "https://www.enerpetroli.it/storia/",
+    "n": "Enerpetroli nasce nel 1988 dalla fusione di Avioil, Petroli Benedetti e Cimina Petroli; le radici (famiglia Malè, Viterbo) risalgono ai primi anni '40"
+   },
+   "arch": {
+    "tipo": "marchio aziendale con marchi di servizio",
+    "marchi": [
+     "Enerpetroli",
+     "Enercard FUEL",
+     "Enercafè",
+     "Bluégas (gas metano)",
+     "E.Logistic (trasporti)"
+    ],
+    "s": "dic",
+    "u": "https://www.enerpetroli.it/storia/",
+    "n": "circa 130 stazioni «a marchio proprio ed a marchio Esso» (home): parte della rete porta un marchio di terzi"
+   },
+   "premi": {
+    "v": [],
+    "s": "dic",
+    "u": "https://www.enerpetroli.it/",
+    "n": "nessun premio 2022-2026 nelle pagine lette né nella ricerca web"
+   },
+   "cert": {
+    "v": [],
+    "s": "dic",
+    "u": "https://www.enerpetroli.it/chi-siamo/",
+    "n": "nessuna certificazione citata in home, chi siamo e storia; esistono Modello 231 e Bilancio di Sostenibilità 2024"
+   },
+   "giudizio": {
+    "legg": 3,
+    "dist": 2,
+    "coer": 3,
+    "dis": 2,
+    "tipo": "simbolo + wordmark",
+    "elementi": "«e» in un anello blu con filetto rosso, tratteggio di velocità a sinistra, ENERPETROLI in bastone blu pesante",
+    "n": "Simbolo compatto e riconoscibile in zona, ma tratteggio e doppio anello sono degli anni Novanta.",
+    "s": "val"
+   },
+   "claim": {
+    "v": "Si muove insieme a te",
+    "s": "dic",
+    "u": "https://www.enerpetroli.it/",
+    "n": "payoff della home («Enerpetroli si muove insieme a te»)"
+   }
+  },
+  "estra": {
+   "logo": {
+    "f": "logos/estra.png",
+    "u": "https://aliaestra.it/assets/imgs/logo-plures.png",
+    "s": "dic",
+    "n": "estra.it e estraspa.it reindirizzano ad aliaestra.it: il logo dell'header è il blocco «Alia estra · PLURES» (PNG 391×145, l'unico file disponibile)"
+   },
+   "colori": {
+    "v": [
+     "#482DD5",
+     "#0F172B",
+     "#EDEAFB"
+    ],
+    "s": "dic",
+    "u": "https://aliaestra.it/",
+    "n": "viola dei pulsanti del portale AliaEstra; il logo usa un blu notte e un anello «e» multicolore"
+   },
+   "yr": {
+    "v": 2009,
+    "s": "dic",
+    "u": "https://corporate.estra.it/chi-siamo/profilo-aziendale",
+    "n": "il Gruppo Estra nasce nel 2009 dall'aggregazione di Consiag, Intesa e Coingas"
+   },
+   "arch": {
+    "tipo": "società di un gruppo (Plures) con portale condiviso",
+    "marchi": [
+     "Estra",
+     "AliaEstra (portale luce, gas e rifiuti)",
+     "Plures (gruppo: Alia, Estra, Publiacqua)"
+    ],
+    "s": "dic",
+    "u": "https://www.plures.it/it-it/gruppo-plures",
+    "n": "il cliente vede tre nomi insieme (Alia, estra, PLURES); il sito corporate resta corporate.estra.it"
+   },
+   "premi": {
+    "v": [],
+    "s": "dic",
+    "u": "https://corporate.estra.it/",
+    "n": "nessun premio ricevuto 2022-2026 trovato; i risultati parlano del Premio Estra e del premio giornalistico che Estra assegna"
+   },
+   "cert": {
+    "v": [
+     "ISO 9001",
+     "ISO 14001",
+     "ISO 45001",
+     "ISO 27001",
+     "UNI/PdR 125:2022"
+    ],
+    "s": "dic",
+    "u": "https://corporate.estra.it/chi-siamo/certificazioni",
+    "n": "certificati di Estra S.p.A. elencati sulla pagina; la UNI/PdR 125:2022 rilasciata da DNV"
+   },
+   "giudizio": {
+    "legg": 2,
+    "dist": 3,
+    "coer": 2,
+    "dis": 4,
+    "tipo": "blocco di tre marchi",
+    "elementi": "«Alia» blu pesante con A a onda, anello «e» multicolore + «estra» minuscolo, filetto, PLURES in maiuscolo sottile spaziato",
+    "n": "Elementi ben disegnati, ma tre nomi e tre caratteri in un solo logo: in piccolo non resta niente.",
+    "s": "val"
+   },
+   "claim": {
+    "v": "Eh già! Con Estra si risparmia davvero",
+    "s": "dic",
+    "u": "https://aliaestra.it/",
+    "n": "titolo della campagna in home insieme a «Qual buon vento?»; su plures.it: «L'energia per guardare al futuro»"
+   }
+  },
+  "umbriaenergy": {
+   "logo": {
+    "f": "logos/umbriaenergy.png",
+    "u": "https://www.umbriaenergy.it/wp-content/uploads/2026/08/LOOG_UE_newv1.png",
+    "s": "dic",
+    "n": "logo nuovo caricato ad agosto 2026; sul sito c'è solo un PNG di 163×100 px, ingrandito a 400"
+   },
+   "colori": {
+    "v": [
+     "#1EA649",
+     "#EEB200",
+     "#2E7931"
+    ],
+    "s": "dic",
+    "u": "https://www.umbriaenergy.it/",
+    "n": "verde primario, giallo accento, verde scuro del tema"
+   },
+   "yr": {
+    "v": 2004,
+    "s": "dic",
+    "u": "https://www.umbriaenergy.it/chi-siamo",
+    "n": "nasce nel 2004 da ASM Terni e Acea Energia; da aprile 2026 Plenitude (Eni) ha il 50%"
+   },
+   "arch": {
+    "tipo": "marchio unico",
+    "marchi": [
+     "Umbria Energy"
+    ],
+    "s": "dic",
+    "u": "https://www.umbriaenergy.it/chi-siamo",
+    "n": "soci ASM Terni e Plenitude (Eni); servizi luce, gas, mobilità elettrica ed efficienza sotto lo stesso nome"
+   },
+   "premi": {
+    "v": [
+     [
+      2026,
+      "Le Fonti Awards: Eccellenza dell'Anno per Innovazione e Leadership"
+     ],
+     [
+      2025,
+      "Le Fonti Awards: stesso premio (citato nel comunicato 2026)"
+     ],
+     [
+      2025,
+      "Premio Industria Felix – L'Italia che compete (4° anno di fila)"
+     ]
+    ],
+    "s": "dic",
+    "u": "https://www.umbriaenergy.it/valore-e-continuita-umbria-energy-premiata-a-milano",
+    "n": "Industria Felix: https://www.umbriaenergy.it/umbria-energy-e-litalia-che-compete; premi su bilanci e gestione, non sul marchio"
+   },
+   "cert": {
+    "v": [
+     "UNI EN ISO 9001:2015",
+     "UNI/PdR 125:2022",
+     "E.S.Co. certificata"
+    ],
+    "s": "dic",
+    "u": "https://www.umbriaenergy.it/chi-siamo",
+    "n": "elencate nella sezione «Eccellenza certificata» di Chi siamo"
+   },
+   "giudizio": {
+    "legg": 3,
+    "dist": 2,
+    "coer": 2,
+    "dis": 2,
+    "tipo": "wordmark su due righe + simbolo",
+    "elementi": "«Umbria Energy» in bastone arrotondato verde su due righe, barra gialla, simbolo di tre foglie verdi",
+    "n": "Verde e foglie dicono energia pulita come tanti; scritta, barra e simbolo sembrano tre pezzi diversi.",
+    "s": "val"
+   },
+   "claim": {
+    "v": "L'energia di casa vostra",
+    "s": "dic",
+    "u": "https://www.umbriaenergy.it/chi-siamo",
+    "n": "frase di missione in Chi siamo («essere l'energia di casa vostra»), non un payoff nel logo"
+   }
+  }
+ }
+}

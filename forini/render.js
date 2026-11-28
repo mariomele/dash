@@ -1,0 +1,93 @@
+// tpl.html + data/*.json + news.json → index.html. Uso: node render.js
+// Controlla i dati prima di scrivere: un valore senza stato valido o senza fonte blocca il build.
+const fs = require('fs'), path = require('path');
+const H = __dirname, STATI = ['ver', 'dic', 'int', 'val', 'est'];
+
+function validate(D) {
+  const err = [], ids = new Set(), mk = new Set((D.meta.metriche || []).map(m => m.k));
+  if (!D.meta.nome) err.push('meta.nome mancante');
+  (D.aziende || []).forEach(a => {
+    if (!a.id || ids.has(a.id)) err.push(`id azienda mancante o doppio: ${a.id}`);
+    ids.add(a.id);
+    Object.entries(a.f || {}).forEach(([k, x]) => {
+      const w = `${a.id}.${k}`;
+      if (!mk.has(k)) err.push(`${w}: metrica non definita in meta.metriche`);
+      if (!Array.isArray(x) || x.length < 3) return err.push(`${w}: serve [valore, stato, nota, url]`);
+      if (!STATI.includes(x[1])) err.push(`${w}: stato "${x[1]}" non valido (${STATI})`);
+      // verificato e dichiarato vengono da una fonte esterna: senza link non si possono controllare
+      if ((x[1] === 'ver' || x[1] === 'dic') && !/^https?:\/\//.test(x[3] || '')) err.push(`${w}: stato ${x[1]} senza url`);
+    });
+  });
+  if (D.meta.azienda && !ids.has(D.meta.azienda)) err.push(`meta.azienda "${D.meta.azienda}" non è in aziende.json`);
+  // fase gruppo e colori per divisione: meta.fase solo "gruppo", aziende[].colore esadecimale, meta.gruppo.societa[].id fra le aziende
+  if (D.meta.fase && D.meta.fase !== 'gruppo') err.push(`meta.fase "${D.meta.fase}" non valida (solo "gruppo")`);
+  (D.aziende || []).forEach(a => { if (a.colore && !/^#[0-9a-f]{3,8}$/i.test(a.colore)) err.push(`${a.id}.colore "${a.colore}" non è un colore #esadecimale`); });
+  ((D.meta.gruppo || {}).societa || []).forEach(x => { if (!ids.has(x.id)) err.push(`meta.gruppo.societa: "${x.id}" non è in aziende.json`); });
+  // file dei moduli: ogni oggetto con "s" è un dato → stato valido, e url se ver/dic
+  const chk = (s, u, w) => {
+    if (!STATI.includes(s)) err.push(`${w}: stato "${s}" non valido`);
+    else if ((s === 'ver' || s === 'dic') && !/^https?:\/\//.test(u || '')) err.push(`${w}: stato ${s} senza url`);
+  };
+  const walk = (o, w) => {
+    if (Array.isArray(o)) return o.forEach((x, i) => walk(x, `${w}[${i}]`));
+    if (!o || typeof o !== 'object') return;
+    if (typeof o.s === 'string') chk(o.s, o.u, w);
+    for (const k in o) walk(o[k], `${w}.${k}`);
+  };
+  for (const k in D) if (!['meta', 'aziende', 'news', 'news_q'].includes(k)) walk(D[k], k);
+  // storico: righe [anno, valore, stato, nota, url]
+  Object.entries(D.storico || {}).forEach(([id, m]) => Object.entries(m).forEach(([k, r]) => r.forEach((x, i) => chk(x[2], x[4], `storico.${id}.${k}[${i}]`))));
+  (D.news.items || []).forEach(n => { if (!/^https?:\/\//.test(n.u || '')) err.push(`notizia senza link: ${n.t}`); });
+  return err;
+}
+
+function build() {
+  const D = {};
+  for (const f of fs.readdirSync(path.join(H, 'data')).filter(f => f.endsWith('.json')))
+    D[f.slice(0, -5)] = JSON.parse(fs.readFileSync(path.join(H, 'data', f), 'utf8'));
+  const nf = path.join(H, 'news.json');
+  D.news = fs.existsSync(nf) ? JSON.parse(fs.readFileSync(nf, 'utf8')) : { at: null, items: [] };
+  // analisi firmate, controllate sui dati come sono su disco (prima di incorporare immagini) (data/_dal.json, scripts/deps.js): se i dati da cui sono nate sono cambiati, la pagina lo dice sulla sezione
+  D._stale = require('./scripts/deps.js').stale(k => D[k]);
+  for (const [k, x] of Object.entries(D._stale)) console.warn(`DA RILEGGERE ${k} (scritto il ${x.at}): cambiati ${x.fonti.join(', ')}`);
+  // logo del cliente (meta.logo = file locale): incorporato in base64, la pagina resta un solo file
+  const lf = D.meta.logo && path.join(H, D.meta.logo);
+  if (lf && fs.existsSync(lf)) D.meta.logoData = `data:image/${path.extname(lf).slice(1).replace('jpg', 'jpeg').replace('svg', 'svg+xml')};base64,` + fs.readFileSync(lf).toString('base64');
+  // loghi dei marchi (brand.json → logos/<id>.png) dentro la pagina, che resta un solo file
+  for (const b of Object.values((D.brand || {}).az || {})) { const f = b.logo && b.logo.f && path.join(H, b.logo.f); if (f && fs.existsSync(f)) b.logo.data = 'data:image/png;base64,' + fs.readFileSync(f).toString('base64'); }
+  // i 10 loghi mondiali di riferimento per il Global logo index (logos/top)
+  const td = path.join(H, 'logos', 'top'); if (D.brandx && fs.existsSync(td)) { D.toplogos = {}; for (const f of fs.readdirSync(td).filter(f => f.endsWith('.png'))) D.toplogos[f.slice(0, -4)] = 'data:image/png;base64,' + fs.readFileSync(path.join(td, f)).toString('base64'); }
+  // foto delle bottiglie (pack.json → logos/pack/) dentro la pagina
+  for (const x of ((D.pack || {}).items || [])) { const f = x.img && path.join(H, x.img); if (f && fs.existsSync(f)) x.data = `data:image/${path.extname(f).slice(1).replace('jpg', 'jpeg')};base64,` + fs.readFileSync(f).toString('base64'); }
+  // classifiche sito e social: schermate, foto della home intera, copertine dei post e loghi dei riferimenti mondiali dentro la pagina
+  const b64 = f => { const q = f && path.join(H, f); return q && fs.existsSync(q) ? `data:image/${path.extname(q).slice(1).replace('jpg', 'jpeg')};base64,` + fs.readFileSync(q).toString('base64') : null; };
+  for (const X of [D.sito, D.feed].filter(Boolean)) {
+    for (const x of X.items || []) { x.data = b64(x.img); x.fullData = b64(x.full); (x.post || []).forEach(p => p.data = b64(p.img)); }
+    for (const t of (X.mondo || {}).top || []) t.data = b64(t.lg && `logos/ref/${t.lg}.png`);
+  }
+  // foto per l'apertura a tutto schermo dell'interfaccia v2 (facoltativa): brand/hero.jpg
+  const hf = path.join(H, 'brand', 'hero.jpg'); if (fs.existsSync(hf)) D.meta.heroData = 'data:image/jpeg;base64,' + fs.readFileSync(hf).toString('base64');
+  const err = validate(D);
+  if (err.length) { console.error('Dati non validi:\n- ' + err.join('\n- ')); process.exit(1); }
+  // organigramma: org.json (radice, da scripts/org.py) cifrato con la password in org.pw (AES-256-GCM, chiave PBKDF2). Senza org.pw non entra nella pagina. org.json e org.pw non si pubblicano mai
+  const opw = path.join(H, 'org.pw'), ojf = path.join(H, 'org.json');
+  if (fs.existsSync(opw) && fs.existsSync(ojf)) { const c = require('crypto'), pw = fs.readFileSync(opw, 'utf8').trim(), s = c.randomBytes(16), iv = c.randomBytes(12), n = 200000, k = c.pbkdf2Sync(pw, s, n, 32, 'sha256'), ci = c.createCipheriv('aes-256-gcm', k, iv), ct = Buffer.concat([ci.update(fs.readFileSync(ojf, 'utf8')), ci.final(), ci.getAuthTag()]); D.lk2 = { s: s.toString('base64'), iv: iv.toString('base64'), n, c: ct.toString('base64') }; }
+  const js = JSON.stringify(D).replace(/</g, '\\u003c');
+  const out = fs.readFileSync(path.join(H, 'tpl.html'), 'utf8').replace('__DATA__', () => js);
+  // favicon (brand/icon.svg incorporata) e anteprima social (brand/og.png + meta.url): tag statici, i social non eseguono JS
+  const M = D.meta, ea = v => String(v).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;'), bf = f => fs.existsSync(path.join(H, 'brand', f));
+  const tit = ea(M.nome + (M.sottotitolo ? ' · ' + M.sottotitolo : '')), ver = (M.aggiornato || '').replace(/-/g, '');
+  const head = `<title>${tit}</title>` + (bf('icon.svg') ? `\n<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,${fs.readFileSync(path.join(H, 'brand/icon.svg')).toString('base64')}">` : '') +
+    (bf('favicon-32.png') ? `<link rel="icon" type="image/png" sizes="32x32" href="brand/favicon-32.png">` : '') + (bf('apple-touch-icon.png') ? `<link rel="apple-touch-icon" href="brand/apple-touch-icon.png">` : '') +
+    (M.url && bf('og.png') ? `\n<meta property="og:type" content="website"><meta property="og:title" content="${tit}"><meta property="og:description" content="${ea(M.descrizione || '')}"><meta name="description" content="${ea(M.descrizione || '')}"><meta property="og:url" content="${ea(M.url)}"><meta property="og:image" content="${ea(M.url)}brand/og.png?v=${ver}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="${ea(M.url)}brand/og.png?v=${ver}">` : '');
+  // interfaccia v2 (modello di riferimento): se c'è la cartella v2/ si incorporano font, stile e script
+  const v2 = f => path.join(H, 'v2', f), V2 = fs.existsSync(v2('v2.css')) && fs.existsSync(v2('v2.js'));
+  let page = out.replace('<title>Intelligence</title>', () => head);
+  if (V2) page = page.replace('</style></head>', () => fs.readFileSync(v2('v2.css'), 'utf8') + '</style><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@300..700&display=swap" rel="stylesheet"></head>')
+    .replace(/<\/body><\/html>\s*$/, () => '<script>' + fs.readFileSync(v2('v2.js'), 'utf8') + '</script></body></html>');
+  fs.writeFileSync(path.join(H, 'index.html'), page);
+  console.log('index.html', Buffer.byteLength(page), 'byte,' + (V2 ? ' interfaccia v2,' : ''), D.aziende.length, 'aziende,', D.news.items.length, 'notizie');
+}
+
+if (require.main === module) build();
+module.exports = { validate };

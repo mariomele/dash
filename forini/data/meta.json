@@ -1,0 +1,107 @@
+{
+ "nome": "Forini · ACTON Intelligence",
+ "sottotitolo": "carburanti, Fuel Card, lubrificanti ed energia nel centro Italia",
+ "azienda": "forini",
+ "colore": "#EA2429",
+ "aggiornato": "2026-11-28",
+ "nota": "Bozza del 28/11/2026, solo fonti pubbliche: nessun documento interno ancora fornito.",
+ "metriche": [
+  {
+   "k": "rev",
+   "l": "Ricavi",
+   "u": "M€",
+   "dec": 1
+  },
+  {
+   "k": "ut",
+   "l": "Utile netto",
+   "u": "M€",
+   "dec": 2
+  },
+  {
+   "k": "emp",
+   "l": "Dipendenti",
+   "u": ""
+  },
+  {
+   "k": "pv",
+   "l": "Stazioni di servizio",
+   "u": ""
+  },
+  {
+   "k": "reg",
+   "l": "Regioni servite",
+   "u": ""
+  },
+  {
+   "k": "ig",
+   "l": "Follower Instagram",
+   "u": ""
+  },
+  {
+   "k": "li",
+   "l": "Follower LinkedIn",
+   "u": ""
+  },
+  {
+   "k": "pre",
+   "l": "Pressione competitiva",
+   "u": "/100",
+   "nota": "valutazione calcolata: offerta in comune, scala, segnali"
+  }
+ ],
+ "heroAlt": "Foto storica dall'archivio Forini (forini.com, sezione La storia): dal 1933 a Bastia Umbra",
+ "logo": "brand/logo.svg",
+ "settore": "Distribuzione carburanti (rete di stazioni, Fuel Card, lubrificanti) e vendita di energia (luce, gas, fibra, fotovoltaico) nel centro Italia; misto B2C e B2B",
+ "lessico": {
+  "dsc": "di branding, comunicazione, reti carburanti e vendita di energia, e dei report sul mercato di carburanti ed energia",
+  "cons": "Per automobilisti e famiglie",
+  "trade": "Per partite IVA, flotte e gestori",
+  "vpTit": "prezzi, transizione energetica e territorio",
+  "scaffale": "In stazione e sull'insegna",
+  "temi": {
+   "prodotto": "Prodotto",
+   "promo": "Promo",
+   "sport": "Sport e motori",
+   "territorio": "Territorio",
+   "energia": "Energia e sostenibilità",
+   "servizio": "Servizio",
+   "evento": "Evento",
+   "valori": "Valori",
+   "persone": "Persone",
+   "altro": "Altro"
+  },
+  "temiVoce": [
+   [
+    "prezz|accise|caro|benzin|carburant",
+    "Prezzi dei carburanti",
+    "#ef6f6c"
+   ],
+   [
+    "transizion|rinnovabil|sostenib|clima|emission|green",
+    "Transizione energetica",
+    "#5fd08a"
+   ],
+   [
+    "bollett|luce|gas|energia|cost",
+    "Costi dell'energia",
+    "#f5a524"
+   ],
+   [
+    "territori|comunit|sociale|scuol|sport|solidar",
+    "Territorio e società",
+    "#5b9cf0"
+   ],
+   [
+    "lavor|contratt|sicurezz",
+    "Lavoro",
+    "#c678dd"
+   ],
+   [
+    "associaz|federaz|confindustria|assopetroli|categoria",
+    "Rappresentanza",
+    "#8796a8"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "archetipo": "Automotive, mobilità, reti di punti vendita (gruppo multi-divisione)",
+ "frase": "Gruppo campano della mobilità con tre mestieri: carburanti ed energia (Petroli), concessionaria multimarca con officina (Auto), noleggio breve e lungo termine (Rent). Vende ad automobilisti, aziende, flotte e partite IVA del Sud: contano la rete sul territorio, le recensioni Google, le ricerche locali e la capacità di vendere insieme i tre servizi.",
+ "leve": [
+  "Rete e punti sul territorio",
+  "Reputazione locale e Google",
+  "Vendite incrociate fra divisioni",
+  "Marca di gruppo"
+ ],
+ "ricognizione": {
+  "compra": "misto: automobilisti, aziende, flotte, partite IVA, enti",
+  "sceglie": "stazione, concessionaria, portali di noleggio, Google",
+  "vendita": "da scontrino (carburante) a contratto pluriennale (noleggio lungo termine)",
+  "cosa": "prodotto e servizio",
+  "dove": "locale e nazionale (rete Rent)",
+  "motore": "rete, servizio e territorio",
+  "regolata": "sì: gare pubbliche, rete carburanti, mandati delle case auto",
+  "gruppo": "sì: tre divisioni sotto una holding"
+ },
+ "moduli": {
+  "off": [
+   {
+    "id": "pack",
+    "perche": "nessun prodotto confezionato venduto in negozio"
+   },
+   {
+    "id": "export",
+    "perche": "vendite in Italia: l'export di un paese non dice nulla sul gruppo"
+   },
+   {
+    "id": "fdclass",
+    "perche": "feed LinkedIn non raccolto in questa fase"
+   }
+  ]
+ },
+ "risorse": [
+  "rev",
+  "emp",
+  "pv",
+  "maps",
+  "ig",
+  "etv",
+  "ads"
+ ],
+ "lenti": [
+  "forza",
+  "anni",
+  "visib",
+  "moto",
+  "minaccia"
+ ],
+ "pesi": {
+  "rev": 2,
+  "pv": 1.5,
+  "maps": 1.5,
+  "etv": 1.5,
+  "ig": 1,
+  "fb": 1,
+  "li": 0.5,
+  "ads": 0.5
+ },
+ "inv": [],
+ "domande": [
+  {
+   "q": "Quale divisione pesa di più sui ricavi e sull'utile?",
+   "sez": "gruppo"
+  },
+  {
+   "q": "Dove siamo sul territorio e dove la rete è scoperta?",
+   "sez": "stabilimenti"
+  },
+  {
+   "q": "Cosa dicono di noi le recensioni Google, sede per sede?",
+   "sez": "reputazione"
+  },
+  {
+   "q": "Cosa possiamo vendere insieme fra Petroli, Auto e Rent?",
+   "sez": "asales"
+  },
+  {
+   "q": "Il marchio di gruppo si riconosce?",
+   "sez": "amarca"
+  }
+ ],
+ "consiglieri": [
+  {
+   "nome": "Responsabile della rete",
+   "ruolo": "punti, sedi, copertura",
+   "k": [
+    "pv",
+    "sedi",
+    "maps"
+   ],
+   "sez": "stabilimenti"
+  },
+  {
+   "nome": "Responsabile flotte e aziende",
+   "ruolo": "clienti business, noleggio, carte carburante",
+   "k": [
+    "rev",
+    "pv",
+    "etv"
+   ],
+   "sez": "asales"
+  },
+  {
+   "nome": "Marketing locale",
+   "ruolo": "social, Google, recensioni",
+   "k": [
+    "ig",
+    "fb",
+    "maps",
+    "etv",
+    "ads"
+   ],
+   "sez": "amkt"
+  },
+  {
+   "nome": "Direttore finanziario",
+   "ruolo": "ricavi, utile, crescita",
+   "k": [
+    "rev",
+    "emp"
+   ],
+   "sez": "gruppo"
+  }
+ ],
+ "costi": {
+  "maps": "risposte alle recensioni e richiesta di recensioni dopo ogni vendita o noleggio",
+  "etv": "pagine per città e per servizio sul sito",
+  "ig": "2-3 post a settimana per divisione",
+  "ads": "campagne locali su Meta e Google"
+ },
+ "vietate": [
+  "GDO",
+  "ricetta",
+  "bottiglia",
+  "enoteca",
+  "category manager",
+  "packaging designer"
+ ],
+ "scadenze": {
+  "social": 21,
+  "posts": 21,
+  "ads": 14,
+  "seo": 60,
+  "seo2": 60,
+  "reput": 45,
+  "llmm": 60,
+  "geo2": 60,
+  "trends": 30,
+  "osint": 30
+ },
+ "tema": {
+  "terra": "#1c1d22",
+  "bordo": "#3a3c46",
+  "acqua": "#0b0c10",
+  "luce": "#ffd0e4"
+ },
+ "s": "val"
+}

@@ -1,103 +1,168 @@
 {
-  "nome": "Gruppo Galdieri Intelligence",
-  "sottotitolo": "analisi del gruppo: Auto, Petroli, Rent",
-  "azienda": "petroli",
-  "colore": "#E63383",
-  "logo": "logos/gruppo.svg",
-  "aggiornato": "2026-11-28",
-  "nota": "Prima fase (28/11/2026): analisi interna del gruppo per divisione, solo fonti pubbliche. I concorrenti entreranno in un secondo momento, divisione per divisione.",
-  "metriche": [
-    {
-      "k": "rev",
-      "l": "Ricavi",
-      "u": "M€",
-      "dec": 1
-    },
-    {
-      "k": "ut",
-      "l": "Utile netto",
-      "u": "M€",
-      "dec": 2
-    },
-    {
-      "k": "emp",
-      "l": "Dipendenti",
-      "u": ""
-    },
-    {
-      "k": "pv",
-      "l": "Punti sul territorio",
-      "u": "",
-      "nota": "stazioni di servizio (Petroli), sedi e officine (Auto), point (Rent)"
-    },
-    {
-      "k": "ig",
-      "l": "Follower Instagram",
-      "u": ""
-    },
-    {
-      "k": "fb",
-      "l": "Follower Facebook",
-      "u": ""
-    },
-    {
-      "k": "li",
-      "l": "Follower LinkedIn",
-      "u": ""
-    },
-    {
-      "k": "gr",
-      "l": "Voto Google",
-      "u": "/5",
-      "dec": 1
-    }
-  ],
-  "settore": "Gruppo multi-divisione: distribuzione carburanti ed energia (rete stradale e autostradale, ingrosso, B2C e B2B), concessionaria auto multimarca Stellantis e cinesi con officina, noleggio a lungo e breve termine (privati, P.IVA, flotte)",
-  "lessico": {
-    "dsc": "di branding, comunicazione, retail automotive, reti carburanti e noleggio",
-    "cons": "Per automobilisti e famiglie",
-    "trade": "Per aziende, flotte e partite IVA",
-    "vpTit": "territorio, mobilità sostenibile e rappresentanza",
-    "vpNota": "Pesa di più per le aziende e le flotte perché le scelte su energia, mobilità e territorio contano nei rapporti con enti, case auto e grandi clienti.",
-    "scaffale": "In stazione e in concessionaria",
-    "temi": {
-      "prodotto": "Auto e prodotto",
-      "servizio": "Servizio",
-      "promo": "Promo",
-      "evento": "Evento",
-      "territorio": "Territorio",
-      "valori": "Valori",
-      "persone": "Persone",
-      "stagionale": "Stagionale",
-      "collab": "Collaborazione",
-      "altro": "Altro"
-    },
-    "temiVoce": [
-      [
-        "elettric|ricarica|gnl|lng|metano|idrogen|mobilit|transizion|sostenib|emission|green",
-        "Mobilità sostenibile",
-        "#f5a524"
-      ],
-      [
-        "sport|prevenz|benefic|solidar|camminata|ospedal|scuol",
-        "Sport e solidarietà",
-        "#5b9cf0"
-      ],
-      [
-        "associaz|federauto|assopetroli|aniasa|confindustria|camera di commercio|categoria|audizion",
-        "Rappresentanza",
-        "#ef6f6c"
-      ],
-      [
-        "parità|genere|donne|welfare|formaz|lavor|assunz|legalit",
-        "Persone e lavoro",
-        "#5fd08a"
-      ],
-      [
-        "territor|salern|campan|irpin|libro|storia|famiglia",
-        "Territorio e storia",
-        "#c678dd"
-      ]
-    ]
+ "nome": "Gruppo Galdieri Intelligence",
+ "sottotitolo": "analisi del gruppo: Auto, Petroli, Rent",
+ "azienda": "petroli",
+ "colore": "#E63383",
+ "logo": "logos/gruppo.svg",
+ "aggiornato": "2026-11-28",
+ "nota": "Prima fase (28/11/2026): analisi interna del gruppo per divisione, solo fonti pubbliche. I concorrenti entreranno in un secondo momento, divisione per divisione.",
+ "metriche": [
+  {
+   "k": "rev",
+   "l": "Ricavi",
+   "u": "M€",
+   "dec": 1
+  },
+  {
+   "k": "ut",
+   "l": "Utile netto",
+   "u": "M€",
+   "dec": 2
+  },
+  {
+   "k": "emp",
+   "l": "Dipendenti",
+   "u": ""
+  },
+  {
+   "k": "pv",
+   "l": "Punti sul territorio",
+   "u": "",
+   "nota": "stazioni di servizio (Petroli), sedi e officine (Auto), point (Rent)"
+  },
+  {
+   "k": "ig",
+   "l": "Follower Instagram",
+   "u": ""
+  },
+  {
+   "k": "fb",
+   "l": "Follower Facebook",
+   "u": ""
+  },
+  {
+   "k": "li",
+   "l": "Follower LinkedIn",
+   "u": ""
+  },
+  {
+   "k": "gr",
+   "l": "Voto Google",
+   "u": "/5",
+   "dec": 1
   }
+ ],
+ "settore": "Gruppo multi-divisione: distribuzione carburanti ed energia (rete stradale e autostradale, ingrosso, B2C e B2B), concessionaria auto multimarca Stellantis e cinesi con officina, noleggio a lungo e breve termine (privati, P.IVA, flotte)",
+ "lessico": {
+  "dsc": "di branding, comunicazione, retail automotive, reti carburanti e noleggio",
+  "cons": "Per automobilisti e famiglie",
+  "trade": "Per aziende, flotte e partite IVA",
+  "vpTit": "territorio, mobilità sostenibile e rappresentanza",
+  "vpNota": "Pesa di più per le aziende e le flotte perché le scelte su energia, mobilità e territorio contano nei rapporti con enti, case auto e grandi clienti.",
+  "scaffale": "In stazione e in concessionaria",
+  "temi": {
+   "prodotto": "Auto e prodotto",
+   "servizio": "Servizio",
+   "promo": "Promo",
+   "evento": "Evento",
+   "territorio": "Territorio",
+   "valori": "Valori",
+   "persone": "Persone",
+   "stagionale": "Stagionale",
+   "collab": "Collaborazione",
+   "altro": "Altro"
+  },
+  "temiVoce": [
+   [
+    "elettric|ricarica|gnl|lng|metano|idrogen|mobilit|transizion|sostenib|emission|green",
+    "Mobilità sostenibile",
+    "#f5a524"
+   ],
+   [
+    "sport|prevenz|benefic|solidar|camminata|ospedal|scuol",
+    "Sport e solidarietà",
+    "#5b9cf0"
+   ],
+   [
+    "associaz|federauto|assopetroli|aniasa|confindustria|camera di commercio|categoria|audizion",
+    "Rappresentanza",
+    "#ef6f6c"
+   ],
+   [
+    "parità|genere|donne|welfare|formaz|lavor|assunz|legalit",
+    "Persone e lavoro",
+    "#5fd08a"
+   ],
+   [
+    "territor|salern|campan|irpin|libro|storia|famiglia",
+    "Territorio e storia",
+    "#c678dd"
+   ]
+  ]
+ },
+ "fase": "gruppo",
+ "date": {
+  "aziende": "2026-11-28",
+  "storico": "2026-11-28",
+  "sedi": "2026-11-28",
+  "geo": "2026-11-28",
+  "gamma": "2026-11-28",
+  "social": "2026-11-28",
+  "posts": "2026-11-28",
+  "ads": "2026-11-28",
+  "seo": "2026-11-28",
+  "seo2": "2026-11-28",
+  "reput": "2026-11-28",
+  "geo2": "2026-11-28",
+  "llmm": "2026-11-28",
+  "trends": "2026-11-28",
+  "osint": "2026-11-28",
+  "brand": "2026-11-28",
+  "brandx": "2026-11-28",
+  "sito": "2026-11-28",
+  "sales": "2026-11-28",
+  "mkt": "2026-11-28",
+  "lenti": "2026-11-28",
+  "pov": "2026-11-28",
+  "home": "2026-11-28"
+ },
+ "gruppo": {
+  "nome": "Gruppo Galdieri",
+  "ricerca": "Galdieri (generico)",
+  "fonte": {
+   "u": "https://www.galdierigroup.it/privacy-policy/",
+   "t": "privacy policy del gruppo",
+   "d": "2026-11-28"
+  },
+  "holding": {
+   "nome": "Galdieri Holding Real Estate S.r.l.",
+   "nota": "P.IVA 06353850651, immobiliare; direzione e coordinamento del gruppo. Numeri non letti, fuori dalla dashboard."
+  },
+  "societa": [
+   {
+    "id": "petroli",
+    "ruolo": "Divisione Petroli · capogruppo storica",
+    "nota": "C. Galdieri & Figli S.p.A., marchi Energy e Cleaning"
+   },
+   {
+    "id": "auto",
+    "ruolo": "Divisione Auto",
+    "nota": "Galdieri Auto S.r.l., marchio Car Service; titolare anche del marchio e dei siti di Galdieri Rent"
+   },
+   {
+    "id": "rent",
+    "ruolo": "Divisione Rent",
+    "nota": "flotta e contratti in Sistem Rental S.r.l. (P.IVA 02406230652, Bolzano); marchio di Galdieri Auto S.r.l."
+   }
+  ],
+  "altre": [
+   {
+    "nome": "Ground S.r.l.",
+    "ruolo": "noleggio auto, Bolzano",
+    "nota": "P.IVA 03154390219; nella privacy policy del gruppo, ruolo da verificare; ricavi 30,52 M€ non sommati",
+    "verifica": true
+   }
+  ],
+  "nota": "Numeri non consolidati: le vendite fra divisioni (per esempio auto vendute a Rent) non si possono togliere."
+ }
 }

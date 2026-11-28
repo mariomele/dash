@@ -78,7 +78,8 @@
     "IP Baronissi Ovest · Racccordo autostradale SA-AV E841 - KM 6+048, 84081 Baronissi SA, 2945 recensioni Google, letto il 28/11/2026 (scheda con più recensioni della divisione)",
     "https://www.google.com/maps?cid=17799984214230809243&hl=en&gl=IT"
    ]
-  }
+  },
+  "colore": "#E63383"
  },
  {
   "id": "auto",
@@ -152,7 +153,8 @@
     "Galdieri Auto Fisciano · SR88 km 10+400 N*1 84084, di Lancusi SA, 1258 recensioni Google, letto il 28/11/2026 (scheda con più recensioni della divisione)",
     "https://www.google.com/maps?cid=16772916565175012766&hl=en&gl=IT"
    ]
-  }
+  },
+  "colore": "#FF6C28"
  },
  {
   "id": "rent",
@@ -220,6 +222,7 @@
     "Galdieri Rent · S.S. 88, km 10,400, 84085 Fisciano SA, 712 recensioni Google, letto il 28/11/2026 (scheda con più recensioni della divisione)",
     "https://www.google.com/maps?cid=3590723305753663719&hl=en&gl=IT"
    ]
-  }
+  },
+  "colore": "#4C95D0"
  }
 ]

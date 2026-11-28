@@ -19,6 +19,10 @@ function validate(D) {
     });
   });
   if (D.meta.azienda && !ids.has(D.meta.azienda)) err.push(`meta.azienda "${D.meta.azienda}" non è in aziende.json`);
+  // fase gruppo e colori per divisione: meta.fase solo "gruppo", aziende[].colore esadecimale, meta.gruppo.societa[].id fra le aziende
+  if (D.meta.fase && D.meta.fase !== 'gruppo') err.push(`meta.fase "${D.meta.fase}" non valida (solo "gruppo")`);
+  (D.aziende || []).forEach(a => { if (a.colore && !/^#[0-9a-f]{3,8}$/i.test(a.colore)) err.push(`${a.id}.colore "${a.colore}" non è un colore #esadecimale`); });
+  ((D.meta.gruppo || {}).societa || []).forEach(x => { if (!ids.has(x.id)) err.push(`meta.gruppo.societa: "${x.id}" non è in aziende.json`); });
   // file dei moduli: ogni oggetto con "s" è un dato → stato valido, e url se ver/dic
   const chk = (s, u, w) => {
     if (!STATI.includes(s)) err.push(`${w}: stato "${s}" non valido`);
@@ -30,9 +34,20 @@ function validate(D) {
     if (typeof o.s === 'string') chk(o.s, o.u, w);
     for (const k in o) walk(o[k], `${w}.${k}`);
   };
-  for (const k in D) if (!['meta', 'aziende', 'news', 'news_q'].includes(k)) walk(D[k], k);
+  for (const k in D) if (!['meta', 'aziende', 'news', 'news_q', '_diff'].includes(k)) walk(D[k], k);
   // storico: righe [anno, valore, stato, nota, url]
   Object.entries(D.storico || {}).forEach(([id, m]) => Object.entries(m).forEach(([k, r]) => r.forEach((x, i) => chk(x[2], x[4], `storico.${id}.${k}[${i}]`))));
+  // profilo del settore (Fase 0): forma dei campi e parole di altri settori nei testi scritti dagli agenti
+  const P = D.profilo;
+  if (P) {
+    const arr = (k, f) => { if (P[k] != null && (!Array.isArray(P[k]) || !P[k].every(f))) err.push(`profilo.${k}: forma non valida`); };
+    arr('risorse', x => typeof x === 'string' || (x && x.k)); arr('lenti', x => typeof x === 'string'); arr('inv', x => typeof x === 'string'); arr('vietate', x => typeof x === 'string');
+    arr('misure', m => m && m.k && m.l && typeof m.da === 'string');
+    if (P.moduli && P.moduli.off && !P.moduli.off.every(x => typeof x === 'string' || (x && x.id))) err.push('profilo.moduli.off: serve [{id, perche}]');
+    if (P.pesi && !Object.values(P.pesi).every(v => typeof v === 'number' && v >= 0)) err.push('profilo.pesi: servono numeri ≥ 0');
+    const testo = JSON.stringify(Object.fromEntries(Object.entries(D).filter(([k]) => !['profilo', 'news', 'world', 'news_q'].includes(k))));
+    (P.vietate || []).forEach(w => { const m = testo.match(new RegExp('[^\\w]' + w + '[^\\w]', 'i')); if (m) err.push(`parola di un altro settore nei dati: «${w}» (…${testo.slice(Math.max(0, m.index - 40), m.index + 40)}…)`); });
+  }
   (D.news.items || []).forEach(n => { if (!/^https?:\/\//.test(n.u || '')) err.push(`notizia senza link: ${n.t}`); });
   return err;
 }
@@ -63,13 +78,22 @@ function build() {
   }
   // foto per l'apertura a tutto schermo dell'interfaccia v2 (facoltativa): brand/hero.jpg
   const hf = path.join(H, 'brand', 'hero.jpg'); if (fs.existsSync(hf)) D.meta.heroData = 'data:image/jpeg;base64,' + fs.readFileSync(hf).toString('base64');
+  // variazioni: confronto con la fotografia dei numeri di almeno 6 giorni fa (data/_snap.json, rifatta ogni settimana); |Δ| ≥ 5% → avviso nella Partita
+  const sf = path.join(H, 'data', '_snap.json'), oggi = new Date().toISOString().slice(0, 10), now = {};
+  (D.aziende || []).forEach(a => Object.entries(a.f || {}).forEach(([k, x]) => { if (typeof x[0] === 'number') now[a.id + '|' + k] = x[0]; }));
+  Object.entries((D.social || {}).az || {}).forEach(([id, z]) => ['ig', 'fb', 'tt'].forEach(c => { if (z && z[c] && typeof z[c].fol === 'number') now[id + '|' + c] = z[c].fol; }));
+  const old = D._snap; delete D._snap;
+  D._diff = old ? Object.entries(now).filter(([k, v]) => old.v[k] && Math.abs(v / old.v[k] - 1) >= .05).map(([k, v]) => { const [id, m] = k.split('|'); return { id, k: m, da: old.v[k], a: v, d: oggi }; }) : [];
+  if (!old || (Date.now() - new Date(old.at)) / 864e5 >= 6) fs.writeFileSync(sf, JSON.stringify({ at: oggi, v: now }));
   const err = validate(D);
   if (err.length) { console.error('Dati non validi:\n- ' + err.join('\n- ')); process.exit(1); }
   // organigramma: org.json (radice, da scripts/org.py) cifrato con la password in org.pw (AES-256-GCM, chiave PBKDF2). Senza org.pw non entra nella pagina. org.json e org.pw non si pubblicano mai
   const opw = path.join(H, 'org.pw'), ojf = path.join(H, 'org.json');
   if (fs.existsSync(opw) && fs.existsSync(ojf)) { const c = require('crypto'), pw = fs.readFileSync(opw, 'utf8').trim(), s = c.randomBytes(16), iv = c.randomBytes(12), n = 200000, k = c.pbkdf2Sync(pw, s, n, 32, 'sha256'), ci = c.createCipheriv('aes-256-gcm', k, iv), ct = Buffer.concat([ci.update(fs.readFileSync(ojf, 'utf8')), ci.final(), ci.getAuthTag()]); D.lk2 = { s: s.toString('base64'), iv: iv.toString('base64'), n, c: ct.toString('base64') }; }
   const js = JSON.stringify(D).replace(/</g, '\\u003c');
-  const out = fs.readFileSync(path.join(H, 'tpl.html'), 'utf8').replace('__DATA__', () => js);
+  // sezioni in file separati (sezioni/<nome>.js e .css): unite nel template, la pagina resta un solo file
+  const SD = path.join(H, 'sezioni'), part = e => fs.existsSync(SD) ? fs.readdirSync(SD).filter(f => f.endsWith(e)).sort().map(f => `/* sezioni/${f} */\n` + fs.readFileSync(path.join(SD, f), 'utf8')).join('\n') : '';
+  const out = fs.readFileSync(path.join(H, 'tpl.html'), 'utf8').replace('/*__SEZIONI_CSS__*/', () => part('.css')).replace('/*__SEZIONI_JS__*/', () => part('.js')).replace('__DATA__', () => js);
   // favicon (brand/icon.svg incorporata) e anteprima social (brand/og.png + meta.url): tag statici, i social non eseguono JS
   const M = D.meta, ea = v => String(v).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;'), bf = f => fs.existsSync(path.join(H, 'brand', f));
   const tit = ea(M.nome + (M.sottotitolo ? ' · ' + M.sottotitolo : '')), ver = (M.aggiornato || '').replace(/-/g, '');
@@ -79,8 +103,11 @@ function build() {
   // interfaccia v2 (modello di riferimento): se c'è la cartella v2/ si incorporano font, stile e script
   const v2 = f => path.join(H, 'v2', f), V2 = fs.existsSync(v2('v2.css')) && fs.existsSync(v2('v2.js'));
   let page = out.replace('<title>Intelligence</title>', () => head);
-  if (V2) page = page.replace('</style></head>', () => fs.readFileSync(v2('v2.css'), 'utf8') + '</style><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@300..700&display=swap" rel="stylesheet"></head>')
+  if (V2) page = page.replace('</style></head>', () => fs.readFileSync(v2('v2.css'), 'utf8') + (fs.existsSync(v2('chiaro.css')) ? fs.readFileSync(v2('chiaro.css'), 'utf8') : '') + '</style><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@300..700&display=swap" rel="stylesheet"></head>')
     .replace(/<\/body><\/html>\s*$/, () => '<script>' + fs.readFileSync(v2('v2.js'), 'utf8') + '</script></body></html>');
+  // three.js (MIT) per il plastico e il campus 3D: incorporato, la pagina funziona anche senza rete
+  const TJ = path.join(H, 'vendor', 'three.bundle.js');
+  if (fs.existsSync(TJ)) page = page.replace('</head>', () => '<script>' + fs.readFileSync(TJ, 'utf8') + '</script></head>');
   fs.writeFileSync(path.join(H, 'index.html'), page);
   console.log('index.html', Buffer.byteLength(page), 'byte,' + (V2 ? ' interfaccia v2,' : ''), D.aziende.length, 'aziende,', D.news.items.length, 'notizie');
 }

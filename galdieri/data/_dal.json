@@ -8,7 +8,7 @@
  "gamma": {
   "at": "2026-11-28",
   "fonti": {
-   "aziende": "207ba90a15"
+   "aziende": "0fc41b674e"
   }
  },
  "brandx": {
@@ -27,7 +27,7 @@
  "pov": {
   "at": "2026-11-28",
   "fonti": {
-   "aziende": "207ba90a15",
+   "aziende": "0fc41b674e",
    "storico": "7ed351872f",
    "osint": "ad5e393398",
    "gamma": "440a463631",
@@ -49,13 +49,13 @@
    "brand": "fe40086b72",
    "brandx": "21f93339d2",
    "sito": "f28bc56e89",
-   "aziende": "207ba90a15"
+   "aziende": "0fc41b674e"
   }
  },
  "mkt": {
   "at": "2026-11-28",
   "fonti": {
-   "aziende": "207ba90a15",
+   "aziende": "0fc41b674e",
    "brand": "fe40086b72",
    "brandx": "21f93339d2",
    "sito": "f28bc56e89",
@@ -75,7 +75,7 @@
  "sales": {
   "at": "2026-11-28",
   "fonti": {
-   "aziende": "207ba90a15",
+   "aziende": "0fc41b674e",
    "storico": "7ed351872f",
    "gamma": "440a463631",
    "sedi": "96b8a6a85e",
@@ -95,7 +95,7 @@
  "home": {
   "at": "2026-11-28",
   "fonti": {
-   "aziende": "207ba90a15",
+   "aziende": "0fc41b674e",
    "storico": "7ed351872f",
    "gamma": "440a463631",
    "sedi": "96b8a6a85e",

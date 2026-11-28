@@ -414,6 +414,7 @@ tr.subr td{font-size:12px;color:var(--mut)}tr.subr td:first-child{padding-left:1
 .tkd{display:contents}@media(prefers-reduced-motion:reduce){.tkd{display:none}}
 .pdvg{margin-top:14px}.pdvg>summary{cursor:pointer;font-weight:600;padding:4px 0}.pdvg[open]>summary{margin-bottom:12px}.pvgr summary{cursor:pointer}
 @media (max-width:620px){.hmh .hmt{font-size:15px}.hmn b{font-size:17px}#home .kpis{grid-template-columns:1fr 1fr}#home .kpis>.kpi{padding:12px}#home .kpi b{font-size:22px}}
+/*__SEZIONI_CSS__*/
 </style></head><body>
 <div class="bar"><div class="wrap">
   <div class="r1"><a class="logo" href="#"><span id="lgw"></span><i class="lgt"><b id="lg1"></b><span id="lg2"></span></i></a><nav class="tabs" id="areas"></nav><input id="q" type="search" placeholder="Cerca azienda" aria-label="Cerca azienda"></div>
@@ -436,20 +437,24 @@ const LX=Object.assign({dsc:'di branding, comunicazione e del settore',cons:'Per
  temiVoce:[['lavor|contratt|sicurezza|assunz|legalit','Lavoro e legalità','#5fd08a'],['energia|ambient|sostenib|clima|emission|green|transizion','Ambiente ed energia','#f5a524'],['territor|comunit|solidar|sport|scuol|sanit|prevenz|benefic','Territorio e comunità','#5b9cf0'],['trasparen|etic|tracci','Trasparenza','#c678dd'],['associaz|federaz|confindustria|audizion|proposta|norm|categoria','Rappresentanza','#ef6f6c']]},M.lessico||{});
 // stato di ogni dato: [simbolo, nome, da dove viene]. Si aggiunge uno stato solo qui e in STATI di render.js
 const STAT={ver:['●','Verificato','bilancio, registro imprese o rapporto ufficiale'],dic:['◐','Dichiarato','sito o profilo dell\'azienda, testata, stima di terzi'],int:['■','Interno','documento dell\'azienda, non pubblico'],val:['○','Valutazione','giudizio calcolato in automatico, solo indicativo'],est:['◌','Stima','valore stimato, da validare']};
-// fase 1 (analisi interna): tutte le righe sono divisioni del gruppo (gruppo:"noi"), nessun concorrente. W1(testo fase 1, testo normale)
-const F1=A.every(a=>a.gruppo==='noi'),W1=(a,b)=>F1?a:b;
+// fase 1 «analisi del gruppo» (nessun concorrente): meta.fase:"gruppo", oppure da sola quando tutte le aziende hanno gruppo:"noi". W1(testo fase 1, testo normale)
+const F1=M.fase==='gruppo'||(A.length>1&&A.every(a=>a.gruppo==='noi')),W1=(a,b)=>F1?a:b,MG=M.gruppo||{};
 // sezioni pensate per i concorrenti: con 3 divisioni dello stesso gruppo sono vuote o fuorvianti. Per riaccenderle basta toglierle da qui
 const FASE1_HIDE=['classifica','pressione','testa','rete'];
-// colore di ogni divisione (brand Galdieri: fucsia, arancio, azzurro grigio, validato sul fondo scuro); sottomarchi ("auto~ig2", "energy") nel colore della loro divisione
 // fase 1: v2.js scrive «N concorrenti» nel piede della barra laterale a ogni cambio di sezione; qui diventa «N divisioni»
 if(F1){const fx=()=>document.querySelectorAll('.sd-f').forEach(e=>e.textContent=e.textContent.replace(/\d+ concorrenti/,A.length+' divisioni'));addEventListener('load',fx);addEventListener('hashchange',()=>setTimeout(fx))}
-const DVC={petroli:'#E63383',auto:'#FF6C28',rent:'#4C95D0'},DIVOF=Object.fromEntries([...Object.entries((D.brandx||{}).logos||{}).map(([k,v])=>[k,v.div]),...((D.sito||{}).items||[]).map(x=>[x.id,x.div])].filter(x=>x[1]));
-const dvk=id=>{const b=String(id).split('~')[0];return DVC[b]?b:DIVOF[b]},dc=id=>DVC[dvk(id)]||(id===M.azienda?'var(--me)':id==='gruppo'?'var(--mut)':'var(--ac)'),dv=id=>dvk(id)?` style="--dv:${dc(id)}"`:'',sw=id=>dvk(id)?`<i class="dvs" style="background:${dc(id)}"></i>`:'';
+// colore di ogni azienda/divisione: aziende[].colore (validato sul fondo scuro); in fase 1 chi non ce l'ha prende un colore di ripiego, fuori fase 1 resta --me/--ac.
+// sottomarchi ("<id>~ig2", loghi e siti con campo div) nel colore della loro divisione
+const DVP=['#5b9cf0','#f5a524','#3fb950','#c678dd','#2ec4b6','#ef6f6c'],DVC=Object.fromEntries(A.map((a,i)=>[a.id,a.colore||(F1?DVP[i%DVP.length]:null)]).filter(x=>x[1])),DIVOF=Object.fromEntries([...Object.entries((D.brandx||{}).logos||{}).map(([k,v])=>[k,v.div]),...((D.sito||{}).items||[]).map(x=>[x.id,x.div])].filter(x=>x[1]));
+const dvk=id=>{const b=String(id).split('~')[0];return DVC[b]?b:DIVOF[b]},dc=id=>DVC[dvk(id)]||(id===ME?'var(--me)':id==='gruppo'?'var(--mut)':'var(--ac)'),dv=id=>dvk(id)?` style="--dv:${dc(id)}"`:'',sw=id=>dvk(id)?`<i class="dvs" style="background:${dc(id)}"></i>`:'';
+// profilo dell'azienda (data/profilo.json, Fase 0 · Ricognizione): archetipo, sezioni spente per il settore, risorse, lenti e consiglieri della Partita. ?tutto=1 riaccende tutto
+const PRF=D.profilo||{},PRF_OFF=new URLSearchParams(location.search).has('tutto')?[]:((PRF.moduli||{}).off||[]).map(x=>x.id||x);
 // aree → sezioni. Sezione nuova: una riga in NAVA e una in SEC
-const NAVA=[['sintesi','Sintesi',['home','regia','gruppo']],['concorrenti',W1('Divisioni','Concorrenti'),['confronto','classifica','dossier','storico','gamma','segnali']],['relazioni','Relazioni',['rete','pressione','testa','bolle','visibilita','cronologia']],['mercato','Mercato',['export','stabilimenti','osint']],['marketing','Marketing',['standing','marchio','pack','sito','fdclass','social','engag','tono','pubblicita','seo','seo2','trends','reputazione','geo2','llmm']],['analisi','Analisi esperti',['asales','amkt','apov']],['azienda','Azienda',['organigramma']],['dati','Dati',['fonti']]];
-const SEC={home:['Home',home,W1('Il gruppo in breve: i numeri, le divisioni e un riassunto di ogni sezione. Un clic apre il dettaglio.','In breve: i numeri, le aziende e un riassunto di ogni sezione. Un clic apre il dettaglio.'),'home',1],
-  regia:['Regia',regia,W1('Il gruppo in una schermata: come stanno le tre divisioni e cosa è successo di recente.','Il quadro in una schermata: dove siamo rispetto agli altri e cosa è successo di recente.')],
-  gruppo:['Il gruppo',gruppo,'Come è fatto il Gruppo Galdieri: società, divisioni e marchi, con ricavi, utile e dipendenti dell\'ultimo bilancio. Ogni numero porta alla sua fonte.'],
+const NAVA=[['sintesi','Sintesi',['partita','home','regia','gruppo']],['concorrenti',W1('Divisioni','Concorrenti'),['confronto','classifica','dossier','storico','gamma','segnali']],['relazioni','Relazioni',['rete','pressione','testa','bolle','visibilita','cronologia']],['mercato','Mercato',['export','stabilimenti','osint']],['marketing','Marketing',['standing','marchio','pack','sito','fdclass','social','engag','tono','pubblicita','seo','seo2','trends','reputazione','geo2','llmm']],['analisi','Analisi esperti',['amarca','asales','amkt','apov']],['azienda','Azienda',['organigramma']],['dati','Dati',['fonti']]];
+const SEC={partita:['La partita',partita,'La situazione come in un gioco di strategia: chi è dove, quanto è forte, cosa si muove e la prossima mossa. Tocca un\'azienda, una lente o una domanda.'],
+  home:['Home',home,W1('Il gruppo in breve: i numeri, le divisioni e un riassunto di ogni sezione. Un clic apre il dettaglio.','In breve: i numeri, le aziende e un riassunto di ogni sezione. Un clic apre il dettaglio.'),'home',1],
+  regia:['Regia',regia,W1('Il gruppo in una schermata: come stanno le '+A.length+' divisioni e cosa è successo di recente.','Il quadro in una schermata: dove siamo rispetto agli altri e cosa è successo di recente.')],
+  gruppo:['Il gruppo',gruppo,'Come è fatto '+(MG.nome||'il gruppo')+': società, divisioni e marchi, con ricavi, utile e dipendenti dell\'ultimo bilancio. Ogni numero porta alla sua fonte.'],
   confronto:['Confronto',confronto,W1('Tutte le divisioni','Tutte le aziende')+' e tutti i numeri. Tocca un\'intestazione per ordinare, il simbolo accanto al valore dice da dove viene.'],
   classifica:['Classifica',classifica,'Una metrica alla volta.'],
   storico:['Storico',storico,'Ricavi e dipendenti anno per anno, dai bilanci. Tocca un nome per evidenziarlo.','storico'],
@@ -487,7 +492,7 @@ const SEC={home:['Home',home,W1('Il gruppo in breve: i numeri, le divisioni e un
   trends:['Google Trends',trends,'Come cambia l\'interesse per le ricerche di categoria e per i marchi: 5 anni, mesi di picco, regioni. Valori relativi da 0 a 100.','trends'],
   fonti:['Sui dati',fonti,'Come leggere i numeri e da dove vengono.']};
 // una sezione il cui file dati manca non compare nel menu (4° campo di SEC), salvo che il 5° campo dica che il file è facoltativo
-NAVA.forEach(a=>a[2]=a[2].filter(s=>(!SEC[s][3]||D[SEC[s][3]]||SEC[s][4])&&!(F1&&FASE1_HIDE.includes(s))));NAVA.splice(0,NAVA.length,...NAVA.filter(a=>a[2].length));
+NAVA.forEach(a=>a[2]=a[2].filter(s=>(!SEC[s][3]||D[SEC[s][3]]||SEC[s][4])&&!(F1&&FASE1_HIDE.includes(s))&&!PRF_OFF.includes(s)&&(F1||s!=='gruppo')));NAVA.splice(0,NAVA.length,...NAVA.filter(a=>a[2].length));
 const ORD=NAVA.flatMap(a=>a[2]),ST={sort:MET[0].k,dir:-1,m:MET[0].k,f:'',q:'',L:{sedi:1,export:1,osint:1}};
 // analisi con un punto di vista per divisione: forma nuova {gruppo:{…},per:{<id>:{…}}}; la forma vecchia (un oggetto solo) vale come prima. Adattatore unico per esperto(), pov(), lenti()
 const PDV=k=>{const X=D[k];return X&&(X.per||X.gruppo)?{me:X.per?.[ME]||null,g:X.gruppo||null}:{me:X||null,g:null}};
@@ -496,8 +501,8 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>'&#'+c.charCodeAt(0)+';');
 // nome: azienda; altrimenti sottomarchio "divisione~canale" (campo sub dei social e degli annunci) o marchio di loghi e siti; mai la chiave grezza
 const NMX=Object.fromEntries([...((D.brandx||{}).classifica||[]).map(r=>[r[1],r[2]]),...((D.sito||{}).items||[]).map(x=>[x.id,x.nome])]);
 const nm=id=>{const a=A.find(a=>a.id===id);if(a)return a.nome;const[d,k]=String(id).split('~');if(k){const z=((D.social||{}).az?.[d]||{})[k]||((D.ads||{}).az?.[d]||{})[k]||{};return z.sub||nm(d)}return NMX[id]||id};
-// la chiave «gruppo» delle ricerche (llmm, Trends) è la parola «galdieri» da sola, non il marchio Galdieri Group
-const nmq=id=>id==='gruppo'?'Galdieri (generico)':nm(id);
+// la chiave «gruppo» delle ricerche (llmm, Trends) è il nome del gruppo da solo, non un marchio: etichetta in meta.gruppo.ricerca
+const nmq=id=>id==='gruppo'?(MG.ricerca||nm(id)+' (generico)'):nm(id);
 const fmt=(v,m)=>typeof v==='number'?v.toLocaleString('it-IT',{maximumFractionDigits:m&&m.dec||0})+(m&&m.u?' '+m.u:''):esc(v);
 const sg=x=>`<i class="sg s-${x[1]}" title="${esc(STAT[x[1]][1]+': '+x[2])}">${STAT[x[1]][0]}</i>`;
 const cell=(a,m)=>{const x=a.f&&a.f[m.k];if(!x)return'<span class="na">—</span>';const v=fmt(x[0],m);return(x[3]?`<a href="${esc(x[3])}" target="_blank" rel="noopener">${v}</a>`:v)+sg(x)};
@@ -646,19 +651,20 @@ function home(){
   <div class="card"><h3>Dati deboli da verificare</h3>${wk.length?`<ul class="hmw">${wk.map(w=>`<li><i class="sg s-${esc(w.s)}" title="${esc(STAT[w.s]?.[1]||'')}">${STAT[w.s]?.[0]||''}</i><b>${esc(w.t)}</b>${w.n?` <span>${esc(cut(w.n,150))}</span>`:''} ${w.u?lk(w.u,'fonte'):''}${w.h&&ORD.includes(w.h)?` <a href="#${w.h}">→ ${esc(SEC[w.h][0])}</a>`:''}</li>`).join('')}</ul>`:'<p class="note">Nessun dato segnato come stima o da verificare.</p>'}${weak.length>wk.length?`<p class="note">Altri ${weak.length-wk.length} in <a href="#fonti">Sui dati</a>.</p>`:''}</div></div>
   <div class="hmtk">${ticker()}</div>`;
 }
-// Il gruppo (fase 1, per la direzione): struttura societaria, peso di ogni divisione, rapporti. Le relazioni fra società sono scritte qui con la fonte;
-// nomi, P.IVA e numeri si leggono dai dati (note di aziende.json, osint.json, storico.json), mai a mano
-const GRP_U='https://www.galdierigroup.it/privacy-policy/';
+// Il gruppo (fase 1, per la direzione): struttura societaria, peso di ogni divisione, rapporti. La struttura sta in meta.gruppo
+// ({nome, ricerca, fonte:{u,t,d}, holding:{nome,nota}, societa:[{id,ruolo,nota}], altre:[{nome,ruolo,nota,verifica}], nota});
+// nomi delle società e P.IVA si leggono dalle note dei dati di aziende.json (ricavi o dipendenti), numeri da aziende/osint/storico, mai a mano
 function gruppo(){
   const F=(id,k)=>((A.find(a=>a.id===id)||{}).f||{})[k],V=(id,k)=>(F(id,k)||[])[0],R=A.filter(a=>V(a.id,'rev')!=null);if(R.length<2)return ND;
-  const note=A.map(a=>Object.values(a.f||{}).map(x=>x[2]||'').join(' ')).join(' ');
+  const note=A.map(a=>Object.values(a.f||{}).map(x=>x[2]||'').join(' ')).join(' '),FT=MG.fonte||{},src=t=>FT.u?lk(FT.u,esc(FT.t||t)):esc(FT.t||'');
   const soc=id=>{const s=(F(id,'rev')||F(id,'emp')||[])[2]||'',m=s.match(/([A-Z][^,;()]*?S\.(?:p\.A|r\.l)\.)/),pi=s.match(/P\.IVA (\d{11})/);return{n:m?m[1]:nm(id),pi:pi&&pi[1]}};
-  const hold=(note.match(/direzione e coordinamento di ([^;.,]*?Holding[^;,]*?S\.r\.l\.)/)||[])[1],gr=note.match(/(Ground S\.r\.l\.)\s*\(([^)]*)\)/);
+  const hold=(MG.holding||{}).nome||(note.match(/direzione e coordinamento di ([^;,]*?S\.(?:r\.l|p\.A)\.)/)||[])[1];
   const MT=MET.filter(m=>['rev','ut','emp','pv'].includes(m.k)),na='<span class="na">—</span>';
   const gov=id=>OI.filter(o=>o.id===id&&/S\.r\.l|S\.p\.A|holding|società|bilancio di sostenibilit|CdA/i.test(o.t+' '+(o.n||''))).sort((a,b)=>a.d<b.d?1:-1).slice(0,3);
-  const card=(id,rel,extra='')=>{const a=A.find(x=>x.id===id),s=soc(id);return`<div class="gco"><h4>${sw(id)}${esc(s.n)}</h4><small class="sub">${esc(rel)}${s.pi?' · P.IVA '+s.pi:''}</small>
+  const card=({id,ruolo,nota})=>{const a=A.find(x=>x.id===id);if(!a)return'';const s=soc(id);return`<div class="gco"><h4>${sw(id)}${esc(s.n)}</h4><small class="sub">${esc(ruolo||'Divisione '+sn(id))}${s.pi?' · P.IVA '+s.pi:''}</small>
     <div class="mini">${MT.map(m=>`<div><small>${esc(m.l)}</small><b>${F(id,m.k)?cell(a,m):na}</b></div>`).join('')}</div>
-    <ul><li>Marchi: ${(a.marchi||[[a.nome,a.sito]]).map(x=>lk(x[1],esc(x[0]))).join(', ')}${extra}</li>${gov(id).map(o=>`<li>${dt(o.d)} · ${lk(o.u,esc(o.t))}${so(o)}</li>`).join('')}</ul></div>`};
+    <ul><li>Marchi: ${(a.marchi||[[a.nome,a.sito]]).map(x=>lk(x[1],esc(x[0]))).join(', ')}${nota?' · '+esc(nota):''}</li>${gov(id).map(o=>`<li>${dt(o.d)} · ${lk(o.u,esc(o.t))}${so(o)}</li>`).join('')}</ul></div>`};
+  const SOC=MG.societa||A.map(a=>({id:a.id})),ALT=MG.altre||[];
   // peso di ogni divisione sul totale: una barra al 100% per misura, stessi colori in tutte le righe
   const SM=[...MT.map(m=>[m.l,id=>V(id,m.k),v=>fmt(v,{...m,dec:m.dec&&v<100?m.dec:0})]),['Follower (Instagram, Facebook, LinkedIn)',id=>['ig','fb','li'].reduce((s,k)=>s+(V(id,k)||0),0)||null,v=>fmt(v)],['Visite da Google al mese',id=>num(SE_[id]?.etv),v=>fmt(Math.round(v))]];
   const shr=SM.map(([l,f,fm])=>{const r=A.map(a=>[a.id,f(a.id)]).filter(x=>x[1]!=null&&x[1]>0),tot=r.reduce((s,x)=>s+x[1],0);if(r.length<2)return'';
@@ -668,16 +674,16 @@ function gruppo(){
   const RT=[['Margine netto (utile ÷ ricavi)',id=>V(id,'ut')!=null&&V(id,'rev')?V(id,'ut')/V(id,'rev')*100:null,v=>fmt(v,{dec:1})+'%'],['Ricavi per dipendente',id=>V(id,'emp')&&V(id,'rev')!=null?V(id,'rev')/V(id,'emp')*1000:null,v=>fmt(Math.round(v))+' k€'],
     ...(com.length>1?[[`Crescita dei ricavi ${y0}-${y1}`,id=>rv(id,y0)&&rv(id,y1)!=null?(rv(id,y1)/rv(id,y0)-1)*100:null,v=>(v>0?'+':'')+fmt(Math.round(v))+'%']]:[])];
   const rat=RT.map(([l,f,fm])=>{const r=A.map(a=>[a.id,f(a.id)]).filter(x=>x[1]!=null).sort((a,b)=>b[1]-a[1]);return r.length<2?'':`<div class="card"><h3>${esc(l)}</h3>${bars(r.map(([id,v])=>[id,Math.max(0,v),sn(id),'']),v=>'').replace(/<b><\/b>/g,'')}${r.map(([id,v])=>`<span class="note">${sw(id)}${esc(sn(id))} ${fm(v)}</span>`).join(' · ')}</div>`}).join('');
-  const tot=k=>R.reduce((s,a)=>s+(V(a.id,k)||0),0),pol=A.map(a=>soc(a.id).n);
-  return`<div class="grp"><div class="kpis"><div class="kpi me"><small>Ricavi delle società</small><b>${fmt(tot('rev'),{dec:1})} <small>M€</small></b><span>somma di ${R.length} bilanci, non consolidata</span></div><div class="kpi"><small>Utile netto</small><b>${fmt(tot('ut'),{dec:2})} <small>M€</small></b><span>${fmt(tot('ut')/tot('rev')*100,{dec:1})}% dei ricavi</span></div><div class="kpi"><small>Dipendenti</small><b>${fmt(tot('emp'))}</b><span>ultimo bilancio di ogni società</span></div><div class="kpi"><small>Marchi</small><b>${Object.keys(BXL).length||A.reduce((s,a)=>s+(a.marchi||[1]).length,0)}</b><span>${A.length} divisioni${hold?' e la holding':''}</span></div></div>
+  const tot=k=>R.reduce((s,a)=>s+(V(a.id,k)||0),0),pol=SOC.map(x=>soc(x.id).n);
+  return`<div class="grp"><div class="kpis"><div class="kpi me"><small>Ricavi delle società</small><b>${fmt(tot('rev'),{dec:1})} <small>M€</small></b><span>somma di ${R.length} bilanci, non consolidata</span></div><div class="kpi"><small>Utile netto</small><b>${fmt(tot('ut'),{dec:2})} <small>M€</small></b><span>${tot('rev')?fmt(tot('ut')/tot('rev')*100,{dec:1}):'—'}% dei ricavi</span></div><div class="kpi"><small>Dipendenti</small><b>${fmt(tot('emp'))}</b><span>ultimo bilancio di ogni società</span></div><div class="kpi"><small>Marchi</small><b>${Object.keys(BXL).length||A.reduce((s,a)=>s+(a.marchi||[1]).length,0)}</b><span>${A.length} divisioni${hold?' e la holding':''}</span></div></div>
   <div class="card"><h3>Quanto pesa ogni divisione</h3>${shr}<p class="note">${A.map(a=>`<span style="color:${dc(a.id)}">■</span> ${esc(sn(a.id))}`).join(' · ')}. Ogni barra è il 100% di quella misura; a destra il totale. Passa sopra un tratto per il valore e la quota.</p></div>
   <div class="maprow"><div class="card"><h3>Struttura societaria</h3><div class="gtree">
-    <div class="gco"><h4>${esc(hold||'Holding di gruppo')}</h4><small class="sub">Direzione e coordinamento delle società del gruppo · ${lk(GRP_U,'privacy policy di galdierigroup.it')}</small><p class="note" style="margin:6px 0 0">Bilancio non raccolto in questa fase: non è una divisione.</p></div>
-    <div class="gtk">${card('petroli','Divisione Petroli · capogruppo storica')}${card('auto','Divisione Auto',A.find(a=>a.id==='rent')?` · ${lk(A.find(a=>a.id==='rent').sito,'Galdieri Rent')} (marchio e sito; flotta in ${esc(soc('rent').n)})`:'')}${card('rent','Divisione Rent · flotta e contratti di noleggio')}
-    ${gr?`<div class="gco vf"><h4>${esc(gr[1])} <span class="tkk" style="background:#f5a524">da verificare</span></h4><small class="sub">Società del gruppo secondo la ${lk(GRP_U,'privacy policy')}; ruolo non chiaro, fuori dai numeri della divisione Rent</small><p class="note" style="margin:6px 0 0">${esc(gr[2])} (dalla nota sui ricavi di Rent).</p></div>`:''}</div></div>
-    <p class="note">Relazioni lette nella ${lk(GRP_U,'privacy policy di galdierigroup.it')} (28/11/2026), che elenca ${esc(pol.join(', '))}${gr?' e '+esc(gr[1]):''} fra le società sotto direzione e coordinamento della holding. Numeri e P.IVA dalle note di ogni dato: passa sopra al simbolo accanto al valore.</p></div>
+    <div class="gco"><h4>${esc(hold||'Holding di gruppo')}</h4><small class="sub">Direzione e coordinamento delle società del gruppo${FT.t||FT.u?' · '+src('fonte'):''}</small><p class="note" style="margin:6px 0 0">${esc((MG.holding||{}).nota||'Bilancio non raccolto in questa fase: non è una divisione.')}</p></div>
+    <div class="gtk">${SOC.map(card).join('')}
+    ${ALT.map(x=>`<div class="gco${x.verifica?' vf':''}"><h4>${esc(x.nome)}${x.verifica?' <span class="tkk" style="background:#f5a524">da verificare</span>':''}</h4><small class="sub">${esc(x.ruolo||'Società del gruppo')}</small>${x.nota?`<p class="note" style="margin:6px 0 0">${esc(x.nota)}</p>`:''}</div>`).join('')}</div></div>
+    <p class="note">${FT.t||FT.u?`Relazioni lette in ${src('fonte')}${FT.d?' ('+dt(FT.d)+')':''}, che elenca ${esc([...pol,...ALT.map(x=>x.nome)].join(', '))} fra le società del gruppo. `:''}Numeri e P.IVA dalle note di ogni dato: passa sopra al simbolo accanto al valore.</p></div>
   <div><div class="card"><h3>Come rendono</h3><p class="note" style="margin-top:0">Rapporti calcolati sui bilanci qui accanto.</p></div>${rat}</div></div>
-  <p class="note">La somma dei ricavi non è un consolidato: le auto che Galdieri Auto vende alla flotta di Sistem Rental compaiono in due bilanci, quindi il totale del gruppo è più basso di questa somma. ${M.nota?esc(M.nota):''}</p></div>`;
+  <p class="note">La somma dei ricavi non è un consolidato: le vendite fra società del gruppo compaiono in più bilanci, quindi il totale reale è più basso di questa somma. ${MG.nota?esc(MG.nota)+' ':''}${M.nota?esc(M.nota):''}</p></div>`;
 }
 function confronto(){
   const r=list().sort((a,b)=>{const x=(a.f[ST.sort]||[])[0],y=(b.f[ST.sort]||[])[0];return x==null?1:y==null?-1:ST.dir*(x>y?1:x<y?-1:0)});
@@ -719,7 +725,7 @@ const lk=(u,t)=>u?`<a href="${esc(u)}" target="_blank" rel="noopener">${t}</a>`:
 const n0=v=>v==null?'<span class="na">—</span>':fmt(v);
 const dt=d=>d?new Date(d).toLocaleDateString('it-IT',{day:'2-digit',month:'short',year:'2-digit'}):'<span class="na">—</span>';
 // avviso sulle valutazioni di esperti: in testa alle sezioni di giudizio
-const DSC_S=['standing','marchio','pack','sito','fdclass','tono','amarca','asales','amkt','apov'],DSC='<p class="disc">○ Le valutazioni di questa pagina (voti a loghi, siti, marchio e strategie) sono generate in automatico seguendo i criteri dei maggiori esperti '+LX.dsc+' e dei report di settore. Sono indicative e non rispecchiano per forza il giudizio dell\'autore della dashboard.</p>';
+const DSC_S=['standing','marchio','pack','sito','fdclass','tono','amarca','asales','amkt','apov'],DSC='<p class="disc">○ Le valutazioni di questa pagina (voti a loghi, siti, confezioni, marchio e strategie) sono generate in automatico seguendo i criteri dei maggiori esperti '+LX.dsc+' e dei report di settore. Sono indicative e non rispecchiano per forza il giudizio dell\'autore della dashboard.</p>';
 const VAL='<p class="note">○ Valutazione calcolata in automatico: solo indicativa, non è il parere dell\'azienda.</p>';
 const hlSeg=ids=>`<div class="chips">${ids.map(id=>`<button data-hl="${id}" aria-pressed="${ST.hl===id}" class="${id===ME?'me':''}">${esc(nm(id))}</button>`).join('')}</div>`;
 // grafico a linee: S=[{id,nm,pts:[[x,y]]}]; la nostra azienda e quella scelta (ST.hl) in evidenza
@@ -847,11 +853,13 @@ const VX=[...MET.map(m=>[m.k,m.l,id=>num((((A.find(a=>a.id===id)||{}).f||{})[m.k
   ['news','Notizie in 90 giorni',id=>cnt(N,id,90)],['osint','Segnali OSINT in 12 mesi',id=>O?cnt(OI,id,365):null],
   ['logo','Voto al logo',id=>{const _bx=((D.brandx||{}).logos||{})[id]?.c;if(_bx){const v=Object.values(_bx);return v.reduce((a,x)=>a+x,0)/v.length};const g=((D.brand||{}).az||{})[id]?.giudizio;return g?(g.legg+g.dist+g.coer+g.dis)/4:null}],['rd','Domini che linkano al sito',id=>num(((D.seo2||{}).dom||{})[id]?.bl?.rd)],
   ['ai4','Citazioni AI (più modelli)',id=>D.geo2?D.geo2.r.filter(r=>(r.cit||[]).includes(id)).length:null],
+  ...((D.profilo||{}).misure||[]).map(m=>[m.k,m.l,id=>{let o=D;for(const p of m.da.replace('{id}',id).split('.')){o=o==null?o:o[p]}return num(Array.isArray(o)?o[0]:o&&typeof o==='object'?o.v:o)}]),
   ['gam','Prodotti in gamma',id=>num(GA_[id]?.n?.[0])],['sedi','Sedi e stabilimenti',id=>D.sedi?SD_.filter(s=>s.id===id).length:null]
 ].reduce((L,x)=>{const p=L.find(y=>y[0]===x[0]);if(p){const f=p[2];p[2]=id=>f(id)??x[2](id)}else L.push(x);return L},[]).filter(x=>IDS.filter(id=>x[2](id)!=null).length>=3); // stessa chiave in due fonti: vale la prima, la seconda riempie i vuoti
 const vx=k=>VX.find(x=>x[0]===k);
-const pc=(k,id)=>{const f=vx(k)[2],v=f(id),r=IDS.map(f).filter(x=>x!=null);return v==null?null:r.length<2?1:r.filter(x=>x<v).length/(r.length-1)}; // 1 = la più alta
-const rp_=(k,id)=>{const f=vx(k)[2],v=f(id),r=IDS.map(f).filter(x=>x!=null);return v==null?null:[1+r.filter(x=>x>v).length,r.length]};
+const INV=new Set([...((D.profilo||{}).inv||[]),...MET.filter(m=>m.inv).map(m=>m.k)]),better=(k,a,b)=>INV.has(k)?a<b:a>b;
+const pc=(k,id)=>{const f=vx(k)[2],v=f(id),r=IDS.map(f).filter(x=>x!=null);return v==null?null:r.length<2?1:r.filter(x=>better(k,v,x)).length/(r.length-1)}; // 1 = la migliore
+const rp_=(k,id)=>{const f=vx(k)[2],v=f(id),r=IDS.map(f).filter(x=>x!=null);return v==null?null:[1+r.filter(x=>better(k,x,v)).length,r.length]};
 const hq=id=>SD_.find(s=>s.id===id&&s.tipo==='sede'&&s.lat!=null)||SD_.find(s=>s.id===id&&s.lat!=null);
 const km=(a,b)=>{const R=Math.PI/180;return 6371*Math.hypot((b.lon-a.lon)*R*Math.cos((a.lat+b.lat)/2*R),(b.lat-a.lat)*R)};
 const has=(id,k)=>((GA_[id]||{})[k]||[])[0]===1;
@@ -864,13 +872,14 @@ const pj=(lon,lat)=>{const l=lon*Math.PI/180,p=lat*Math.PI/180,p2=p*p,p4=p2*p2;r
 const evs=id=>[...N.filter(n=>!id||n.id===id),...OI.filter(o=>!id||o.id===id).map(o=>({...o,s:OC[o.c]||o.c}))].sort((a,b)=>new Date(b.d)-new Date(a.d));
 const zseg=(k,d='area')=>`<div class="seg" role="group">${[['area','Area'],['europa','Europa'],['mondo','Mondo']].map(([z,l])=>`<button data-st="${k}:${z}" aria-pressed="${(ST[k]||d)===z}">${l}</button>`).join('')}</div>`;
 // mappa del mondo a strati: L = {sedi, export, osint}; z = area | europa | mondo
+let WMVB=null;
 function wmap(L,z,oi=OI){
   const W=D.world;if(!W)return'';const E=D.export,C=Object.fromEntries(W.c.map(c=>[c.a,c])),rp=(E&&E.rp)||'IT',h=hq(ME),H0=h?pj(h.lon,h.lat):C[rp]?[C[rp].x,C[rp].y]:null;
   const pts=[...(L.sedi?SD_:[]),...(L.osint?oi:[])].filter(p=>p.lat!=null).map(p=>pj(p.lon,p.lat));
   let vb=[0,0,W.W,W.H];
   if(z!=='mondo'){const b=z==='europa'||!pts.length?[...pj(-12,62),...pj(38,34)]:[Math.min(...pts.map(p=>p[0])),Math.min(...pts.map(p=>p[1])),Math.max(...pts.map(p=>p[0])),Math.max(...pts.map(p=>p[1]))];
     let w=Math.max(b[2]-b[0],20)*1.3,hh=Math.max(b[3]-b[1],10)*1.3;if(w/hh>W.W/W.H)hh=w*W.H/W.W;else w=hh*W.W/W.H;vb=[(b[0]+b[2]-w)/2,(b[1]+b[3]-hh)/2,w,hh]}
-  const k=vb[2]/W.W,f1=n=>n.toFixed(1);let fill={},arcs='';
+  WMVB=vb;const k=vb[2]/W.W,f1=n=>n.toFixed(1);let fill={},arcs='';
   if(L.export&&E&&H0){const y1=String(E.anni.at(-1)),y0=String(E.anni.at(-2)),d=E.dest.filter(x=>C[x.p]&&x.v[y1]),mx=Math.max(...d.map(x=>x.v[y1]),1);
     d.forEach(x=>fill[x.p]=x.v[y1]/mx);
     arcs=d.map(x=>{const c=C[x.p],g=qP(x.v[y0],x.v[y1]),cy=(H0[1]+c.y)/2-Math.hypot(c.x-H0[0],c.y-H0[1])*.25;
@@ -886,8 +895,9 @@ function wmap(L,z,oi=OI){
 function focus(id){
   const a=A.find(x=>x.id===id);if(!a)return'';const h=hq(id);
   return`<h3>${esc(a.nome)}${h&&h.citta?' · '+esc(h.citta):''}</h3><div class="mini">${VX.map(x=>{const v=x[2](id),q=rp_(x[0],id);return v==null?'':`<div><small title="${esc(x[1])}">${esc(x[1])}</small><b>${fv(v)}</b><span>${q[0]}°/${q[1]}</span></div>`}).filter(Boolean).slice(0,8).join('')}</div>
-  ${feed(evs(id).slice(0,5))}<p class="note"><a href="#dossier" data-st="dz:${id}">Dossier →</a> · ${ORD.includes('testa')?`<a href="#testa" data-st="vs:${id}">Testa a testa →</a> · `:''}<a href="#regia" data-st="foc:">chiudi</a></p>`;
+  ${feed(evs(id).slice(0,5))}<p class="note"><a href="#dossier" data-st="dz:${id}">Dossier →</a> · ${ORD.includes('testa')?`<a href="#testa" data-st="vs:${id}">Testa a testa →</a> · `:''}<a href="#${location.hash.slice(1)||ORD[0]}" data-st="foc:">chiudi</a></p>`;
 }
+/*__SEZIONI_JS__*/
 function sala(){
   if(!D.world)return'';const L=ST.L;
   return`<div class="rgx"><div class="card"><h3>Sala operativa</h3><div class="ctl"><div class="chips">${[['sedi','Sedi',D.sedi],['export','Export',D.export],['osint','OSINT',O]].filter(x=>x[2]).map(([k,l])=>`<button data-ly="${k}" aria-pressed="${!!L[k]}">${l}</button>`).join('')}</div>${zseg('z','europa')}</div>${wmap(L,ST.z||'europa')}</div>
@@ -1002,7 +1012,7 @@ const hc=(p,c='var(--ac)')=>`color-mix(in srgb,${c} ${Math.round(8+72*Math.max(0
 const sn=id=>nm(id).split(' (')[0];
 function ticker(){const it=evs().slice(0,16);if(it.length<4)return'';const h=it.map(n=>`<a href="${esc(n.u)}" target="_blank" rel="noopener"><b>${esc(nm(n.id))}</b> ${esc(n.t)} <em>· ${esc(n.s)}</em></a>`).join('');return`<div class="tick"><span class="live">ULTIME</span><div class="tk"><div class="tkm">${h}<span class="tkd" aria-hidden="true" inert>${h}</span></div></div></div>${ptick()}`}
 // nastro SOCIAL: ultimi post di tutti i marchi, dai dati di posts.json
-function ptick(){const P=D.posts?.az;if(!P)return'';const PL={ig:'Instagram',tt:'TikTok',fb:'Facebook'},it=Object.entries(P).flatMap(([id,o])=>Object.entries(o).flatMap(([k,v])=>(v?.p||[]).map(x=>({...x,id:/\d$/.test(k)?id+'~'+k:id,k:k.replace(/\d$/,''),sm:/\d$/.test(k)?nm(id+'~'+k).replace(/^Galdieri /,''):''})))).filter(x=>x.d&&x.u).sort((a,b)=>b.d.localeCompare(a.d)).slice(0,30);if(it.length<4)return'';const h=it.map(x=>`<a href="${esc(x.u)}" target="_blank" rel="noopener"><i>${x.d.slice(5).split('-').reverse().join('/')}</i><b>${esc(nm(x.id))}</b><em class="pty">${PL[x.k]||x.k}${x.sm?' · '+esc(x.sm):''}</em>${esc((x.t||'').slice(0,110))}${x.l!=null?` <i>♥ ${fmt(x.l)}${x.c!=null?' · 💬 '+fmt(x.c):''}</i>`:''}</a>`).join('');return`<div class="tick pt"><span class="live">SOCIAL</span><div class="tk"><div class="tkm">${h}<span class="tkd" aria-hidden="true" inert>${h}</span></div></div></div>`}
+function ptick(){const P=D.posts?.az;if(!P)return'';const PL={ig:'Instagram',tt:'TikTok',fb:'Facebook'},it=Object.entries(P).flatMap(([id,o])=>Object.entries(o).flatMap(([k,v])=>(v?.p||[]).map(x=>({...x,id:/\d$/.test(k)?id+'~'+k:id,k:k.replace(/\d$/,''),sm:/\d$/.test(k)?nm(id+'~'+k).replace(nm(id).split(' ')[0]+' ',''):''})))).filter(x=>x.d&&x.u).sort((a,b)=>b.d.localeCompare(a.d)).slice(0,30);if(it.length<4)return'';const h=it.map(x=>`<a href="${esc(x.u)}" target="_blank" rel="noopener"><i>${x.d.slice(5).split('-').reverse().join('/')}</i><b>${esc(nm(x.id))}</b><em class="pty">${PL[x.k]||x.k}${x.sm?' · '+esc(x.sm):''}</em>${esc((x.t||'').slice(0,110))}${x.l!=null?` <i>♥ ${fmt(x.l)}${x.c!=null?' · 💬 '+fmt(x.c):''}</i>`:''}</a>`).join('');return`<div class="tick pt"><span class="live">SOCIAL</span><div class="tk"><div class="tkm">${h}<span class="tkd" aria-hidden="true" inert>${h}</span></div></div></div>`}
 // ogni riga una misura, ogni punto un'azienda (percentile): la nostra posizione su tutto in un colpo d'occhio
 function posiz(id=ME){
   const R=VX.filter(x=>x[2](id)!=null);if(R.length<3)return'';const W=760,l=210,r=74,rh=22,H=R.length*rh+26,X=p=>l+p*(W-l-r),o=id!==ME,cl=o?'var(--ac)':'var(--me)';

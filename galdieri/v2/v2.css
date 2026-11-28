@@ -198,3 +198,7 @@ main select,main input[type=search],main input[type=text]{background:rgba(255,25
 #v2dd a:hover,#v2dd a:focus{background:rgba(255,255,255,.06);color:#fff!important}
 #v2dd a.on{color:#fff!important;background:rgba(255,255,255,.08);box-shadow:inset 2px 0 0 var(--acc,var(--me))}
 @media(max-width:700px){#v2crumb>b{max-width:52vw}}
+
+/* ritocco «sala comandi» per tutte le pagine: angoli da mirino sulle card, numeri allineati */
+main .card{position:relative}main .card::before{content:'';position:absolute;left:-1px;top:-1px;width:12px;height:12px;border-left:2px solid var(--me);border-top:2px solid var(--me);opacity:.6;pointer-events:none}
+main table{font-variant-numeric:tabular-nums}main .kpi b,main .mini b{font-family:var(--mono)}

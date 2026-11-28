@@ -17,4 +17,18 @@ mod.storico.a.rev.push([2025, 10, 'ver', 'senza link']);
 mod.seo = { dom: { a: { s: 'xx' } } };
 const m = validate(mod).join('\n');
 for (const s of ['ads.az.a.meta: stato dic senza url', 'storico.a.rev[1]: stato ver senza url', 'seo.dom.a: stato "xx"']) assert(m.includes(s), 'manca errore: ' + s);
+// fase gruppo: campi nuovi controllati
+const g = JSON.parse(JSON.stringify(ok));
+g.meta.fase = 'gruppo'; g.meta.gruppo = { societa: [{ id: 'a' }] }; g.aziende[0].colore = '#E63383';
+assert.deepStrictEqual(validate(g), []);
+g.meta.fase = 'x'; g.meta.gruppo.societa.push({ id: 'zz' }); g.aziende[0].colore = 'rosso';
+const ge = validate(g).join('\n');
+for (const s of ['meta.fase "x"', 'a.colore "rosso"', 'societa: "zz"']) assert(ge.includes(s), 'manca errore: ' + s);
+// profilo: forma dei campi e parole vietate
+const pr = JSON.parse(JSON.stringify(ok));
+pr.profilo = { risorse: ['rev'], pesi: { rev: 2 }, vietate: ['scaffale'], moduli: { off: [{ id: 'pack', perche: 'b2b' }] } };
+assert.deepStrictEqual(validate(pr), []);
+pr.social = { testo: 'si vede a scaffale', s: 'val' }; pr.profilo.pesi.rev = 'tanto';
+const pe = validate(pr).join('\n');
+for (const s of ['«scaffale»', 'profilo.pesi']) assert(pe.includes(s), 'manca errore: ' + s);
 console.log('ok');

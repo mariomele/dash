@@ -1,0 +1,35 @@
+/* ══ tema chiaro in stile airsup (carta calda, vetro chiaro, inchiostro). Si attiva con html[data-tema=chiaro], il pulsante ☀/☾ alterna ══ */
+html[data-tema=chiaro]{--bg:#ece6da;--p:rgba(250,247,240,.86);--p2:#f3eee4;--ln:rgba(36,38,42,.13);--tx:#24262a;--ink2:#4a4c52;--mut:#77736a;
+ --srf:#f6f2ea;--srf2:#efe9de;--line:rgba(36,38,42,.10);--line2:rgba(36,38,42,.18);--ac:#3d7bd9;--red:#d2493a;--grn:#3f9a6a;color-scheme:light;
+ background:radial-gradient(1100px 560px at 80% -10%,rgba(201,106,58,.10),transparent 62%),#ece6da fixed}
+html[data-tema=chiaro] body{color:var(--tx)}
+html[data-tema=chiaro] #v2amb::after{background-image:linear-gradient(rgba(36,38,42,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(36,38,42,.045) 1px,transparent 1px)}
+html[data-tema=chiaro] #v2side{background:rgba(246,242,234,.94)}
+html[data-tema=chiaro] .bar{background:rgba(246,242,234,.86)!important}
+html[data-tema=chiaro] .card{background:rgba(250,247,240,.84);border-color:rgba(36,38,42,.10)!important;box-shadow:0 1px 0 rgba(255,255,255,.7) inset,0 12px 34px rgba(60,45,20,.10);backdrop-filter:blur(14px)}
+html[data-tema=chiaro] .card>h3:first-child,html[data-tema=chiaro] th{background:rgba(36,38,42,.025)}
+html[data-tema=chiaro] tbody tr:hover>td{background-color:rgba(36,38,42,.04)}
+html[data-tema=chiaro] :is(.sd-h,.sd-g>button em,.sd-ic,.sd-f,.pl-k,#v2dd a em){color:#8b867b}
+html[data-tema=chiaro] .sd-g>button::after{border-color:#8b867b}
+html[data-tema=chiaro] :is(.sd-g>button:hover,.sd-1:hover,.sd-g>div a:hover,.sd-g>div a.on,.sd-1.on,.sd-tg:hover,.c-pn a:hover,.v2menu:hover,#v2crumb>b:hover,#v2dd a:hover,#v2dd a.on){color:#111!important;background:rgba(36,38,42,.06)}
+html[data-tema=chiaro] :is(.sd-k,.c-k,kbd,.seg,main select,main input,.v2more,.lts span){background:rgba(36,38,42,.04)}
+html[data-tema=chiaro] :is(.pl-box,#v2dd){background:#f8f5ef;box-shadow:0 30px 90px rgba(60,45,20,.25)}
+html[data-tema=chiaro] #v2pal{background:rgba(236,230,218,.6)}
+html[data-tema=chiaro] .seg button[aria-pressed=true],html[data-tema=chiaro] .chips button[aria-pressed=true]{background:#24262a;color:#fff}
+html[data-tema=chiaro] :is(.qg a:hover,.lzt tbody tr:hover td){background:rgba(36,38,42,.05)}
+html[data-tema=chiaro] :is(.kb i,.opl,.btn,.lcr2,.lzv,.dpc div){background:#f3eee4;color:var(--tx)}
+html[data-tema=chiaro] .lv3 u{background:rgba(36,38,42,.15)}
+html[data-tema=chiaro] .wm{background:#d3dcde}
+html[data-tema=chiaro] .wm .land path{fill:#efe9dd;stroke:#cfc6b4}
+html[data-tema=chiaro] .wm .land path.home{fill:color-mix(in srgb,var(--me) 30%,#efe9dd)}
+html[data-tema=chiaro] .wm circle,html[data-tema=chiaro] .wm rect{stroke:#fff}
+html[data-tema=chiaro] .pks{background:linear-gradient(#e8e2d6,#f1ece2)}
+html[data-tema=chiaro] #tip{background:#24262a;color:#fff}
+html[data-tema=chiaro] .pbd{background:#d3dcde}
+html[data-tema=chiaro] .pbd.campo,html[data-tema=chiaro] .pbd.campo::before{background-color:#f3eee4}
+html[data-tema=chiaro] .pb{background:rgba(250,247,240,.94);color:#24262a}
+html[data-tema=chiaro] .pb i{color:#fff}
+.ptema{font:500 13px/1 ui-monospace,Menlo,monospace;width:32px;height:32px;border-radius:9px;border:1px solid var(--line2,rgba(127,127,127,.3));background:transparent;color:inherit;cursor:pointer;flex:none}
+/* testi che la v2 scrive bianchi fissi */
+html[data-tema=chiaro] :is(.sd-logo,.sd-tg:hover,.sd-k:hover,.c-k:hover,.sd-g.cur>button,#v2crumb>b,.sh h2,.kpi b,.pl-in input,.v2more:hover,#v2crumb>em:hover,#v2crumb>em[aria-expanded=true],#v2crumb>[aria-expanded=true],h1,h2,h3,.card>h3,#lg1,#lg2){color:var(--tx)!important}
+html[data-tema=chiaro] :is(select,.bar select){background:#fff!important;color:var(--tx)!important;border:1px solid var(--line2)!important}
